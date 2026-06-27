@@ -1,33 +1,62 @@
 [
   {
-    "id": "auburndale-restaurant-site",
-    "title": "New Restaurant Site Planned Near Auburndale",
-    "city": "Auburndale",
-    "category": "Restaurant",
-    "status": "Planned",
-    "phase": "Coming Soon",
-    "summary": "A restaurant project is being tracked near the Auburndale growth corridor.",
-    "details": "This record is structured for future real-world project tracking, including source links, timeline updates, city filters, and map placement.",
-    "lat": 28.0653,
-    "lng": -81.7887,
-    "sourceName": "Add source",
-    "sourceUrl": "#",
+    "id": "davenport-7-eleven-us-17-92",
+    "title": "7-Eleven Under Construction at US 17-92 and Bargain Barn Road",
+    "city": "Davenport",
+    "category": "Retail",
+    "status": "Under Construction",
+    "phase": "Active",
+    "summary": "A new 7-Eleven is reported under construction at US 17-92 and Bargain Barn Road in Davenport.",
+    "details": "This project was added from a public City of Davenport Facebook listing surfaced in search results. It should be manually verified before being treated as fully confirmed.",
+    "lat": 28.158,
+    "lng": -81.606,
+    "sourceName": "City of Davenport Facebook",
+    "sourceUrl": "https://www.facebook.com/mydavenportfl/",
     "updated": "2026-06-27",
+    "verification": "Needs manual review",
     "timeline": [
       {
-        "label": "Added to tracker",
+        "label": "Lead added from source",
         "date": "2026-06-27",
         "complete": true
       },
       {
-        "label": "Source verified",
+        "label": "Manual source verification",
         "date": "Pending",
         "complete": false
       },
       {
-        "label": "Construction update",
+        "label": "Construction photos/source update",
         "date": "Pending",
         "complete": false
+      }
+    ]
+  },
+  {
+    "id": "publix-minute-maid-ramp-road-2",
+    "title": "Publix Planned Near US 27 and Minute Maid Ramp Road 2",
+    "city": "Davenport",
+    "category": "Retail",
+    "status": "Planned",
+    "phase": "Coming Soon",
+    "summary": "A Publix grocery store and adjoining retail are planned near US 27 and Minute Maid Ramp Road 2 in Davenport.",
+    "details": "Development news from Elevation Development says Publix plans a new grocery store with adjoining retail off US 27 and Minute Maid Ramp Road 2.",
+    "lat": 28.2205,
+    "lng": -81.645,
+    "sourceName": "Elevation Development",
+    "sourceUrl": "https://elevationdev.com/news/",
+    "updated": "2026-06-27",
+    "verification": "Source linked",
+    "timeline": [
+      {
+        "label": "Project identified",
+        "date": "2026-06-27",
+        "complete": true
+      },
+      {
+        "label": "Developer source linked",
+        "date": "2026-06-27",
+        "complete": true
       },
       {
         "label": "Opening date",
@@ -37,93 +66,20 @@
     ]
   },
   {
-    "id": "lakeland-retail-center",
-    "title": "Retail Center Proposed in Lakeland",
-    "city": "Lakeland",
-    "category": "Retail",
-    "status": "Proposed",
-    "phase": "Coming Soon",
-    "summary": "A retail center project is being tracked in Lakeland.",
-    "details": "Retail records can include shopping centers, grocery stores, restaurants, service businesses, and mixed-use retail sites.",
-    "lat": 28.0395,
-    "lng": -81.9498,
-    "sourceName": "Add source",
-    "sourceUrl": "#",
-    "updated": "2026-06-27",
-    "timeline": [
-      {
-        "label": "Project identified",
-        "date": "2026-06-27",
-        "complete": true
-      },
-      {
-        "label": "Planning review",
-        "date": "Pending",
-        "complete": false
-      },
-      {
-        "label": "Tenant list",
-        "date": "Pending",
-        "complete": false
-      },
-      {
-        "label": "Opening",
-        "date": "Pending",
-        "complete": false
-      }
-    ]
-  },
-  {
-    "id": "winter-haven-housing",
-    "title": "Housing Development Approved in Winter Haven",
-    "city": "Winter Haven",
-    "category": "Housing",
-    "status": "Approved",
-    "phase": "Active",
-    "summary": "A housing development has been added to the Polk development pipeline.",
-    "details": "Housing project pages can track approvals, builder announcements, model homes, sales openings, and infrastructure progress.",
-    "lat": 28.0222,
-    "lng": -81.7329,
-    "sourceName": "Add source",
-    "sourceUrl": "#",
-    "updated": "2026-06-27",
-    "timeline": [
-      {
-        "label": "Added to tracker",
-        "date": "2026-06-27",
-        "complete": true
-      },
-      {
-        "label": "Approved",
-        "date": "2026-06-27",
-        "complete": true
-      },
-      {
-        "label": "Site work",
-        "date": "Pending",
-        "complete": false
-      },
-      {
-        "label": "Homes selling",
-        "date": "Pending",
-        "complete": false
-      }
-    ]
-  },
-  {
-    "id": "haines-city-road-project",
-    "title": "Road Improvement Project Added",
-    "city": "Haines City",
+    "id": "central-polk-parkway-east",
+    "title": "Central Polk Parkway East Planning Activity",
+    "city": "Davenport",
     "category": "Roads",
-    "status": "Under Construction",
+    "status": "Planning",
     "phase": "Active",
-    "summary": "A road improvement project is being tracked in Haines City.",
-    "details": "Road records can include construction timelines, lane closures, public works updates, and completion notices.",
-    "lat": 28.1142,
-    "lng": -81.6179,
-    "sourceName": "Add source",
-    "sourceUrl": "#",
+    "summary": "Central Polk Parkway East is being tracked as a major transportation project affecting the Davenport/Polk County growth corridor.",
+    "details": "Florida's Turnpike project page lists public meeting activity for Central Polk Parkway East, including virtual and in-person meetings in April 2025.",
+    "lat": 28.144,
+    "lng": -81.65,
+    "sourceName": "Florida's Turnpike",
+    "sourceUrl": "https://floridasturnpike.com/central-polk-parkway-east-exhibit-room-2/",
     "updated": "2026-06-27",
+    "verification": "Source linked",
     "timeline": [
       {
         "label": "Project added",
@@ -131,110 +87,70 @@
         "complete": true
       },
       {
-        "label": "Construction started",
-        "date": "2026-06-27",
+        "label": "Public meeting activity noted",
+        "date": "April 2025",
         "complete": true
       },
       {
-        "label": "Traffic update",
-        "date": "Pending",
-        "complete": false
-      },
-      {
-        "label": "Completed",
+        "label": "Next official update",
         "date": "Pending",
         "complete": false
       }
     ]
   },
   {
-    "id": "bartow-business-expansion",
-    "title": "Business Expansion Listed in Bartow",
-    "city": "Bartow",
+    "id": "auburndale-city-news-source",
+    "title": "Auburndale City News Added as Official Source",
+    "city": "Auburndale",
     "category": "Business",
-    "status": "Coming Soon",
-    "phase": "Coming Soon",
-    "summary": "A business expansion has been added to the sample tracker feed.",
-    "details": "Business records can track relocations, new jobs, industrial sites, warehouses, offices, and local expansions.",
-    "lat": 27.8964,
-    "lng": -81.8431,
-    "sourceName": "Add source",
-    "sourceUrl": "#",
+    "status": "Source Monitoring",
+    "phase": "Researching",
+    "summary": "The City of Auburndale news page has been added as an official source for local announcements and future development leads.",
+    "details": "The Auburndale news page includes city news, newsletters, upcoming events, and links to planning/public notice areas that can become useful development leads.",
+    "lat": 28.0653,
+    "lng": -81.7887,
+    "sourceName": "City of Auburndale News",
+    "sourceUrl": "https://auburndalefl.com/news/",
     "updated": "2026-06-27",
+    "verification": "Source linked",
     "timeline": [
       {
-        "label": "Expansion listed",
+        "label": "Official source added",
         "date": "2026-06-27",
         "complete": true
       },
       {
-        "label": "Hiring details",
-        "date": "Pending",
-        "complete": false
-      },
-      {
-        "label": "Opening update",
+        "label": "Development-specific items to be reviewed",
         "date": "Pending",
         "complete": false
       }
     ]
   },
   {
-    "id": "davenport-entertainment-concept",
-    "title": "Entertainment Concept Tracked Near Davenport",
+    "id": "davenport-official-notices-source",
+    "title": "Davenport Official Notices Added as Source",
     "city": "Davenport",
-    "category": "Entertainment",
-    "status": "Researching",
+    "category": "Business",
+    "status": "Source Monitoring",
     "phase": "Researching",
-    "summary": "A possible entertainment-related development has been added for future tracking.",
-    "details": "This category can include attractions, family entertainment, event venues, recreation centers, and tourism-focused developments.",
+    "summary": "The City of Davenport official website has been added as a source for notices, events, and government updates.",
+    "details": "The Davenport official website includes latest notices, events, city information, and public updates useful for tracking municipal growth.",
     "lat": 28.1614,
     "lng": -81.6017,
-    "sourceName": "Add source",
-    "sourceUrl": "#",
+    "sourceName": "City of Davenport",
+    "sourceUrl": "https://www.mydavenport.org/",
     "updated": "2026-06-27",
+    "verification": "Source linked",
     "timeline": [
       {
-        "label": "Lead added",
+        "label": "Official source added",
         "date": "2026-06-27",
         "complete": true
       },
       {
-        "label": "Source verification",
+        "label": "Project-specific notices to be reviewed",
         "date": "Pending",
         "complete": false
-      }
-    ]
-  },
-  {
-    "id": "auburndale-opened-cafe",
-    "title": "Recently Opened Cafe Example",
-    "city": "Auburndale",
-    "category": "Restaurant",
-    "status": "Open",
-    "phase": "Recently Opened",
-    "summary": "Example record for a recently opened restaurant or cafe.",
-    "details": "Recently opened records help visitors discover new places after construction is complete.",
-    "lat": 28.0734,
-    "lng": -81.8,
-    "sourceName": "Add source",
-    "sourceUrl": "#",
-    "updated": "2026-06-27",
-    "timeline": [
-      {
-        "label": "Announced",
-        "date": "Complete",
-        "complete": true
-      },
-      {
-        "label": "Construction",
-        "date": "Complete",
-        "complete": true
-      },
-      {
-        "label": "Opened",
-        "date": "2026-06-27",
-        "complete": true
       }
     ]
   }

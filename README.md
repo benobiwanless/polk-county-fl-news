@@ -2,20 +2,23 @@
 
 GitHub Pages static site.
 
-## Version 4
+## Version 5
 
-- Stronger project database
-- Coming Soon section
-- Recently Opened section
-- City pages
-- Project timelines
-- Mobile menu
-- Interactive map
-- Search, category filter, and city filter
+- First live-source structure
+- Real source list in `data/sources.json`
+- Real project/lead records in `data/projects.json`
+- Sources page
+- Verification labels
+- Facebook sources marked for manual review
+- Official/developer/transportation sources linked directly
 
-## How to add projects
+## How to add a project
 
 Edit `data/projects.json`.
+
+## How to add a source
+
+Edit `data/sources.json`.
 
 ## Publish
 
