@@ -1,36 +1,14 @@
-# Polk Positive Growth News
+# Polk Development Tracker
 
-A simple GitHub Pages site for positive Polk County, Florida growth news.
+Rethemed simple story-card site matching the selected mockup.
 
-## What it tracks
+## Upload
 
-- New restaurants
-- Housing developments
-- Highways and roads
-- Hotels
-- Retail
-- Business and development news
+Upload every file/folder in this ZIP to the root of your GitHub Pages repo.
 
-## What it excludes
+## Auto update
 
-- Crime
-- Arrests
-- Fatal crashes
-- Politics
-- Scandals
-- Negative breaking news
+GitHub Action:
+`.github/workflows/update-growth-news.yml`
 
-## How it updates
-
-The GitHub Action `.github/workflows/update-growth-news.yml` runs every 8 hours and updates `data/stories.json`.
-
-To run manually:
-
-1. Go to your GitHub repository.
-2. Click **Actions**.
-3. Select **Update Positive Growth News**.
-4. Click **Run workflow**.
-
-## Publish
-
-Upload all files to the root of your GitHub Pages repository.
+Run it manually from GitHub Actions or let it run every 8 hours.

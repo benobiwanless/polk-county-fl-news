@@ -1,30 +1,27 @@
 *{box-sizing:border-box}
-:root{--navy:#061b42;--green:#2f8c3a;--blue:#005eb8;--gold:#f7b21a;--muted:#536174}
+:root{--navy:#071d45;--green:#2f8c3a;--blue:#005eb8;--muted:#516176}
 body{margin:0;background:#fff;color:var(--navy);font-family:Arial,Helvetica,sans-serif}
-.site{max-width:1180px;margin:28px auto}
-.hero{height:250px;border-radius:38px 38px 0 0;overflow:hidden;position:relative;display:grid;place-items:center}
-.hero-bg{position:absolute;inset:0;background:linear-gradient(90deg,rgba(255,255,255,.9),rgba(255,255,255,.45),rgba(255,255,255,.9)),url("images/hero.svg") center/cover no-repeat}
-.logo{position:relative;width:min(470px,80vw);filter:drop-shadow(0 8px 22px rgba(255,255,255,.95))}
-main{padding:0 34px 24px}
-.intro{text-align:center;margin:12px auto 24px;max-width:760px}
-.intro h1{font-size:clamp(2.1rem,5vw,3rem);margin:0 0 10px;font-weight:900;letter-spacing:-.03em}
-.intro p{font-size:1.05rem;line-height:1.45;color:#26344b;margin:0}
-.filters{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin:24px 0 32px}
-.filters button{border:1px solid #e4eaf2;background:white;color:var(--navy);border-radius:999px;padding:11px 16px;font-weight:900;box-shadow:0 5px 16px rgba(6,27,66,.08);cursor:pointer}
-.filters button.active,.filters button:hover{background:var(--navy);color:white}
-.status{text-align:center;color:var(--muted);font-size:.95rem;margin-bottom:18px}
-.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
-.card{border:1px solid #e6ebf2;border-radius:16px;background:white;box-shadow:0 12px 28px rgba(6,27,66,.14);overflow:hidden;text-decoration:none;color:inherit;display:flex;flex-direction:column;min-height:345px;transition:.18s}
-.card:hover{transform:translateY(-3px);box-shadow:0 18px 36px rgba(6,27,66,.2)}
-.thumb{height:135px;position:relative;background:linear-gradient(135deg,#dff3ff,#fff4d6);display:grid;place-items:center;font-size:3.6rem}
-.badge{position:absolute;left:14px;bottom:-14px;border-radius:999px;color:#fff;font-size:.72rem;text-transform:uppercase;font-weight:900;padding:8px 12px;box-shadow:0 5px 14px rgba(0,0,0,.18)}
-.Restaurants{background:#d9422f}.Housing{background:#7048ca}.Roads{background:#f2a300}.Hotels{background:#0b73d9}.Retail{background:#2f8c3a}.Development{background:#087b8f}.Business{background:#087b8f}
-.body{padding:28px 18px 18px;display:flex;flex-direction:column;flex:1}
-.body h2{font-size:1.15rem;line-height:1.15;margin:0 0 10px}
-.body p{font-size:.94rem;line-height:1.45;margin:0 0 14px;color:#17243a}
-.meta{margin-top:auto;color:var(--muted);font-size:.84rem;display:flex;gap:8px;flex-wrap:wrap;padding-top:10px}
-.read{color:var(--blue);font-weight:900;margin-top:14px}
-footer{margin-top:26px;background:linear-gradient(135deg,#061b42,#001531);color:white;border-radius:28px;padding:28px 46px;display:grid;grid-template-columns:1.1fr 1.5fr 1fr;gap:30px;align-items:center}
-footer img{width:260px;max-width:100%}footer p{line-height:1.5;margin:0;color:#eef4ff}footer small{display:block;margin-top:14px;color:#dce8f8}
-@media(max-width:1000px){.site{margin:0}.hero{border-radius:0}.grid{grid-template-columns:repeat(2,1fr)}footer{margin:22px 18px 0;grid-template-columns:1fr}}
-@media(max-width:580px){main{padding:0 18px 20px}.hero{height:200px}.grid{grid-template-columns:1fr}.filters{justify-content:flex-start;flex-wrap:nowrap;overflow-x:auto;padding-bottom:8px}.filters button{white-space:nowrap}footer{padding:24px}}
+.site-shell{max-width:1120px;margin:34px auto 22px}
+.hero{height:246px;border-radius:40px 40px 0 0;position:relative;overflow:hidden;display:grid;place-items:center}
+.hero-bg{position:absolute;inset:0;background:linear-gradient(90deg,rgba(255,255,255,.9),rgba(255,255,255,.38),rgba(255,255,255,.9)),url("images/hero.svg") center/cover no-repeat}
+.main-logo{position:relative;width:min(430px,78vw);z-index:2;filter:drop-shadow(0 8px 24px rgba(255,255,255,.95))}
+main{padding:0 32px 18px}
+.intro{text-align:center;margin:14px 0 28px}
+.intro h1{font-size:clamp(2.05rem,4.8vw,3rem);letter-spacing:-.035em;line-height:1;margin:0 0 10px;font-weight:900}
+.intro p{max-width:620px;margin:0 auto;color:#26344b;font-size:1.05rem;line-height:1.45}
+.news-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
+.card{display:flex;flex-direction:column;min-height:394px;text-decoration:none;color:inherit;background:#fff;border:1px solid #e6ebf2;border-radius:16px;overflow:hidden;box-shadow:0 12px 28px rgba(7,29,69,.14);transition:.16s}
+.card:hover{transform:translateY(-3px);box-shadow:0 18px 38px rgba(7,29,69,.22)}
+.photo{height:152px;position:relative;background:#ddeafa}
+.photo img{width:100%;height:100%;object-fit:cover;display:block}
+.badge{position:absolute;left:14px;bottom:-14px;color:#fff;border-radius:999px;padding:8px 12px;text-transform:uppercase;font-size:.72rem;font-weight:900;box-shadow:0 5px 14px rgba(0,0,0,.18)}
+.badge.Infrastructure{background:#2f8c3a}.badge.Restaurants{background:#d9422f}.badge.Housing{background:#7048ca}.badge.Hotels{background:#0b73d9}.badge.Retail{background:#2f8c3a}.badge.Roads{background:#f2a300}.badge.Development{background:#087b8f}
+.content{padding:28px 18px 18px;display:flex;flex-direction:column;flex:1}
+.content h2{font-size:1.2rem;line-height:1.16;margin:0 0 10px;color:var(--navy)}
+.content p{font-size:.95rem;line-height:1.45;margin:0 0 16px;color:#17243a}
+.meta{margin-top:auto;display:flex;gap:9px;flex-wrap:wrap;color:var(--muted);font-size:.85rem;padding-top:8px}
+.read{display:block;margin-top:16px;color:var(--blue);font-weight:900}
+.footer{margin:24px 0 0;background:linear-gradient(135deg,#061b42,#001531);color:#fff;border-radius:28px;display:grid;grid-template-columns:1.15fr 1.45fr 1fr;gap:30px;align-items:center;padding:26px 46px}
+.footer img{width:255px;max-width:100%}.footer p{margin:0;line-height:1.5;color:#eef4ff}.footer small{display:block;margin-top:18px;color:#dce8f8}
+@media(max-width:980px){.site-shell{margin:0}.hero{border-radius:0}.news-grid{grid-template-columns:repeat(2,1fr)}.footer{margin:22px 18px 0;grid-template-columns:1fr}}
+@media(max-width:560px){.hero{height:190px}main{padding:0 18px 18px}.news-grid{grid-template-columns:1fr}.footer{padding:24px}}

@@ -2,19 +2,37 @@
   {
     "title": "Culver\u2019s Opening in Auburndale",
     "category": "Restaurants",
-    "city": "Auburndale",
-    "date": "2025-05-14",
-    "summary": "Culver\u2019s is planned for Auburndale, adding another restaurant option along the city\u2019s growing commercial corridor.",
+    "city": "Auburndale, FL",
+    "date": "May 14, 2025",
+    "summary": "Construction is underway on US 92 West for Auburndale\u2019s newest Culver\u2019s location.",
     "url": "https://whatnow.com/orlando/restaurants/culvers-opening-in-auburndale/",
-    "source": "What Now Orlando"
+    "image": "images/culvers.svg"
   },
   {
-    "title": "Positive Polk County Growth News Feed",
-    "category": "Development",
-    "city": "Polk County",
-    "date": "Pending",
-    "summary": "After the GitHub Action runs, this page will update with positive stories about restaurants, housing developments, road projects, hotels, retail, and business growth.",
+    "title": "500-Home Community Approved in Davenport",
+    "category": "Housing",
+    "city": "Davenport, FL",
+    "date": "May 13, 2025",
+    "summary": "A new residential community will feature single-family homes, amenities, and green spaces.",
     "url": "#",
-    "source": "Polk Development Tracker"
+    "image": "images/housing.svg"
+  },
+  {
+    "title": "US 27 Interchange Project Moving Forward",
+    "category": "Infrastructure",
+    "city": "Davenport, FL",
+    "date": "May 12, 2025",
+    "summary": "Major interchange improvements will enhance safety, reduce congestion, and support growth.",
+    "url": "#",
+    "image": "images/roads.svg"
+  },
+  {
+    "title": "Holiday Inn Express Coming to Winter Haven",
+    "category": "Hotels",
+    "city": "Winter Haven, FL",
+    "date": "May 9, 2025",
+    "summary": "A new 100-room hotel is planned near the Legoland area, with construction expected soon.",
+    "url": "#",
+    "image": "images/hotel.svg"
   }
 ]

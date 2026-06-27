@@ -3,42 +3,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Polk Positive Growth News</title>
+  <title>Polk Development Tracker</title>
+  <meta name="description" content="Positive development news for Polk County, Florida." />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="site">
+  <div class="site-shell">
     <header class="hero">
       <div class="hero-bg"></div>
-      <img src="images/logo.svg" class="logo" alt="Polk Positive Growth News" />
+      <img src="images/logo.svg" class="main-logo" alt="Polk Development Tracker">
     </header>
 
     <main>
       <section class="intro">
         <h1>What’s New in Polk County</h1>
-        <p>Positive local growth news only: new restaurants, housing developments, highways, roads, hotels, retail, and business openings across Polk County, Florida.</p>
+        <p>Tracking new developments, businesses, and infrastructure that are shaping our community.</p>
       </section>
 
-      <section class="filters">
-        <button class="active" data-category="All">All</button>
-        <button data-category="Restaurants">Restaurants</button>
-        <button data-category="Housing">Housing</button>
-        <button data-category="Roads">Highways & Roads</button>
-        <button data-category="Hotels">Hotels</button>
-        <button data-category="Retail">Retail</button>
-        <button data-category="Development">Development</button>
-      </section>
-
-      <section id="status" class="status"></section>
-      <section id="grid" class="grid"></section>
+      <section class="news-grid" id="newsGrid"></section>
     </main>
 
-    <footer>
-      <img src="images/logo.svg" alt="" />
-      <p>Polk Positive Growth News tracks only good news about growth, development, restaurants, housing, roads, hotels, and business openings in Polk County, Florida.</p>
-      <div>
-        <strong>📍 Polk County, Florida</strong>
-        <small>Updated automatically when GitHub Actions runs.</small>
+    <footer class="footer">
+      <img src="images/logo.svg" alt="Polk Development Tracker">
+      <p>Polk Development Tracker is your source for positive growth and development updates across Polk County, Florida.</p>
+      <div class="foot-right">
+        <p>📍 Polk County, Florida</p>
+        <small>© 2025 Polk Development Tracker</small>
       </div>
     </footer>
   </div>
