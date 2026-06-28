@@ -1,10 +1,11 @@
 fetch("data/stories.json?cache=" + Date.now())
-  .then(res => res.json())
+  .then(response => response.json())
   .then(stories => {
-    document.getElementById("newsGrid").innerHTML = stories.map(story => `
+    const cards = document.getElementById("cards");
+    cards.innerHTML = stories.map(story => `
       <a class="card" href="${story.url}" target="_blank" rel="noopener">
         <div class="photo">
-          <img src="${story.image || 'images/roads.svg'}" alt="${story.title}">
+          <img src="${story.image}" alt="${story.title}">
           <span class="badge ${story.category}">${story.category}</span>
         </div>
         <div class="content">

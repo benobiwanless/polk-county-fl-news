@@ -1,38 +1,38 @@
 [
   {
-    "title": "Culver\u2019s Opening in Auburndale",
-    "category": "Restaurants",
-    "city": "Auburndale, FL",
-    "date": "May 14, 2025",
-    "summary": "Construction is underway on US 92 West for Auburndale\u2019s newest Culver\u2019s location.",
-    "url": "https://whatnow.com/orlando/restaurants/culvers-opening-in-auburndale/",
-    "image": "images/culvers.svg"
-  },
-  {
-    "title": "500-Home Community Approved in Davenport",
-    "category": "Housing",
-    "city": "Davenport, FL",
-    "date": "May 13, 2025",
-    "summary": "A new residential community will feature single-family homes, amenities, and green spaces.",
-    "url": "#",
-    "image": "images/housing.svg"
-  },
-  {
     "title": "US 27 Interchange Project Moving Forward",
     "category": "Infrastructure",
     "city": "Davenport, FL",
-    "date": "May 12, 2025",
-    "summary": "Major interchange improvements will enhance safety, reduce congestion, and support growth.",
+    "date": "May 14, 2025",
+    "summary": "Major interchange improvements at US 27 and CR 546 will enhance safety and reduce congestion.",
     "url": "#",
-    "image": "images/roads.svg"
+    "image": "images/road-card.svg"
+  },
+  {
+    "title": "Texas Roadhouse Coming to Auburndale",
+    "category": "Restaurants",
+    "city": "Auburndale, FL",
+    "date": "May 12, 2025",
+    "summary": "Popular steakhouse chain breaks ground on a new location. Opening expected in late 2025.",
+    "url": "https://whatnow.com/orlando/restaurants/culvers-opening-in-auburndale/",
+    "image": "images/restaurant-card.svg"
+  },
+  {
+    "title": "New Apartment Community Approved in Lakeland",
+    "category": "Housing",
+    "city": "Lakeland, FL",
+    "date": "May 10, 2025",
+    "summary": "City approves a 300-unit luxury apartment community near Lakeside Village.",
+    "url": "#",
+    "image": "images/housing-card.svg"
   },
   {
     "title": "Holiday Inn Express Coming to Winter Haven",
     "category": "Hotels",
     "city": "Winter Haven, FL",
     "date": "May 9, 2025",
-    "summary": "A new 100-room hotel is planned near the Legoland area, with construction expected soon.",
+    "summary": "New 100-room hotel to be built near Legoland. Construction starts this summer.",
     "url": "#",
-    "image": "images/hotel.svg"
+    "image": "images/hotel-card.svg"
   }
 ]

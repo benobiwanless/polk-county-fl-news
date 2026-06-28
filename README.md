@@ -1,14 +1,7 @@
 # Polk Development Tracker
 
-Rethemed simple story-card site matching the selected mockup.
+GitHub-ready layout matching the provided reference image.
 
-## Upload
+Upload all files and folders to the root of the GitHub Pages repo.
 
-Upload every file/folder in this ZIP to the root of your GitHub Pages repo.
-
-## Auto update
-
-GitHub Action:
-`.github/workflows/update-growth-news.yml`
-
-Run it manually from GitHub Actions or let it run every 8 hours.
+Includes optional GitHub Action for positive Polk County growth news updates.
