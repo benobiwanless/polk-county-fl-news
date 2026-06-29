@@ -31,3 +31,10 @@ Add either or both:
 - `GNEWS_API_KEY`
 
 The site still works without those keys using Google News RSS.
+
+
+## v9
+- Updated to the new Polk County Florida logo.
+- No About page.
+- No Contact page.
+- Keeps live story collection and 15-minute workflow from v8.
