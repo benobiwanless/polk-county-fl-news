@@ -1,12 +1,5 @@
-# Polk County FL News / Polk Development Tracker
+# Polk Development Tracker
 
-Version 4 test build.
+Static GitHub Pages site for positive development news in Polk County, Florida.
 
-Changes:
-- New full-width header image
-- Larger centered logo
-- Removed white logo box/header background
-- Removed cropped “What’s New in Polk County” text from the header image
-- Keeps dynamic cards loaded from `data/news.json`
-
-Upload the contents of this folder to the GitHub repository root.
+Upload all files in this folder to the repository root.

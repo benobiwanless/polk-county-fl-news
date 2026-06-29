@@ -4,51 +4,33 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Polk Development Tracker</title>
-  <meta name="description" content="Positive Polk County, Florida development news: housing, restaurants, retail, hotels, and infrastructure." />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="hero">
-    <img class="hero-image" src="assets/hero-header.png" alt="Polk Development Tracker - Building a Better Polk County" />
+    <img src="assets/logo.png" alt="Polk Development Tracker" class="hero-logo" />
   </header>
 
-  <main>
-    <section class="intro full-section">
-      <p class="eyebrow">What's New in Polk County</p>
-      <h1>Positive development news for Polk County, Florida</h1>
-      <p>New housing, restaurants, retail, hotels, infrastructure, and community investment.</p>
+  <main class="page-shell">
+    <section class="featured-section">
+      <div class="section-heading">
+        <h1>Featured Project</h1>
+      </div>
+      <article id="featuredProject" class="featured-card"></article>
     </section>
 
-    <section class="stats full-section" id="stats" aria-label="Development stats"></section>
-
-    <section class="controls full-section" aria-label="Filters">
-      <input id="search" type="search" placeholder="Search projects, cities, restaurants..." />
-      <select id="categoryFilter">
-        <option value="all">All categories</option>
-        <option>Housing</option>
-        <option>Restaurants</option>
-        <option>Retail</option>
-        <option>Hotels</option>
-        <option>Infrastructure</option>
-        <option>Development</option>
-      </select>
-      <select id="cityFilter">
-        <option value="all">All cities</option>
-      </select>
+    <section class="news-section">
+      <div class="section-heading row-heading">
+        <h2>Latest Development News</h2>
+        <span id="lastUpdated" class="last-updated"></span>
+      </div>
+      <div id="newsGrid" class="news-grid"></div>
     </section>
-
-    <section class="section-title full-section">
-      <h2>Latest Development Updates</h2>
-      <p id="countLabel">Loading stories...</p>
-    </section>
-
-    <section class="cards full-section" id="cards" aria-live="polite"></section>
   </main>
 
-  <footer>
-    <img src="assets/header-logo.png" alt="Polk Development Tracker" />
-    <p>Tracking positive growth across Polk County. Sources are linked on each story card when available.</p>
-    <p class="updated" id="updated">Last updated: Loading...</p>
+  <footer class="site-footer">
+    <span>Tracking positive growth across Polk County, Florida</span>
+    <span>Polk Development Tracker</span>
   </footer>
 
   <script src="app.js"></script>
