@@ -37,3 +37,6 @@ Optional secret:
 - Homepage now opens directly into Latest Development Updates.
 - News cards are larger on desktop.
 - Live GitHub Action feed remains unchanged.
+
+
+v12: Removed navigation links while preserving the blue navigation bar.
