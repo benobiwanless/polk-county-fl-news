@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02 00:19 UTC",
+  "last_updated": "2026-07-02 04:37 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -39,6 +39,18 @@
       "featured": false
     },
     {
+      "title": "Six must-try hidden gem restaurants in Polk that locals love - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jan 09, 2026",
+      "summary": "Six must-try hidden gem restaurants in Polk that locals love Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOXI3V0hQcVI4Z0xkZjdkZUFwVG5fZGZ3amNiMkxLSDVhOVAxRFkzLVBuRndldWU5R28wVXNIUnhoZFJiOFJZcVdPUVMxaUUwZHlZaEphSXY1Z2lMZVZyNzRBb2Y2UXRkQjBEdWFWUjVwNkFwRlRmbXRrbmNiWWNoY3lxNEQ2VjVERzlFZU45NEdNbTFJLXFKazZZaFFydWdlekxCRHZoU0RtWF94dlZROW1kc2VkTkFXd29pVlVBX1RCcGVyMWg5Y0JpM042YmJvODRic3FWM1dIc25fTHVoVFZUS0xzcjVS?oc=5",
+      "featured": false
+    },
+    {
       "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
       "city": "Davenport",
       "category": "Restaurant",
@@ -51,13 +63,13 @@
       "featured": false
     },
     {
-      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - Spectrum Bay News 9",
+      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - Bay News 9",
       "city": "Lake Wales",
       "category": "Hotel",
       "status": "Update",
       "date": "Jun 12, 2026",
-      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel Bay News 9",
+      "source": "Bay News 9",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFiaE5nVzY3RnMxUUpEZjluODhULTNQTUhQWWZJV2V4VV9ZRmVfVGNkLUExMG5QYVpOZ01yX3dONmVzSWdoMV9yMmJWNVZoT0ozeEFnV3BoY0pwRFZBX1l2R3RGZEMyRGo4R0dyNTdLQjAxYy1KeENhSjdTNE1hQzh3QlpEYXp4VW1CTkxJOGJqeENCZnhBdVFCM0ZSWTNBcXhqZFZqRDM5WUp3NXRQbw?oc=5",
       "featured": false
@@ -75,30 +87,6 @@
       "featured": false
     },
     {
-      "title": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 - Iowa Department of Transportation (.gov)",
-      "city": "Davenport",
-      "category": "Infrastructure",
-      "status": "Update",
-      "date": "Feb 24, 2026",
-      "summary": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 Iowa Department of Transportation (.gov)",
-      "source": "Iowa Department of Transportation (.gov)",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTBWVmdpamN5bUY3aWI0X3I3MnEyUi1taDgxV3dsMDJlZXJDcEduQUhvUXpzaFNlOWU0aGxqanlhZ25JTmdWLTdVWDRaaVJhb0lLdVBHbFZJUjFjU1Q4d3hsNE5nUndaUUU0dFVoVjVzUXA2a05pdklyUUxKajZXRUFpOXk4YzZPdXJDZ3ZMX3pqV0xfelJCTzFGcFdjZDllUnFIOEo3M3FXVHBFdlFOb2J2cmdxMUc2SUtfLVFlSHVUMm1fOVhVZg?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 09, 2026",
-      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
-      "source": "VCU News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
       "title": "Davenport restaurant at risk of closing without community support - WQAD",
       "city": "Davenport",
       "category": "Restaurant",
@@ -108,18 +96,6 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
-      "featured": false
-    },
-    {
-      "title": "This day in history: Frank Church celebrated new Hells Canyon designation. Davenport Hotel opened European offices - The Spokesman-Review",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Grand Opening",
-      "date": "Jun 21, 2026",
-      "summary": "This day in history: Frank Church celebrated new Hells Canyon designation. Davenport Hotel opened European offices The Spokesman-Review",
-      "source": "The Spokesman-Review",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDdfZ25qTXRQb1pNbnljdC12cENKR004REVfRDY4UHFWNWVWcHQxRktOc2p3MThNeXpjOTgwRnJzNHFuZ0pzcl9hc1g5eHVELVBsUFI1bU11cnQ5dkR1Wl9ta3EzcGc2WVZNdE5pazR0WkFXZndFMVhabERacEVKX1RZQ2VsS2FZRGY5N2FMRVBrb0xHT2xvdVRQajhlZw?oc=5",
       "featured": false
     },
     {
@@ -135,6 +111,42 @@
       "featured": false
     },
     {
+      "title": "This day in history: Frank Church celebrated new Hells Canyon designation. Davenport Hotel opened European offices - The Spokesman-Review",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Grand Opening",
+      "date": "Jun 21, 2026",
+      "summary": "This day in history: Frank Church celebrated new Hells Canyon designation. Davenport Hotel opened European offices The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDdfZ25qTXRQb1pNbnljdC12cENKR004REVfRDY4UHFWNWVWcHQxRktOc2p3MThNeXpjOTgwRnJzNHFuZ0pzcl9hc1g5eHVELVBsUFI1bU11cnQ5dkR1Wl9ta3EzcGc2WVZNdE5pazR0WkFXZndFMVhabERacEVKX1RZQ2VsS2FZRGY5N2FMRVBrb0xHT2xvdVRQajhlZw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - yahoo.com",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 21, 2026",
+      "summary": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay yahoo.com",
+      "source": "yahoo.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWHFwV3J5LURRMVRHUTJpRDhjb3R6WXZfcjVvSXBkTldEUEZuY0JueWxOb3BiZXBHd2duWkFJTmNhc0U0eFVKRmZmaENGcTRvaWFKYUlUaFJkYkRpelliQVotU0oxVmhZcW5ES2RPRUVaUEdQN3g4U2pnQnNvSm5kQW1sV1NINHNvUFNDSnNVWnVNNmQ5WDVZ?oc=5",
+      "featured": false
+    },
+    {
       "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -144,6 +156,30 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday prices - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 16, 2026",
+      "summary": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday prices WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQUZxVEdZTEQ1eDBaRENzd2RUVnRqVVl5R2FtYUhyMjE0YWJURXNxdTJldVlhMG16RVJ1U183SFk3R0RmdEE3MWJFLUl3ZXlNS3ZHbUc0S2JHb1FHc2t5ZmNReE5VSDFVdXB3NVlwc2JmeE1qeGtNUnZZNXFMTU9sNEN1LWQyaWl4X1NWMmZVakh1N1RfSHVXNVJrdC11SHF3RUczM1VkLWctZ0NpcUczdDE5cWRYOW9vbG1RQWczbHRteGx1RUhZR3U4azFRbjBSdzBhbjkxZk9NMTlTSUI4SkdRaEdTLXc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "This day in history: Ronald Reagan addressed GOP convention in Spokane. Belgian police dog fled Davenport Hotel - The Spokesman-Review",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Jun 19, 2026",
+      "summary": "This day in history: Ronald Reagan addressed GOP convention in Spokane. Belgian police dog fled Davenport Hotel The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1YxWHdsWjE4Zk1sQ3B3N19lTkNwTktqTnFpVm9QQkp3aDNFS19mamJoeU9Yc2VyeWRmSWUxU2R4dF9RTG9WWEN4T3ZkYjMzZWhKc0RKZmRBdGlKREFsSTJUcmFWSDNhbC1Vc28wMkFTcnpoRE83V0ptVmdzWEs3SHhScjZxa0JZaEg3YmZOdDN3alotOEMwQXhncDlRZw?oc=5",
       "featured": false
     },
     {
@@ -159,6 +195,30 @@
       "featured": false
     },
     {
+      "title": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday deal prices - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 16, 2026",
+      "summary": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday deal prices WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdm8wbXA3RFJaeVkyNnZwN1ZPVDhwRjI0S1lERlQxN3hsWF9UU1BPeV93b2NzRDJiOHB0Zm9uMHVERThTMnNoVU9VNDgwWXhGVlpTT3F6TkZTaEwxM1lpbW96MHJhd1hpV3Z1ZExhNXVsTEVZMWVCdWVxbVRsSWk0RnY5X2RqRmJadEZaSHZaZDk0VGJMcGVUdERiS0FyMjcySGUwbTg3N3Z6SlBmMXVWSjhubTc4Q2VEUGtwekRIWDJ1QW51T3ZLeTRVanRZdmtlNDkzR0JGTEJlOHVpMFY4ZWFEMDk1ZWtaTkdJUmF3OA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Beloved Davenport Restaurant Lunardi’s to Close After 37 Years of Family Ownership - Voice of Muscatine",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 12, 2026",
+      "summary": "Beloved Davenport Restaurant Lunardi’s to Close After 37 Years of Family Ownership Voice of Muscatine",
+      "source": "Voice of Muscatine",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmpoWS1OSTNZMDE0aUw4MlUyS3pMcGRmVkd3QnQwbGd2UVlRQTJDVkg5bU9weGxXdmNJbHJHU3ZlLWxFUU1md0I0U1RwbGdLVURTSE5HcmlKa19nMVRoNEZQM04yYjJFT1Q4T2tqQ1dUQzJRUTUtQi1tVmpEak1Fa1U4RmtaYmRkODRlM3l4Ri10dFc3TEUxY29ZZ2xIa01IT2tnTW5VWGdxNWNUM3VmSkZvQlZ2SV9FMEdhQUVQUEE5ZnJfMVE?oc=5",
+      "featured": false
+    },
+    {
       "title": "‘Quad Cities Construction Hike for Hope’ steps off Saturday in Davenport - KWQC",
       "city": "Davenport",
       "category": "Development",
@@ -171,15 +231,15 @@
       "featured": false
     },
     {
-      "title": "Lake Wales to transform decades-old public housing complex into af­fordable housing - Spectrum Bay News 9",
+      "title": "Lake Wales approves design contract with developer for $43M restoration of historic Walesbilt Hotel - GrowthSpotter",
       "city": "Lake Wales",
-      "category": "Housing",
+      "category": "Hotel",
       "status": "Update",
-      "date": "May 04, 2026",
-      "summary": "Lake Wales to transform decades-old public housing complex into af­fordable housing Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "date": "Jun 15, 2026",
+      "summary": "Lake Wales approves design contract with developer for $43M restoration of historic Walesbilt Hotel GrowthSpotter",
+      "source": "GrowthSpotter",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXRJTjJXdGNHMFVyTFpibFU4VDhLcE9tS1o4ekhiVEJqNHlPNUhvSng4UDVJNFp5TWZWRjV1cmJRNWVkUWJxdVBHWll5NjF3Y3VMQlRjeUNqdzNBRW1pY19DWVJZTWVUNk84MkM5SW1oeVhOd0FUT2xZcXdnOEw5UmlLWnZURG9KeGUzUFZXako?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNk0yS2k1ZXlSZ2drb0tGQ1hNcVRFM2U4bUVMMWdWQ0pnOUZOT0dBYk40Nmg4WVUzRlVMajNObVpHTUptSTRySzVydkVGanRxYVBHZjVqM0E3Zm5uVGlfakt6ejJYcmlzRG5TdHhJU09pMnQzRmNTOGJnNG01UjRkQmxaYTE3NXRJeHRFTXpNbmhaV1ZUa2FRWVNBakxxY3J3T1ZfUG9CVlZBUjZReldHeV9xVm9aT0hwamkzcTVzS3FLdGExc3d1bE41c1RkLTFBZWJhcHVzYw?oc=5",
       "featured": false
     },
     {
@@ -192,30 +252,6 @@
       "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaVRwVmJBWndnNEhfcmwzanVCYzBFVHctYkgxdjNGcUNodUxTR3FwZG9weV94dzItcHMwYVZ6WVA4YzhPQ1lUVXRicmJYMVk5dHBqRWJiZG5HOWUwcmljTk1aWXMwVFEyNG5FOFBFXzlSeFQ1MFR3SHJKRHotZVFubXNydGdSQnBMeS1fUllzU2tJa3IyaVRjNVpsa2NFQWhQRnhQbm9UQWdITXFlMEJsSmZhU1ZvTDVwVWJkWlVHSTFxbzItbXZCOHdVcEhMUHJKNklHMDVBdjE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - Yahoo",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 21, 2026",
-      "summary": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay Yahoo",
-      "source": "Yahoo",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWHFwV3J5LURRMVRHUTJpRDhjb3R6WXZfcjVvSXBkTldEUEZuY0JueWxOb3BiZXBHd2duWkFJTmNhc0U0eFVKRmZmaENGcTRvaWFKYUlUaFJkYkRpelliQVotU0oxVmhZcW5ES2RPRUVaUEdQN3g4U2pnQnNvSm5kQW1sV1NINHNvUFNDSnNVWnVNNmQ5WDVZ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday deal prices - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 16, 2026",
-      "summary": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday deal prices WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdm8wbXA3RFJaeVkyNnZwN1ZPVDhwRjI0S1lERlQxN3hsWF9UU1BPeV93b2NzRDJiOHB0Zm9uMHVERThTMnNoVU9VNDgwWXhGVlpTT3F6TkZTaEwxM1lpbW96MHJhd1hpV3Z1ZExhNXVsTEVZMWVCdWVxbVRsSWk0RnY5X2RqRmJadEZaSHZaZDk0VGJMcGVUdERiS0FyMjcySGUwbTg3N3Z6SlBmMXVWSjhubTc4Q2VEUGtwekRIWDJ1QW51T3ZLeTRVanRZdmtlNDkzR0JGTEJlOHVpMFY4ZWFEMDk1ZWtaTkdJUmF3OA?oc=5",
       "featured": false
     },
     {
@@ -255,13 +291,13 @@
       "featured": false
     },
     {
-      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Spectrum Bay News 9",
+      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Bay News 9",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Jan 27, 2026",
-      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Bay News 9",
+      "source": "Bay News 9",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
       "featured": false
@@ -351,13 +387,25 @@
       "featured": false
     },
     {
-      "title": "Polk County schedules public forums on school rezoning - Spectrum Bay News 9",
+      "title": "Polk County schools plan comprehensive rezoning for 2026-27 school year - WFLA",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 02, 2025",
+      "summary": "Polk County schools plan comprehensive rezoning for 2026-27 school year WFLA",
+      "source": "WFLA",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtaV21Pck1WRWd6V3V4UWpBUzYxa3hxbC1YWll6ajNOQ1RMRS01TUQyR0JZRzJxMTNTUDdGNXZ6THMtdkNYaDRzZEVTdHlUVm4teWtlRXJjVlRmVXltRGo3SmdxWXo4TjdtSWpXYTM5a2FYdlQtb2V0Y0NnWUl2OUx0dVQ2Y1BPeHJrM2w0eE8tWVI0VVZHY0piMktpMXZrdUxSUS0wR294Zk5ubU9v0gG0AUFVX3lxTE9SUEFrejZBT3V3RDlpZzl4OXZXbEdVUEs1S3hWMFQ4Y0s4ZjEwMjVCa2QyOGU4aS1BMnh4T2VHQ3FkUHdCR0VoU252UkcyMVdLcFB3OERneFNlRjZfY3diWklid3FfTXJNeFdUMVpobTBmd0hMWnhOamtmdTFsZW03NXdpLUZtYzZlTzZwNU5SRDVrUlhoa1UtSnRVc1dxY1dlXzd5MlNfamU2YkV4WDlfSEZ4Mw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County schedules public forums on school rezoning - Bay News 9",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 26, 2025",
-      "summary": "Polk County schedules public forums on school rezoning Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "summary": "Polk County schedules public forums on school rezoning Bay News 9",
+      "source": "Bay News 9",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYllSRWExX2QwOUZkdFNMZEFGU0lhckhGMEtSVHh1aWxCRlM1TV9YSGpIWWtpNXhrMHNxX0RHaXlMVEwyeXhuZDd5eHhUb1kwT0dhSGR4MXBxX0JFZ21iQ2xHM0NQZ25zZUJUMXFRSzhDQ0tYaGN3S0pobWxfR2pTbWxxY1VHRUJUanFxSXh0bVJVbVZMNWtHejFjS2wyV3FhcVE?oc=5",
       "featured": false
@@ -384,18 +432,6 @@
       "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County schools plan comprehensive rezoning for 2026-27 school year - WFLA",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 02, 2025",
-      "summary": "Polk County schools plan comprehensive rezoning for 2026-27 school year WFLA",
-      "source": "WFLA",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtaV21Pck1WRWd6V3V4UWpBUzYxa3hxbC1YWll6ajNOQ1RMRS01TUQyR0JZRzJxMTNTUDdGNXZ6THMtdkNYaDRzZEVTdHlUVm4teWtlRXJjVlRmVXltRGo3SmdxWXo4TjdtSWpXYTM5a2FYdlQtb2V0Y0NnWUl2OUx0dVQ2Y1BPeHJrM2w0eE8tWVI0VVZHY0piMktpMXZrdUxSUS0wR294Zk5ubU9v0gG0AUFVX3lxTE9SUEFrejZBT3V3RDlpZzl4OXZXbEdVUEs1S3hWMFQ4Y0s4ZjEwMjVCa2QyOGU4aS1BMnh4T2VHQ3FkUHdCR0VoU252UkcyMVdLcFB3OERneFNlRjZfY3diWklid3FfTXJNeFdUMVpobTBmd0hMWnhOamtmdTFsZW03NXdpLUZtYzZlTzZwNU5SRDVrUlhoa1UtSnRVc1dxY1dlXzd5MlNfamU2YkV4WDlfSEZ4Mw?oc=5",
       "featured": false
     },
     {
@@ -591,6 +627,18 @@
       "featured": false
     },
     {
+      "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Dec 17, 2025",
+      "summary": "Dave & Buster’s announces Davenport grand opening OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
       "city": "Lakeland",
       "category": "Development",
@@ -624,18 +672,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Dec 17, 2025",
-      "summary": "Dave & Buster’s announces Davenport grand opening OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
       "featured": false
     },
     {
@@ -831,18 +867,6 @@
       "featured": false
     },
     {
-      "title": "641 homes planned near Kathleen in Fox Branch Ranch development - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Coming Soon",
-      "date": "Jan 25, 2023",
-      "summary": "641 homes planned near Kathleen in Fox Branch Ranch development Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcWZZZVJLU2ltQnNhTVN5WXpqU2RwbmZoX2dlM1BUUFhQMUtncnU2LUtGMDRLWmhxcnVRZHc1NjB4QWZSUmxLNDY0OFphSFBrR2lpa1VJQW9ZZVV3cXY5eTVEQmM5a09sSWdtcWRUcVhmaXExTW5mSW5CTmhMWW85bkNHWTNhVUlnSlY1UExxWG91U2FuTWxGak9QSHFDRExDSVBaREstRXQ5bkdwN2wxVTYySXRJRkg2TFJYeXg3c1pwZ2tMS3NyYzl3YlU?oc=5",
-      "featured": false
-    },
-    {
       "title": "Home Depot, world's largest home improvement chain, plans to build its fifth Polk County store - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -852,6 +876,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVlxbGRCVm9WNDVsSUwtU280QjYzWHlmR2Jid3JLNVVudHUxSHdLMThKVG55SjAxdE9BdXpObGFwMXQ2RFk1d0s5UU5pSVI1eW9PRHFubmdkRDh4YmlYbjFIVkFpM0wzRUhVdUFSVDNwaVE4djRpcHNacTRWTFRjRkRrQjhXR2tIRjZ4WlcxWk5rWFNTd0Y2ZENZc0lUWi1falI4ME9yX3R0THFkZWhRa25R?oc=5",
+      "featured": false
+    },
+    {
+      "title": "641 homes planned near Kathleen in Fox Branch Ranch development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Coming Soon",
+      "date": "Jan 25, 2023",
+      "summary": "641 homes planned near Kathleen in Fox Branch Ranch development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcWZZZVJLU2ltQnNhTVN5WXpqU2RwbmZoX2dlM1BUUFhQMUtncnU2LUtGMDRLWmhxcnVRZHc1NjB4QWZSUmxLNDY0OFphSFBrR2lpa1VJQW9ZZVV3cXY5eTVEQmM5a09sSWdtcWRUcVhmaXExTW5mSW5CTmhMWW85bkNHWTNhVUlnSlY1UExxWG91U2FuTWxGak9QSHFDRExDSVBaREstRXQ5bkdwN2wxVTYySXRJRkg2TFJYeXg3c1pwZ2tMS3NyYzl3YlU?oc=5",
       "featured": false
     },
     {
@@ -867,18 +903,6 @@
       "featured": false
     },
     {
-      "title": "18,000-Acre Development Near Bartow Awaits Approval - Lakeland Ledger",
-      "city": "Bartow",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 05, 2007",
-      "summary": "18,000-Acre Development Near Bartow Awaits Approval Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGFMaGZmaEVjVDVoNW5WRW9TaTdYdm15LUJtV0NPN3FZcXM0X0JYN2lRaldlQXozUXY3dmVnVHlYNXg1bG9TcDRINTcyTlp6emFHcXJFRzJOMXMwM21RMFo2N1A3cno5ZkZHbUM4R0tnb051UFhHVU9fd3lPRFZTc3VfRVFrRVFMam14RFZpX1NlNjA2VmVlU0dkcGZJMTZHX2gzQ2cxVTk4V3FnWFFYLQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "Lakeland Commission approves land use changes related to shipping containers, mobile home parks - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -891,15 +915,15 @@
       "featured": false
     },
     {
-      "title": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Infrastructure",
+      "title": "18,000-Acre Development Near Bartow Awaits Approval - Lakeland Ledger",
+      "city": "Bartow",
+      "category": "Development",
       "status": "Update",
-      "date": "Nov 10, 2021",
-      "summary": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? Lakeland Ledger",
+      "date": "Aug 05, 2007",
+      "summary": "18,000-Acre Development Near Bartow Awaits Approval Lakeland Ledger",
       "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0txMnJ6MXoydVlxeTlYV3RVTWdnWXBnanduWTZFX0hiQzFlZy1EZXhaWG5POEdSSHNJVk5iNWtDZkVWTDVaM00tRDg4ZkxNS2xuc20tV3NEMmQxYlI2QmJPZmg5cHNTWGNFQnd0THhpTWpYVDlkZWNNcDU4NGFkSmJsU1hfV1lzbzQtVTAzMDU2NzBsMU9jWm5oYTRjdGtwbUxVYTFXRExhUzdtWEUzNzVjUFF2MDJwQzRDbS1ZU3FHVzE2WkNEemRnWkFUUWVzMnRNMUdaMm1KMG9vb1I0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGFMaGZmaEVjVDVoNW5WRW9TaTdYdm15LUJtV0NPN3FZcXM0X0JYN2lRaldlQXozUXY3dmVnVHlYNXg1bG9TcDRINTcyTlp6emFHcXJFRzJOMXMwM21RMFo2N1A3cno5ZkZHbUM4R0tnb051UFhHVU9fd3lPRFZTc3VfRVFrRVFMam14RFZpX1NlNjA2VmVlU0dkcGZJMTZHX2gzQ2cxVTk4V3FnWFFYLQ?oc=5",
       "featured": false
     },
     {
@@ -915,18 +939,6 @@
       "featured": false
     },
     {
-      "title": "Large, 57,008-square-foot Publix is coming to U.S. 27 in Davenport - Lakeland Ledger",
-      "city": "Davenport",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Dec 12, 2023",
-      "summary": "Large, 57,008-square-foot Publix is coming to U.S. 27 in Davenport Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEt2MDJFMmhxTFl5Z0NxMWF5aENsOUItNGV3QVg4RUNFRUZ4U1JPc1pKQVgtemZtY04yekRwc1FLZnBMMi1INGI2VDZranI5UU5lWXdweTVaNnpWbW00dHNNcmJaRS1aQ04yTzVEWDV3S3JkNUtOeHhLSy1rT0xXczdBNHp2ZVFnRXFIM2FVLUVESy1acDFlRWExQWZEWFFJZXF0TFE4WWRHc0swdy1zTlBkS1ZVcEVRellBbmliSnFLcVN5RUhBcHphSEtGdw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Posner Park Development Launched - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -939,6 +951,30 @@
       "featured": false
     },
     {
+      "title": "Large, 57,008-square-foot Publix is coming to U.S. 27 in Davenport - Lakeland Ledger",
+      "city": "Davenport",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Dec 12, 2023",
+      "summary": "Large, 57,008-square-foot Publix is coming to U.S. 27 in Davenport Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEt2MDJFMmhxTFl5Z0NxMWF5aENsOUItNGV3QVg4RUNFRUZ4U1JPc1pKQVgtemZtY04yekRwc1FLZnBMMi1INGI2VDZranI5UU5lWXdweTVaNnpWbW00dHNNcmJaRS1aQ04yTzVEWDV3S3JkNUtOeHhLSy1rT0xXczdBNHp2ZVFnRXFIM2FVLUVESy1acDFlRWExQWZEWFFJZXF0TFE4WWRHc0swdy1zTlBkS1ZVcEVRellBbmliSnFLcVN5RUhBcHphSEtGdw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Nov 10, 2021",
+      "summary": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0txMnJ6MXoydVlxeTlYV3RVTWdnWXBnanduWTZFX0hiQzFlZy1EZXhaWG5POEdSSHNJVk5iNWtDZkVWTDVaM00tRDg4ZkxNS2xuc20tV3NEMmQxYlI2QmJPZmg5cHNTWGNFQnd0THhpTWpYVDlkZWNNcDU4NGFkSmJsU1hfV1lzbzQtVTAzMDU2NzBsMU9jWm5oYTRjdGtwbUxVYTFXRExhUzdtWEUzNzVjUFF2MDJwQzRDbS1ZU3FHVzE2WkNEemRnWkFUUWVzMnRNMUdaMm1KMG9vb1I0?oc=5",
+      "featured": false
+    },
+    {
       "title": "Winter Haven residents fume over zoning change on Thompson Nursery Road - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -948,30 +984,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWNEZy1QbWlaazVwZmE2TjktdVN4QWNNTllxcllGN0lwZUtFZjl5S1Y2ay12MUxzN1FnLUFEdE1nMmZIb05TTEl2QTZmRWhNTDZQTEVCcndDLUd2NGhmaDBhVFlOc05VdjlUeXFIMkprX3dtNkQ5RTFSRVVld3JmZllLRkdNT2k4MERuQW55eEhORWZVUExYTkplRVdObWpWd1Bzdy1rVWRXNWNPalBQczJqUEFudmpxYTJYVEVwVHUyV2o2VjB1VE82eDgtUlFVaHdvbkI3WTNFQQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Coming Soon",
-      "date": "May 07, 2006",
-      "summary": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 10, 2004",
-      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
       "featured": false
     },
     {
@@ -999,15 +1011,51 @@
       "featured": false
     },
     {
-      "title": "'A little too hot'? Lakeland, most overpriced Florida market, has one of the worst housing shortages - Lakeland Ledger",
+      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
       "city": "Lakeland",
-      "category": "Housing",
+      "category": "Development",
       "status": "Update",
-      "date": "Aug 30, 2021",
-      "summary": "'A little too hot'? Lakeland, most overpriced Florida market, has one of the worst housing shortages Lakeland Ledger",
+      "date": "Mar 10, 2004",
+      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
       "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNkhBdDFHR0hSVDlCaDJVYWJVODkzTDR3dlduT2VVNnBaS2Z6ZXF6clk5cHRjZUFaODEwOGJLanFETjkzYWxIWWVtbWR0em42bVF1dDI3TVdnNWJibTg4Zmkzc2huckZjYzdkZ1VaZXFELU1GZXBQVGI4a3dScURzRDRaQmpnMmhNUUh0bGpoLW5ZOVk2eGNxODBrSzgtQVBCTExNbDgwc0l6TWxicDRoRFhVb1lpR1dQRFdKREhYTnZzeFFndnpuYmRCSG4zazJTajNBTA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Coming Soon",
+      "date": "May 07, 2006",
+      "summary": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents - Lakeland Ledger",
+      "city": "Auburndale",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Feb 17, 2023",
+      "summary": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Expanding in Wahneta: Plaza Mexico Plans Expansion Project - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Sep 24, 2014",
+      "summary": "Expanding in Wahneta: Plaza Mexico Plans Expansion Project Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeWhycTBsOXhuN3hoUnUwT2wxSUpaRkx1cE1GQTBGckZxVXFBZ0J0NnZPWlMzV05PcFBXUm14X0NMOUpOWW1RQ1RNVEl3NkdWcExTazJGN0dfSk5nVmpuWnBPd3ZhcTUwYnZxM2Y4Vk9qeHN5MFloVFhJejFzVkJacU5KSV84N0RxRzducnRyQWNnRmlHMU9icg?oc=5",
       "featured": false
     },
     {
@@ -1032,54 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Three Projects Propose 1,000 Apartments in Southwest Lakeland - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Mar 17, 2022",
-      "summary": "Three Projects Propose 1,000 Apartments in Southwest Lakeland LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOElLdWxfUFFqYl80bTlvbE9pbUpDSm9pSDJBYnFLNU9MOWtXZS1fVW1uTTlWTTZLY2prZWJaTU9xWGJJMmJSSzk4aVlzUnZqbGlPajBCellEaWxFRUdPdWIzRWZNeThYdWJaMHE4dWdYa2lpQ1ZNMWQ1S0ZSRG1uVFZOMmVLa2J3S3hhQnpB?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 18, 2023",
-      "summary": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUURpenh4TkczQWh2ZFNBb01zNVAxRHBoa20zZm5TUFNMU1Jpc2JxWU1kdGJGVVNEQnlWOUpoV2FtSkExUFVIZElDTGIwSEwzLUpmY3lmZGZaV3NYeEtENHEtZ29NYU8yMU9FS2JRamxmY1VmTHByYWYybDVQTDI2eUNmUlNRMHM1NkZVbFJHaVFFeTlMRjVvYWg3X01rVTdT?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Swan Landing Will Add to Lakeland’s Mix of Affordable Housing - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Aug 23, 2022",
-      "summary": "Swan Landing Will Add to Lakeland’s Mix of Affordable Housing LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1B5emY0enlFSGhGTkoweHUzV0QtOXBEMG1xLU81UHdtVzA0Z2NHTU1xYk4yOHFYb2EyNjA1aVZTendZdXZFUnlUbVdDRmNzOHJZblA5d19vXzNCVDZnZTNwSlI2OWJZOGc1Y0NxQVdldlpXUDM0eFRzRFZXN1h3dkhmMzlCVTQwWi1mYmpR?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Seminole Tribe Planning Rural Housing Near Lakeland - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Aug 06, 2019",
-      "summary": "Seminole Tribe Planning Rural Housing Near Lakeland LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0tHUFotMDVSakNuTkJGWlB0YU5qMmlBWkFraVJVT0xHQmlMX1VwM3hZQzNRQldiV3RYNVRGM2NUdTBleG55UWkxLVRISlZCakJaWjFncTd1dHoxU21qS294bDQ4aU5vZy04QTJxTFhZOW9iYlRsR19jZjZVd1NZNUFB?oc=5",
       "featured": false
     }
   ]
