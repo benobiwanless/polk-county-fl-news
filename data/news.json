@@ -1,41 +1,53 @@
 {
-  "last_updated": "2026-07-04 14:13 UTC",
+  "last_updated": "2026-07-04 15:30 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
-      "title": "Affordable Housing Breaks Ground in Polk County - Florida Realtors",
-      "city": "Polk County",
+      "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
+      "city": "Bartow",
       "category": "Housing",
-      "status": "Under Construction",
-      "date": "Feb 28, 2024",
-      "summary": "Affordable Housing Breaks Ground in Polk County Florida Realtors",
-      "source": "Florida Realtors",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRy15ck5Fb2pVQ2lXeDN1bFlXT3JIWE9CZ0hOVjAxTzJMTGtIam5laTQyT0EtalFFUW9aNUxxUEpiNXJBeGNsQnhoel9NandHamxMYmIzWEdKd2VGekdJSE9EbXdpSzZybUNoblpveElHcEdReTc0NUJaVFpBNUQtREoxdFd0ajkyb1NySUZIWWthYnVBSFhSeWNlSmhVR19rcXVpWFozZEY0M3VjRmc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New Publix opens in Polk on June 25, and another just got an open date - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Jun 23, 2026",
-      "summary": "New Publix opens in Polk on June 25, and another just got an open date Lakeland Ledger",
+      "status": "Approved",
+      "date": "Nov 11, 2025",
+      "summary": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow Lakeland Ledger",
       "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNk93VWZZRUluU0NQWk9PaEt2WlJxNG82M3ZsNDc3Uk9VOGs4WWt0RnNCYkp6V0M1MVVXQ2ZQX2hQMVpqdlpueVJwQmNiZUtiV1N0OG94SnRjZ25Bd2NiZVJ4cGRVWFVQbTZLQk5zVEd2MU9mV3pWNVpYeF83VTJoZ1V4ZF93QXRWWUd5aHVWeWVjdmo3VHZsUThJZVY2UlpBd094ZlgzbE1wQ19TVjRMM0NfUVJCMU9RNHh5MUMtUVJrVDRhRU1pa2c0cTVjWExwc0MtSHo5TEduaUZ4Q2hwQXVWeUJENUlNUS1hdVY4THhqdmszZnFvcA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVpwZS1OTHkyR25NUGdvTlJINTZ6bUh0VXJ5dk5mcWwwd1RLQ1JRbEMzS2dXNGpDSUNfRWUxZktFQnlHcXRMSGhZZ1A4dVVlWXYxZnBRbWdQcFRwVzZQaERFMWpEUjhnd1VYdUlpYUJnOHFSZm9ZRndxT1dPNmU0M2t3RXpya0NuNHdfV2E3X1VsOTBGN0tXZllCejZGVlJ5UC1QSjFqb0pHSm5NS29KekdacnoxVXBIUGtHT2dIakZPcDFiMGZUTUw5WlA5MlNvd0ZmTFNoVjRESVFxOXNkdkQzbTVMNW8?oc=5",
       "featured": false
     },
     {
-      "title": "Texas Tourists Land In Polk County Jail After Souvenir Shopping Spree In Florida Goes Wrong - Tampa Free Press",
-      "city": "Polk County",
-      "category": "Retail",
+      "title": "Polk County approves 747-home development south of Lakeland - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
       "status": "Update",
-      "date": "Nov 01, 2024",
-      "summary": "Texas Tourists Land In Polk County Jail After Souvenir Shopping Spree In Florida Goes Wrong Tampa Free Press",
-      "source": "Tampa Free Press",
+      "date": "Jan 07, 2026",
+      "summary": "Polk County approves 747-home development south of Lakeland Lakeland Ledger",
+      "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelBzQVVUamRxSmFrbjZ6SGZmTE9lY1FLLXVCWUtkY3FuR2U1REc3VXdUWXJHREJEV2QxSXZWUGtGeVowZjJnckNjOTFweEFOLXdYZ2gzblF1bXFTUERBVGJieFNFMmI5VWg2R2RLMmtpV3NBb3dhUElzenpZXzlKQkt4bnVWZklJZTBIYnE4VWI0RUFXUk56ZG1rdndSaWQwVjgxNWxGLWF2RUJvQ29lTW4wU0tRWHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
+      "featured": false
+    },
+    {
+      "title": "What's you're favorite romantic restaurant in Polk County? Here are 7 favorites - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jan 31, 2026",
+      "summary": "What's you're favorite romantic restaurant in Polk County? Here are 7 favorites Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM21YZ2VFeEhLSVh3OVF0ZXdMRXhOYVJaQ3ZJNERDWTk1MGxCbFhrcEM4b0U0eExIZk5LYjN1OG9DTW9UX1BCU1h5cFFxWERLWUs2ZERMOVVtajBLbUI5VVllNVZnbTA1TmJqNm1DYmJ3S1NCM3kyVzZyeEUwNm9seldmc3ROd2VfZ0dnRXpwRVoxSEY0UkxCanJNYUZDU0ZQV1c0ZUs3NUJCTTMwRzBOX011WC1zTWdyYUZ3cHIwdFZ5ZjJ6Vi1Gbl80VUd4dWZQa3lDTUNfMjBZNXI0cW9ORkNYRjh2V19CTGp3?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Six must-try hidden gem restaurants in Polk that locals love - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jan 09, 2026",
+      "summary": "Six must-try hidden gem restaurants in Polk that locals love Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOXI3V0hQcVI4Z0xkZjdkZUFwVG5fZGZ3amNiMkxLSDVhOVAxRFkzLVBuRndldWU5R28wVXNIUnhoZFJiOFJZcVdPUVMxaUUwZHlZaEphSXY1Z2lMZVZyNzRBb2Y2UXRkQjBEdWFWUjVwNkFwRlRmbXRrbmNiWWNoY3lxNEQ2VjVERzlFZU45NEdNbTFJLXFKazZZaFFydWdlekxCRHZoU0RtWF94dlZROW1kc2VkTkFXd29pVlVBX1RCcGVyMWg5Y0JpM042YmJvODRic3FWM1dIc25fTHVoVFZUS0xzcjVS?oc=5",
       "featured": false
     },
     {
@@ -315,6 +327,18 @@
       "featured": false
     },
     {
+      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 20, 2025",
+      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
       "city": "Polk County",
       "category": "Community",
@@ -324,18 +348,6 @@
       "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 01, 2025",
-      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -375,15 +387,15 @@
       "featured": false
     },
     {
-      "title": "Polk County school district is revising zoning boundaries for its high schools - Lakeland Ledger",
-      "city": "Lakeland",
+      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
+      "city": "Polk County",
       "category": "Community",
-      "status": "Update",
-      "date": "Jul 31, 2025",
-      "summary": "Polk County school district is revising zoning boundaries for its high schools Lakeland Ledger",
-      "source": "Lakeland Ledger",
+      "status": "Coming Soon",
+      "date": "Aug 01, 2025",
+      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
+      "source": "Polk County Public Schools",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFRKWDRrWlBKSm13bWZqRnhNVUFpN3RtekJxbTZDUDE2YUx3ZS03UGdLbXA3cHNZNERrLWtIZXMxU2xBQnc3RHYySlZFTmVrNUhGZ1l6SndkeU1EX3hMQ3lLa1JkNGtvNzNlQ3E3TjRHR19oY2RvNWZwME1KT1gycDg0Y2laclA3N21PLWEyV0ttWVhjMFdQOEVDbkdCMUZOZ0RWNERndGhna19JM0l5eHUtNlJ2V0dSc1JnRWRJV191NXBXblRF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -399,6 +411,18 @@
       "featured": false
     },
     {
+      "title": "Polk County school district is revising zoning boundaries for its high schools - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Community",
+      "status": "Update",
+      "date": "Jul 31, 2025",
+      "summary": "Polk County school district is revising zoning boundaries for its high schools Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFRKWDRrWlBKSm13bWZqRnhNVUFpN3RtekJxbTZDUDE2YUx3ZS03UGdLbXA3cHNZNERrLWtIZXMxU2xBQnc3RHYySlZFTmVrNUhGZ1l6SndkeU1EX3hMQ3lLa1JkNGtvNzNlQ3E3TjRHR19oY2RvNWZwME1KT1gycDg0Y2laclA3N21PLWEyV0ttWVhjMFdQOEVDbkdCMUZOZ0RWNERndGhna19JM0l5eHUtNlJ2V0dSc1JnRWRJV191NXBXblRF?oc=5",
+      "featured": false
+    },
+    {
       "title": "‘We’re Going to Embrace Change’: Lakeland Responds to High School Rezoning - LkldNow",
       "city": "Lakeland",
       "category": "Community",
@@ -408,18 +432,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPclhramJ0aURYUVVWYTZobl9iV00wX29Sa3ROZmhFUzV1S1Q1Rk9ic1MxdFAwRTd4VDNuZlBXSzJFYzJTZWtTYTYyTDYwUWR2bkFxZ1RybUdiU1E3TFhpdzBxRXJtdUZvTmdIczlsY1oySnoyVzR2T3BtSGVOTGZjWUlJa1NtNzh1LXl4Tm93d19zcExfakJod2ZqRQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County approves annual budget, votes against zoning ordinance amendment - The Tryon Daily Bulletin",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jun 17, 2025",
-      "summary": "Polk County approves annual budget, votes against zoning ordinance amendment The Tryon Daily Bulletin",
-      "source": "The Tryon Daily Bulletin",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXJPcjNFVGZfdEFMeEsxNHotQkFMeVFGdGxNa2FudnNXNnFFaGp5Nmd3Mkg4MHh2alA2TnR3RnY4dzVPSW45bWhqb19SSkd3eEhSdWp0RDFzS3JjSGxaY0dUZ1NOSlBOTDBYb1BFZlZrcFp1cW5sUU9mRkJxMU45dkN0TnNEV1lyUTdORlhxOXotN052RU4wSWZjQTFLUDZHV0gzM1ZGUUtRQUJGb1ZrbWhCZmE0RmdTenc?oc=5",
       "featured": false
     },
     {
@@ -531,18 +543,6 @@
       "featured": false
     },
     {
-      "title": "Raise the Bar and Grill Opening Soon in Lake Alfred - Business Debut",
-      "city": "Lake Alfred",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Oct 07, 2025",
-      "summary": "Raise the Bar and Grill Opening Soon in Lake Alfred Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFp3LTctNnRYbnRKU0RsaG5LT0IyZHQydkJWV2pKS2RvMThOM0lnX3VnV1pUMFF4cVFObWJ2NmVGMlFRODRBQzRhV1hxZU1JclRiQUZ2T1JOTk5wNzQySTVGMHpnbnRzVzVFMFpPb2JFbG1TWjYxb2M1enB5ZVlzTVozaWJ0aFFOc2c?oc=5",
-      "featured": false
-    },
-    {
       "title": "Pita-Pie Cafe Hosting a Grand Opening on June 16 in Winter Haven - Business Debut",
       "city": "Winter Haven",
       "category": "Restaurant",
@@ -552,6 +552,18 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNW9oWmFEVVBWcDI5YW04c3Q5TWMyZWhmWndWX2MyUTZaMzVHWldkTmg4QmxxLXU5cGFteDI4U0FMSGQyUTRNb0lnakZTTU9LbWx1UHpGTEF1eXU4dkxnb2JhUzF6QnVjUE9LUjl2c1RlME5CRjJzVXo5WU1FcEdtMGxQRkZSbWVFM1BjOFRPSGljNDc4bmVFQTl2RQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Raise the Bar and Grill Opening Soon in Lake Alfred - Business Debut",
+      "city": "Lake Alfred",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Oct 07, 2025",
+      "summary": "Raise the Bar and Grill Opening Soon in Lake Alfred Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFp3LTctNnRYbnRKU0RsaG5LT0IyZHQydkJWV2pKS2RvMThOM0lnX3VnV1pUMFF4cVFObWJ2NmVGMlFRODRBQzRhV1hxZU1JclRiQUZ2T1JOTk5wNzQySTVGMHpnbnRzVzVFMFpPb2JFbG1TWjYxb2M1enB5ZVlzTVozaWJ0aFFOc2c?oc=5",
       "featured": false
     },
     {
@@ -699,6 +711,18 @@
       "featured": false
     },
     {
+      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - PR.com",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "May 15, 2026",
+      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location PR.com",
+      "source": "PR.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VjBsQkFONFRsb05oZmxPWTFTNmotOWpoZmNKbjlRLXB0Wmp6RFRzYmhJTW05OFlzZkcwbml0ZXd1MHd2YkhQSHNxQmJFNUpM?oc=5",
+      "featured": false
+    },
+    {
       "title": "Fourth Aldi opens in Lakeland amid company's record store-opening pace - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -744,18 +768,6 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeDlhQUUzYllseE5pQklNN3RXTV9scldoc3dVaUJBeXpuRkY1OUJKSGRDSk01NXk1S1MtRnNrdC1ERVVveF9HV2ZCQjNuUHZFc044TGc3Z19IV2NBR1F0dUp0ODJSVHVXTGZ4c0wtR3pZZmE0NHhTZlphNWpqNDVxcUUyRDc1VW9lMmpyUkxmT1FDdHpKcXJuNVNEbG9kMGhPWGt1d09VeXVOazZNMi1LelAxcDhTY1BGSWk3SnlUYk91ZzFERWJCcXZLbC1ldnBfNXlvckpsZ0ZYMGxCall2MkJPdjlhYjk3dHUwTTJYZFFJZTg5TWVwUTNWR3FxZUt1czk2N2dyUQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "PHOTOS: Lakeland's Bonnet Springs Park grand opening this weekend - Tampa Bay 28",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Grand Opening",
-      "date": "Aug 24, 2025",
-      "summary": "PHOTOS: Lakeland's Bonnet Springs Park grand opening this weekend Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNk1LUE40UTNjdWg2MndCcE5SMXFYR2lvYXFsYXlRQkh3dU1IT1JpcFc4Nl8xTU9Wb1lnMFZ5RE5Cd2g5OXVNWl9QNTN1OHZlTUlnTWluT3BzVGlaZEkzUnZ2YkkzZzJVa3h0bVU1V2l0V283XzlQYWwtQ0owVExlQmM1UWNBcHluNTl2dnlQMktEb2dLT2tmYS1mbXRtUEZ3dkxVYjRiU1pRVGs?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0tHUFotMDVSakNuTkJGWlB0YU5qMmlBWkFraVJVT0xHQmlMX1VwM3hZQzNRQldiV3RYNVRGM2NUdTBleG55UWkxLVRISlZCakJaWjFncTd1dHoxU21qS294bDQ4aU5vZy04QTJxTFhZOW9iYlRsR19jZjZVd1NZNUFB?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Clash of Visions: Lakeland and Auburndale at Odds Over Proposed Warehouse Near Florida Poly - LkldNow",
-      "city": "Auburndale",
-      "category": "Commercial",
-      "status": "Coming Soon",
-      "date": "Dec 07, 2023",
-      "summary": "Clash of Visions: Lakeland and Auburndale at Odds Over Proposed Warehouse Near Florida Poly LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2dFQzhKNkNsNjd5Q3IybXdSVF9fd2w2dmVvZzRfMU9QRVlmX2hfNVcwVV9zTk5tUW05MmNhc25MSVdRaEl6NEl0VmJRa1JWR2tlMTUtaWZWMU1BMEtVN3FaM2NkZFdzOEY5QlpVQ2dpdGh3Q2wzZzJvbEV3VUdsZkl0TnpZTGROMVBQSERVLTlfR05zMU9MdV83SWJZUlVvY29kQ1g5T1k4WnZYTjlYaXJreV9idw?oc=5",
       "featured": false
     }
   ]
