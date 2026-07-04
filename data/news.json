@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04 11:17 UTC",
+  "last_updated": "2026-07-04 12:39 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -87,18 +87,6 @@
       "featured": false
     },
     {
-      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - Spectrum Bay News 9",
-      "city": "Lake Wales",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFiaE5nVzY3RnMxUUpEZjluODhULTNQTUhQWWZJV2V4VV9ZRmVfVGNkLUExMG5QYVpOZ01yX3dONmVzSWdoMV9yMmJWNVZoT0ozeEFnV3BoY0pwRFZBX1l2R3RGZEMyRGo4R0dyNTdLQjAxYy1KeENhSjdTNE1hQzh3QlpEYXp4VW1CTkxJOGJqeENCZnhBdVFCM0ZSWTNBcXhqZFZqRDM5WUp3NXRQbw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Lake Wales downtown revival: Historic hotel restoration and new ACE district launch - FOX 13 Tampa Bay",
       "city": "Lake Wales",
       "category": "Hotel",
@@ -108,6 +96,18 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOTRTdnZPbW1HS21Fd2hsY3hBZ1Vuc1lSbG11M2NVWlFlSGRnUkpIemdaLWF0czZXbExJdjMtWUt6M2ZWd1F6NnhGbV8wbENST3JhSE0xakVGeVptaEdGcFBSS19NaUFPbWVDWVRnSDdrU0tOQm82SlVQR01Yd0FjWEp4eXBhSlJta0ZmV2tjdTVCSDFncWhRVm05a09ab1c3NGw4Qmc0RjlqeHdUa3fSAbMBQVVfeXFMTjBLTTRaTzRmVElQU014a0NWWDVORFQxZnI4OHplOXFVTTFScmhaN2Qtb2N6UGQ4LWFyc1lYRzJlTGRobHJVUzRSSFdRM1E4azBKTWtlT2RRYnlvTnB3NU1LNXltZEZaQ1JaaF8wcDJXVDJrNWl3dGZtMGxFaW05bnlraHZTVlNnRm1lTEk4Wmx4UlFQNWN4ZnZPZjJMc2tvTDlCcVpUbXpfX3A3bzhMTWlmVjQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - Spectrum Bay News 9",
+      "city": "Lake Wales",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Jun 12, 2026",
+      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel Spectrum Bay News 9",
+      "source": "Spectrum Bay News 9",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFiaE5nVzY3RnMxUUpEZjluODhULTNQTUhQWWZJV2V4VV9ZRmVfVGNkLUExMG5QYVpOZ01yX3dONmVzSWdoMV9yMmJWNVZoT0ozeEFnV3BoY0pwRFZBX1l2R3RGZEMyRGo4R0dyNTdLQjAxYy1KeENhSjdTNE1hQzh3QlpEYXp4VW1CTkxJOGJqeENCZnhBdVFCM0ZSWTNBcXhqZFZqRDM5WUp3NXRQbw?oc=5",
       "featured": false
     },
     {
@@ -747,6 +747,18 @@
       "featured": false
     },
     {
+      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - PR.com",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "May 15, 2026",
+      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location PR.com",
+      "source": "PR.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VjBsQkFONFRsb05oZmxPWTFTNmotOWpoZmNKbjlRLXB0Wmp6RFRzYmhJTW05OFlzZkcwbml0ZXd1MHd2YkhQSHNxQmJFNUpM?oc=5",
+      "featured": false
+    },
+    {
       "title": "GOLDFLOWER CANNABIS ANNOUNCES GRAND OPENING OF TENTH FLORIDA DISPENSARY IN LAKELAND AND 4TH NEW STORE IN 75 DAYS - PR Newswire",
       "city": "Lakeland",
       "category": "Retail",
@@ -768,18 +780,6 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeDlhQUUzYllseE5pQklNN3RXTV9scldoc3dVaUJBeXpuRkY1OUJKSGRDSk01NXk1S1MtRnNrdC1ERVVveF9HV2ZCQjNuUHZFc044TGc3Z19IV2NBR1F0dUp0ODJSVHVXTGZ4c0wtR3pZZmE0NHhTZlphNWpqNDVxcUUyRDc1VW9lMmpyUkxmT1FDdHpKcXJuNVNEbG9kMGhPWGt1d09VeXVOazZNMi1LelAxcDhTY1BGSWk3SnlUYk91ZzFERWJCcXZLbC1ldnBfNXlvckpsZ0ZYMGxCall2MkJPdjlhYjk3dHUwTTJYZFFJZTg5TWVwUTNWR3FxZUt1czk2N2dyUQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "PHOTOS: Lakeland's Bonnet Springs Park grand opening this weekend - Tampa Bay 28",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Grand Opening",
-      "date": "Aug 24, 2025",
-      "summary": "PHOTOS: Lakeland's Bonnet Springs Park grand opening this weekend Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNk1LUE40UTNjdWg2MndCcE5SMXFYR2lvYXFsYXlRQkh3dU1IT1JpcFc4Nl8xTU9Wb1lnMFZ5RE5Cd2g5OXVNWl9QNTN1OHZlTUlnTWluT3BzVGlaZEkzUnZ2YkkzZzJVa3h0bVU1V2l0V283XzlQYWwtQ0owVExlQmM1UWNBcHluNTl2dnlQMktEb2dLT2tmYS1mbXRtUEZ3dkxVYjRiU1pRVGs?oc=5",
       "featured": false
     },
     {
