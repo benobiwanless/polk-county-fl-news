@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05 17:43 UTC",
+  "last_updated": "2026-07-05 18:46 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -144,18 +144,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport restaurant at risk of closing without community support - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "Davenport restaurant at risk of closing without community support WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
       "featured": false
     },
     {
@@ -603,6 +591,18 @@
       "featured": false
     },
     {
+      "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Dec 17, 2025",
+      "summary": "Dave & Buster’s announces Davenport grand opening OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "Davenport sheriff's office substation to hold grand opening - KSBW",
       "city": "Davenport",
       "category": "Commercial",
@@ -675,18 +675,6 @@
       "featured": false
     },
     {
-      "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Feb 17, 2026",
-      "summary": "New Lakeland Animal Hospital Now Open Lakeland Currents",
-      "source": "Lakeland Currents",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
-      "featured": false
-    },
-    {
       "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
       "city": "Lakeland",
       "category": "Development",
@@ -696,6 +684,18 @@
       "source": "Douglas Now",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 17, 2026",
+      "summary": "New Lakeland Animal Hospital Now Open Lakeland Currents",
+      "source": "Lakeland Currents",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
       "featured": false
     },
     {
@@ -903,6 +903,18 @@
       "featured": false
     },
     {
+      "title": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Nov 10, 2021",
+      "summary": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0txMnJ6MXoydVlxeTlYV3RVTWdnWXBnanduWTZFX0hiQzFlZy1EZXhaWG5POEdSSHNJVk5iNWtDZkVWTDVaM00tRDg4ZkxNS2xuc20tV3NEMmQxYlI2QmJPZmg5cHNTWGNFQnd0THhpTWpYVDlkZWNNcDU4NGFkSmJsU1hfV1lzbzQtVTAzMDU2NzBsMU9jWm5oYTRjdGtwbUxVYTFXRExhUzdtWEUzNzVjUFF2MDJwQzRDbS1ZU3FHVzE2WkNEemRnWkFUUWVzMnRNMUdaMm1KMG9vb1I0?oc=5",
+      "featured": false
+    },
+    {
       "title": "Posner Park Development Launched - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -924,18 +936,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEt2MDJFMmhxTFl5Z0NxMWF5aENsOUItNGV3QVg4RUNFRUZ4U1JPc1pKQVgtemZtY04yekRwc1FLZnBMMi1INGI2VDZranI5UU5lWXdweTVaNnpWbW00dHNNcmJaRS1aQ04yTzVEWDV3S3JkNUtOeHhLSy1rT0xXczdBNHp2ZVFnRXFIM2FVLUVESy1acDFlRWExQWZEWFFJZXF0TFE4WWRHc0swdy1zTlBkS1ZVcEVRellBbmliSnFLcVN5RUhBcHphSEtGdw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Update",
-      "date": "Nov 10, 2021",
-      "summary": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0txMnJ6MXoydVlxeTlYV3RVTWdnWXBnanduWTZFX0hiQzFlZy1EZXhaWG5POEdSSHNJVk5iNWtDZkVWTDVaM00tRDg4ZkxNS2xuc20tV3NEMmQxYlI2QmJPZmg5cHNTWGNFQnd0THhpTWpYVDlkZWNNcDU4NGFkSmJsU1hfV1lzbzQtVTAzMDU2NzBsMU9jWm5oYTRjdGtwbUxVYTFXRExhUzdtWEUzNzVjUFF2MDJwQzRDbS1ZU3FHVzE2WkNEemRnWkFUUWVzMnRNMUdaMm1KMG9vb1I0?oc=5",
       "featured": false
     },
     {
