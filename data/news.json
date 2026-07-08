@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 21:22 UTC",
+  "last_updated": "2026-07-08 22:30 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -48,6 +48,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Humility Homes announces 11-unit supportive housing project in Davenport - The Quad-City Times",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 08, 2026",
+      "summary": "Humility Homes announces 11-unit supportive housing project in Davenport The Quad-City Times",
+      "source": "The Quad-City Times",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFhRTHdRRTBFaEZyaWJoTEVIQWRmVlQ1VlYweGlyanU5YlV3Ti04d3pmSFZRMzB3dUg0Y1JzVHZMY1BFLURzUTQxMzI5SjdvM3RwaTh0X0dCZXJadzVsTl8xZjd1bjlWamdvbS1meXlBOVREUlpIcjNfalV2WnVFMlU0MzBSdnV4UkJiYUlEeTBtU1NKcGwydjktMjdGYUdGbWc?oc=5",
       "featured": false
     },
     {
@@ -147,18 +159,6 @@
       "featured": false
     },
     {
-      "title": "Davenport restaurant at risk of closing without community support - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "Davenport restaurant at risk of closing without community support WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
-      "featured": false
-    },
-    {
       "title": "2026 Construction Season - City of Davenport",
       "city": "Davenport",
       "category": "Development",
@@ -183,15 +183,27 @@
       "featured": false
     },
     {
-      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - Spectrum Bay News 9",
-      "city": "Lake Wales",
-      "category": "Hotel",
+      "title": "Davenport restaurant at risk of closing without community support - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
       "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "date": "Jun 20, 2026",
+      "summary": "Davenport restaurant at risk of closing without community support WQAD",
+      "source": "WQAD",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFiaE5nVzY3RnMxUUpEZjluODhULTNQTUhQWWZJV2V4VV9ZRmVfVGNkLUExMG5QYVpOZ01yX3dONmVzSWdoMV9yMmJWNVZoT0ozeEFnV3BoY0pwRFZBX1l2R3RGZEMyRGo4R0dyNTdLQjAxYy1KeENhSjdTNE1hQzh3QlpEYXp4VW1CTkxJOGJqeENCZnhBdVFCM0ZSWTNBcXhqZFZqRDM5WUp3NXRQbw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
+      "featured": false
+    },
+    {
+      "title": "This day in history: Frank Church celebrated new Hells Canyon designation. Davenport Hotel opened European offices - The Spokesman-Review",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Grand Opening",
+      "date": "Jun 21, 2026",
+      "summary": "This day in history: Frank Church celebrated new Hells Canyon designation. Davenport Hotel opened European offices The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDdfZ25qTXRQb1pNbnljdC12cENKR004REVfRDY4UHFWNWVWcHQxRktOc2p3MThNeXpjOTgwRnJzNHFuZ0pzcl9hc1g5eHVELVBsUFI1bU11cnQ5dkR1Wl9ta3EzcGc2WVZNdE5pazR0WkFXZndFMVhabERacEVKX1RZQ2VsS2FZRGY5N2FMRVBrb0xHT2xvdVRQajhlZw?oc=5",
       "featured": false
     },
     {
@@ -207,15 +219,15 @@
       "featured": false
     },
     {
-      "title": "This day in history: Frank Church celebrated new Hells Canyon designation. Davenport Hotel opened European offices - The Spokesman-Review",
-      "city": "Davenport",
+      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - Spectrum Bay News 9",
+      "city": "Lake Wales",
       "category": "Hotel",
-      "status": "Grand Opening",
-      "date": "Jun 21, 2026",
-      "summary": "This day in history: Frank Church celebrated new Hells Canyon designation. Davenport Hotel opened European offices The Spokesman-Review",
-      "source": "The Spokesman-Review",
+      "status": "Update",
+      "date": "Jun 12, 2026",
+      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel Spectrum Bay News 9",
+      "source": "Spectrum Bay News 9",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDdfZ25qTXRQb1pNbnljdC12cENKR004REVfRDY4UHFWNWVWcHQxRktOc2p3MThNeXpjOTgwRnJzNHFuZ0pzcl9hc1g5eHVELVBsUFI1bU11cnQ5dkR1Wl9ta3EzcGc2WVZNdE5pazR0WkFXZndFMVhabERacEVKX1RZQ2VsS2FZRGY5N2FMRVBrb0xHT2xvdVRQajhlZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFiaE5nVzY3RnMxUUpEZjluODhULTNQTUhQWWZJV2V4VV9ZRmVfVGNkLUExMG5QYVpOZ01yX3dONmVzSWdoMV9yMmJWNVZoT0ozeEFnV3BoY0pwRFZBX1l2R3RGZEMyRGo4R0dyNTdLQjAxYy1KeENhSjdTNE1hQzh3QlpEYXp4VW1CTkxJOGJqeENCZnhBdVFCM0ZSWTNBcXhqZFZqRDM5WUp3NXRQbw?oc=5",
       "featured": false
     },
     {
@@ -240,42 +252,6 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQUZxVEdZTEQ1eDBaRENzd2RUVnRqVVl5R2FtYUhyMjE0YWJURXNxdTJldVlhMG16RVJ1U183SFk3R0RmdEE3MWJFLUl3ZXlNS3ZHbUc0S2JHb1FHc2t5ZmNReE5VSDFVdXB3NVlwc2JmeE1qeGtNUnZZNXFMTU9sNEN1LWQyaWl4X1NWMmZVakh1N1RfSHVXNVJrdC11SHF3RUczM1VkLWctZ0NpcUczdDE5cWRYOW9vbG1RQWczbHRteGx1RUhZR3U4azFRbjBSdzBhbjkxZk9NMTlTSUI4SkdRaEdTLXc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "May 20, 2026",
-      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
-      "source": "LODGING Magazine",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 09, 2026",
-      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
-      "source": "VCU News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lake Wales to transform decades-old public housing complex into af­fordable housing - Spectrum Bay News 9",
-      "city": "Lake Wales",
-      "category": "Housing",
-      "status": "Update",
-      "date": "May 04, 2026",
-      "summary": "Lake Wales to transform decades-old public housing complex into af­fordable housing Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXRJTjJXdGNHMFVyTFpibFU4VDhLcE9tS1o4ekhiVEJqNHlPNUhvSng4UDVJNFp5TWZWRjV1cmJRNWVkUWJxdVBHWll5NjF3Y3VMQlRjeUNqdzNBRW1pY19DWVJZTWVUNk84MkM5SW1oeVhOd0FUT2xZcXdnOEw5UmlLWnZURG9KeGUzUFZXako?oc=5",
       "featured": false
     },
     {
@@ -363,18 +339,6 @@
       "featured": false
     },
     {
-      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 20, 2025",
-      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
       "city": "Polk County",
       "category": "Community",
@@ -384,6 +348,18 @@
       "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 01, 2025",
+      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -411,15 +387,15 @@
       "featured": false
     },
     {
-      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
+      "title": "Polk County schools plan comprehensive rezoning for 2026-27 school year - WFLA",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Aug 01, 2025",
-      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
-      "source": "Polk County Public Schools",
+      "date": "Aug 02, 2025",
+      "summary": "Polk County schools plan comprehensive rezoning for 2026-27 school year WFLA",
+      "source": "WFLA",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtaV21Pck1WRWd6V3V4UWpBUzYxa3hxbC1YWll6ajNOQ1RMRS01TUQyR0JZRzJxMTNTUDdGNXZ6THMtdkNYaDRzZEVTdHlUVm4teWtlRXJjVlRmVXltRGo3SmdxWXo4TjdtSWpXYTM5a2FYdlQtb2V0Y0NnWUl2OUx0dVQ2Y1BPeHJrM2w0eE8tWVI0VVZHY0piMktpMXZrdUxSUS0wR294Zk5ubU9v0gG0AUFVX3lxTE9SUEFrejZBT3V3RDlpZzl4OXZXbEdVUEs1S3hWMFQ4Y0s4ZjEwMjVCa2QyOGU4aS1BMnh4T2VHQ3FkUHdCR0VoU252UkcyMVdLcFB3OERneFNlRjZfY3diWklid3FfTXJNeFdUMVpobTBmd0hMWnhOamtmdTFsZW03NXdpLUZtYzZlTzZwNU5SRDVrUlhoa1UtSnRVc1dxY1dlXzd5MlNfamU2YkV4WDlfSEZ4Mw?oc=5",
       "featured": false
     },
     {
@@ -432,18 +408,6 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County schools plan comprehensive rezoning for 2026-27 school year - WFLA",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 02, 2025",
-      "summary": "Polk County schools plan comprehensive rezoning for 2026-27 school year WFLA",
-      "source": "WFLA",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtaV21Pck1WRWd6V3V4UWpBUzYxa3hxbC1YWll6ajNOQ1RMRS01TUQyR0JZRzJxMTNTUDdGNXZ6THMtdkNYaDRzZEVTdHlUVm4teWtlRXJjVlRmVXltRGo3SmdxWXo4TjdtSWpXYTM5a2FYdlQtb2V0Y0NnWUl2OUx0dVQ2Y1BPeHJrM2w0eE8tWVI0VVZHY0piMktpMXZrdUxSUS0wR294Zk5ubU9v0gG0AUFVX3lxTE9SUEFrejZBT3V3RDlpZzl4OXZXbEdVUEs1S3hWMFQ4Y0s4ZjEwMjVCa2QyOGU4aS1BMnh4T2VHQ3FkUHdCR0VoU252UkcyMVdLcFB3OERneFNlRjZfY3diWklid3FfTXJNeFdUMVpobTBmd0hMWnhOamtmdTFsZW03NXdpLUZtYzZlTzZwNU5SRDVrUlhoa1UtSnRVc1dxY1dlXzd5MlNfamU2YkV4WDlfSEZ4Mw?oc=5",
       "featured": false
     },
     {
@@ -468,6 +432,18 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPclhramJ0aURYUVVWYTZobl9iV00wX29Sa3ROZmhFUzV1S1Q1Rk9ic1MxdFAwRTd4VDNuZlBXSzJFYzJTZWtTYTYyTDYwUWR2bkFxZ1RybUdiU1E3TFhpdzBxRXJtdUZvTmdIczlsY1oySnoyVzR2T3BtSGVOTGZjWUlJa1NtNzh1LXl4Tm93d19zcExfakJod2ZqRQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County school district is revising zoning boundaries for its high schools - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Community",
+      "status": "Update",
+      "date": "Jul 31, 2025",
+      "summary": "Polk County school district is revising zoning boundaries for its high schools Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFRKWDRrWlBKSm13bWZqRnhNVUFpN3RtekJxbTZDUDE2YUx3ZS03UGdLbXA3cHNZNERrLWtIZXMxU2xBQnc3RHYySlZFTmVrNUhGZ1l6SndkeU1EX3hMQ3lLa1JkNGtvNzNlQ3E3TjRHR19oY2RvNWZwME1KT1gycDg0Y2laclA3N21PLWEyV0ttWVhjMFdQOEVDbkdCMUZOZ0RWNERndGhna19JM0l5eHUtNlJ2V0dSc1JnRWRJV191NXBXblRF?oc=5",
       "featured": false
     },
     {
@@ -600,6 +576,18 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFp3LTctNnRYbnRKU0RsaG5LT0IyZHQydkJWV2pKS2RvMThOM0lnX3VnV1pUMFF4cVFObWJ2NmVGMlFRODRBQzRhV1hxZU1JclRiQUZ2T1JOTk5wNzQySTVGMHpnbnRzVzVFMFpPb2JFbG1TWjYxb2M1enB5ZVlzTVozaWJ0aFFOc2c?oc=5",
+      "featured": false
+    },
+    {
+      "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 21, 2026",
+      "summary": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay WFTV",
+      "source": "WFTV",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
       "featured": false
     },
     {
@@ -792,18 +780,6 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeDlhQUUzYllseE5pQklNN3RXTV9scldoc3dVaUJBeXpuRkY1OUJKSGRDSk01NXk1S1MtRnNrdC1ERVVveF9HV2ZCQjNuUHZFc044TGc3Z19IV2NBR1F0dUp0ODJSVHVXTGZ4c0wtR3pZZmE0NHhTZlphNWpqNDVxcUUyRDc1VW9lMmpyUkxmT1FDdHpKcXJuNVNEbG9kMGhPWGt1d09VeXVOazZNMi1LelAxcDhTY1BGSWk3SnlUYk91ZzFERWJCcXZLbC1ldnBfNXlvckpsZ0ZYMGxCall2MkJPdjlhYjk3dHUwTTJYZFFJZTg5TWVwUTNWR3FxZUt1czk2N2dyUQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "PHOTOS: Lakeland's Bonnet Springs Park grand opening this weekend - Tampa Bay 28",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Grand Opening",
-      "date": "Aug 24, 2025",
-      "summary": "PHOTOS: Lakeland's Bonnet Springs Park grand opening this weekend Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNk1LUE40UTNjdWg2MndCcE5SMXFYR2lvYXFsYXlRQkh3dU1IT1JpcFc4Nl8xTU9Wb1lnMFZ5RE5Cd2g5OXVNWl9QNTN1OHZlTUlnTWluT3BzVGlaZEkzUnZ2YkkzZzJVa3h0bVU1V2l0V283XzlQYWwtQ0owVExlQmM1UWNBcHluNTl2dnlQMktEb2dLT2tmYS1mbXRtUEZ3dkxVYjRiU1pRVGs?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1056,30 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Swan Landing Will Add to Lakeland’s Mix of Affordable Housing - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Aug 23, 2022",
+      "summary": "Swan Landing Will Add to Lakeland’s Mix of Affordable Housing LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1B5emY0enlFSGhGTkoweHUzV0QtOXBEMG1xLU81UHdtVzA0Z2NHTU1xYk4yOHFYb2EyNjA1aVZTendZdXZFUnlUbVdDRmNzOHJZblA5d19vXzNCVDZnZTNwSlI2OWJZOGc1Y0NxQVdldlpXUDM0eFRzRFZXN1h3dkhmMzlCVTQwWi1mYmpR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 18, 2023",
+      "summary": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUURpenh4TkczQWh2ZFNBb01zNVAxRHBoa20zZm5TUFNMU1Jpc2JxWU1kdGJGVVNEQnlWOUpoV2FtSkExUFVIZElDTGIwSEwzLUpmY3lmZGZaV3NYeEtENHEtZ29NYU8yMU9FS2JRamxmY1VmTHByYWYybDVQTDI2eUNmUlNRMHM1NkZVbFJHaVFFeTlMRjVvYWg3X01rVTdT?oc=5",
       "featured": false
     }
   ]
