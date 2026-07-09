@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09 21:45 UTC",
+  "last_updated": "2026-07-09 23:02 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -99,6 +99,18 @@
       "featured": false
     },
     {
+      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "Lake Wales downtown revival: Historic hotel restoration and new ACE district launch - FOX 13 Tampa Bay",
       "city": "Lake Wales",
       "category": "Hotel",
@@ -123,18 +135,6 @@
       "featured": false
     },
     {
-      "title": "Davenport Hooters First Managing Partner Jonathan Buckley, Started as a Cook - RestaurantNews.com",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jul 03, 2026",
-      "summary": "Davenport Hooters First Managing Partner Jonathan Buckley, Started as a Cook RestaurantNews.com",
-      "source": "RestaurantNews.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEZtOVpwbm42RkdRZHdFRkxvSGx5UlBnVm1WWnZrMmhJN0RiVGdMenhBMjZKLWdVZUw4dkE1OHBJdjNDQkJXTlJqMmtHRnRiQ3BJUXVPN3ZqSGt0c185bTRQOHg3cEsxLU9WYmw3aDUtY1JtYTBRMkZ4b1pIaFhHT1BxVWVnQVRiakZrQ0otbkFUY2FB?oc=5",
-      "featured": false
-    },
-    {
       "title": "It’s flag day at new Bubba’s 33 restaurant in Davenport - Quad Cities Business Journal",
       "city": "Davenport",
       "category": "Restaurant",
@@ -144,6 +144,18 @@
       "source": "Quad Cities Business Journal",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHhmMjM5b2M5VkJsN3hXdXBaUkR0RkttdmxVcnowelJSczhxbVBZWGdXQ3VibjJadGdDMHVxNWQxMUZ1SnJWMmNWQkNKZE9mVXh5S2JleDJ3dGVmS01Nand3MXhtclpkM21yUVFHa2IyREdLYk5aNUoyczI4emg2UFJFQkVpWVlyTEZlVUN3?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport Hooters First Managing Partner Jonathan Buckley, Started as a Cook - RestaurantNews.com",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jul 03, 2026",
+      "summary": "Davenport Hooters First Managing Partner Jonathan Buckley, Started as a Cook RestaurantNews.com",
+      "source": "RestaurantNews.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEZtOVpwbm42RkdRZHdFRkxvSGx5UlBnVm1WWnZrMmhJN0RiVGdMenhBMjZKLWdVZUw4dkE1OHBJdjNDQkJXTlJqMmtHRnRiQ3BJUXVPN3ZqSGt0c185bTRQOHg3cEsxLU9WYmw3aDUtY1JtYTBRMkZ4b1pIaFhHT1BxVWVnQVRiakZrQ0otbkFUY2FB?oc=5",
       "featured": false
     },
     {
@@ -180,18 +192,6 @@
       "source": "Iowa Department of Transportation (.gov)",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTBWVmdpamN5bUY3aWI0X3I3MnEyUi1taDgxV3dsMDJlZXJDcEduQUhvUXpzaFNlOWU0aGxqanlhZ25JTmdWLTdVWDRaaVJhb0lLdVBHbFZJUjFjU1Q4d3hsNE5nUndaUUU0dFVoVjVzUXA2a05pdklyUUxKajZXRUFpOXk4YzZPdXJDZ3ZMX3pqV0xfelJCTzFGcFdjZDllUnFIOEo3M3FXVHBFdlFOb2J2cmdxMUc2SUtfLVFlSHVUMm1fOVhVZg?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
       "featured": false
     },
     {
@@ -267,6 +267,18 @@
       "featured": false
     },
     {
+      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 09, 2026",
+      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
+      "source": "VCU News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk County Public Schools Approves High School Rezoning - LkldNow",
       "city": "Polk County",
       "category": "Community",
@@ -276,6 +288,18 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0lwMTJ5SVFWWXc4N2hfeVJ2S3ZlUFJjbTZydk5USmxJQTlkTW5qMkx4VThhX3JhY2o1cGdXX3ZreFBCY2diM1duN01GbzlfQkZrNC1QM2NNZ2U0eUJDWjNFUzFoWWVHeENwcTI4X284QWgyeXBSdVM3Ql9pRVBnaG9sc0JaZzhE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business & Wealth",
+      "city": "Polk City",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business & Wealth",
+      "source": "Tampa Bay Business & Wealth",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
     },
     {
@@ -327,30 +351,6 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business & Wealth",
-      "city": "Polk City",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business & Wealth",
-      "source": "Tampa Bay Business & Wealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 20, 2025",
-      "summary": "Polk County high school rezoning plan: See all the current and proposed zones Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
       "city": "Polk County",
       "category": "Community",
@@ -375,15 +375,27 @@
       "featured": false
     },
     {
-      "title": "Virtual town hall for parents to learn about Polk County high school rezoning proposal - FOX 13 Tampa Bay",
+      "title": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
-      "status": "Coming Soon",
-      "date": "Oct 02, 2025",
-      "summary": "Virtual town hall for parents to learn about Polk County high school rezoning proposal FOX 13 Tampa Bay",
+      "status": "Update",
+      "date": "Aug 28, 2025",
+      "summary": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in FOX 13 Tampa Bay",
       "source": "FOX 13 Tampa Bay",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmVqT19xeG1RUWxvbUFsaGFjVnVSTUZlREFRTXZVMTlESnVDay1rS1BhcVpNU1ZndjJXZ0RmUTlZUmRFbDVaQ0wtVTZJRF9OcmdUaTU5MEltaWpWdnZRcE1JQUlDUkNJaU5XTk9vOFdOQ2xkVmRRaU9kVjFacmVPbmd2VnNNZGJFeWZxeXZ5UzkzOHpVTV9KSHdLUWN3NHRqYkxLR2wtVUt3WlVQbEZ4TzZPZUgyQdIBuwFBVV95cUxQbmFhQlFkXzBLTGF0c2NNRjRPaXRIMXctUjdhZVdNVUoydUtpdDE1Q3V5SHh0Z29Pb0hRQ3hFWWIxampkaHpKUUh1R1ZGT3pXeWRwTmprendJYS1JQ2ptc0E2R3d1UFJmNmxMSWJaSTJiZkdYdUJuaV8xZEZtaVBQaVRydlRvaW9SekhYbVhYRjlSZ1JZdHlrZkUwOWhkeXdFdU54YlNVTS1UeUtNQ0t0SDFkYVN5eVdiMTRn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 20, 2025",
+      "summary": "Polk County high school rezoning plan: See all the current and proposed zones Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
       "featured": false
     },
     {
@@ -399,15 +411,15 @@
       "featured": false
     },
     {
-      "title": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in - FOX 13 Tampa Bay",
+      "title": "Virtual town hall for parents to learn about Polk County high school rezoning proposal - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
-      "status": "Update",
-      "date": "Aug 28, 2025",
-      "summary": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in FOX 13 Tampa Bay",
+      "status": "Coming Soon",
+      "date": "Oct 02, 2025",
+      "summary": "Virtual town hall for parents to learn about Polk County high school rezoning proposal FOX 13 Tampa Bay",
       "source": "FOX 13 Tampa Bay",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmVqT19xeG1RUWxvbUFsaGFjVnVSTUZlREFRTXZVMTlESnVDay1rS1BhcVpNU1ZndjJXZ0RmUTlZUmRFbDVaQ0wtVTZJRF9OcmdUaTU5MEltaWpWdnZRcE1JQUlDUkNJaU5XTk9vOFdOQ2xkVmRRaU9kVjFacmVPbmd2VnNNZGJFeWZxeXZ5UzkzOHpVTV9KSHdLUWN3NHRqYkxLR2wtVUt3WlVQbEZ4TzZPZUgyQdIBuwFBVV95cUxQbmFhQlFkXzBLTGF0c2NNRjRPaXRIMXctUjdhZVdNVUoydUtpdDE1Q3V5SHh0Z29Pb0hRQ3hFWWIxampkaHpKUUh1R1ZGT3pXeWRwTmprendJYS1JQ2ptc0E2R3d1UFJmNmxMSWJaSTJiZkdYdUJuaV8xZEZtaVBQaVRydlRvaW9SekhYbVhYRjlSZ1JZdHlrZkUwOWhkeXdFdU54YlNVTS1UeUtNQ0t0SDFkYVN5eVdiMTRn?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Swan Landing Will Add to Lakeland’s Mix of Affordable Housing - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Aug 23, 2022",
-      "summary": "Swan Landing Will Add to Lakeland’s Mix of Affordable Housing LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1B5emY0enlFSGhGTkoweHUzV0QtOXBEMG1xLU81UHdtVzA0Z2NHTU1xYk4yOHFYb2EyNjA1aVZTendZdXZFUnlUbVdDRmNzOHJZblA5d19vXzNCVDZnZTNwSlI2OWJZOGc1Y0NxQVdldlpXUDM0eFRzRFZXN1h3dkhmMzlCVTQwWi1mYmpR?oc=5",
       "featured": false
     }
   ]
