@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12 22:05 UTC",
+  "last_updated": "2026-07-12 23:07 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -312,6 +312,18 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0lwMTJ5SVFWWXc4N2hfeVJ2S3ZlUFJjbTZydk5USmxJQTlkTW5qMkx4VThhX3JhY2o1cGdXX3ZreFBCY2diM1duN01GbzlfQkZrNC1QM2NNZ2U0eUJDWjNFUzFoWWVHeENwcTI4X284QWgyeXBSdVM3Ql9pRVBnaG9sc0JaZzhE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County school board approves rezoning for high schools - FOX 13 Tampa Bay",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Jan 27, 2026",
+      "summary": "Polk County school board approves rezoning for high schools FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmJTeHM0dkpjc3dHNS1QNzdwVmZVV1lqSW1NNlhRVEE0QnBPWmlFOWpiV0g5WkRWYkxpS1p0TGpiQUVXaDUwa0N5ZzU1TUJjWkxfZWpWdklxcktMWHlPU2FfZFdSal9ieFE0TW9RRnlzalJncUNhM2tsaks2UzBxZnNWTm1qTHFwM1VtYVdDQdIBlAFBVV95cUxPQUplZ2xQalFqTVA1ZTY1QWk1RnNtMFJDTlY4MFlKaG82bk9ETnQ0WkZQNHdBM2ZqWVQ5UFhVN0xBNENseXB1YWMyOXBQTDZQaHgzekl3VVNXbDd0c21kVGRHQmg4WWpJbDRmR1VLbk5SNm8zcnYtOWhJOXU4Y19uQkE5c1ZSdU5FTHlBNXRLLVVxaWFR?oc=5",
       "featured": false
     },
     {
@@ -915,6 +927,18 @@
       "featured": false
     },
     {
+      "title": "Denied at first, Morgan Creek gets another chance at expansion - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Nov 17, 2021",
+      "summary": "Denied at first, Morgan Creek gets another chance at expansion Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHphVjdJbmlFZkxDNG4xNmpveW9jTHhYWnZ4cWxLbmhUNmxYbGpOc05IelZSRG9vWjBMR1J2WHRMdE9uYlRrNWFsejhGWHNaVW9lVHRqeDlZUTVzcXNsamI2c0R4bkRETmM1MG1qMlh6b1NRaS1ra0p6YUoxY2IxeG1KWVlUbi1lblkycEszNnpxaDRlZHVMM1dXSjFnNktZNEtFcC04UGtmX05BRHNYUFc5Y0xXUDRPX3k4NFdINms5QjJHeDhZQVJqWk8tdmRRQ1RqWUJMdDVJR1ozbVE?oc=5",
+      "featured": false
+    },
+    {
       "title": "Lake Wales approves development that could double its population - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -1056,30 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Is design of Thompson Nursery Road safe? Residents tell Polk County Commission no - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Update",
-      "date": "May 23, 2025",
-      "summary": "Is design of Thompson Nursery Road safe? Residents tell Polk County Commission no Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb1MzQWJNdzJwai1yLWoyTUJSbWc5ZkRKWkFIN1BCR0JVdVBzV2pZM2trQmk0YkVSRS1xNGRtckN0Z0VPMkh6Q3kwUHhucGljMS1sb1hXbHp1LWJSQlBOYlVGUlRCcm40RnMyZEN0dlV4VmFKZ2h0NWtYVE5tYUxrSlRyMDdJaWJKVXhMdUNvZEFYY1FFaU1UaXlTVWpkU1Z4aGJYVWhIeW9aR21OZ2tEY3NYOUQtN0N1UFVsZkxiZFc3YVAyNlBWWV9Yd1JQV3lYWnc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Expanding in Wahneta: Plaza Mexico Plans Expansion Project - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Sep 24, 2014",
-      "summary": "Expanding in Wahneta: Plaza Mexico Plans Expansion Project Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeWhycTBsOXhuN3hoUnUwT2wxSUpaRkx1cE1GQTBGckZxVXFBZ0J0NnZPWlMzV05PcFBXUm14X0NMOUpOWW1RQ1RNVEl3NkdWcExTazJGN0dfSk5nVmpuWnBPd3ZhcTUwYnZxM2Y4Vk9qeHN5MFloVFhJejFzVkJacU5KSV84N0RxRzducnRyQWNnRmlHMU9icg?oc=5",
       "featured": false
     }
   ]
