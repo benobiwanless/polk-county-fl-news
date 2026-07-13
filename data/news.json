@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13 20:33 UTC",
+  "last_updated": "2026-07-13 21:33 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -87,18 +87,6 @@
       "featured": false
     },
     {
-      "title": "Humility Homes announces 11-unit supportive housing project in Davenport - Dispatch Argus",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 08, 2026",
-      "summary": "Humility Homes announces 11-unit supportive housing project in Davenport Dispatch Argus",
-      "source": "Dispatch Argus",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFQzMC03cnJWWTFGTURTdU5rdTVrWWMxdE1Ya1lYNEVZOTRPSWpmUk90SVY2TGhWLUpnOHVvSHNoSW4xRnhtNXczQVM3dTViSTl1M25Xb3hMLVZINnBnaFJxTG9qVVk1YklfRDI1YnFvYVpGbnU4U1VWa2M2QXRUdnN6U2Jmb0ZPNzVWbWtfczEyQzU1LUhjQUNSSmlNOFF3bDlF?oc=5",
-      "featured": false
-    },
-    {
       "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
       "city": "Davenport",
       "category": "Restaurant",
@@ -180,6 +168,18 @@
       "source": "OurQuadCities",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Humility Homes announces 11-unit supportive housing project in Davenport - The Quad-City Times",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 08, 2026",
+      "summary": "Humility Homes announces 11-unit supportive housing project in Davenport The Quad-City Times",
+      "source": "The Quad-City Times",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFhRTHdRRTBFaEZyaWJoTEVIQWRmVlQ1VlYweGlyanU5YlV3Ti04d3pmSFZRMzB3dUg0Y1JzVHZMY1BFLURzUTQxMzI5SjdvM3RwaTh0X0dCZXJadzVsTl8xZjd1bjlWamdvbS1meXlBOVREUlpIcjNfalV2WnVFMlU0MzBSdnV4UkJiYUlEeTBtU1NKcGwydjktMjdGYUdGbWc?oc=5",
       "featured": false
     },
     {
@@ -327,13 +327,13 @@
       "featured": false
     },
     {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire",
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
       "city": "Polk County",
       "category": "Development",
       "status": "Update",
       "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire",
-      "source": "DrydenWire",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
+      "source": "DrydenWire.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
@@ -507,6 +507,18 @@
       "featured": false
     },
     {
+      "title": "LGI Homes Expands Presence in Polk County with Launch of Peach Crossings in Winter Haven, Florida - GlobeNewswire",
+      "city": "Winter Haven",
+      "category": "Housing",
+      "status": "Update",
+      "date": "May 02, 2025",
+      "summary": "LGI Homes Expands Presence in Polk County with Launch of Peach Crossings in Winter Haven, Florida GlobeNewswire",
+      "source": "GlobeNewswire",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONFM0cnRHUlFpaVFVV1Q5N2N6ZnltbERYMEtmZzEzYjhXejlybDJQWTcyc2o2UmkwNFhueDFmT3ZFN3RhemtvMXZydG1ScmFZN01rYzJVb0V2Mko2MjVXTS04ckItVm1RMFFQMWJUd3N5cmVYcFdWeXV4eS1zNjB4cXZMcE9xamVXaUI5NFNrR0lFeUNHVXVVaHVzaDlQVmRKT1RzRGdwZjZzaWlNUTZYdTUxcUtJLW82a0FmX0tjQWR4MEVwaHVnSHdJbDUyeXkzUXlyRTBEWUJldnhYMDBsWC1kV0VRTGZINGVoZ2Z6TEw2dDJmeWdpeWM5YVg4TGZ5N2c?oc=5",
+      "featured": false
+    },
+    {
       "title": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Housing",
@@ -612,6 +624,18 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFp3LTctNnRYbnRKU0RsaG5LT0IyZHQydkJWV2pKS2RvMThOM0lnX3VnV1pUMFF4cVFObWJ2NmVGMlFRODRBQzRhV1hxZU1JclRiQUZ2T1JOTk5wNzQySTVGMHpnbnRzVzVFMFpPb2JFbG1TWjYxb2M1enB5ZVlzTVozaWJ0aFFOc2c?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - Lakeland Currents",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 13, 2026",
+      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location Lakeland Currents",
+      "source": "Lakeland Currents",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
       "featured": false
     },
     {
@@ -759,30 +783,6 @@
       "featured": false
     },
     {
-      "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Feb 17, 2026",
-      "summary": "New Lakeland Animal Hospital Now Open Lakeland Currents",
-      "source": "Lakeland Currents",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Academy Sports + Outdoors Opens New Lakeland Store with Grand Opening Deals & Giveaways - Tampa Bay 28",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Grand Opening",
-      "date": "Oct 17, 2025",
-      "summary": "Academy Sports + Outdoors Opens New Lakeland Store with Grand Opening Deals & Giveaways Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU0lRRWlUcmV1aXhLRXhsTW55Q1hQbzNqZUE1amNBS3VVemE1OG5IT0NwRy1ZNTNBTVFRUlI3by05MzAwVzhlOTJnUEJzUS1naGRKSGd2b0pHVVdsQmdNeVBJTWVZU0xfQVVYUTVseHBlR3k2TkpjRE5iUzJkNjBXUEJCZm5tVHJmQzk0Q0RmRHhDdTZCY0pjeHlqZEFYRVFJeXp5U01RLTVGTWRjZFJtZE4wUV9iZ2E1Z0tkWVU5em5Pdw?oc=5",
-      "featured": false
-    },
-    {
       "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - KWQC",
       "city": "Davenport",
       "category": "Development",
@@ -807,6 +807,30 @@
       "featured": false
     },
     {
+      "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 17, 2026",
+      "summary": "New Lakeland Animal Hospital Now Open Lakeland Currents",
+      "source": "Lakeland Currents",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Academy Sports + Outdoors Opens New Lakeland Store with Grand Opening Deals & Giveaways - Tampa Bay 28",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Grand Opening",
+      "date": "Oct 17, 2025",
+      "summary": "Academy Sports + Outdoors Opens New Lakeland Store with Grand Opening Deals & Giveaways Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU0lRRWlUcmV1aXhLRXhsTW55Q1hQbzNqZUE1amNBS3VVemE1OG5IT0NwRy1ZNTNBTVFRUlI3by05MzAwVzhlOTJnUEJzUS1naGRKSGd2b0pHVVdsQmdNeVBJTWVZU0xfQVVYUTVseHBlR3k2TkpjRE5iUzJkNjBXUEJCZm5tVHJmQzk0Q0RmRHhDdTZCY0pjeHlqZEFYRVFJeXp5U01RLTVGTWRjZFJtZE4wUV9iZ2E1Z0tkWVU5em5Pdw?oc=5",
+      "featured": false
+    },
+    {
       "title": "New housing development coming to north Lakeland - Business Observer",
       "city": "Lakeland",
       "category": "Housing",
@@ -828,18 +852,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWTQ4UFJjVjZvQWxCSVZrR005aXAtc3lERFVBRnpzU3N5cWZpMExKVmEwNWxWWHFrTzBQR0wzUVlUMkFiRWgtWDItRGRKQzRTUWN1T0wxUHV4ZGtGS0JySzJaU3duRmR5N3d4MGFmVG9saXZCV2E1VWxOZlg2SnRlczdSSWgzWnBNdS1PQWhNUHpQUEpIMElKNWpDSUZXZV9xSXJ0bXp6SlVOakI4YkxxVnVRV21SYnd3SU15OFBHbXNzNFNQRDRsQXRRVE1jYm9TTTc4WHRiVmV6aFJMOWlyRlRicTRPUQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - PR.com",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "May 15, 2026",
-      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location PR.com",
-      "source": "PR.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VjBsQkFONFRsb05oZmxPWTFTNmotOWpoZmNKbjlRLXB0Wmp6RFRzYmhJTW05OFlzZkcwbml0ZXd1MHd2YkhQSHNxQmJFNUpM?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Publix navigates patchwork of county, city liquor store codes for new Havendale Boulevard site - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Jan 27, 2023",
-      "summary": "Publix navigates patchwork of county, city liquor store codes for new Havendale Boulevard site Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFI0V01PQjRWOS10M0dTSDZ3U1hEREkzZGprV1VaUTB1S3BMb0lwenJ3SUNuOGhfX2p5czNrWmhhaDU3NVAta2xLTDU0eEgzWEk0S3JPVFRzMWtHaEduX0s3UXhaMl9mNld4b1kzZjNBSkVXU0w5RjkyOWhEUlVua0ZRRGZyUm5hZlJmY25PV1RjRjczTUFWcm1uY2RiQ1EtQ1o0MklycEFqR1ZkTE1NZi1hZ0t2OHpLdktQU2dndDI4UmZtdVpCRFE2b0lNS0J6OGw5dGpWUXlJejVWMktkQ1UtNkU0Y0Y5UGsxcDBFazZyS3M?oc=5",
       "featured": false
     }
   ]
