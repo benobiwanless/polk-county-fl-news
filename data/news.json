@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14 19:01 UTC",
+  "last_updated": "2026-07-14 20:21 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -171,18 +171,6 @@
       "featured": false
     },
     {
-      "title": "It’s flag day at new Bubba’s 33 restaurant in Davenport - Quad Cities Business Journal",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jul 02, 2026",
-      "summary": "It’s flag day at new Bubba’s 33 restaurant in Davenport Quad Cities Business Journal",
-      "source": "Quad Cities Business Journal",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHhmMjM5b2M5VkJsN3hXdXBaUkR0RkttdmxVcnowelJSczhxbVBZWGdXQ3VibjJadGdDMHVxNWQxMUZ1SnJWMmNWQkNKZE9mVXh5S2JleDJ3dGVmS01Nand3MXhtclpkM21yUVFHa2IyREdLYk5aNUoyczI4emg2UFJFQkVpWVlyTEZlVUN3?oc=5",
-      "featured": false
-    },
-    {
       "title": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 - Iowa Department of Transportation (.gov)",
       "city": "Davenport",
       "category": "Infrastructure",
@@ -192,6 +180,18 @@
       "source": "Iowa Department of Transportation (.gov)",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTBWVmdpamN5bUY3aWI0X3I3MnEyUi1taDgxV3dsMDJlZXJDcEduQUhvUXpzaFNlOWU0aGxqanlhZ25JTmdWLTdVWDRaaVJhb0lLdVBHbFZJUjFjU1Q4d3hsNE5nUndaUUU0dFVoVjVzUXA2a05pdklyUUxKajZXRUFpOXk4YzZPdXJDZ3ZMX3pqV0xfelJCTzFGcFdjZDllUnFIOEo3M3FXVHBFdlFOb2J2cmdxMUc2SUtfLVFlSHVUMm1fOVhVZg?oc=5",
+      "featured": false
+    },
+    {
+      "title": "It’s flag day at new Bubba’s 33 restaurant in Davenport - Quad Cities Business Journal",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jul 02, 2026",
+      "summary": "It’s flag day at new Bubba’s 33 restaurant in Davenport Quad Cities Business Journal",
+      "source": "Quad Cities Business Journal",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHhmMjM5b2M5VkJsN3hXdXBaUkR0RkttdmxVcnowelJSczhxbVBZWGdXQ3VibjJadGdDMHVxNWQxMUZ1SnJWMmNWQkNKZE9mVXh5S2JleDJ3dGVmS01Nand3MXhtclpkM21yUVFHa2IyREdLYk5aNUoyczI4emg2UFJFQkVpWVlyTEZlVUN3?oc=5",
       "featured": false
     },
     {
@@ -540,6 +540,18 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFxSzBiZHZ6ZmFGQ2xPeEc5RUxTNWhhVVV4MG9oZFltdzM4eWxVeExFQjhLb1hrSktpSGpkWTV4YVBuLTdNOFFSb3k0WDE1bkNpM2xRSS1UY1BoOV9leWt0V3l1aHBrMkRHM19ObVJ4U3RCdmo0ZEVjalUtbWZtbXlUdTk4N1lxNC0xSDRheUM0aDlhOWpQWDMxcUVvUklEU3kzWFBGRdIBrAFBVV95cUxNSndvTlN0NzgyMl9FSnI2aEF1QU9Rb0l1NFo4TUZFN0JpMlllaHNfZzB2ZGVCcURrNkFjUTBFaEtJY2N2UlQ4ZTd0cF9FODVIOEtzLU9HWUt2WFdKZzJfUEkyaU5NLUQ0VTJIUk85THhKTTFDWktGTHMyd3RtVWM4aWd5eHVoNzZ0dWltZjAwRlg1VnJ0QTRjY2owa1RMU3ZPQTRnc1ZkT2U5Q0Fp?oc=5",
+      "featured": false
+    },
+    {
+      "title": "LGI Homes Expands Presence in Polk County with Launch of Peach Crossings in Winter Haven, Florida - GlobeNewswire",
+      "city": "Winter Haven",
+      "category": "Housing",
+      "status": "Update",
+      "date": "May 02, 2025",
+      "summary": "LGI Homes Expands Presence in Polk County with Launch of Peach Crossings in Winter Haven, Florida GlobeNewswire",
+      "source": "GlobeNewswire",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONFM0cnRHUlFpaVFVV1Q5N2N6ZnltbERYMEtmZzEzYjhXejlybDJQWTcyc2o2UmkwNFhueDFmT3ZFN3RhemtvMXZydG1ScmFZN01rYzJVb0V2Mko2MjVXTS04ckItVm1RMFFQMWJUd3N5cmVYcFdWeXV4eS1zNjB4cXZMcE9xamVXaUI5NFNrR0lFeUNHVXVVaHVzaDlQVmRKT1RzRGdwZjZzaWlNUTZYdTUxcUtJLW82a0FmX0tjQWR4MEVwaHVnSHdJbDUyeXkzUXlyRTBEWUJldnhYMDBsWC1kV0VRTGZINGVoZ2Z6TEw2dDJmeWdpeWM5YVg4TGZ5N2c?oc=5",
       "featured": false
     },
     {
@@ -1056,18 +1068,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWNEZy1QbWlaazVwZmE2TjktdVN4QWNNTllxcllGN0lwZUtFZjl5S1Y2ay12MUxzN1FnLUFEdE1nMmZIb05TTEl2QTZmRWhNTDZQTEVCcndDLUd2NGhmaDBhVFlOc05VdjlUeXFIMkprX3dtNkQ5RTFSRVVld3JmZllLRkdNT2k4MERuQW55eEhORWZVUExYTkplRVdObWpWd1Bzdy1rVWRXNWNPalBQczJqUEFudmpxYTJYVEVwVHUyV2o2VjB1VE82eDgtUlFVaHdvbkI3WTNFQQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 10, 2004",
-      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
       "featured": false
     },
     {
