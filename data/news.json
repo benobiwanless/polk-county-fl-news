@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15 10:14 UTC",
+  "last_updated": "2026-07-15 11:48 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -231,18 +231,6 @@
       "featured": false
     },
     {
-      "title": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday prices - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 16, 2026",
-      "summary": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday prices WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQUZxVEdZTEQ1eDBaRENzd2RUVnRqVVl5R2FtYUhyMjE0YWJURXNxdTJldVlhMG16RVJ1U183SFk3R0RmdEE3MWJFLUl3ZXlNS3ZHbUc0S2JHb1FHc2t5ZmNReE5VSDFVdXB3NVlwc2JmeE1qeGtNUnZZNXFMTU9sNEN1LWQyaWl4X1NWMmZVakh1N1RfSHVXNVJrdC11SHF3RUczM1VkLWctZ0NpcUczdDE5cWRYOW9vbG1RQWczbHRteGx1RUhZR3U4azFRbjBSdzBhbjkxZk9NMTlTSUI4SkdRaEdTLXc?oc=5",
-      "featured": false
-    },
-    {
       "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -252,6 +240,18 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday prices - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 16, 2026",
+      "summary": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday prices WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQUZxVEdZTEQ1eDBaRENzd2RUVnRqVVl5R2FtYUhyMjE0YWJURXNxdTJldVlhMG16RVJ1U183SFk3R0RmdEE3MWJFLUl3ZXlNS3ZHbUc0S2JHb1FHc2t5ZmNReE5VSDFVdXB3NVlwc2JmeE1qeGtNUnZZNXFMTU9sNEN1LWQyaWl4X1NWMmZVakh1N1RfSHVXNVJrdC11SHF3RUczM1VkLWctZ0NpcUczdDE5cWRYOW9vbG1RQWczbHRteGx1RUhZR3U4azFRbjBSdzBhbjkxZk9NMTlTSUI4SkdRaEdTLXc?oc=5",
       "featured": false
     },
     {
@@ -420,18 +420,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPclhramJ0aURYUVVWYTZobl9iV00wX29Sa3ROZmhFUzV1S1Q1Rk9ic1MxdFAwRTd4VDNuZlBXSzJFYzJTZWtTYTYyTDYwUWR2bkFxZ1RybUdiU1E3TFhpdzBxRXJtdUZvTmdIczlsY1oySnoyVzR2T3BtSGVOTGZjWUlJa1NtNzh1LXl4Tm93d19zcExfakJod2ZqRQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County schools plan comprehensive rezoning for 2026-27 school year - WFLA",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 02, 2025",
-      "summary": "Polk County schools plan comprehensive rezoning for 2026-27 school year WFLA",
-      "source": "WFLA",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtaV21Pck1WRWd6V3V4UWpBUzYxa3hxbC1YWll6ajNOQ1RMRS01TUQyR0JZRzJxMTNTUDdGNXZ6THMtdkNYaDRzZEVTdHlUVm4teWtlRXJjVlRmVXltRGo3SmdxWXo4TjdtSWpXYTM5a2FYdlQtb2V0Y0NnWUl2OUx0dVQ2Y1BPeHJrM2w0eE8tWVI0VVZHY0piMktpMXZrdUxSUS0wR294Zk5ubU9v0gG0AUFVX3lxTE9SUEFrejZBT3V3RDlpZzl4OXZXbEdVUEs1S3hWMFQ4Y0s4ZjEwMjVCa2QyOGU4aS1BMnh4T2VHQ3FkUHdCR0VoU252UkcyMVdLcFB3OERneFNlRjZfY3diWklid3FfTXJNeFdUMVpobTBmd0hMWnhOamtmdTFsZW03NXdpLUZtYzZlTzZwNU5SRDVrUlhoa1UtSnRVc1dxY1dlXzd5MlNfamU2YkV4WDlfSEZ4Mw?oc=5",
       "featured": false
     },
     {
@@ -843,18 +831,6 @@
       "featured": false
     },
     {
-      "title": "New Publix opening soon amid a plethora of East Polk housing developments - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Grand Opening",
-      "date": "Feb 27, 2025",
-      "summary": "New Publix opening soon amid a plethora of East Polk housing developments Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDR1Nlpoc3gtQm03R0FvTkZTdVQzeHgyVVhkREphYl9idTg3Q0tKdkMwbmxXMjA3Z0lveEp2OU1KV2FRbXRZZmQ4TnlGdHZzZ0ZKbUY1dTBzZV9TSmY5b1hiN0ltLVlKaDB2TVpCSlJEb2todnM2dnp6ZUpvd0hsVFZmMC03VXpCRE41RUx4dVV1TWNBVUNCTDFnTUpvdzF3QVI1RjVMaUs5bDMzXzZDODhjMDJlNXdrdnNuaU1ubXZ4ODJOUl9JVlpKby1SVWlxS0Rz?oc=5",
-      "featured": false
-    },
-    {
       "title": "Against an uproar from residents, Polk commissioners OK 1,876-home Creek Ranch development - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -864,6 +840,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGJ5YW5WZGEyUDJfdVZ6SzVVcW5IWS1KQ1YyWUZwOFcweW9pQkxhWWZ1cHdiOWtpd0FkQXZHQnk3d1QyY3ZSd1lMSkNuRVczMm5TMnAwUU1OajFrRDRncVNsWmFtOFZzN25CMkJoNEVHeS1XQjFnV2VBU2N5UmxpbDNYNjRjNHV4bTRrdE9haWMxeGx6N0VTWEZQYVk0dFVFUWxXMXlRdE1RVnhqd0xWd0kwaHA5enJMOUVjVm1pVEZnUmtqT3hDcjJkODVIMWM?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New Publix opening soon amid a plethora of East Polk housing developments - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Grand Opening",
+      "date": "Feb 27, 2025",
+      "summary": "New Publix opening soon amid a plethora of East Polk housing developments Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDR1Nlpoc3gtQm03R0FvTkZTdVQzeHgyVVhkREphYl9idTg3Q0tKdkMwbmxXMjA3Z0lveEp2OU1KV2FRbXRZZmQ4TnlGdHZzZ0ZKbUY1dTBzZV9TSmY5b1hiN0ltLVlKaDB2TVpCSlJEb2todnM2dnp6ZUpvd0hsVFZmMC03VXpCRE41RUx4dVV1TWNBVUNCTDFnTUpvdzF3QVI1RjVMaUs5bDMzXzZDODhjMDJlNXdrdnNuaU1ubXZ4ODJOUl9JVlpKby1SVWlxS0Rz?oc=5",
       "featured": false
     },
     {
@@ -951,18 +939,6 @@
       "featured": false
     },
     {
-      "title": "Large, 57,008-square-foot Publix is coming to U.S. 27 in Davenport - Lakeland Ledger",
-      "city": "Davenport",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Dec 12, 2023",
-      "summary": "Large, 57,008-square-foot Publix is coming to U.S. 27 in Davenport Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEt2MDJFMmhxTFl5Z0NxMWF5aENsOUItNGV3QVg4RUNFRUZ4U1JPc1pKQVgtemZtY04yekRwc1FLZnBMMi1INGI2VDZranI5UU5lWXdweTVaNnpWbW00dHNNcmJaRS1aQ04yTzVEWDV3S3JkNUtOeHhLSy1rT0xXczdBNHp2ZVFnRXFIM2FVLUVESy1acDFlRWExQWZEWFFJZXF0TFE4WWRHc0swdy1zTlBkS1ZVcEVRellBbmliSnFLcVN5RUhBcHphSEtGdw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -987,6 +963,18 @@
       "featured": false
     },
     {
+      "title": "Large, 57,008-square-foot Publix is coming to U.S. 27 in Davenport - Lakeland Ledger",
+      "city": "Davenport",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Dec 12, 2023",
+      "summary": "Large, 57,008-square-foot Publix is coming to U.S. 27 in Davenport Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEt2MDJFMmhxTFl5Z0NxMWF5aENsOUItNGV3QVg4RUNFRUZ4U1JPc1pKQVgtemZtY04yekRwc1FLZnBMMi1INGI2VDZranI5UU5lWXdweTVaNnpWbW00dHNNcmJaRS1aQ04yTzVEWDV3S3JkNUtOeHhLSy1rT0xXczdBNHp2ZVFnRXFIM2FVLUVESy1acDFlRWExQWZEWFFJZXF0TFE4WWRHc0swdy1zTlBkS1ZVcEVRellBbmliSnFLcVN5RUhBcHphSEtGdw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Winter Haven residents fume over zoning change on Thompson Nursery Road - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -996,18 +984,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWNEZy1QbWlaazVwZmE2TjktdVN4QWNNTllxcllGN0lwZUtFZjl5S1Y2ay12MUxzN1FnLUFEdE1nMmZIb05TTEl2QTZmRWhNTDZQTEVCcndDLUd2NGhmaDBhVFlOc05VdjlUeXFIMkprX3dtNkQ5RTFSRVVld3JmZllLRkdNT2k4MERuQW55eEhORWZVUExYTkplRVdObWpWd1Bzdy1rVWRXNWNPalBQczJqUEFudmpxYTJYVEVwVHUyV2o2VjB1VE82eDgtUlFVaHdvbkI3WTNFQQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 10, 2004",
-      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
       "featured": false
     },
     {
@@ -1032,6 +1008,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Mar 10, 2004",
+      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1068,18 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jun 24, 2023",
+      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
