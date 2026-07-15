@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-15 13:10 UTC",
+  "last_updated": "2026-07-15 15:00 UTC",
   "feed_mode": "live-expanded",
   "items": [
+    {
+      "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
+      "city": "Bartow",
+      "category": "Housing",
+      "status": "Approved",
+      "date": "Nov 11, 2025",
+      "summary": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVpwZS1OTHkyR25NUGdvTlJINTZ6bUh0VXJ5dk5mcWwwd1RLQ1JRbEMzS2dXNGpDSUNfRWUxZktFQnlHcXRMSGhZZ1A4dVVlWXYxZnBRbWdQcFRwVzZQaERFMWpEUjhnd1VYdUlpYUJnOHFSZm9ZRndxT1dPNmU0M2t3RXpya0NuNHdfV2E3X1VsOTBGN0tXZllCejZGVlJ5UC1QSjFqb0pHSm5NS29KekdacnoxVXBIUGtHT2dIakZPcDFiMGZUTUw5WlA5MlNvd0ZmTFNoVjRESVFxOXNkdkQzbTVMNW8?oc=5",
+      "featured": false
+    },
     {
       "title": "Polk County planning board denies 3rd bid for Deeson Road development - Lakeland Ledger",
       "city": "Lakeland",
@@ -12,6 +24,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNVM1ajhfR01tc29jYjUySEFkLW9TaV8waWFjLWpXRG54empib09QZm1YeXoxcFNlZ1J4cVhVcEg3TklETDlOcmJTQ3lONWExVml4TWM1ZnFtNFgzQUFGYjUxbnh2YlJxazdyWS1FX201NUFJbUZKV2JPWTV2MXp1NFZpVUhUSFFlei14YzIxaXU2SWNXRmljOTlSaENpSkZVTG83MzRTU3pUb3Zaa2VYOEp2aldpTEhZMXlRNmR0WkVDWVY5dzd2b0Rfc3dMbXozMndFUnUxRTlIMHpfeHFOVlF4bEJOcnZQS3Q0Yk9CeFo4bGVxNzk3UTR5Q2Vyb0RrQXBYWmtOaw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County approves 747-home development south of Lakeland - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 07, 2026",
+      "summary": "Polk County approves 747-home development south of Lakeland Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
       "featured": false
     },
     {
@@ -27,39 +51,27 @@
       "featured": false
     },
     {
-      "title": "Two Polk County Winn-Dixie stores will close soon and convert to Aldi - Lakeland Ledger",
+      "title": "Polk Restaurants open on Thanksgiving Day range from casual to upscale - Lakeland Ledger",
       "city": "Lakeland",
-      "category": "Retail",
+      "category": "Restaurant",
       "status": "Update",
-      "date": "Mar 07, 2026",
-      "summary": "Two Polk County Winn-Dixie stores will close soon and convert to Aldi Lakeland Ledger",
+      "date": "Nov 21, 2025",
+      "summary": "Polk Restaurants open on Thanksgiving Day range from casual to upscale Lakeland Ledger",
       "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNllnODhVTUp1b2E5WDkxVWVjaEVwSlhJbEQ5Mm50MDlyekkweVN5X2Vqb3FjRXlyYkg5RGZNOFdpRndsMnJUWU4wazhIazltWDFzSTVJczJ5dzlabmhCREhNcGtVQW9GWHpPNzNzbWlOYUdVWUlIaXB5VHZwdlBzSzZlS0FIcnktRldVZl9HT3loeEdlZklFaHNXVmhyV1hNSmJjZEx0ejdjNWtBRmM0bnZqUkhSM1dDa1dsaDBYMXpNNmF0SkJhWE9HclJqZzZqRHB3eUQ4Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSUVZc3lNUmoxTy1qN25xY1c3Qm4zSGUxSDFKanpsaWRUdW9TeVlaUVlRdmh4c2wxem1BVE9kUURYMnMzR0trSTNUNzR6U3pjbkxXdWl6QkFJZVd0Nnk3TEhiY0VKdGh3YlJiMWpITHZIRl9BZjVZcDB2Z1VZU0thSU9WSHJpM1hLdWNOSFhDQmlUUGFjd0dhcGJfQmhkSWdtcjZnOUIxTi1NOS14OC1JcGNnRHpWdmtGTVlESHBtZHFEdjJFTVowRWg2YzFDTlRnbUUzbTFvUjdSOTJ3TWkxMWJ4dFVCMTRLekE?oc=5",
       "featured": false
     },
     {
-      "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
-      "city": "Bartow",
-      "category": "Housing",
-      "status": "Approved",
-      "date": "Nov 11, 2025",
-      "summary": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVpwZS1OTHkyR25NUGdvTlJINTZ6bUh0VXJ5dk5mcWwwd1RLQ1JRbEMzS2dXNGpDSUNfRWUxZktFQnlHcXRMSGhZZ1A4dVVlWXYxZnBRbWdQcFRwVzZQaERFMWpEUjhnd1VYdUlpYUJnOHFSZm9ZRndxT1dPNmU0M2t3RXpya0NuNHdfV2E3X1VsOTBGN0tXZllCejZGVlJ5UC1QSjFqb0pHSm5NS29KekdacnoxVXBIUGtHT2dIakZPcDFiMGZUTUw5WlA5MlNvd0ZmTFNoVjRESVFxOXNkdkQzbTVMNW8?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County approves 747-home development south of Lakeland - Lakeland Ledger",
+      "title": "More than 2 dozen new restaurants graced Polk's culinary scene in 2025 - Lakeland Ledger",
       "city": "Lakeland",
-      "category": "Development",
+      "category": "Restaurant",
       "status": "Update",
-      "date": "Jan 07, 2026",
-      "summary": "Polk County approves 747-home development south of Lakeland Lakeland Ledger",
+      "date": "Dec 30, 2025",
+      "summary": "More than 2 dozen new restaurants graced Polk's culinary scene in 2025 Lakeland Ledger",
       "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUElTX1JUWlhiek03QllGRnFoOWRLdFc3VWpmbmFsRTBsZEI3enRfWU1qOWRpaFdUVENTS2tGR1FvTGU2ckVSVDRNeGQyS1ZuTE5TV2E5ZDlNYW5sQWhGdEZ4SlljQk4xLVJlcEF4eXAweWhJa2lYbHl2LXdvc3AzUzBGTmJtYjZEbW5UZ281aHZ3bktacXM3MWtkcklQQjlFdkVSYkJMVXNMSktxT1lEWTQ3aTFZN1hzWWc5N3N3eWN3Mngxc3ptSGVjWXJTcDB2cnRPb3NiVTVEUQ?oc=5",
       "featured": false
     },
     {
@@ -471,6 +483,18 @@
       "featured": false
     },
     {
+      "title": "Whispering Ridge by Maronda Homes in Lake Wales FL - Livabl",
+      "city": "Lake Wales",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Apr 21, 2023",
+      "summary": "Whispering Ridge by Maronda Homes in Lake Wales FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5adnJQVy1zMDN5QnBDM0VkU2lldnoxTk9hak8yZ0lUMHBBdE5vZldGbG5pQllKU19HVHJ3Y0FiMm1mZXp0LW5mdFh3XzVONGQtN2lvWnppczhqcXZBZUpVeVZadw?oc=5",
+      "featured": false
+    },
+    {
       "title": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Housing",
@@ -759,18 +783,6 @@
       "featured": false
     },
     {
-      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Feb 09, 2026",
-      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
-      "source": "Douglas Now",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
-      "featured": false
-    },
-    {
       "title": "Academy Sports + Outdoors Opens New Lakeland Store with Grand Opening Deals & Giveaways - Tampa Bay 28",
       "city": "Lakeland",
       "category": "Retail",
@@ -792,6 +804,18 @@
       "source": "Business Observer",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHNweEpHSnBVb1l1NVhXWk1xenoyNEtyd3VjNzIxUGwtRlU0YXZmNWxxSGNiaFI1NmdGZHBybGtFWUlFOTRPVWxOVXR4Umo3UVlHclNmV3cwYkRDa21yemFmX2ZCQXZSNzB2QktEQXRpelpHcEw0SVJaSC1nQWZ0ODhQMUtwWU15ZHZiX2JDVHdNZ3dxc0R2cU5yMXJNZ3dWS1pB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 09, 2026",
+      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
+      "source": "Douglas Now",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
       "featured": false
     },
     {
@@ -1056,30 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFI0V01PQjRWOS10M0dTSDZ3U1hEREkzZGprV1VaUTB1S3BMb0lwenJ3SUNuOGhfX2p5czNrWmhhaDU3NVAta2xLTDU0eEgzWEk0S3JPVFRzMWtHaEduX0s3UXhaMl9mNld4b1kzZjNBSkVXU0w5RjkyOWhEUlVua0ZRRGZyUm5hZlJmY25PV1RjRjczTUFWcm1uY2RiQ1EtQ1o0MklycEFqR1ZkTE1NZi1hZ0t2OHpLdktQU2dndDI4UmZtdVpCRFE2b0lNS0J6OGw5dGpWUXlJejVWMktkQ1UtNkU0Y0Y5UGsxcDBFazZyS3M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Oct 18, 2021",
-      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jun 24, 2023",
-      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
