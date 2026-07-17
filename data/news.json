@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 18:31 UTC",
+  "last_updated": "2026-07-17 19:44 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -72,18 +72,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Vera French dedicates Carol`s Village Gardens housing development in Davenport - AOL.com",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 16, 2026",
-      "summary": "Vera French dedicates Carol`s Village Gardens housing development in Davenport AOL.com",
-      "source": "AOL.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVG5xLWk2RTZVdVg5dlE3TEFhNk1ETXkweUV2OGxPVGJMYkNocW0ySExsUGlwWm5PZTJ3cVNyZURCLTVUTDdkdEJZNHdfcGc4Y1lEXzZ4S1Rkc0tkQk41SGxsTFZNZXVaRFd3blJvZm5IeU9NbDI4THBxMmVxLXl5NTVLWjFZZw?oc=5",
       "featured": false
     },
     {
@@ -183,6 +171,18 @@
       "featured": false
     },
     {
+      "title": "Davenport restaurant at risk of closing without community support - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "Davenport restaurant at risk of closing without community support WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
+      "featured": false
+    },
+    {
       "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -279,18 +279,6 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business & Wealth",
-      "city": "Polk City",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business & Wealth",
-      "source": "Tampa Bay Business & Wealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Public Schools Approves High School Rezoning - LkldNow",
       "city": "Polk County",
       "category": "Community",
@@ -339,6 +327,18 @@
       "featured": false
     },
     {
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business & Wealth",
+      "city": "Polk City",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business & Wealth",
+      "source": "Tampa Bay Business & Wealth",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "featured": false
+    },
+    {
       "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
       "city": "Polk County",
       "category": "Community",
@@ -363,18 +363,6 @@
       "featured": false
     },
     {
-      "title": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in - FOX 13 Tampa Bay",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Update",
-      "date": "Aug 28, 2025",
-      "summary": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -387,15 +375,15 @@
       "featured": false
     },
     {
-      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
+      "title": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 04, 2025",
-      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
-      "source": "Tampa Bay 28",
+      "status": "Update",
+      "date": "Aug 28, 2025",
+      "summary": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
       "featured": false
     },
     {
@@ -411,6 +399,30 @@
       "featured": false
     },
     {
+      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 04, 2025",
+      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Some Polk County parents express worry as high school rezoning plans take shape - Tampa Bay 28",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 28, 2025",
+      "summary": "Some Polk County parents express worry as high school rezoning plans take shape Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkxyODNuSm5Ja3pXQW9kOVFOU1NHZnBjUVpQeGZsNzItTTM1bnBWTFVVWXphZUNUUWtzbUFqVjBqeUZIUFMyclg1azVvczJUTS1UaVN6S3FpMU1vTVhGMVJoZXdQNVJBeFBGY2dhdDcwN1JyZ1NKVUc0c2J6QjdkaG9WVGU3Z0I0dGlYemN5aU53MjVfSF9oa3NqT0lIYUFOOVBtbXRac0pVc1NpQlJvbnZwQzhBMTdqendrTzhIZU4?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
       "city": "Polk County",
       "category": "Community",
@@ -420,18 +432,6 @@
       "source": "WFLA",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County schools plan comprehensive rezoning for 2026-27 school year - WFLA",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 02, 2025",
-      "summary": "Polk County schools plan comprehensive rezoning for 2026-27 school year WFLA",
-      "source": "WFLA",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtaV21Pck1WRWd6V3V4UWpBUzYxa3hxbC1YWll6ajNOQ1RMRS01TUQyR0JZRzJxMTNTUDdGNXZ6THMtdkNYaDRzZEVTdHlUVm4teWtlRXJjVlRmVXltRGo3SmdxWXo4TjdtSWpXYTM5a2FYdlQtb2V0Y0NnWUl2OUx0dVQ2Y1BPeHJrM2w0eE8tWVI0VVZHY0piMktpMXZrdUxSUS0wR294Zk5ubU9v0gG0AUFVX3lxTE9SUEFrejZBT3V3RDlpZzl4OXZXbEdVUEs1S3hWMFQ4Y0s4ZjEwMjVCa2QyOGU4aS1BMnh4T2VHQ3FkUHdCR0VoU252UkcyMVdLcFB3OERneFNlRjZfY3diWklid3FfTXJNeFdUMVpobTBmd0hMWnhOamtmdTFsZW03NXdpLUZtYzZlTzZwNU5SRDVrUlhoa1UtSnRVc1dxY1dlXzd5MlNfamU2YkV4WDlfSEZ4Mw?oc=5",
       "featured": false
     },
     {
