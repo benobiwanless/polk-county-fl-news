@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 21:29 UTC",
+  "last_updated": "2026-07-17 22:22 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -711,6 +711,18 @@
       "featured": false
     },
     {
+      "title": "Davenport sheriff's office substation to hold grand opening - KSBW",
+      "city": "Davenport",
+      "category": "Commercial",
+      "status": "Grand Opening",
+      "date": "Feb 09, 2026",
+      "summary": "Davenport sheriff's office substation to hold grand opening KSBW",
+      "source": "KSBW",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0RjTndyb1FwZjR3ejdEVEtVQzBEWWJOMVEwNU14MWNVWnBnV1p4OVlLSjhNaWxhMlFZcDVtR3FSakM1X3ZHXzVKNDJwQXA0R2pUUnA5LV9GNkVZMTNOTl9Zc2g5d19MQ09wRGFLZk5XQ3dGZXRUakRSZDVkSzU2QnRHbw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -771,18 +783,6 @@
       "featured": false
     },
     {
-      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Feb 09, 2026",
-      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
-      "source": "Douglas Now",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
-      "featured": false
-    },
-    {
       "title": "Ollie’s Bargain Outlet to open Davenport store - KWQC",
       "city": "Davenport",
       "category": "Retail",
@@ -828,6 +828,18 @@
       "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 09, 2026",
+      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
+      "source": "Douglas Now",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents - Lakeland Ledger",
-      "city": "Auburndale",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Feb 17, 2023",
-      "summary": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
       "featured": false
     }
   ]
