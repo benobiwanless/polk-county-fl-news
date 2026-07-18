@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 14:06 UTC",
+  "last_updated": "2026-07-18 15:12 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -747,6 +747,18 @@
       "featured": false
     },
     {
+      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - The National Law Review",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Apr 17, 2026",
+      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th The National Law Review",
+      "source": "The National Law Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
+      "featured": false
+    },
+    {
       "title": "Lakeland's Depot Arts District set for grand opening - FOX 13 Tampa Bay",
       "city": "Lakeland",
       "category": "Development",
@@ -828,18 +840,6 @@
       "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU0lRRWlUcmV1aXhLRXhsTW55Q1hQbzNqZUE1amNBS3VVemE1OG5IT0NwRy1ZNTNBTVFRUlI3by05MzAwVzhlOTJnUEJzUS1naGRKSGd2b0pHVVdsQmdNeVBJTWVZU0xfQVVYUTVseHBlR3k2TkpjRE5iUzJkNjBXUEJCZm5tVHJmQzk0Q0RmRHhDdTZCY0pjeHlqZEFYRVFJeXp5U01RLTVGTWRjZFJtZE4wUV9iZ2E1Z0tkWVU5em5Pdw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - PR.com",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "May 15, 2026",
-      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location PR.com",
-      "source": "PR.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VjBsQkFONFRsb05oZmxPWTFTNmotOWpoZmNKbjlRLXB0Wmp6RFRzYmhJTW05OFlzZkcwbml0ZXd1MHd2YkhQSHNxQmJFNUpM?oc=5",
       "featured": false
     },
     {
@@ -975,18 +975,6 @@
       "featured": false
     },
     {
-      "title": "Lake Wales approves development that could double its population - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 18, 2021",
-      "summary": "Lake Wales approves development that could double its population Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUlpTGpJYWtLUDdDZTN5aWQyRmo4bS1CUmtzbkZXd3ZsUkYxQjlvWk5jNWRaU1BhaDNpQVJ0bmpFOE9kc01LOFltQ3k5ay1aZ29lNjUzbmtteThHcU1tVFQyY3hBQWNRY3p0X2hyYjN3aHNVUDdCa21OdHFGTnFyd0pXYWtEbXNwZ21qcTdfckxSQUYwaHFGamptR1dxQ1R0b0dqZlVpT0Z2WDU3ZlZuS0hNSjc4QmNxY1FqZGduZEFFQXdtWjdnZmg2RlhOOVphdDU3YjRzRUpBTUFSR3p3WA?oc=5",
-      "featured": false
-    },
-    {
       "title": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -996,6 +984,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0txMnJ6MXoydVlxeTlYV3RVTWdnWXBnanduWTZFX0hiQzFlZy1EZXhaWG5POEdSSHNJVk5iNWtDZkVWTDVaM00tRDg4ZkxNS2xuc20tV3NEMmQxYlI2QmJPZmg5cHNTWGNFQnd0THhpTWpYVDlkZWNNcDU4NGFkSmJsU1hfV1lzbzQtVTAzMDU2NzBsMU9jWm5oYTRjdGtwbUxVYTFXRExhUzdtWEUzNzVjUFF2MDJwQzRDbS1ZU3FHVzE2WkNEemRnWkFUUWVzMnRNMUdaMm1KMG9vb1I0?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lake Wales approves development that could double its population - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 18, 2021",
+      "summary": "Lake Wales approves development that could double its population Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUlpTGpJYWtLUDdDZTN5aWQyRmo4bS1CUmtzbkZXd3ZsUkYxQjlvWk5jNWRaU1BhaDNpQVJ0bmpFOE9kc01LOFltQ3k5ay1aZ29lNjUzbmtteThHcU1tVFQyY3hBQWNRY3p0X2hyYjN3aHNVUDdCa21OdHFGTnFyd0pXYWtEbXNwZ21qcTdfckxSQUYwaHFGamptR1dxQ1R0b0dqZlVpT0Z2WDU3ZlZuS0hNSjc4QmNxY1FqZGduZEFFQXdtWjdnZmg2RlhOOVphdDU3YjRzRUpBTUFSR3p3WA?oc=5",
       "featured": false
     },
     {
