@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20 01:11 UTC",
+  "last_updated": "2026-07-20 04:50 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -72,18 +72,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Home Depot building store in Davenport - Tampa Bay Business & Wealth",
-      "city": "Davenport",
-      "category": "Retail",
-      "status": "Under Construction",
-      "date": "Jul 18, 2026",
-      "summary": "Home Depot building store in Davenport Tampa Bay Business & Wealth",
-      "source": "Tampa Bay Business & Wealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RMDNnbTJNeGVlZ3o1Q0xRRVdOMnlvbzBGV2l6dnpKY2tNMmc0ZEUzMEQtY3RaY21XcVRjdTBMY3NQSHpJdFVmR0FuNUxoZXV4YTF1emFhaDVWVlU0bEgyM3RIdS1lc1BhS2c?oc=5",
       "featured": false
     },
     {
@@ -183,6 +171,18 @@
       "featured": false
     },
     {
+      "title": "4 the Record: Davenport mayor focused on expanding development in west end of city – WHBF - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 12, 2026",
+      "summary": "4 the Record: Davenport mayor focused on expanding development in west end of city – WHBF OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnQzcFZWaElEU3Nvc0VSVmdab1VJU0dRRG94NHlUenlrdTdCMk9vbHhWY19DcnpxbG85d2MybDU3Wmx4NzVZa3NVNGtveTAwVTluSFlST3NfSVhkWVJ2MDFDR0JXcnVtWWkxVWhUTlRQUHZZcDdOS3prR2VsUjhKc3pTNEdVaHltMnpDZmNkbWJYRk9kOHFDN0FTX0l0TjBLUUJ4bGVzTjdTUnZKQ0duTDFmYXdBMXFCWFNpTmtadkc4dnZ2S3c?oc=5",
+      "featured": false
+    },
+    {
       "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
       "city": "Davenport",
       "category": "Restaurant",
@@ -216,18 +216,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport restaurant to close its doors - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Davenport restaurant to close its doors KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
       "featured": false
     },
     {
@@ -276,6 +264,18 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOTRTdnZPbW1HS21Fd2hsY3hBZ1Vuc1lSbG11M2NVWlFlSGRnUkpIemdaLWF0czZXbExJdjMtWUt6M2ZWd1F6NnhGbV8wbENST3JhSE0xakVGeVptaEdGcFBSS19NaUFPbWVDWVRnSDdrU0tOQm82SlVQR01Yd0FjWEp4eXBhSlJta0ZmV2tjdTVCSDFncWhRVm05a09ab1c3NGw4Qmc0RjlqeHdUa3fSAbMBQVVfeXFMTjBLTTRaTzRmVElQU014a0NWWDVORFQxZnI4OHplOXFVTTFScmhaN2Qtb2N6UGQ4LWFyc1lYRzJlTGRobHJVUzRSSFdRM1E4azBKTWtlT2RRYnlvTnB3NU1LNXltZEZaQ1JaaF8wcDJXVDJrNWl3dGZtMGxFaW05bnlraHZTVlNnRm1lTEk4Wmx4UlFQNWN4ZnZPZjJMc2tvTDlCcVpUbXpfX3A3bzhMTWlmVjQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday prices - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 16, 2026",
+      "summary": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday prices WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQUZxVEdZTEQ1eDBaRENzd2RUVnRqVVl5R2FtYUhyMjE0YWJURXNxdTJldVlhMG16RVJ1U183SFk3R0RmdEE3MWJFLUl3ZXlNS3ZHbUc0S2JHb1FHc2t5ZmNReE5VSDFVdXB3NVlwc2JmeE1qeGtNUnZZNXFMTU9sNEN1LWQyaWl4X1NWMmZVakh1N1RfSHVXNVJrdC11SHF3RUczM1VkLWctZ0NpcUczdDE5cWRYOW9vbG1RQWczbHRteGx1RUhZR3U4azFRbjBSdzBhbjkxZk9NMTlTSUI4SkdRaEdTLXc?oc=5",
       "featured": false
     },
     {
@@ -411,18 +411,6 @@
       "featured": false
     },
     {
-      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 04, 2025",
-      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "Some Polk County parents express worry as high school rezoning plans take shape - Tampa Bay 28",
       "city": "Polk County",
       "category": "Community",
@@ -432,6 +420,18 @@
       "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkxyODNuSm5Ja3pXQW9kOVFOU1NHZnBjUVpQeGZsNzItTTM1bnBWTFVVWXphZUNUUWtzbUFqVjBqeUZIUFMyclg1azVvczJUTS1UaVN6S3FpMU1vTVhGMVJoZXdQNVJBeFBGY2dhdDcwN1JyZ1NKVUc0c2J6QjdkaG9WVGU3Z0I0dGlYemN5aU53MjVfSF9oa3NqT0lIYUFOOVBtbXRac0pVc1NpQlJvbnZwQzhBMTdqendrTzhIZU4?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 04, 2025",
+      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
       "featured": false
     },
     {
@@ -507,18 +507,6 @@
       "featured": false
     },
     {
-      "title": "LGI Homes Expands Presence in Polk County with Launch of Peach Crossings in Winter Haven, Florida - GlobeNewswire",
-      "city": "Winter Haven",
-      "category": "Housing",
-      "status": "Update",
-      "date": "May 02, 2025",
-      "summary": "LGI Homes Expands Presence in Polk County with Launch of Peach Crossings in Winter Haven, Florida GlobeNewswire",
-      "source": "GlobeNewswire",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONFM0cnRHUlFpaVFVV1Q5N2N6ZnltbERYMEtmZzEzYjhXejlybDJQWTcyc2o2UmkwNFhueDFmT3ZFN3RhemtvMXZydG1ScmFZN01rYzJVb0V2Mko2MjVXTS04ckItVm1RMFFQMWJUd3N5cmVYcFdWeXV4eS1zNjB4cXZMcE9xamVXaUI5NFNrR0lFeUNHVXVVaHVzaDlQVmRKT1RzRGdwZjZzaWlNUTZYdTUxcUtJLW82a0FmX0tjQWR4MEVwaHVnSHdJbDUyeXkzUXlyRTBEWUJldnhYMDBsWC1kV0VRTGZINGVoZ2Z6TEw2dDJmeWdpeWM5YVg4TGZ5N2c?oc=5",
-      "featured": false
-    },
-    {
       "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
       "city": "Davenport",
       "category": "Restaurant",
@@ -564,18 +552,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOENtR05YUXhvTTNvbWxVUVFOY0VhcnFGWGRWbHk3b1p1Q0ZWR2JNM2Y0N3lZanlJSVBUdVE1YlNndGFYeU9Jb1JCRXYtUHZjbnNTSHZKbWhzOU5SMmVrX0k5alhWV3VCbVFmZVN3MkJrUGpudVlKMjdxdFdTT0FSczZOUnRDRGYtaG5sNkxKTkdBVi1ZbC1vc2VRcC1xOWpTLWZSMFJXdUowYk5ZdjJ2a1FNTlVJZXJUb29UemtqNkdVU1htRTk3bFZPMTJXVi1GZzJOTmJBcVM3NVRSenpQZXBMUnZOZUJEOHN4Y2dxYUNpTXdaV0pyYjZR?oc=5",
-      "featured": false
-    },
-    {
-      "title": "6 Coming Soon Polk County Restaurants [April 10, 2026] - Business Debut",
-      "city": "Polk County",
-      "category": "Restaurant",
-      "status": "Coming Soon",
-      "date": "Apr 10, 2026",
-      "summary": "6 Coming Soon Polk County Restaurants [April 10, 2026] Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcG41OHhja0JUQXYyRDdHVExTd0ExTkVrUjB0WDI0a1Q1VTJEemxtNEtEcGlvT2o3ZlZDcjRITlhXZTJCazBQS3U0RU1qZ1lIQzJhY2hVLTVVYVRMam5OVmZzSnBGVjR5MDk2RHdzNFJDUXlRTEJUZlJsM1lvZTVVNnhLVktscVlPcVE?oc=5",
       "featured": false
     },
     {
@@ -648,6 +624,18 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjUxbVN6V3EybU11U1ZLX181LWR3Ykh1QUpaVE4wdnpvY3UzUU45UzE2WjZTaUNfdW5nWnM1aFowVmVPWFF2aWMyajFoVXhIYTZWZzhQQWFpMjlRbmRNaWplNDdtMUFaQXRMWmVfVXJpR29vSUx6X3hOVll4Sk1Rc3ZvdG5hRnFSZlVkcUNHcDVRYkk?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Raise the Bar and Grill Opening Soon in Lake Alfred - Business Debut",
+      "city": "Lake Alfred",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Oct 07, 2025",
+      "summary": "Raise the Bar and Grill Opening Soon in Lake Alfred Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFp3LTctNnRYbnRKU0RsaG5LT0IyZHQydkJWV2pKS2RvMThOM0lnX3VnV1pUMFF4cVFObWJ2NmVGMlFRODRBQzRhV1hxZU1JclRiQUZ2T1JOTk5wNzQySTVGMHpnbnRzVzVFMFpPb2JFbG1TWjYxb2M1enB5ZVlzTVozaWJ0aFFOc2c?oc=5",
       "featured": false
     },
     {
@@ -759,15 +747,15 @@
       "featured": false
     },
     {
-      "title": "Update - Hwy 29 west of St. Paul shut down following accident now open - LakelandToday.ca",
+      "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
       "city": "Lakeland",
-      "category": "Development",
+      "category": "Retail",
       "status": "Grand Opening",
-      "date": "Jul 13, 2026",
-      "summary": "Update - Hwy 29 west of St. Paul shut down following accident now open LakelandToday.ca",
-      "source": "LakelandToday.ca",
+      "date": "Apr 29, 2026",
+      "summary": "Publix opening new Florida store with latest redesign. Here's where Lakeland Ledger",
+      "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEZ4c3k3M2xQRkNUY0UwZGRnbEhINV92RTZUM0lrYkw5cW1GUWlmYW9KSUZBeXVfNERwY21nZ3BvUnU0d0c1RDZTOEw3UHR4NHBxc2R5V0Rtdi1sOHFGVzhmeTNscXZjX21SRUVoU0xOdzRnTkxZOTNIREZuNFVEaEJDSm1yWWI5WkZfVk5LMV9ScGotcHMwazh1MUVWa3VJNXNPOA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
       "featured": false
     },
     {
@@ -783,18 +771,6 @@
       "featured": false
     },
     {
-      "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Grand Opening",
-      "date": "Apr 29, 2026",
-      "summary": "Publix opening new Florida store with latest redesign. Here's where Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
-      "featured": false
-    },
-    {
       "title": "Dave & Buster’s Celebrates Grand Opening in Davenport - Franchising.com",
       "city": "Davenport",
       "category": "Development",
@@ -804,6 +780,18 @@
       "source": "Franchising.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0Fnay1wN05tQ2w2MC15WHgxNm1aUnl6RENSZUltUVRUSy1YbGxSR0FRc0NTdUpJSm54NUlCWUpjS0ZCeU5EbVZkTzY5UjVwTVo1NTBjdVJIUkY1eHl3azUyME5MVTBBaTVGSlp2eGx2OVhnSWR2aXJmNFRNVHRFT0E4NmNtN0t3b3pMcTV3SVpweHUtQ2tpYWVDQ0V1LW_SAaQBQVVfeXFMTWEwU1ZDbjB4VXYwUW50VEd5eEdfbGhsckF3bmllZXR5U0loeEczWnVYLTVLZDdGWV9zUjQ0WGRjbHJueXl1Z1BnRGtkdUhpNkVQLUNmRzJnWTNWQ3l6bUY3MWVPWWgyWEhFX3VROGNSbWhjNDE1MVlpajVpWTZadnlsamR0SWNmc1JzaHNUeGNtSGVaMnB4Zkh0SFBoU3U5RnN5OTY?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Update - Hwy 29 west of St. Paul shut down following accident now open - LakelandToday.ca",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 13, 2026",
+      "summary": "Update - Hwy 29 west of St. Paul shut down following accident now open LakelandToday.ca",
+      "source": "LakelandToday.ca",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEZ4c3k3M2xQRkNUY0UwZGRnbEhINV92RTZUM0lrYkw5cW1GUWlmYW9KSUZBeXVfNERwY21nZ3BvUnU0d0c1RDZTOEw3UHR4NHBxc2R5V0Rtdi1sOHFGVzhmeTNscXZjX21SRUVoU0xOdzRnTkxZOTNIREZuNFVEaEJDSm1yWWI5WkZfVk5LMV9ScGotcHMwazh1MUVWa3VJNXNPOA?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1068,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0hqTTZxc3BQYTA5dVdxNmhpVTFDSmxsSFFpOUpGOExqcHdONGZFRU1TTUIyOG1LWWVEWGtWZEQxTHBXRG5oeUNOVHpZbklHeURqRFVQaVctV1dNS1lOWTZVRlNOT3FrYkQwWUFVckJCZ1JUNVNRc3UyXzVRYnJRSTJZZVpqNkM4VHJLc3g5RFhtX2o1VjF2UA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Winter Haven residents fume over zoning change on Thompson Nursery Road - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Dec 10, 2025",
+      "summary": "Winter Haven residents fume over zoning change on Thompson Nursery Road Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWNEZy1QbWlaazVwZmE2TjktdVN4QWNNTllxcllGN0lwZUtFZjl5S1Y2ay12MUxzN1FnLUFEdE1nMmZIb05TTEl2QTZmRWhNTDZQTEVCcndDLUd2NGhmaDBhVFlOc05VdjlUeXFIMkprX3dtNkQ5RTFSRVVld3JmZllLRkdNT2k4MERuQW55eEhORWZVUExYTkplRVdObWpWd1Bzdy1rVWRXNWNPalBQczJqUEFudmpxYTJYVEVwVHUyV2o2VjB1VE82eDgtUlFVaHdvbkI3WTNFQQ?oc=5",
       "featured": false
     }
   ]
