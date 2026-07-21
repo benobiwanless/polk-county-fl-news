@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21 16:15 UTC",
+  "last_updated": "2026-07-21 17:46 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -291,18 +291,6 @@
       "featured": false
     },
     {
-      "title": "Davenport restaurant at risk of closing without community support - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "Davenport restaurant at risk of closing without community support WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
-      "featured": false
-    },
-    {
       "title": "How Auburndale's Bork has unmatched lifting development in Polk County - Lakeland Ledger",
       "city": "Auburndale",
       "category": "Development",
@@ -312,6 +300,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOEFvVWhRWENlakdteGZyc1BrXy1OeU13dmxkRjh2UzN2NFgyMFZseTh1WTRibWNtcTc2bmloYXF0WDlnTkxPNVhKVWNKNU0zYVpTa29yWGJZYjJQX2ZNemZiR3Rob1k0aEpPaS1iUGo4Sm00d3FBSUNULWRhNlFCNUNiX2E5MC0tWjd3djVvTEZIYlZyYnpUeExYdnVFcXp6eXdNeGtxVVRhZ04zX21YYlpkOVF4ZU5vN2tUYkZIc3ZXTGU0VFZLR3FDU1BWSXBiR3k0S1VmOUhxUkx4S2lWeDBvbnVoaW9BNGRYQzFn?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport restaurant at risk of closing without community support - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "Davenport restaurant at risk of closing without community support WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
       "featured": false
     },
     {
@@ -351,13 +351,13 @@
       "featured": false
     },
     {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire",
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
       "city": "Polk County",
       "category": "Development",
       "status": "Update",
       "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire",
-      "source": "DrydenWire",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
+      "source": "DrydenWire.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
@@ -432,6 +432,30 @@
       "source": "wtsp.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1pKR3k1UjhrMVV4VnVIZ3o5Nk00SndUUzlqYm11RXZPVVJkNWpDRzFXMzVmU1pUNmpxZWlYcWphNjZtSUVWSy1oYWsxX2ZVX2tDOTNLVjI3T0paTE9GRU1HazUyYkxEWnZodUlfTWNLQ3ROa0tkbVhSdTRyX0pIQmtGdS1DNHFuaHFILUJ5TFN1UDZMR2huWHNVOUZnYUJ5TnFOaF9KeGtVSElBS0VsTk1oZHBkWUYzRUFyQ1R3RQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 04, 2025",
+      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 05, 2025",
+      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
+      "source": "WFLA",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
       "featured": false
     },
     {
@@ -1056,30 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWNEZy1QbWlaazVwZmE2TjktdVN4QWNNTllxcllGN0lwZUtFZjl5S1Y2ay12MUxzN1FnLUFEdE1nMmZIb05TTEl2QTZmRWhNTDZQTEVCcndDLUd2NGhmaDBhVFlOc05VdjlUeXFIMkprX3dtNkQ5RTFSRVVld3JmZllLRkdNT2k4MERuQW55eEhORWZVUExYTkplRVdObWpWd1Bzdy1rVWRXNWNPalBQczJqUEFudmpxYTJYVEVwVHUyV2o2VjB1VE82eDgtUlFVaHdvbkI3WTNFQQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Maya Lora: Polk County planning approvals could add more than 400 apartments in Lakeland - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Mar 04, 2022",
-      "summary": "Maya Lora: Polk County planning approvals could add more than 400 apartments in Lakeland Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVDBaeDM2YWItajlRd195WDU1VUhHUnBzMnBFaEMxc3A3Y1QzMlFFRHNWSmE2dlFoZlFuZUpWYUpKNkJhdjNjTUU1TDZkUFZwZ3BGQ0ZmMjlJU01MV09kWko4RlQtZ3NIa05rWUc3QVZFUW9XVDdfYm5WdXFicnFGcUhnYzdQYW1uaHR4TzltaGFDT0tSMTdxTGpVWjJiV2VRRjVqWE5iX0VxZEJ2Y3VubXlvcWVXQ09VLWlMS0VXUVAzVEZkWTVCajZ6NDd1ZmV3Z29qUkJydUU?oc=5",
-      "featured": false
-    },
-    {
-      "title": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Coming Soon",
-      "date": "May 07, 2006",
-      "summary": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
       "featured": false
     }
   ]
