@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 01:10 UTC",
+  "last_updated": "2026-07-23 04:30 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -135,18 +135,6 @@
       "featured": false
     },
     {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
-      "source": "The Spokesman-Review",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "How Auburndale's Bork has unmatched lifting development in Polk County - Lakeland Ledger",
       "city": "Auburndale",
       "category": "Development",
@@ -156,6 +144,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOEFvVWhRWENlakdteGZyc1BrXy1OeU13dmxkRjh2UzN2NFgyMFZseTh1WTRibWNtcTc2bmloYXF0WDlnTkxPNVhKVWNKNU0zYVpTa29yWGJZYjJQX2ZNemZiR3Rob1k0aEpPaS1iUGo4Sm00d3FBSUNULWRhNlFCNUNiX2E5MC0tWjd3djVvTEZIYlZyYnpUeExYdnVFcXp6eXdNeGtxVVRhZ04zX21YYlpkOVF4ZU5vN2tUYkZIc3ZXTGU0VFZLR3FDU1BWSXBiR3k0S1VmOUhxUkx4S2lWeDBvbnVoaW9BNGRYQzFn?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 24, 2026",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
       "featured": false
     },
     {
@@ -267,6 +267,18 @@
       "featured": false
     },
     {
+      "title": "Lakeland estate rezoning clears first hurdle - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Coming Soon",
+      "date": "Jul 22, 2026",
+      "summary": "Lakeland estate rezoning clears first hurdle Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0czYmRoNkhhM2UwaGdrNVgtRl83S1NqQWZRQkR3Snl3RlZUbDhaVUlza3JncWZVUGctUmt5Tm4xdG15TUNLQzZWbmEwS2NtQjIxYTh4RzNwNFNTQmkxY25TcmhHaVc4aXVxazlHQjVaUUVRNHlqOTFfZ043TW5NZ3NvVDc2VjgyNW1JVkl3VG13Umxrc3V0QW8tZHdzLUI3Z1ItYUkxYTI4QzFpellyakt3WmlyU3JGUWkycnFSbw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
       "city": "Polk County",
       "category": "Development",
@@ -351,18 +363,6 @@
       "featured": false
     },
     {
-      "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 20, 2025",
-      "summary": "Polk County high school rezoning plan: See all the current and proposed zones Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
-      "featured": false
-    },
-    {
       "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
@@ -372,6 +372,18 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 20, 2025",
+      "summary": "Polk County high school rezoning plan: See all the current and proposed zones Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
       "featured": false
     },
     {
@@ -575,7 +587,7 @@
       "summary": "Bubba’s 33 plans ribbon cutting, grand opening in Davenport OurQuadCities",
       "source": "OurQuadCities",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzM3ZkNIdUM4VVJZNGJZOG9ZY0dTMUhYbzMtN05KYlc2QzNYcG9STnV3NzJEcEZpb0NiRzQ2Y3k3azdWREExZ1pJdmhvLTFhSHhIMXNPN05XQ0tsajYwdjl0dUR2djVGM0tjcWQza3dQOHhxZUM2Q1BMZlNLbVRKMEpDN1ZNTlFWYzRiVmFfekVzTmFpNmxYX0xKMVBDdmhPTWhhdjZqMXdmSGRa0gGsAUFVX3lxTE1nMzdmQ0h1QzhVUlk0Ylk4b1ljR1MxSFhvMy03TkpiVzZDM1hwb1JOdXc3MkRwRmlvQ2JHNDZjeTdrN1ZEQTFnWkl2aG8tMWFIeEgxc083TldDS2xqNjB2OXR1RHZ2NUYzS2NxZDNrd1A4eHFlQzZDUExmU0ttVEowSkM3Vk1OUVZjNGJWYV96RXNOYWk2bFhfTEoxUEN2aE9NaGF2Nmoxd2ZIZFo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeF84V2F0WWRMWXpITlRKTVFlZktDQmwzaG44TDBYMTNOZFVQbkxXcFRVRERuU0g0T0NMSkl4U196ZnhaZ0pVWFYzZXRmZnl4WW9feXJLdHg1dEZpQVFzaFprMEM0bGRNeUJQS2xxbGh3clp3MGtQMEdnMkFyTjVwYmtrNElQa3NZbFctRVJucURyWEJmY2c3WlVrellqSERCeDV5ZEpra9IBrAFBVV95cUxNZzM3ZkNIdUM4VVJZNGJZOG9ZY0dTMUhYbzMtN05KYlc2QzNYcG9STnV3NzJEcEZpb0NiRzQ2Y3k3azdWREExZ1pJdmhvLTFhSHhIMXNPN05XQ0tsajYwdjl0dUR2djVGM0tjcWQza3dQOHhxZUM2Q1BMZlNLbVRKMEpDN1ZNTlFWYzRiVmFfekVzTmFpNmxYX0xKMVBDdmhPTWhhdjZqMXdmSGRa?oc=5",
       "featured": false
     },
     {
@@ -591,18 +603,6 @@
       "featured": false
     },
     {
-      "title": "China Cafe Davenport now open on Tuesdays - The Quad-City Times",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Grand Opening",
-      "date": "Jul 12, 2026",
-      "summary": "China Cafe Davenport now open on Tuesdays The Quad-City Times",
-      "source": "The Quad-City Times",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTdmNFdaMlRVU1FEbTZjNWRLc3Y4dVIwUERQU2U2NHYzQ2RPRFczQzFCeHBBZXFYZHBOekxkbERTcmpSQnJSNVlpVTlJdzAtaExTVlZXbVdadi1pc2lkSVkwNTU4Y1VDZXZZb2xHNk95Q3hhLXJLVGxMUWlBVnhIUmF4YnBaSDdHZTNaclZlT1hmRUhQT1RaZzMxMFZ4SVJWRUxDSF9EMXE?oc=5",
-      "featured": false
-    },
-    {
       "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God",
       "city": "Winter Haven",
       "category": "Development",
@@ -612,6 +612,18 @@
       "source": "Assemblies of God",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "China Cafe Davenport now open on Tuesdays - The Quad-City Times",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Grand Opening",
+      "date": "Jul 12, 2026",
+      "summary": "China Cafe Davenport now open on Tuesdays The Quad-City Times",
+      "source": "The Quad-City Times",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTdmNFdaMlRVU1FEbTZjNWRLc3Y4dVIwUERQU2U2NHYzQ2RPRFczQzFCeHBBZXFYZHBOekxkbERTcmpSQnJSNVlpVTlJdzAtaExTVlZXbVdadi1pc2lkSVkwNTU4Y1VDZXZZb2xHNk95Q3hhLXJLVGxMUWlBVnhIUmF4YnBaSDdHZTNaclZlT1hmRUhQT1RaZzMxMFZ4SVJWRUxDSF9EMXE?oc=5",
       "featured": false
     },
     {
@@ -723,18 +735,6 @@
       "featured": false
     },
     {
-      "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Dec 17, 2025",
-      "summary": "Dave & Buster’s announces Davenport grand opening OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "Ollie’s Bargain Outlet to open Davenport store - KWQC",
       "city": "Davenport",
       "category": "Retail",
@@ -744,6 +744,18 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUEV3UGFvX3k2YllFN3pKYU4zeTJLLWpVaGY2YklzVEw1bVhjZ0gxZUd1WmdkOTJBcTA0amp6LXFrOHc4NzdLc1V6NTVHbEZnN0VIVHdkcm50MkVjOHJpTmJlZ2lGU1RGb0RfN2lZcUdHcGoyUzJMaVFkdHUxelQ2NNIBlAFBVV95cUxNaGxZUmJMUnQ2M0tWdEJBYzNuRnM0RzdQZUI0Sk9SLWVaNFF3UjM0SkdiODFLV0tjUkVNRnhHOGw2OE5HZzdkU2xWX19wZEpIcFhDcW1Za25QNkIyRk56ajMyR3VjYUlIT1o2T3VMOGdYZnp5WlZSUEEwU0dOSnVHY09iX0JOVGpuTWVpRERqYkpscmR3?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Dec 17, 2025",
+      "summary": "Dave & Buster’s announces Davenport grand opening OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jun 24, 2023",
-      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
