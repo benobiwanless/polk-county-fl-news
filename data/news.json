@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 11:22 UTC",
+  "last_updated": "2026-07-24 12:52 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -195,6 +195,18 @@
       "featured": false
     },
     {
+      "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
+      "featured": false
+    },
+    {
       "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -240,18 +252,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
       "featured": false
     },
     {
@@ -615,18 +615,6 @@
       "featured": false
     },
     {
-      "title": "Bubba’s 33 plans ribbon cutting, grand opening in Davenport - OurQuadCities",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jul 20, 2026",
-      "summary": "Bubba’s 33 plans ribbon cutting, grand opening in Davenport OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeF84V2F0WWRMWXpITlRKTVFlZktDQmwzaG44TDBYMTNOZFVQbkxXcFRVRERuU0g0T0NMSkl4U196ZnhaZ0pVWFYzZXRmZnl4WW9feXJLdHg1dEZpQVFzaFprMEM0bGRNeUJQS2xxbGh3clp3MGtQMEdnMkFyTjVwYmtrNElQa3NZbFctRVJucURyWEJmY2c3WlVrellqSERCeDV5ZEpra9IBrAFBVV95cUxNZzM3ZkNIdUM4VVJZNGJZOG9ZY0dTMUhYbzMtN05KYlc2QzNYcG9STnV3NzJEcEZpb0NiRzQ2Y3k3azdWREExZ1pJdmhvLTFhSHhIMXNPN05XQ0tsajYwdjl0dUR2djVGM0tjcWQza3dQOHhxZUM2Q1BMZlNLbVRKMEpDN1ZNTlFWYzRiVmFfekVzTmFpNmxYX0xKMVBDdmhPTWhhdjZqMXdmSGRa?oc=5",
-      "featured": false
-    },
-    {
       "title": "New Bix Museum Location to Hold Grand Opening Friday in Davenport - QuadCities.com",
       "city": "Davenport",
       "category": "Development",
@@ -648,6 +636,18 @@
       "source": "The Quad-City Times",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenZIX0tBUDhFVmczYmM1NkgyVl9GTVVNUEFOU05FTjVEcEh1YVV5YWZSaHNudkZZaFFaTk9qNDA3NW5BMmgwU21CaTExZi1nRDJ6WUItUUo3aHVndml5SlgzR0ZrNGFTZllreklqOWtIQlU3YTQ4TGtNeU5jTGlPVEZhSXk4T1NFV3JPNWdMdkRiR2poZml0Z3Z2RGJTNGttb2plWmJHNkY?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Bubba’s 33 plans ribbon cutting, grand opening in Davenport - Yahoo",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 20, 2026",
+      "summary": "Bubba’s 33 plans ribbon cutting, grand opening in Davenport Yahoo",
+      "source": "Yahoo",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDZoOHY1dkdvcThpdkM5NkpjMS11YjB4YzNRRkYzUk91b1JQV0xXWlBYV1M1ZHdTUC1iMDNZN3g5VTFTUkRyQjB2ZURzb21JWHBCQm1KUUdEUzVGU2E4cmpRdUNLS0dZd1QzcVI0dHdlSVJ5TFRuaFJaa3VPcHBRSHN5MnF0NVhQUGt1Tnhn?oc=5",
       "featured": false
     },
     {
@@ -684,6 +684,18 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFRsZ0wtenl6QldPOHVMR053TnB5YTBmMEUzN0U1TUhTUXdrYUhlNThnZHQydFEzSGhUeHlyVFk4OW1aX0RDVklkSjlMSmR3TUc2TlpCS1JPZ191ZENTLTNTOE5YbE1SeGZFcENOblc2bmhHUG5JTURFaGNWSTB5NjktR2tKckZqSUVXODRYSTFhQ0I1aE80SGR4R2xFZ1l2WnhmYkMxVdIBuwFBVV95cUxPZ1g3MTVZdlZjTEhKcThqcDNJUjYyU0RBelluRmlVd2J4TXVIdTc2OWNhOWlkU3ROOWVLak55NFhoZ1F5TXc5ZE9QRlZqRFZ1Y0J0Y2x1UU1MMDNxRENuYWNLdS1zejM1VHB6dF84M0Q4TDcxVkdDYkhKb00wWWRyT0c4WnNaUGVVUTFfNGVROEFhLWtVV3Ewb1JaQ0pzUUJBTktDTU82U1BpcTZwcExvejBIb0lOSlhoNkNN?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Dec 17, 2025",
+      "summary": "Dave & Buster’s announces Davenport grand opening OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
       "featured": false
     },
     {
@@ -780,18 +792,6 @@
       "source": "The Quad-City Times",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTdmNFdaMlRVU1FEbTZjNWRLc3Y4dVIwUERQU2U2NHYzQ2RPRFczQzFCeHBBZXFYZHBOekxkbERTcmpSQnJSNVlpVTlJdzAtaExTVlZXbVdadi1pc2lkSVkwNTU4Y1VDZXZZb2xHNk95Q3hhLXJLVGxMUWlBVnhIUmF4YnBaSDdHZTNaclZlT1hmRUhQT1RaZzMxMFZ4SVJWRUxDSF9EMXE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Dec 17, 2025",
-      "summary": "Dave & Buster’s announces Davenport grand opening OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
       "featured": false
     },
     {
@@ -1047,6 +1047,18 @@
       "featured": false
     },
     {
+      "title": "Maya Lora: Polk County planning approvals could add more than 400 apartments in Lakeland - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Mar 04, 2022",
+      "summary": "Maya Lora: Polk County planning approvals could add more than 400 apartments in Lakeland Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVDBaeDM2YWItajlRd195WDU1VUhHUnBzMnBFaEMxc3A3Y1QzMlFFRHNWSmE2dlFoZlFuZUpWYUpKNkJhdjNjTUU1TDZkUFZwZ3BGQ0ZmMjlJU01MV09kWko4RlQtZ3NIa05rWUc3QVZFUW9XVDdfYm5WdXFicnFGcUhnYzdQYW1uaHR4TzltaGFDT0tSMTdxTGpVWjJiV2VRRjVqWE5iX0VxZEJ2Y3VubXlvcWVXQ09VLWlMS0VXUVAzVEZkWTVCajZ6NDd1ZmV3Z29qUkJydUU?oc=5",
+      "featured": false
+    },
+    {
       "title": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -1068,18 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 10, 2004",
-      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
       "featured": false
     }
   ]
