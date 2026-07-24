@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 19:11 UTC",
+  "last_updated": "2026-07-24 20:40 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -135,18 +135,6 @@
       "featured": false
     },
     {
-      "title": "Humility Homes announces 11-unit supportive housing project in Davenport - The Quad-City Times",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 08, 2026",
-      "summary": "Humility Homes announces 11-unit supportive housing project in Davenport The Quad-City Times",
-      "source": "The Quad-City Times",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFhRTHdRRTBFaEZyaWJoTEVIQWRmVlQ1VlYweGlyanU5YlV3Ti04d3pmSFZRMzB3dUg0Y1JzVHZMY1BFLURzUTQxMzI5SjdvM3RwaTh0X0dCZXJadzVsTl8xZjd1bjlWamdvbS1meXlBOVREUlpIcjNfalV2WnVFMlU0MzBSdnV4UkJiYUlEeTBtU1NKcGwydjktMjdGYUdGbWc?oc=5",
-      "featured": false
-    },
-    {
       "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
       "city": "Davenport",
       "category": "Hotel",
@@ -156,6 +144,18 @@
       "source": "LODGING Magazine",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Humility Homes announces 11-unit supportive housing project in Davenport - The Quad-City Times",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 08, 2026",
+      "summary": "Humility Homes announces 11-unit supportive housing project in Davenport The Quad-City Times",
+      "source": "The Quad-City Times",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFhRTHdRRTBFaEZyaWJoTEVIQWRmVlQ1VlYweGlyanU5YlV3Ti04d3pmSFZRMzB3dUg0Y1JzVHZMY1BFLURzUTQxMzI5SjdvM3RwaTh0X0dCZXJadzVsTl8xZjd1bjlWamdvbS1meXlBOVREUlpIcjNfalV2WnVFMlU0MzBSdnV4UkJiYUlEeTBtU1NKcGwydjktMjdGYUdGbWc?oc=5",
       "featured": false
     },
     {
@@ -171,15 +171,15 @@
       "featured": false
     },
     {
-      "title": "Davenport mayor focused on expanding development in west end of city - OurQuadCities",
+      "title": "4 the Record: Davenport mayor focused on expanding development in west end of city – WHBF - OurQuadCities",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "Jul 12, 2026",
-      "summary": "Davenport mayor focused on expanding development in west end of city OurQuadCities",
+      "summary": "4 the Record: Davenport mayor focused on expanding development in west end of city – WHBF OurQuadCities",
       "source": "OurQuadCities",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXo5QnF6SlRHX0liVGRIQlBtanVJMDNXSkxjOUlCbEdoN2laZW82Wm9VVGEtY0VyMlRuVHNVdVJKUlU2TVZyMkhDbWNUZkNxOWJad21ZVlM1ek1jSkJ6LXpRUUtuTXJ1QW9TNF9mYzdiMzhRRm4yRjRWTDY0Z1Rjb0dZU2tFT3dyX2ZIY3FlQm9RcmY2b0MxblNwQkhwNHppU09qNkQtNlEtSmp6M2ZIajJFb05Rcm450gG-AUFVX3lxTE96MVJxY2ZvUmJ4eHBDRFFBaFlGRjZ4NXdnVEpKYlVfbnppbVJMSTBxbmlCSGIwZXJsRjdsd00yZzMtWWdHNEljcm85SmJEX0RFU0U2SE4tTV8wTnNLRHFrd1VuRlV6Z2RQQ0hDLWplYzhCR3FJMlFMcm5IREJKX3JWS0tsaklRYm9iTm9HSGZUaks1cFdhT1RkT095X0lGMGFOb3pXSktiT1FXOUV5ZV9MNEc5aUgzQmNsM2NfM0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnQzcFZWaElEU3Nvc0VSVmdab1VJU0dRRG94NHlUenlrdTdCMk9vbHhWY19DcnpxbG85d2MybDU3Wmx4NzVZa3NVNGtveTAwVTluSFlST3NfSVhkWVJ2MDFDR0JXcnVtWWkxVWhUTlRQUHZZcDdOS3prR2VsUjhKc3pTNEdVaHltMnpDZmNkbWJYRk9kOHFDN0FTX0l0TjBLUUJ4bGVzTjdTUnZKQ0duTDFmYXdBMXFCWFNpTmtadkc4dnZ2S3c?oc=5",
       "featured": false
     },
     {
@@ -207,15 +207,15 @@
       "featured": false
     },
     {
-      "title": "4 the Record: Davenport mayor focused on expanding development in west end of city – WHBF - OurQuadCities",
+      "title": "Davenport restaurant at risk of closing without community support - WQAD",
       "city": "Davenport",
-      "category": "Development",
+      "category": "Restaurant",
       "status": "Update",
-      "date": "Jul 12, 2026",
-      "summary": "4 the Record: Davenport mayor focused on expanding development in west end of city – WHBF OurQuadCities",
-      "source": "OurQuadCities",
+      "date": "Jun 20, 2026",
+      "summary": "Davenport restaurant at risk of closing without community support WQAD",
+      "source": "WQAD",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnQzcFZWaElEU3Nvc0VSVmdab1VJU0dRRG94NHlUenlrdTdCMk9vbHhWY19DcnpxbG85d2MybDU3Wmx4NzVZa3NVNGtveTAwVTluSFlST3NfSVhkWVJ2MDFDR0JXcnVtWWkxVWhUTlRQUHZZcDdOS3prR2VsUjhKc3pTNEdVaHltMnpDZmNkbWJYRk9kOHFDN0FTX0l0TjBLUUJ4bGVzTjdTUnZKQ0duTDFmYXdBMXFCWFNpTmtadkc4dnZ2S3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
       "featured": false
     },
     {
@@ -243,18 +243,6 @@
       "featured": false
     },
     {
-      "title": "Davenport restaurant at risk of closing without community support - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "Davenport restaurant at risk of closing without community support WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
-      "featured": false
-    },
-    {
       "title": "It’s flag day at new Bubba’s 33 restaurant in Davenport - Quad Cities Business Journal",
       "city": "Davenport",
       "category": "Restaurant",
@@ -279,18 +267,6 @@
       "featured": false
     },
     {
-      "title": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors - inlander.com",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 25, 2026",
-      "summary": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors inlander.com",
-      "source": "inlander.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYkM0S1NtSURlV1NXM1FuRzdnWWxOcmZiS2l3eFhvZzVHRnBXOVRwOFRqVDhobnc2Y05fb0pqS2NWU0VWNm8ydTBIVzJxdERmM1pFUklkQWo3Q2hCc0lEYTFvc0daWkdRblZrR2hQS2thd240c19ybHpEbEVvd1MtZ21PR2FLbmVGaDRxZU93Z2NaYzdLMlJGS2NxRXB1dU9JYm5qUjZKVzJ1WjB4eXJXZmlKWjl4TFlWWkR3WmN6WDNWT3Jtd1p3ckc2Ul94VGxmRm14S19KS3NhdUd3MHZ1c2xINlJLS3VRNWMxSHNiWENPamc5VFZzVEpn?oc=5",
-      "featured": false
-    },
-    {
       "title": "Construction at Second and Gaines, Davenport, snarls traffic - OurQuadCities",
       "city": "Davenport",
       "category": "Development",
@@ -300,6 +276,30 @@
       "source": "OurQuadCities",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1JQejM0dElDWjFnZXFDbWV6VUp4c3oyYWNrRnNaVkI0aG5LVFduSzlNUFF5ZGpual9HSVdOeXRibFJTX09Ua3pfN2VtOFFDVDNZSjZCaUh6VVVaUG93VWpGZzVzOUZUQ0pzUERWWXZOdE1yZG1qNF9FaXlvOVdrbGZIeUIyR3JvNEdZdWlCSDhOYnRfWC13YmxJNHUxMVg4b1c2aDZTZVLSAa4BQVVfeXFMTk1QSW5QVllreWFXWVNIeTlNdjF6U2FYQ1BqUFRCTmlTWEhxbllzendObmFjaFA4dVZQSnBFdDl2NVI0dDFaZW1zU0YxcTNPWWNWT21xT1R3c3JDMHplNWZCWEwyd09QNUNmTGI0QmtUOUdDMm9paUlScU5qZWVOeG0wSU5RZE5hTGxfejhIbzh0ZVdWc0wwX2k1b2xqWnpEdWRZODN6VUNqcWlXRTV3?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - Spectrum Bay News 9",
+      "city": "Lake Wales",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Jun 12, 2026",
+      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel Spectrum Bay News 9",
+      "source": "Spectrum Bay News 9",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFiaE5nVzY3RnMxUUpEZjluODhULTNQTUhQWWZJV2V4VV9ZRmVfVGNkLUExMG5QYVpOZ01yX3dONmVzSWdoMV9yMmJWNVZoT0ozeEFnV3BoY0pwRFZBX1l2R3RGZEMyRGo4R0dyNTdLQjAxYy1KeENhSjdTNE1hQzh3QlpEYXp4VW1CTkxJOGJqeENCZnhBdVFCM0ZSWTNBcXhqZFZqRDM5WUp3NXRQbw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors - inlander.com",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 25, 2026",
+      "summary": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors inlander.com",
+      "source": "inlander.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYkM0S1NtSURlV1NXM1FuRzdnWWxOcmZiS2l3eFhvZzVHRnBXOVRwOFRqVDhobnc2Y05fb0pqS2NWU0VWNm8ydTBIVzJxdERmM1pFUklkQWo3Q2hCc0lEYTFvc0daWkdRblZrR2hQS2thd240c19ybHpEbEVvd1MtZ21PR2FLbmVGaDRxZU93Z2NaYzdLMlJGS2NxRXB1dU9JYm5qUjZKVzJ1WjB4eXJXZmlKWjl4TFlWWkR3WmN6WDNWT3Jtd1p3ckc2Ul94VGxmRm14S19KS3NhdUd3MHZ1c2xINlJLS3VRNWMxSHNiWENPamc5VFZzVEpn?oc=5",
       "featured": false
     },
     {
@@ -591,6 +591,18 @@
       "featured": false
     },
     {
+      "title": "2 Polk County Restaurants Planning to Open This May - Business Debut",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "May 06, 2026",
+      "summary": "2 Polk County Restaurants Planning to Open This May Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1JIMS1GZTJQTW9uV2JIaF9tLUNWbFFSQ2xsZ244NnlsMDBhVGQ2R0x2R0loUFk4Wmo5V3pNdGFsVUVvc3FqSjVWQ0llRkxjaHJPWmtIU0Y4RXpLajZVSlF2Vy0zTldEWFZLQl9wTlZ6T2o2cjJCSHNMVWVGR0FiYjRDazJZb200RXc?oc=5",
+      "featured": false
+    },
+    {
       "title": "5 Coming Soon Polk County Restaurants - Business Debut",
       "city": "Polk County",
       "category": "Restaurant",
@@ -600,18 +612,6 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KX1BOdno3MnhwNENJVlBfRlBRWUpKYnBrQ3loVUFWb3J0X0JxSE9pVnRUSEdEcllkTmMzZDJaeFU4bkE2dGxVc21LbURCOFcwWFhJUHM1NWJvTUpFWVBadFlza0RaVlpOTmpvR215Wmk4ZHFiMzBr?oc=5",
-      "featured": false
-    },
-    {
-      "title": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) - Business Debut",
-      "city": "Auburndale",
-      "category": "Restaurant",
-      "status": "Grand Opening",
-      "date": "Jul 16, 2026",
-      "summary": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXFrdVlZaHltUEpicTMyYnJHU0hiYWQ5UWtEVUx3MkVLdDZDTE1yWmRTX0Y2S28welE5ZHVmVWJrbDd4dzkwLWplZkUxVUMzVE42c0J4Nl9EWWZ3Q1hyY183TmxjT3FHOGFLX2RQM1ZNRDFWZjlLUXZwOEtrZi13ZF9kOTN4ZE1oWmlYRlhfQjQtc1RXVHZLa0VxRQ?oc=5",
       "featured": false
     },
     {
@@ -747,18 +747,6 @@
       "featured": false
     },
     {
-      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jul 18, 2026",
-      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event QuadCities.com",
-      "source": "QuadCities.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUc0QS1EVnBHSGpGRGJPVXpaYlRUX1Y3YjctX1d3WVBYSzduM2ZhWlZqRlJkWkJqU1JFMFRXQVJwS0xETUl4ZlRwdnF5QWFYTGE0ZG9rQm03dDU1VUVoV2F2eTV2Wm9RU0ttLXk4aWhZdWtsd0Y1UFlMYUJsN003QUlMcGNMbmZHbTFyb0J1YWZwa0dGdnpFTGRXRjVVdlp2V0FKeHM2SkFfN1Vqalc2SEh2VlNLcDNISzVhag?oc=5",
-      "featured": false
-    },
-    {
       "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -783,6 +771,18 @@
       "featured": false
     },
     {
+      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 18, 2026",
+      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event QuadCities.com",
+      "source": "QuadCities.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUc0QS1EVnBHSGpGRGJPVXpaYlRUX1Y3YjctX1d3WVBYSzduM2ZhWlZqRlJkWkJqU1JFMFRXQVJwS0xETUl4ZlRwdnF5QWFYTGE0ZG9rQm03dDU1VUVoV2F2eTV2Wm9RU0ttLXk4aWhZdWtsd0Y1UFlMYUJsN003QUlMcGNMbmZHbTFyb0J1YWZwa0dGdnpFTGRXRjVVdlp2V0FKeHM2SkFfN1Vqalc2SEh2VlNLcDNISzVhag?oc=5",
+      "featured": false
+    },
+    {
       "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - The National Law Review",
       "city": "Davenport",
       "category": "Development",
@@ -792,6 +792,18 @@
       "source": "The National Law Review",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Update - Hwy 29 west of St. Paul shut down following accident now open - LakelandToday.ca",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 12, 2026",
+      "summary": "Update - Hwy 29 west of St. Paul shut down following accident now open LakelandToday.ca",
+      "source": "LakelandToday.ca",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEZ4c3k3M2xQRkNUY0UwZGRnbEhINV92RTZUM0lrYkw5cW1GUWlmYW9KSUZBeXVfNERwY21nZ3BvUnU0d0c1RDZTOEw3UHR4NHBxc2R5V0Rtdi1sOHFGVzhmeTNscXZjX21SRUVoU0xOdzRnTkxZOTNIREZuNFVEaEJDSm1yWWI5WkZfVk5LMV9ScGotcHMwazh1MUVWa3VJNXNPOA?oc=5",
       "featured": false
     },
     {
@@ -816,30 +828,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUEV3UGFvX3k2YllFN3pKYU4zeTJLLWpVaGY2YklzVEw1bVhjZ0gxZUd1WmdkOTJBcTA0amp6LXFrOHc4NzdLc1V6NTVHbEZnN0VIVHdkcm50MkVjOHJpTmJlZ2lGU1RGb0RfN2lZcUdHcGoyUzJMaVFkdHUxelQ2NNIBlAFBVV95cUxNaGxZUmJMUnQ2M0tWdEJBYzNuRnM0RzdQZUI0Sk9SLWVaNFF3UjM0SkdiODFLV0tjUkVNRnhHOGw2OE5HZzdkU2xWX19wZEpIcFhDcW1Za25QNkIyRk56ajMyR3VjYUlIT1o2T3VMOGdYZnp5WlZSUEEwU0dOSnVHY09iX0JOVGpuTWVpRERqYkpscmR3?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Putnam, Davenport, announces grand opening of new Family Discovery Center - OurQuadCities",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Feb 04, 2026",
-      "summary": "Putnam, Davenport, announces grand opening of new Family Discovery Center OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1Z6NE9wYzdaUnNDa3ByRFRSRTRRMERUWG9UaWJqOTFpUF9zdjRLNlZEdzZRSlFGSlh1VXBpRFV6RGJEa21QSXhmSWVEV3hmTHVGLWdhZDBPTGpsMFlxV18yZGpKdHplbnR6akx3ckFuaVF4RERReUlEY0RrbHdYRnRfUWR3U29QNTUwU3VRQUF4andLUUhMQ0gybjhPT1JTY19wMjZmbkp6VEcxUDZSS1A3VjVxeHBMNmfSAb8BQVVfeXFMT2FkbDBqeG5SMlk0a0NHdTNoRDNFel8zOHp2UlFQaDJhaXdFc0NYZmhhM01yLWIzQkppYkpuaWJLb2k0Z3pUWTdNTUZ4MTFTX1NGU0dsTzB3WlJZMXVtTXltc3hOZXJnRXU2ekJpcGpfY0dYTlRsQWsyR3B2ZlAyazd2OWRtdVJpcUdpRHl4NzZ1aGJjSWt5dGdjcXJ0NURSOVhuTTF1UE5vZG5YRjdJVlpXVWlMZmdIVUNONi1YWDg?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Update - Hwy 29 west of St. Paul shut down following accident now open - LakelandToday.ca",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jul 12, 2026",
-      "summary": "Update - Hwy 29 west of St. Paul shut down following accident now open LakelandToday.ca",
-      "source": "LakelandToday.ca",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEZ4c3k3M2xQRkNUY0UwZGRnbEhINV92RTZUM0lrYkw5cW1GUWlmYW9KSUZBeXVfNERwY21nZ3BvUnU0d0c1RDZTOEw3UHR4NHBxc2R5V0Rtdi1sOHFGVzhmeTNscXZjX21SRUVoU0xOdzRnTkxZOTNIREZuNFVEaEJDSm1yWWI5WkZfVk5LMV9ScGotcHMwazh1MUVWa3VJNXNPOA?oc=5",
       "featured": false
     },
     {
@@ -1044,6 +1032,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0hqTTZxc3BQYTA5dVdxNmhpVTFDSmxsSFFpOUpGOExqcHdONGZFRU1TTUIyOG1LWWVEWGtWZEQxTHBXRG5oeUNOVHpZbklHeURqRFVQaVctV1dNS1lOWTZVRlNOT3FrYkQwWUFVckJCZ1JUNVNRc3UyXzVRYnJRSTJZZVpqNkM4VHJLc3g5RFhtX2o1VjF2UA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "University Study: Central Florida Continues to Attract Vacation Home Development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 31, 2006",
+      "summary": "University Study: Central Florida Continues to Attract Vacation Home Development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2MyaGNHNkhZa1lTMm9hQlBDVC12T1hxSDEzMGEtUXFYNXpKZzdHNmp4TEVjMkl3YjlmY0NtQ21DZ3VBUlZEaE0wUm1hdUMxMmZueDZkNHUyTnUxOXhkQmlHTVp5cmx1bjVzNk82ckFuanVZUmtFUXFKNF9laWRNUHJWZS1oNldsOTVqcnkzV2NoS2l3WlpwZm9WVlNnM3Z3dVdjbWRpZmx6T3BmaUQ3akR3Q0cxSndfZkszLXFjX2tQMzBDa2ZMMnltdUpzckFIOE16NFJWMA?oc=5",
       "featured": false
     },
     {
