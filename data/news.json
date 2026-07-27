@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 14:28 UTC",
+  "last_updated": "2026-07-27 16:38 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -771,18 +771,6 @@
       "featured": false
     },
     {
-      "title": "Lakeland's Depot Arts District set for grand opening - FOX 13 Tampa Bay",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Oct 30, 2025",
-      "summary": "Lakeland's Depot Arts District set for grand opening FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUdReG5sWF9nM1Zzckd4R09jb1cyQ3p5TTNDX3hac2draGZzWDJmTU0yZHJmZUxRQlh3d0Q1NW11QU5EWW5yOEktWHlPMm91QWJrQnZETkhhXzVDNEI0S25qRDVmSHNOZk9sZnZySE1yalRCSHE5UDNjRm1oWUQ5eU5GWVEtanlsa05TSE42enRqTnZfRXkyStIBngFBVV95cUxPdmo1WGMwMURjT1Y4T1JFVXV5ZC10elJnTnI3QjFDd04yQ0gydUYwb1d1cllyOWVld1JwSUxjdm1HOUFtMTJ6cEtpVkg1RVRMekcxaW5CRUpoQ19DYW9UWnZPMDJidWxIZEJwNXQ4OEpvcXFHMUZ2bmNxVlI1YnlVQnZqZjNqdG9IMFlJWVBBRTIzMnlmNUx0aXh4VzFUQQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
       "city": "Davenport",
       "category": "Development",
@@ -816,6 +804,30 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUEV3UGFvX3k2YllFN3pKYU4zeTJLLWpVaGY2YklzVEw1bVhjZ0gxZUd1WmdkOTJBcTA0amp6LXFrOHc4NzdLc1V6NTVHbEZnN0VIVHdkcm50MkVjOHJpTmJlZ2lGU1RGb0RfN2lZcUdHcGoyUzJMaVFkdHUxelQ2NNIBlAFBVV95cUxNaGxZUmJMUnQ2M0tWdEJBYzNuRnM0RzdQZUI0Sk9SLWVaNFF3UjM0SkdiODFLV0tjUkVNRnhHOGw2OE5HZzdkU2xWX19wZEpIcFhDcW1Za25QNkIyRk56ajMyR3VjYUlIT1o2T3VMOGdYZnp5WlZSUEEwU0dOSnVHY09iX0JOVGpuTWVpRERqYkpscmR3?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Putnam, Davenport, announces grand opening of new Family Discovery Center - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 04, 2026",
+      "summary": "Putnam, Davenport, announces grand opening of new Family Discovery Center OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1Z6NE9wYzdaUnNDa3ByRFRSRTRRMERUWG9UaWJqOTFpUF9zdjRLNlZEdzZRSlFGSlh1VXBpRFV6RGJEa21QSXhmSWVEV3hmTHVGLWdhZDBPTGpsMFlxV18yZGpKdHplbnR6akx3ckFuaVF4RERReUlEY0RrbHdYRnRfUWR3U29QNTUwU3VRQUF4andLUUhMQ0gybjhPT1JTY19wMjZmbkp6VEcxUDZSS1A3VjVxeHBMNmfSAb8BQVVfeXFMT2FkbDBqeG5SMlk0a0NHdTNoRDNFel8zOHp2UlFQaDJhaXdFc0NYZmhhM01yLWIzQkppYkpuaWJLb2k0Z3pUWTdNTUZ4MTFTX1NGU0dsTzB3WlJZMXVtTXltc3hOZXJnRXU2ekJpcGpfY0dYTlRsQWsyR3B2ZlAyazd2OWRtdVJpcUdpRHl4NzZ1aGJjSWt5dGdjcXJ0NURSOVhuTTF1UE5vZG5YRjdJVlpXVWlMZmdIVUNONi1YWDg?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland's Depot Arts District set for grand opening - FOX 13 Tampa Bay",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Oct 30, 2025",
+      "summary": "Lakeland's Depot Arts District set for grand opening FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUdReG5sWF9nM1Zzckd4R09jb1cyQ3p5TTNDX3hac2draGZzWDJmTU0yZHJmZUxRQlh3d0Q1NW11QU5EWW5yOEktWHlPMm91QWJrQnZETkhhXzVDNEI0S25qRDVmSHNOZk9sZnZySE1yalRCSHE5UDNjRm1oWUQ5eU5GWVEtanlsa05TSE42enRqTnZfRXkyStIBngFBVV95cUxPdmo1WGMwMURjT1Y4T1JFVXV5ZC10elJnTnI3QjFDd04yQ0gydUYwb1d1cllyOWVld1JwSUxjdm1HOUFtMTJ6cEtpVkg1RVRMekcxaW5CRUpoQ19DYW9UWnZPMDJidWxIZEJwNXQ4OEpvcXFHMUZ2bmNxVlI1YnlVQnZqZjNqdG9IMFlJWVBBRTIzMnlmNUx0aXh4VzFUQQ?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 10, 2004",
-      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
       "featured": false
     }
   ]
