@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-07-29 14:37 UTC",
+  "last_updated": "2026-07-29 16:07 UTC",
   "feed_mode": "live-expanded",
   "items": [
-    {
-      "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
-      "city": "Bartow",
-      "category": "Housing",
-      "status": "Approved",
-      "date": "Nov 11, 2025",
-      "summary": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVpwZS1OTHkyR25NUGdvTlJINTZ6bUh0VXJ5dk5mcWwwd1RLQ1JRbEMzS2dXNGpDSUNfRWUxZktFQnlHcXRMSGhZZ1A4dVVlWXYxZnBRbWdQcFRwVzZQaERFMWpEUjhnd1VYdUlpYUJnOHFSZm9ZRndxT1dPNmU0M2t3RXpya0NuNHdfV2E3X1VsOTBGN0tXZllCejZGVlJ5UC1QSjFqb0pHSm5NS29KekdacnoxVXBIUGtHT2dIakZPcDFiMGZUTUw5WlA5MlNvd0ZmTFNoVjRESVFxOXNkdkQzbTVMNW8?oc=5",
-      "featured": false
-    },
     {
       "title": "Polk County planning board denies 3rd bid for Deeson Road development - Lakeland Ledger",
       "city": "Lakeland",
@@ -24,6 +12,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNVM1ajhfR01tc29jYjUySEFkLW9TaV8waWFjLWpXRG54empib09QZm1YeXoxcFNlZ1J4cVhVcEg3TklETDlOcmJTQ3lONWExVml4TWM1ZnFtNFgzQUFGYjUxbnh2YlJxazdyWS1FX201NUFJbUZKV2JPWTV2MXp1NFZpVUhUSFFlei14YzIxaXU2SWNXRmljOTlSaENpSkZVTG83MzRTU3pUb3Zaa2VYOEp2aldpTEhZMXlRNmR0WkVDWVY5dzd2b0Rfc3dMbXozMndFUnUxRTlIMHpfeHFOVlF4bEJOcnZQS3Q0Yk9CeFo4bGVxNzk3UTR5Q2Vyb0RrQXBYWmtOaw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
+      "city": "Bartow",
+      "category": "Housing",
+      "status": "Approved",
+      "date": "Nov 11, 2025",
+      "summary": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVpwZS1OTHkyR25NUGdvTlJINTZ6bUh0VXJ5dk5mcWwwd1RLQ1JRbEMzS2dXNGpDSUNfRWUxZktFQnlHcXRMSGhZZ1A4dVVlWXYxZnBRbWdQcFRwVzZQaERFMWpEUjhnd1VYdUlpYUJnOHFSZm9ZRndxT1dPNmU0M2t3RXpya0NuNHdfV2E3X1VsOTBGN0tXZllCejZGVlJ5UC1QSjFqb0pHSm5NS29KekdacnoxVXBIUGtHT2dIakZPcDFiMGZUTUw5WlA5MlNvd0ZmTFNoVjRESVFxOXNkdkQzbTVMNW8?oc=5",
       "featured": false
     },
     {
@@ -75,6 +75,18 @@
       "featured": false
     },
     {
+      "title": "Bubba's 33 restaurant opening in Davenport on Monday - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Grand Opening",
+      "date": "Jul 26, 2026",
+      "summary": "Bubba's 33 restaurant opening in Davenport on Monday WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkhkWS1XQVpxSUJtSVBubTN0NW9qM2FlUW1OeHlELVNsZlIxbTVmS3hpRXBUUURMYktRdTVPQWRJSEhvQ0ZtODVIRjQ1VTQzdUR0Q0xSSWVGcUdIZWhpMmMzS2JST0FYamx0NGVHR1hMY0FKUTQycHU0azMyNUVxNlpzUEswa3NVc3UyNG5jZmhPZHVweC1RWEVBM3RWWGJXNEpfRTh3enR2bFMyRmtvNzhJTGpPUHgwQ1VHLWdOYkJGdE9sOHNiOQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project - Construction Owners",
       "city": "Auburndale",
       "category": "Development",
@@ -84,18 +96,6 @@
       "source": "Construction Owners",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelVDOS0ydjUtM2FaNUVUY0t1Qm5nQk9FWjYxamZwYmhFbldMcHFyN2JNaUVGZGUwQ2VHMDZ1bVNVYWwtMU9hd3JoWDZ6UUE3Q2U2TVg4R09hMnVBMjMxZFJELUpFbmI3RWhLeEFlbjBtZjZfdnA5LVNBNF9TVEVDSGNSdGdXUkNGWlZEOGVpbGp0V3VEZGN5MnFoYTN0S0g4RThsTTcyVmNvTXNVVTNEeTVFS1hzRUt6RGFxV0hhbGExZ2dUclBobzBuQQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Bubba's 33 restaurant opening in Davenport on Monday - wqad.com",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Grand Opening",
-      "date": "Jul 26, 2026",
-      "summary": "Bubba's 33 restaurant opening in Davenport on Monday wqad.com",
-      "source": "wqad.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkhkWS1XQVpxSUJtSVBubTN0NW9qM2FlUW1OeHlELVNsZlIxbTVmS3hpRXBUUURMYktRdTVPQWRJSEhvQ0ZtODVIRjQ1VTQzdUR0Q0xSSWVGcUdIZWhpMmMzS2JST0FYamx0NGVHR1hMY0FKUTQycHU0azMyNUVxNlpzUEswa3NVc3UyNG5jZmhPZHVweC1RWEVBM3RWWGJXNEpfRTh3enR2bFMyRmtvNzhJTGpPUHgwQ1VHLWdOYkJGdE9sOHNiOQ?oc=5",
       "featured": false
     },
     {
@@ -207,13 +207,13 @@
       "featured": false
     },
     {
-      "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - wqad.com",
+      "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 20, 2026",
-      "summary": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support wqad.com",
-      "source": "wqad.com",
+      "summary": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support WQAD",
+      "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
       "featured": false
@@ -255,18 +255,6 @@
       "featured": false
     },
     {
-      "title": "Davenport restaurant to close its doors - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Davenport restaurant to close its doors KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "4 the Record: Davenport mayor focused on expanding development in west end of city – WHBF - OurQuadCities",
       "city": "Davenport",
       "category": "Development",
@@ -279,15 +267,27 @@
       "featured": false
     },
     {
-      "title": "Davenport restaurant at risk of closing without community support - wqad.com",
+      "title": "Davenport restaurant at risk of closing without community support - WQAD",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 20, 2026",
-      "summary": "Davenport restaurant at risk of closing without community support wqad.com",
-      "source": "wqad.com",
+      "summary": "Davenport restaurant at risk of closing without community support WQAD",
+      "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Humility Homes announces 11-unit supportive housing project in Davenport - The Quad-City Times",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 08, 2026",
+      "summary": "Humility Homes announces 11-unit supportive housing project in Davenport The Quad-City Times",
+      "source": "The Quad-City Times",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFhRTHdRRTBFaEZyaWJoTEVIQWRmVlQ1VlYweGlyanU5YlV3Ti04d3pmSFZRMzB3dUg0Y1JzVHZMY1BFLURzUTQxMzI5SjdvM3RwaTh0X0dCZXJadzVsTl8xZjd1bjlWamdvbS1meXlBOVREUlpIcjNfalV2WnVFMlU0MzBSdnV4UkJiYUlEeTBtU1NKcGwydjktMjdGYUdGbWc?oc=5",
       "featured": false
     },
     {
@@ -363,18 +363,6 @@
       "featured": false
     },
     {
-      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 04, 2025",
-      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
       "city": "Polk County",
       "category": "Community",
@@ -408,6 +396,18 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 04, 2025",
+      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
       "featured": false
     },
     {
@@ -519,13 +519,13 @@
       "featured": false
     },
     {
-      "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
+      "title": "Foxtail Coffee Co. at Work on Davenport Opening - whatnow.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Aug 28, 2025",
-      "summary": "Foxtail Coffee Co. at Work on Davenport Opening WhatNow",
-      "source": "WhatNow",
+      "summary": "Foxtail Coffee Co. at Work on Davenport Opening whatnow.com",
+      "source": "whatnow.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
       "featured": false
@@ -615,13 +615,13 @@
       "featured": false
     },
     {
-      "title": "Burn Boot Camp East Davenport Grand Opening - WVIK, Quad Cities NPR",
+      "title": "Burn Boot Camp East Davenport Grand Opening - wvik.org",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 23, 2026",
-      "summary": "Burn Boot Camp East Davenport Grand Opening WVIK, Quad Cities NPR",
-      "source": "WVIK, Quad Cities NPR",
+      "summary": "Burn Boot Camp East Davenport Grand Opening wvik.org",
+      "source": "wvik.org",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjdLZUtfX3VrWWhvY052bTlxeDZnWUdQVXBfcVZOWjJwY1Fnd2l5YkpIWWNscVJZVTJUSG84MTR5NEFBenYySjZjby1aQmdfTEtJa0E0LW8xckVTWS1UdGw4dTNaSlN4RU5EWE1jb2p4TFp3UFhiQk5rc05wVGlEbF9CWkFuQTBXRWdQSlBIajNmeDZoc0lGUmJJTlVWUEVuLVJZaVBscmJKV3hjd3c?oc=5",
       "featured": false
@@ -771,13 +771,13 @@
       "featured": false
     },
     {
-      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - pr.com",
+      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - PR.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 15, 2026",
-      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location pr.com",
-      "source": "pr.com",
+      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location PR.com",
+      "source": "PR.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VjBsQkFONFRsb05oZmxPWTFTNmotOWpoZmNKbjlRLXB0Wmp6RFRzYmhJTW05OFlzZkcwbml0ZXd1MHd2YkhQSHNxQmJFNUpM?oc=5",
       "featured": false
