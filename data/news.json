@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 04:26 UTC",
+  "last_updated": "2026-07-30 07:08 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -15,6 +15,18 @@
       "featured": false
     },
     {
+      "title": "Two Polk County Winn-Dixie stores will close soon and convert to Aldi - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Mar 07, 2026",
+      "summary": "Two Polk County Winn-Dixie stores will close soon and convert to Aldi Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNllnODhVTUp1b2E5WDkxVWVjaEVwSlhJbEQ5Mm50MDlyekkweVN5X2Vqb3FjRXlyYkg5RGZNOFdpRndsMnJUWU4wazhIazltWDFzSTVJczJ5dzlabmhCREhNcGtVQW9GWHpPNzNzbWlOYUdVWUlIaXB5VHZwdlBzSzZlS0FIcnktRldVZl9HT3loeEdlZklFaHNXVmhyV1hNSmJjZEx0ejdjNWtBRmM0bnZqUkhSM1dDa1dsaDBYMXpNNmF0SkJhWE9HclJqZzZqRHB3eUQ4Zw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
       "city": "Bartow",
       "category": "Housing",
@@ -24,18 +36,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVpwZS1OTHkyR25NUGdvTlJINTZ6bUh0VXJ5dk5mcWwwd1RLQ1JRbEMzS2dXNGpDSUNfRWUxZktFQnlHcXRMSGhZZ1A4dVVlWXYxZnBRbWdQcFRwVzZQaERFMWpEUjhnd1VYdUlpYUJnOHFSZm9ZRndxT1dPNmU0M2t3RXpya0NuNHdfV2E3X1VsOTBGN0tXZllCejZGVlJ5UC1QSjFqb0pHSm5NS29KekdacnoxVXBIUGtHT2dIakZPcDFiMGZUTUw5WlA5MlNvd0ZmTFNoVjRESVFxOXNkdkQzbTVMNW8?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County approves 747-home development south of Lakeland - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 07, 2026",
-      "summary": "Polk County approves 747-home development south of Lakeland Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
       "featured": false
     },
     {
@@ -51,13 +51,25 @@
       "featured": false
     },
     {
-      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
+      "title": "Polk County approves 747-home development south of Lakeland - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 07, 2026",
+      "summary": "Polk County approves 747-home development south of Lakeland Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
+      "featured": false
+    },
+    {
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - adventhealth.com",
       "city": "Auburndale",
       "category": "Development",
       "status": "Update",
       "date": "Jul 27, 2026",
-      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
-      "source": "AdventHealth",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale adventhealth.com",
+      "source": "adventhealth.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
       "featured": false
@@ -75,13 +87,13 @@
       "featured": false
     },
     {
-      "title": "New housing development aims to help homeless people in Davenport - KWQC",
+      "title": "New housing development aims to help homeless people in Davenport - kwqc.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Jul 15, 2026",
-      "summary": "New housing development aims to help homeless people in Davenport KWQC",
-      "source": "KWQC",
+      "summary": "New housing development aims to help homeless people in Davenport kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
       "featured": false
@@ -103,7 +115,7 @@
       "city": "Davenport",
       "category": "Retail",
       "status": "Update",
-      "date": "Jul 21, 2026",
+      "date": "Jul 20, 2026",
       "summary": "Deputies seek suspects in Davenport retail theft and battery Tampa Bay 28",
       "source": "Tampa Bay 28",
       "image": "",
@@ -111,13 +123,13 @@
       "featured": false
     },
     {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
+      "title": "Humility Homes to break ground on new supportive housing project in Davenport - ourquadcities.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
-      "source": "OurQuadCities",
+      "summary": "Humility Homes to break ground on new supportive housing project in Davenport ourquadcities.com",
+      "source": "ourquadcities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
       "featured": false
@@ -183,39 +195,27 @@
       "featured": false
     },
     {
-      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
+      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - kwqc.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 08, 2026",
-      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport KWQC",
-      "source": "KWQC",
+      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
       "featured": false
     },
     {
-      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
+      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - kwqc.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 20, 2026",
-      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
-      "source": "KWQC",
+      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "It’s flag day at new Bubba’s 33 restaurant in Davenport - Quad Cities Business Journal",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jul 02, 2026",
-      "summary": "It’s flag day at new Bubba’s 33 restaurant in Davenport Quad Cities Business Journal",
-      "source": "Quad Cities Business Journal",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHhmMjM5b2M5VkJsN3hXdXBaUkR0RkttdmxVcnowelJSczhxbVBZWGdXQ3VibjJadGdDMHVxNWQxMUZ1SnJWMmNWQkNKZE9mVXh5S2JleDJ3dGVmS01Nand3MXhtclpkM21yUVFHa2IyREdLYk5aNUoyczI4emg2UFJFQkVpWVlyTEZlVUN3?oc=5",
       "featured": false
     },
     {
@@ -231,6 +231,18 @@
       "featured": false
     },
     {
+      "title": "It’s flag day at new Bubba’s 33 restaurant in Davenport - Quad Cities Business Journal",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jul 02, 2026",
+      "summary": "It’s flag day at new Bubba’s 33 restaurant in Davenport Quad Cities Business Journal",
+      "source": "Quad Cities Business Journal",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHhmMjM5b2M5VkJsN3hXdXBaUkR0RkttdmxVcnowelJSczhxbVBZWGdXQ3VibjJadGdDMHVxNWQxMUZ1SnJWMmNWQkNKZE9mVXh5S2JleDJ3dGVmS01Nand3MXhtclpkM21yUVFHa2IyREdLYk5aNUoyczI4emg2UFJFQkVpWVlyTEZlVUN3?oc=5",
+      "featured": false
+    },
+    {
       "title": "Davenport restaurant at risk of closing without community support - WQAD",
       "city": "Davenport",
       "category": "Restaurant",
@@ -243,13 +255,13 @@
       "featured": false
     },
     {
-      "title": "Davenport restaurant to close its doors - KWQC",
+      "title": "Davenport restaurant to close its doors - kwqc.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 12, 2026",
-      "summary": "Davenport restaurant to close its doors KWQC",
-      "source": "KWQC",
+      "summary": "Davenport restaurant to close its doors kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
       "featured": false
@@ -267,13 +279,13 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - tbbwmag.com",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
       "city": "Polk City",
       "category": "Development",
       "status": "Update",
       "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp tbbwmag.com",
-      "source": "tbbwmag.com",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
+      "source": "Tampa Bay Business and Wealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
@@ -579,13 +591,13 @@
       "featured": false
     },
     {
-      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - Dispatch Argus",
+      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - qconline.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 22, 2026",
-      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting Dispatch Argus",
-      "source": "Dispatch Argus",
+      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting qconline.com",
+      "source": "qconline.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3ozMW1xVG9WVDg3M2RJcGVwSUFvNGUybGNHRGEteVE0VWc5ZU9HRW1nMzBmYm5rVlBMRkpLdXNKejJiVjNBMXRXSkNWSGNmZWlJWWJPdVQxN2pfa1NsWjB5b29WanZadHJCRDlYbWVGZkprS016ZkRmRXVKdUFoUl9XTEU5cVcyeTJqeEJfVFZjakFiX084TU52N2NmM2lwY1dqVTBhSzQ0Zw?oc=5",
       "featured": false
@@ -603,37 +615,37 @@
       "featured": false
     },
     {
-      "title": "Bubba’s 33 has grand opening in Davenport - OurQuadCities",
+      "title": "Bubba’s 33 has grand opening in Davenport - ourquadcities.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 20, 2026",
-      "summary": "Bubba’s 33 has grand opening in Davenport OurQuadCities",
-      "source": "OurQuadCities",
+      "summary": "Bubba’s 33 has grand opening in Davenport ourquadcities.com",
+      "source": "ourquadcities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeF84V2F0WWRMWXpITlRKTVFlZktDQmwzaG44TDBYMTNOZFVQbkxXcFRVRERuU0g0T0NMSkl4U196ZnhaZ0pVWFYzZXRmZnl4WW9feXJLdHg1dEZpQVFzaFprMEM0bGRNeUJQS2xxbGh3clp3MGtQMEdnMkFyTjVwYmtrNElQa3NZbFctRVJucURyWEJmY2c3WlVrellqSERCeDV5ZEpra9IBrAFBVV95cUxNZzM3ZkNIdUM4VVJZNGJZOG9ZY0dTMUhYbzMtN05KYlc2QzNYcG9STnV3NzJEcEZpb0NiRzQ2Y3k3azdWREExZ1pJdmhvLTFhSHhIMXNPN05XQ0tsajYwdjl0dUR2djVGM0tjcWQza3dQOHhxZUM2Q1BMZlNLbVRKMEpDN1ZNTlFWYzRiVmFfekVzTmFpNmxYX0xKMVBDdmhPTWhhdjZqMXdmSGRa?oc=5",
       "featured": false
     },
     {
-      "title": "New Bix Museum Location to Hold Grand Opening Friday in Davenport - quadcities.com",
+      "title": "New Bix Museum Location to Hold Grand Opening Friday in Davenport - QuadCities.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 22, 2026",
-      "summary": "New Bix Museum Location to Hold Grand Opening Friday in Davenport quadcities.com",
-      "source": "quadcities.com",
+      "summary": "New Bix Museum Location to Hold Grand Opening Friday in Davenport QuadCities.com",
+      "source": "QuadCities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3kxcWk3MWZRZ0hXbkEtaFoxZjVGemttemFkb20xS1Vna1lOVFNiQzdBMkZodmVpVENmZk1yTWNEYVZYNjVqOVN4RGs1djZ0c2JTdlFKUmkxM3pKd09nTEVBeWhEVUNtcF9La2dMcThMWVFTVWNhcEh4TkZ1RWdhSDRrS0NrNjdmbmFjaWN5aW12bm02NHNUOGtjVDF5YzdSbEtPMXpJbFExeGRXMmlvaVZFbVZQZ0xQaEJEbVFB?oc=5",
       "featured": false
     },
     {
-      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - news.ag.org",
+      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God",
       "city": "Winter Haven",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 01, 2026",
-      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus news.ag.org",
-      "source": "news.ag.org",
+      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God",
+      "source": "Assemblies of God",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
       "featured": false
@@ -651,13 +663,13 @@
       "featured": false
     },
     {
-      "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - KWQC",
+      "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - kwqc.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 15, 2026",
-      "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
-      "source": "KWQC",
+      "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFRsZ0wtenl6QldPOHVMR053TnB5YTBmMEUzN0U1TUhTUXdrYUhlNThnZHQydFEzSGhUeHlyVFk4OW1aX0RDVklkSjlMSmR3TUc2TlpCS1JPZ191ZENTLTNTOE5YbE1SeGZFcENOblc2bmhHUG5JTURFaGNWSTB5NjktR2tKckZqSUVXODRYSTFhQ0I1aE80SGR4R2xFZ1l2WnhmYkMxVdIBuwFBVV95cUxPZ1g3MTVZdlZjTEhKcThqcDNJUjYyU0RBelluRmlVd2J4TXVIdTc2OWNhOWlkU3ROOWVLak55NFhoZ1F5TXc5ZE9QRlZqRFZ1Y0J0Y2x1UU1MMDNxRENuYWNLdS1zejM1VHB6dF84M0Q4TDcxVkdDYkhKb00wWWRyT0c4WnNaUGVVUTFfNGVROEFhLWtVV3Ewb1JaQ0pzUUJBTktDTU82U1BpcTZwcExvejBIb0lOSlhoNkNN?oc=5",
       "featured": false
@@ -723,13 +735,13 @@
       "featured": false
     },
     {
-      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - The National Law Review",
+      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - natlawreview.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 17, 2026",
-      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th The National Law Review",
-      "source": "The National Law Review",
+      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th natlawreview.com",
+      "source": "natlawreview.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
       "featured": false
@@ -759,49 +771,49 @@
       "featured": false
     },
     {
-      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - quadcities.com",
+      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 18, 2026",
-      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event quadcities.com",
-      "source": "quadcities.com",
+      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event QuadCities.com",
+      "source": "QuadCities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUc0QS1EVnBHSGpGRGJPVXpaYlRUX1Y3YjctX1d3WVBYSzduM2ZhWlZqRlJkWkJqU1JFMFRXQVJwS0xETUl4ZlRwdnF5QWFYTGE0ZG9rQm03dDU1VUVoV2F2eTV2Wm9RU0ttLXk4aWhZdWtsd0Y1UFlMYUJsN003QUlMcGNMbmZHbTFyb0J1YWZwa0dGdnpFTGRXRjVVdlp2V0FKeHM2SkFfN1Vqalc2SEh2VlNLcDNISzVhag?oc=5",
       "featured": false
     },
     {
-      "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
+      "title": "Dave & Buster’s announces Davenport grand opening - ourquadcities.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Dec 17, 2025",
-      "summary": "Dave & Buster’s announces Davenport grand opening OurQuadCities",
-      "source": "OurQuadCities",
+      "summary": "Dave & Buster’s announces Davenport grand opening ourquadcities.com",
+      "source": "ourquadcities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
       "featured": false
     },
     {
-      "title": "Ollie’s Bargain Outlet to open Davenport store - KWQC",
+      "title": "Ollie’s Bargain Outlet to open Davenport store - kwqc.com",
       "city": "Davenport",
       "category": "Retail",
       "status": "Update",
       "date": "Jun 17, 2026",
-      "summary": "Ollie’s Bargain Outlet to open Davenport store KWQC",
-      "source": "KWQC",
+      "summary": "Ollie’s Bargain Outlet to open Davenport store kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUEV3UGFvX3k2YllFN3pKYU4zeTJLLWpVaGY2YklzVEw1bVhjZ0gxZUd1WmdkOTJBcTA0amp6LXFrOHc4NzdLc1V6NTVHbEZnN0VIVHdkcm50MkVjOHJpTmJlZ2lGU1RGb0RfN2lZcUdHcGoyUzJMaVFkdHUxelQ2NNIBlAFBVV95cUxNaGxZUmJMUnQ2M0tWdEJBYzNuRnM0RzdQZUI0Sk9SLWVaNFF3UjM0SkdiODFLV0tjUkVNRnhHOGw2OE5HZzdkU2xWX19wZEpIcFhDcW1Za25QNkIyRk56ajMyR3VjYUlIT1o2T3VMOGdYZnp5WlZSUEEwU0dOSnVHY09iX0JOVGpuTWVpRERqYkpscmR3?oc=5",
       "featured": false
     },
     {
-      "title": "Putnam, Davenport, announces grand opening of new Family Discovery Center - OurQuadCities",
+      "title": "Putnam, Davenport, announces grand opening of new Family Discovery Center - ourquadcities.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 04, 2026",
-      "summary": "Putnam, Davenport, announces grand opening of new Family Discovery Center OurQuadCities",
-      "source": "OurQuadCities",
+      "summary": "Putnam, Davenport, announces grand opening of new Family Discovery Center ourquadcities.com",
+      "source": "ourquadcities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1Z6NE9wYzdaUnNDa3ByRFRSRTRRMERUWG9UaWJqOTFpUF9zdjRLNlZEdzZRSlFGSlh1VXBpRFV6RGJEa21QSXhmSWVEV3hmTHVGLWdhZDBPTGpsMFlxV18yZGpKdHplbnR6akx3ckFuaVF4RERReUlEY0RrbHdYRnRfUWR3U29QNTUwU3VRQUF4andLUUhMQ0gybjhPT1JTY19wMjZmbkp6VEcxUDZSS1A3VjVxeHBMNmfSAb8BQVVfeXFMT2FkbDBqeG5SMlk0a0NHdTNoRDNFel8zOHp2UlFQaDJhaXdFc0NYZmhhM01yLWIzQkppYkpuaWJLb2k0Z3pUWTdNTUZ4MTFTX1NGU0dsTzB3WlJZMXVtTXltc3hOZXJnRXU2ekJpcGpfY0dYTlRsQWsyR3B2ZlAyazd2OWRtdVJpcUdpRHl4NzZ1aGJjSWt5dGdjcXJ0NURSOVhuTTF1UE5vZG5YRjdJVlpXVWlMZmdIVUNONi1YWDg?oc=5",
       "featured": false
@@ -1068,18 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRtZ2VhbVBIMDAwU1pvdFMwcWpOQW9nVUhsZlBpcUtRSlBMMFRBT1dSMkY3OUVSYzNPSFlFclFaRXQ3UDBfQWY0LVdQdVY0c2c1OHlQeHFOZW8xTVBxVGlzSnpZWWJzaTllcVlwUUsxRGV1Z25DbWdkT0U0a0JnZEFDMEk1eWl3U1JsS3psQUNPZmtLZEdnMUJIVEpIeXh3eGh3d0RhMTRwNnhvV3hoaGtGem1UVW0yUy1ucG5vMUllemtwYi1maE1xOA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland Housing Authority Moves to Transition Public Housing to Section 8 Program - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 28, 2026",
-      "summary": "Lakeland Housing Authority Moves to Transition Public Housing to Section 8 Program LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWNESXQzcmZmdXhHVW55WnY1bFJ4Ynlwc2sxdEV0Vi00MXo0WFV6OVlsbFY2bTVOWE85XzhpMk5ha2JIdUZTRW9BQ3lwa2RyWXNzVEJmQjNSSTRfVWZ5V0VBdnZVMkN6OHlQZGh2RU9ucGVYQ1FCeVZFYkhWTl93SVdaeGdGNFpQZXdUZnVCTS1xcmhtT2tOVmMtX3FiNEZyWVNKUDBkRGRvS28?oc=5",
       "featured": false
     }
   ]
