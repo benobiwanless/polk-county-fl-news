@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 17:10 UTC",
+  "last_updated": "2026-07-31 18:43 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -12,18 +12,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNVM1ajhfR01tc29jYjUySEFkLW9TaV8waWFjLWpXRG54empib09QZm1YeXoxcFNlZ1J4cVhVcEg3TklETDlOcmJTQ3lONWExVml4TWM1ZnFtNFgzQUFGYjUxbnh2YlJxazdyWS1FX201NUFJbUZKV2JPWTV2MXp1NFZpVUhUSFFlei14YzIxaXU2SWNXRmljOTlSaENpSkZVTG83MzRTU3pUb3Zaa2VYOEp2aldpTEhZMXlRNmR0WkVDWVY5dzd2b0Rfc3dMbXozMndFUnUxRTlIMHpfeHFOVlF4bEJOcnZQS3Q0Yk9CeFo4bGVxNzk3UTR5Q2Vyb0RrQXBYWmtOaw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Two Polk County Winn-Dixie stores will close soon and convert to Aldi - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Mar 07, 2026",
-      "summary": "Two Polk County Winn-Dixie stores will close soon and convert to Aldi Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNllnODhVTUp1b2E5WDkxVWVjaEVwSlhJbEQ5Mm50MDlyekkweVN5X2Vqb3FjRXlyYkg5RGZNOFdpRndsMnJUWU4wazhIazltWDFzSTVJczJ5dzlabmhCREhNcGtVQW9GWHpPNzNzbWlOYUdVWUlIaXB5VHZwdlBzSzZlS0FIcnktRldVZl9HT3loeEdlZklFaHNXVmhyV1hNSmJjZEx0ejdjNWtBRmM0bnZqUkhSM1dDa1dsaDBYMXpNNmF0SkJhWE9HclJqZzZqRHB3eUQ4Zw?oc=5",
       "featured": false
     },
     {
@@ -63,6 +51,18 @@
       "featured": false
     },
     {
+      "title": "Taylor Ridge Paving & Construction Named #1 Paving Contractor in Davenport, Iowa by Small Business Trendsetters - Yahoo Finance",
+      "city": "Davenport",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Jul 31, 2026",
+      "summary": "Taylor Ridge Paving & Construction Named #1 Paving Contractor in Davenport, Iowa by Small Business Trendsetters Yahoo Finance",
+      "source": "Yahoo Finance",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOENHQ2lsRV9zcjl4ZTNNMWpPME9jVE01NFhZeGhPdG53eFNrNnI2clJrTS1CaFhGTy10MUFiX1A3Vkt1WDNfQldONU1zZFk0dFkwemV6VGJ1TVI5OFJwWlppUGF6RHJhSE5BWGQtVlM1ck1FV0lZZk9nSVYxb0RCeHo5OWMxamM3X1h3MDlhRFp4RnZOaEtLTVlndmRQVjd5SEZwUnlR?oc=5",
+      "featured": false
+    },
+    {
       "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
       "city": "Auburndale",
       "category": "Development",
@@ -72,6 +72,18 @@
       "source": "AdventHealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Taylor Ridge Paving & Construction Named #1 Paving Contractor in Davenport, Iowa by Small Business Trendsetters - lincolnjournal.com",
+      "city": "Davenport",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Jul 31, 2026",
+      "summary": "Taylor Ridge Paving & Construction Named #1 Paving Contractor in Davenport, Iowa by Small Business Trendsetters lincolnjournal.com",
+      "source": "lincolnjournal.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxONEFWVy0ydHhrdmFUR1AxM0FTUlh0UUw4bENwOGhYVlhDTXFfYnBuYUlLaTVQNTNkUEJUdm0xT3pGMDFlTE1tLVJWZ1BIeEtqN293UEJPOFl2b2doMEFrY3d4b1V5OXdnRjc2TjdrNmhyYVRsbEEtRHpQWHJjWkprdEc5LXRxX19EbS0wQkVSMmtiT2pZRmlObjVrelVySVBrMjdGNy0ySWNsR0oxVG04TzRVWl9aZUs0Z1VoeFRMLVZIMjRxQlhWVGFOMnhUZjM1Ykt5ZFJHdjJ4WlRvaS1tWGxiQ0lnRmFDR0pMMnJINk91T2JxRDhSVVR2Vzk2dXVjY1FkRkYxdnRYVnRzTVFneVpiY0lvaFozclluYUYxT1M3bWNTZzNIWHZsT3R4dWVrZThQdDR1b2R4MGExRVVjQQ?oc=5",
       "featured": false
     },
     {
@@ -99,13 +111,13 @@
       "featured": false
     },
     {
-      "title": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project - Construction Owners",
+      "title": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project - constructionowners.com",
       "city": "Auburndale",
       "category": "Development",
       "status": "Update",
       "date": "Jul 28, 2026",
-      "summary": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project Construction Owners",
-      "source": "Construction Owners",
+      "summary": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project constructionowners.com",
+      "source": "constructionowners.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelVDOS0ydjUtM2FaNUVUY0t1Qm5nQk9FWjYxamZwYmhFbldMcHFyN2JNaUVGZGUwQ2VHMDZ1bVNVYWwtMU9hd3JoWDZ6UUE3Q2U2TVg4R09hMnVBMjMxZFJELUpFbmI3RWhLeEFlbjBtZjZfdnA5LVNBNF9TVEVDSGNSdGdXUkNGWlZEOGVpbGp0V3VEZGN5MnFoYTN0S0g4RThsTTcyVmNvTXNVVTNEeTVFS1hzRUt6RGFxV0hhbGExZ2dUclBobzBuQQ?oc=5",
       "featured": false
@@ -135,13 +147,13 @@
       "featured": false
     },
     {
-      "title": "Deputies seek suspects in Davenport retail theft and battery - tampabay28.com",
+      "title": "Deputies seek suspects in Davenport retail theft and battery - Tampa Bay 28",
       "city": "Davenport",
       "category": "Retail",
       "status": "Update",
       "date": "Jul 20, 2026",
-      "summary": "Deputies seek suspects in Davenport retail theft and battery tampabay28.com",
-      "source": "tampabay28.com",
+      "summary": "Deputies seek suspects in Davenport retail theft and battery Tampa Bay 28",
+      "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUW1NLUlZRUVZRmo4SW80dVlwSWdTLTJCY2E5Y0U4dUlFSWFGU2txN3dmTFpGQkItbGVwdkZ0bkZkaGY1U1hBZW5rQ1Z1OE1kbmZZZ1Y2TjEySE9WckZWb3hlVlBsMmQtc3A5dlREWGgzNWphQXhreHk4Q09WUHVWX2pUdml3TjNyR1k3bTlhck1odTMzUDhESjNuWHlCa0dQWnBTSkRjaw?oc=5",
       "featured": false
@@ -180,18 +192,6 @@
       "source": "VCU News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
       "featured": false
     },
     {
@@ -255,6 +255,18 @@
       "featured": false
     },
     {
+      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 09, 2026",
+      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
+      "featured": false
+    },
+    {
       "title": "Construction begins for Davenport quiet zone, expected to complete in August - OurQuadCities",
       "city": "Davenport",
       "category": "Development",
@@ -279,25 +291,13 @@
       "featured": false
     },
     {
-      "title": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday prices - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 16, 2026",
-      "summary": "Inflation drives Davenport Mexican restaurant to raise Taco Tuesday prices WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQUZxVEdZTEQ1eDBaRENzd2RUVnRqVVl5R2FtYUhyMjE0YWJURXNxdTJldVlhMG16RVJ1U183SFk3R0RmdEE3MWJFLUl3ZXlNS3ZHbUc0S2JHb1FHc2t5ZmNReE5VSDFVdXB3NVlwc2JmeE1qeGtNUnZZNXFMTU9sNEN1LWQyaWl4X1NWMmZVakh1N1RfSHVXNVJrdC11SHF3RUczM1VkLWctZ0NpcUczdDE5cWRYOW9vbG1RQWczbHRteGx1RUhZR3U4azFRbjBSdzBhbjkxZk9NMTlTSUI4SkdRaEdTLXc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - coosavalleynews.com",
+      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
       "city": "Polk County",
       "category": "Development",
       "status": "Update",
       "date": "Jul 14, 2026",
-      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases coosavalleynews.com",
-      "source": "coosavalleynews.com",
+      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
+      "source": "Coosa Valley News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
       "featured": false
@@ -331,7 +331,7 @@
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Jan 27, 2026",
+      "date": "Jan 28, 2026",
       "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Spectrum Bay News 9",
       "source": "Spectrum Bay News 9",
       "image": "",
@@ -411,13 +411,13 @@
       "featured": false
     },
     {
-      "title": "Polk County Schools is looking at high school rezoning options - tampabay28.com",
+      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 04, 2025",
-      "summary": "Polk County Schools is looking at high school rezoning options tampabay28.com",
-      "source": "tampabay28.com",
+      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
+      "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
       "featured": false
@@ -435,25 +435,25 @@
       "featured": false
     },
     {
-      "title": "What's new and coming soon to Lakeland - 6AM City",
+      "title": "What's new and coming soon to Lakeland - 6amcity.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Coming Soon",
       "date": "Apr 13, 2026",
-      "summary": "What's new and coming soon to Lakeland 6AM City",
-      "source": "6AM City",
+      "summary": "What's new and coming soon to Lakeland 6amcity.com",
+      "source": "6amcity.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0YxSUEzYnRvX01ILWhLYnVzRE9xVTJKWVhlOFpyeGVfaTliNkFLdmNNdkV2eDNXWDQyQzF3ZGNGTGgtdFg1eHdTQ0pCVzNjQXp4N29hNXJBYWVsQjNNakUyYURRU1VEN0Q2ZGdwWHV0alVfUTM3WWhpT1RWRkVIekNOR2s?oc=5",
       "featured": false
     },
     {
-      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
+      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6amcity.com",
       "city": "Lakeland",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 16, 2026",
-      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
-      "source": "6AM City",
+      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6amcity.com",
+      "source": "6amcity.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
       "featured": false
@@ -543,25 +543,25 @@
       "featured": false
     },
     {
-      "title": "A Look at 3 Restaurants Coming Soon in Polk County - businessdebut.com",
+      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Coming Soon",
       "date": "May 30, 2026",
-      "summary": "A Look at 3 Restaurants Coming Soon in Polk County businessdebut.com",
-      "source": "businessdebut.com",
+      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
+      "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
       "featured": false
     },
     {
-      "title": "5 Coming Soon Polk County Restaurants - businessdebut.com",
+      "title": "5 Coming Soon Polk County Restaurants - Business Debut",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Coming Soon",
       "date": "Nov 26, 2025",
-      "summary": "5 Coming Soon Polk County Restaurants businessdebut.com",
-      "source": "businessdebut.com",
+      "summary": "5 Coming Soon Polk County Restaurants Business Debut",
+      "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KX1BOdno3MnhwNENJVlBfRlBRWUpKYnBrQ3loVUFWb3J0X0JxSE9pVnRUSEdEcllkTmMzZDJaeFU4bkE2dGxVc21LbURCOFcwWFhJUHM1NWJvTUpFWVBadFlza0RaVlpOTmpvR215Wmk4ZHFiMzBr?oc=5",
       "featured": false
@@ -579,37 +579,37 @@
       "featured": false
     },
     {
-      "title": "2 Polk County Restaurants Planning to Open This May - businessdebut.com",
+      "title": "2 Polk County Restaurants Planning to Open This May - Business Debut",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Update",
       "date": "May 06, 2026",
-      "summary": "2 Polk County Restaurants Planning to Open This May businessdebut.com",
-      "source": "businessdebut.com",
+      "summary": "2 Polk County Restaurants Planning to Open This May Business Debut",
+      "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1JIMS1GZTJQTW9uV2JIaF9tLUNWbFFSQ2xsZ244NnlsMDBhVGQ2R0x2R0loUFk4Wmo5V3pNdGFsVUVvc3FqSjVWQ0llRkxjaHJPWmtIU0Y4RXpLajZVSlF2Vy0zTldEWFZLQl9wTlZ6T2o2cjJCSHNMVWVGR0FiYjRDazJZb200RXc?oc=5",
       "featured": false
     },
     {
-      "title": "Downtown Winter Haven Restaurant Relocating After 26 Years - businessdebut.com",
+      "title": "Downtown Winter Haven Restaurant Relocating After 26 Years - Business Debut",
       "city": "Winter Haven",
       "category": "Restaurant",
       "status": "Update",
       "date": "Feb 23, 2026",
-      "summary": "Downtown Winter Haven Restaurant Relocating After 26 Years businessdebut.com",
-      "source": "businessdebut.com",
+      "summary": "Downtown Winter Haven Restaurant Relocating After 26 Years Business Debut",
+      "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjUxbVN6V3EybU11U1ZLX181LWR3Ykh1QUpaVE4wdnpvY3UzUU45UzE2WjZTaUNfdW5nWnM1aFowVmVPWFF2aWMyajFoVXhIYTZWZzhQQWFpMjlRbmRNaWplNDdtMUFaQXRMWmVfVXJpR29vSUx6X3hOVll4Sk1Rc3ZvdG5hRnFSZlVkcUNHcDVRYkk?oc=5",
       "featured": false
     },
     {
-      "title": "Raise the Bar and Grill Opening Soon in Lake Alfred - businessdebut.com",
+      "title": "Raise the Bar and Grill Opening Soon in Lake Alfred - Business Debut",
       "city": "Lake Alfred",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Oct 07, 2025",
-      "summary": "Raise the Bar and Grill Opening Soon in Lake Alfred businessdebut.com",
-      "source": "businessdebut.com",
+      "summary": "Raise the Bar and Grill Opening Soon in Lake Alfred Business Debut",
+      "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFp3LTctNnRYbnRKU0RsaG5LT0IyZHQydkJWV2pKS2RvMThOM0lnX3VnV1pUMFF4cVFObWJ2NmVGMlFRODRBQzRhV1hxZU1JclRiQUZ2T1JOTk5wNzQySTVGMHpnbnRzVzVFMFpPb2JFbG1TWjYxb2M1enB5ZVlzTVozaWJ0aFFOc2c?oc=5",
       "featured": false
@@ -747,13 +747,13 @@
       "featured": false
     },
     {
-      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - The National Law Review",
+      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - natlawreview.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 17, 2026",
-      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th The National Law Review",
-      "source": "The National Law Review",
+      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th natlawreview.com",
+      "source": "natlawreview.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
       "featured": false
@@ -927,18 +927,6 @@
       "featured": false
     },
     {
-      "title": "Denied at first, Morgan Creek gets another chance at expansion - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Nov 17, 2021",
-      "summary": "Denied at first, Morgan Creek gets another chance at expansion Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHphVjdJbmlFZkxDNG4xNmpveW9jTHhYWnZ4cWxLbmhUNmxYbGpOc05IelZSRG9vWjBMR1J2WHRMdE9uYlRrNWFsejhGWHNaVW9lVHRqeDlZUTVzcXNsamI2c0R4bkRETmM1MG1qMlh6b1NRaS1ra0p6YUoxY2IxeG1KWVlUbi1lblkycEszNnpxaDRlZHVMM1dXSjFnNktZNEtFcC04UGtmX05BRHNYUFc5Y0xXUDRPX3k4NFdINms5QjJHeDhZQVJqWk8tdmRRQ1RqWUJMdDVJR1ozbVE?oc=5",
-      "featured": false
-    },
-    {
       "title": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 - Lakeland Ledger",
       "city": "Haines City",
       "category": "Development",
@@ -1080,6 +1068,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "May 19, 2025",
+      "summary": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRtZ2VhbVBIMDAwU1pvdFMwcWpOQW9nVUhsZlBpcUtRSlBMMFRBT1dSMkY3OUVSYzNPSFlFclFaRXQ3UDBfQWY0LVdQdVY0c2c1OHlQeHFOZW8xTVBxVGlzSnpZWWJzaTllcVlwUUsxRGV1Z25DbWdkT0U0a0JnZEFDMEk1eWl3U1JsS3psQUNPZmtLZEdnMUJIVEpIeXh3eGh3d0RhMTRwNnhvV3hoaGtGem1UVW0yUy1ucG5vMUllemtwYi1maE1xOA?oc=5",
       "featured": false
     }
   ]
