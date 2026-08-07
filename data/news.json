@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 10:41 UTC",
+  "last_updated": "2026-08-07 11:30 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -99,13 +99,13 @@
       "featured": false
     },
     {
-      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - Dispatch Argus",
+      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - qconline.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Aug 05, 2026",
-      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport Dispatch Argus",
-      "source": "Dispatch Argus",
+      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport qconline.com",
+      "source": "qconline.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckxacnR1TGg3VmVicndraWhUZTFwaDhNRzJMYmlkRS01TGFLQ2ZyZjB2NXU3VUVaTTE2UzM0cDZPaVROV2ZwV1NDaWYyeXYwV0RuVzVWUDh3SGFCYVYtTnc2ZnVmRmZYRXVCSFh1ZEViaEV6NWJ3UE1BWlFQLXI2OHpZdjBLRGZCS2ZZR1RRckVDU1ktbDJPY3FkLVFTbXN5dXYxY1NNWmk0UQ?oc=5",
       "featured": false
@@ -195,15 +195,27 @@
       "featured": false
     },
     {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - spokesman.com",
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand spokesman.com",
-      "source": "spokesman.com",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
+      "source": "The Spokesman-Review",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Bubba's 33 restaurant opening in Davenport on Monday - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Grand Opening",
+      "date": "Jul 26, 2026",
+      "summary": "Bubba's 33 restaurant opening in Davenport on Monday WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkhkWS1XQVpxSUJtSVBubTN0NW9qM2FlUW1OeHlELVNsZlIxbTVmS3hpRXBUUURMYktRdTVPQWRJSEhvQ0ZtODVIRjQ1VTQzdUR0Q0xSSWVGcUdIZWhpMmMzS2JST0FYamx0NGVHR1hMY0FKUTQycHU0azMyNUVxNlpzUEswa3NVc3UyNG5jZmhPZHVweC1RWEVBM3RWWGJXNEpfRTh3enR2bFMyRmtvNzhJTGpPUHgwQ1VHLWdOYkJGdE9sOHNiOQ?oc=5",
       "featured": false
     },
     {
@@ -231,37 +243,25 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
+      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - lodgingmagazine.com",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Update",
       "date": "May 20, 2026",
-      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
-      "source": "LODGING Magazine",
+      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation lodgingmagazine.com",
+      "source": "lodgingmagazine.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
       "featured": false
     },
     {
-      "title": "Davenport restaurant to close its doors - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Davenport restaurant to close its doors KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Public Schools Approves High School Rezoning - LkldNow",
+      "title": "Polk County Public Schools Approves High School Rezoning - lkldnow.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Jan 28, 2026",
-      "summary": "Polk County Public Schools Approves High School Rezoning LkldNow",
-      "source": "LkldNow",
+      "summary": "Polk County Public Schools Approves High School Rezoning lkldnow.com",
+      "source": "lkldnow.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0lwMTJ5SVFWWXc4N2hfeVJ2S3ZlUFJjbTZydk5USmxJQTlkTW5qMkx4VThhX3JhY2o1cGdXX3ZreFBCY2diM1duN01GbzlfQkZrNC1QM2NNZ2U0eUJDWjNFUzFoWWVHeENwcTI4X284QWgyeXBSdVM3Ql9pRVBnaG9sc0JaZzhE?oc=5",
       "featured": false
@@ -447,13 +447,13 @@
       "featured": false
     },
     {
-      "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
+      "title": "Foxtail Coffee Co. at Work on Davenport Opening - whatnow.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Aug 28, 2025",
-      "summary": "Foxtail Coffee Co. at Work on Davenport Opening WhatNow",
-      "source": "WhatNow",
+      "summary": "Foxtail Coffee Co. at Work on Davenport Opening whatnow.com",
+      "source": "whatnow.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
       "featured": false
@@ -567,13 +567,13 @@
       "featured": false
     },
     {
-      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - Dispatch Argus",
+      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - qconline.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 22, 2026",
-      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting Dispatch Argus",
-      "source": "Dispatch Argus",
+      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting qconline.com",
+      "source": "qconline.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3ozMW1xVG9WVDg3M2RJcGVwSUFvNGUybGNHRGEteVE0VWc5ZU9HRW1nMzBmYm5rVlBMRkpLdXNKejJiVjNBMXRXSkNWSGNmZWlJWWJPdVQxN2pfa1NsWjB5b29WanZadHJCRDlYbWVGZkprS016ZkRmRXVKdUFoUl9XTEU5cVcyeTJqeEJfVFZjakFiX084TU52N2NmM2lwY1dqVTBhSzQ0Zw?oc=5",
       "featured": false
@@ -687,18 +687,6 @@
       "featured": false
     },
     {
-      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - The National Law Review",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Apr 17, 2026",
-      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th The National Law Review",
-      "source": "The National Law Review",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
-      "featured": false
-    },
-    {
       "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
       "city": "Davenport",
       "category": "Restaurant",
@@ -735,13 +723,13 @@
       "featured": false
     },
     {
-      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - douglasnow.com",
+      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 09, 2026",
-      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open douglasnow.com",
-      "source": "douglasnow.com",
+      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
+      "source": "Douglas Now",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
       "featured": false
@@ -804,6 +792,18 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeDlhQUUzYllseE5pQklNN3RXTV9scldoc3dVaUJBeXpuRkY1OUJKSGRDSk01NXk1S1MtRnNrdC1ERVVveF9HV2ZCQjNuUHZFc044TGc3Z19IV2NBR1F0dUp0ODJSVHVXTGZ4c0wtR3pZZmE0NHhTZlphNWpqNDVxcUUyRDc1VW9lMmpyUkxmT1FDdHpKcXJuNVNEbG9kMGhPWGt1d09VeXVOazZNMi1LelAxcDhTY1BGSWk3SnlUYk91ZzFERWJCcXZLbC1ldnBfNXlvckpsZ0ZYMGxCall2MkJPdjlhYjk3dHUwTTJYZFFJZTg5TWVwUTNWR3FxZUt1czk2N2dyUQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport’s first charter school now open - KWQC",
+      "city": "Davenport",
+      "category": "Community",
+      "status": "Grand Opening",
+      "date": "Aug 27, 2025",
+      "summary": "Davenport’s first charter school now open KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RQUVTNW10anc2c0dYM20ydUJfX25NREdsUHVtMmdUaUQydEI0TDZFMkJONGlTNlBELTdtakcyLTlDWUc3czdqSWlnems2S05iMkdBUTFnY2liYU1vdktKdTVNSDctcVdDOWJMMkRKM0dfTXQ5X1E5ZVlqRENWUdIBkgFBVV95cUxQenpRcnI2bFREc2JieVQtdEpiYWQxc0xqT2J5TTgydkRGUGRPTkk1VWJtMkIyZXV1TVFBTlp0YVhlVWhUWHhFUk5QNDNSb0tVcktGR1RHNE9YYTdBTDk0VGNEMGdGaE40TF9neEdFSzFWWW50SWVrQVNUT2pFM3BCamlhdF9xLVlyUXZ1U1Z4OUNBdw?oc=5",
       "featured": false
     },
     {
@@ -1059,25 +1059,25 @@
       "featured": false
     },
     {
-      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - LkldNow",
+      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - lkldnow.com",
       "city": "Lakeland",
       "category": "Housing",
       "status": "Update",
       "date": "Oct 18, 2021",
-      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses LkldNow",
-      "source": "LkldNow",
+      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses lkldnow.com",
+      "source": "lkldnow.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
       "featured": false
     },
     {
-      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
+      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - lkldnow.com",
       "city": "Lakeland",
       "category": "Housing",
       "status": "Update",
       "date": "Jun 24, 2023",
-      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
-      "source": "LkldNow",
+      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments lkldnow.com",
+      "source": "lkldnow.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
