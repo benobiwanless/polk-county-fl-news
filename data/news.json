@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 20:56 UTC",
+  "last_updated": "2026-08-07 21:29 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -603,13 +603,13 @@
       "featured": false
     },
     {
-      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God (USA)",
+      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - news.ag.org",
       "city": "Winter Haven",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 01, 2026",
-      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God (USA)",
-      "source": "Assemblies of God (USA)",
+      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus news.ag.org",
+      "source": "news.ag.org",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
       "featured": false
@@ -699,18 +699,6 @@
       "featured": false
     },
     {
-      "title": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening - LakelandToday.ca",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Aug 01, 2026",
-      "summary": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening LakelandToday.ca",
-      "source": "LakelandToday.ca",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFd4Vkx1dUZGSVRqRS1tbnZrV2RscXVpVmFrYy1VeHpyblotUFpNWk1seWs1LTZvZTdQMm1Ub3dDNnpGMnJLck13QmpwZG1aNDFXZjNLOXpkQTExdVM1NjhobEZiUmtTQnk3bW5iMU83SUw5V3FjUXIyZGJGb0VpUW4yNmE5ZVI1SFpSUExLZUVMRGJXb1dia2hyOUdoUXcxMll0MGJaTkVXb0FBRHJ1ejdBVS1Pd1Q5OWRrMTc3dXlLbjVheEk0?oc=5",
-      "featured": false
-    },
-    {
       "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
       "city": "Davenport",
       "category": "Restaurant",
@@ -720,6 +708,18 @@
       "source": "WFTV",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening - LakelandToday.ca",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Aug 01, 2026",
+      "summary": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening LakelandToday.ca",
+      "source": "LakelandToday.ca",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFd4Vkx1dUZGSVRqRS1tbnZrV2RscXVpVmFrYy1VeHpyblotUFpNWk1seWs1LTZvZTdQMm1Ub3dDNnpGMnJLck13QmpwZG1aNDFXZjNLOXpkQTExdVM1NjhobEZiUmtTQnk3bW5iMU83SUw5V3FjUXIyZGJGb0VpUW4yNmE5ZVI1SFpSUExLZUVMRGJXb1dia2hyOUdoUXcxMll0MGJaTkVXb0FBRHJ1ejdBVS1Pd1Q5OWRrMTc3dXlLbjVheEk0?oc=5",
       "featured": false
     },
     {
