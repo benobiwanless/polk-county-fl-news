@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 00:35 UTC",
+  "last_updated": "2026-08-07 03:37 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -27,18 +27,6 @@
       "featured": false
     },
     {
-      "title": "Publix sets second Polk County opening - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Grand Opening",
-      "date": "Jun 08, 2026",
-      "summary": "Publix sets second Polk County opening Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWNtdlc5cm9CSmpHbDJHaS1NZDRGU1ZtX1B2TFo2UXI4eGI2QjNwVVBJeG1KNzRFdC1uRVVEZWJSeDYzQ01ETzNOM1JfZVVrMG5Zbk8xU0NmYzRXQWJMWXdpOU5YQ0lGUDdad0ZBa3k5Rmh1cTBQTG1veG5Ga2FvSkdjU09ISGZKR0lGVFg3MFV3QnZSazlwM1BlbUFSQXpVV1VBWXZBZ2pieGlvQlk0NUpB?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
       "city": "Bartow",
       "category": "Housing",
@@ -63,6 +51,30 @@
       "featured": false
     },
     {
+      "title": "What's you're favorite romantic restaurant in Polk County? Here are 7 favorites - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jan 31, 2026",
+      "summary": "What's you're favorite romantic restaurant in Polk County? Here are 7 favorites Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM21YZ2VFeEhLSVh3OVF0ZXdMRXhOYVJaQ3ZJNERDWTk1MGxCbFhrcEM4b0U0eExIZk5LYjN1OG9DTW9UX1BCU1h5cFFxWERLWUs2ZERMOVVtajBLbUI5VVllNVZnbTA1TmJqNm1DYmJ3S1NCM3kyVzZyeEUwNm9seldmc3ROd2VfZ0dnRXpwRVoxSEY0UkxCanJNYUZDU0ZQV1c0ZUs3NUJCTTMwRzBOX011WC1zTWdyYUZ3cHIwdFZ5ZjJ6Vi1Gbl80VUd4dWZQa3lDTUNfMjBZNXI0cW9ORkNYRjh2V19CTGp3?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New construction partially collapses in Davenport - WQAD",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 04, 2026",
+      "summary": "New construction partially collapses in Davenport WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
+      "featured": false
+    },
+    {
       "title": "After opening first Orlando store, Whataburger expanding to Davenport - GrowthSpotter",
       "city": "Davenport",
       "category": "Retail",
@@ -72,18 +84,6 @@
       "source": "GrowthSpotter",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlVkcXRYSmVBck5aQW9BYVBUaXFnakQtNHV1dDdySEtNaUVXQ2VIRENIdVM2NUg1TGJaVzhHUVdNMDY0Tk5EREtEd1p3OHFVLUd2SnpSXy1Kb3dYRW5wXzdOS21VMUJ4SmVvYXc5T2lJd2dKNF9SYVBsUHFEbHZmQ1A0aHNGTWk5a2c3SE1oS1YzcDRWTDBub191bzV3Wm1NOHU5Z0ZhaVlOQ3hmc05N?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New construction partially collapses in Davenport - wqad.com",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 04, 2026",
-      "summary": "New construction partially collapses in Davenport wqad.com",
-      "source": "wqad.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
       "featured": false
     },
     {
@@ -195,25 +195,25 @@
       "featured": false
     },
     {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - spokesman.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
-      "source": "The Spokesman-Review",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand spokesman.com",
+      "source": "spokesman.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
       "featured": false
     },
     {
-      "title": "Bubba's 33 restaurant opening in Davenport on Monday - wqad.com",
+      "title": "Bubba's 33 restaurant opening in Davenport on Monday - WQAD",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Jul 26, 2026",
-      "summary": "Bubba's 33 restaurant opening in Davenport on Monday wqad.com",
-      "source": "wqad.com",
+      "summary": "Bubba's 33 restaurant opening in Davenport on Monday WQAD",
+      "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkhkWS1XQVpxSUJtSVBubTN0NW9qM2FlUW1OeHlELVNsZlIxbTVmS3hpRXBUUURMYktRdTVPQWRJSEhvQ0ZtODVIRjQ1VTQzdUR0Q0xSSWVGcUdIZWhpMmMzS2JST0FYamx0NGVHR1hMY0FKUTQycHU0azMyNUVxNlpzUEswa3NVc3UyNG5jZmhPZHVweC1RWEVBM3RWWGJXNEpfRTh3enR2bFMyRmtvNzhJTGpPUHgwQ1VHLWdOYkJGdE9sOHNiOQ?oc=5",
       "featured": false
@@ -255,18 +255,6 @@
       "featured": false
     },
     {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - ourquadcities.com",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport ourquadcities.com",
-      "source": "ourquadcities.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Public Schools Approves High School Rezoning - LkldNow",
       "city": "Polk County",
       "category": "Community",
@@ -279,25 +267,25 @@
       "featured": false
     },
     {
-      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Spectrum Bay News 9",
+      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - baynews9.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Jan 27, 2026",
-      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools baynews9.com",
+      "source": "baynews9.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
       "featured": false
     },
     {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - drydenwire.com",
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
       "city": "Polk County",
       "category": "Development",
       "status": "Update",
       "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes drydenwire.com",
-      "source": "drydenwire.com",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
+      "source": "DrydenWire.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
@@ -363,6 +351,18 @@
       "featured": false
     },
     {
+      "title": "Publix sets second Polk County opening - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Grand Opening",
+      "date": "Jun 08, 2026",
+      "summary": "Publix sets second Polk County opening Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWNtdlc5cm9CSmpHbDJHaS1NZDRGU1ZtX1B2TFo2UXI4eGI2QjNwVVBJeG1KNzRFdC1uRVVEZWJSeDYzQ01ETzNOM1JfZVVrMG5Zbk8xU0NmYzRXQWJMWXdpOU5YQ0lGUDdad0ZBa3k5Rmh1cTBQTG1veG5Ga2FvSkdjU09ISGZKR0lGVFg3MFV3QnZSazlwM1BlbUFSQXpVV1VBWXZBZ2pieGlvQlk0NUpB?oc=5",
+      "featured": false
+    },
+    {
       "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
       "city": "Polk County",
       "category": "Community",
@@ -375,13 +375,13 @@
       "featured": false
     },
     {
-      "title": "Polk County schedules public forums on school rezoning - Spectrum Bay News 9",
+      "title": "Polk County schedules public forums on school rezoning - baynews9.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 26, 2025",
-      "summary": "Polk County schedules public forums on school rezoning Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "summary": "Polk County schedules public forums on school rezoning baynews9.com",
+      "source": "baynews9.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYllSRWExX2QwOUZkdFNMZEFGU0lhckhGMEtSVHh1aWxCRlM1TV9YSGpIWWtpNXhrMHNxX0RHaXlMVEwyeXhuZDd5eHhUb1kwT0dhSGR4MXBxX0JFZ21iQ2xHM0NQZ25zZUJUMXFRSzhDQ0tYaGN3S0pobWxfR2pTbWxxY1VHRUJUanFxSXh0bVJVbVZMNWtHejFjS2wyV3FhcVE?oc=5",
       "featured": false
@@ -615,27 +615,15 @@
       "featured": false
     },
     {
-      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - wqad.com",
+      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 09, 2026",
-      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport wqad.com",
-      "source": "wqad.com",
+      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport WQAD",
+      "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
-      "featured": false
-    },
-    {
-      "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 21, 2026",
-      "summary": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay WFTV",
-      "source": "WFTV",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
       "featured": false
     },
     {
@@ -663,13 +651,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
+      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
-      "source": "news-herald.com",
+      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
+      "source": "News-Herald",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
@@ -696,6 +684,18 @@
       "source": "The National Law Review",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 21, 2026",
+      "summary": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay WFTV",
+      "source": "WFTV",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
       "featured": false
     },
     {
@@ -735,13 +735,13 @@
       "featured": false
     },
     {
-      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - wqad.com",
+      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jan 13, 2026",
-      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport wqad.com",
-      "source": "wqad.com",
+      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport WQAD",
+      "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckNUMF85VF8xYU5ybjk2a1hRTUJjRFNUSTQ0blRaV19nbjR6RWFSWldOb1VoWVZRUDNOZFJlUTBxYWdiclRiclFaaDhINWg2c011Q2tCalY3eDlUbXZNZVdsOVN5SUZIRjcwSHFSemtBeXp5eFZUUzZrTW5KcGFrOVdfOTkzYXZBWW9LSGhJSXl4Y1VaNnUzV1N5Z0lVMWlpM29nZGExNTFUTWVXTjE1OEdVVDUxalpMSF93S3Y0VVJKZllWRG1vOGlKUEllMEs5WU5qSF9SSXBPM1luYXJLdGVfaHJCZ0hz?oc=5",
       "featured": false
@@ -783,13 +783,13 @@
       "featured": false
     },
     {
-      "title": "Gordon Food Service Store opens Davenport location, no membership needed - wqad.com",
+      "title": "Gordon Food Service Store opens Davenport location, no membership needed - WQAD",
       "city": "Davenport",
       "category": "Retail",
       "status": "Update",
       "date": "Oct 07, 2025",
-      "summary": "Gordon Food Service Store opens Davenport location, no membership needed wqad.com",
-      "source": "wqad.com",
+      "summary": "Gordon Food Service Store opens Davenport location, no membership needed WQAD",
+      "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeDlhQUUzYllseE5pQklNN3RXTV9scldoc3dVaUJBeXpuRkY1OUJKSGRDSk01NXk1S1MtRnNrdC1ERVVveF9HV2ZCQjNuUHZFc044TGc3Z19IV2NBR1F0dUp0ODJSVHVXTGZ4c0wtR3pZZmE0NHhTZlphNWpqNDVxcUUyRDc1VW9lMmpyUkxmT1FDdHpKcXJuNVNEbG9kMGhPWGt1d09VeXVOazZNMi1LelAxcDhTY1BGSWk3SnlUYk91ZzFERWJCcXZLbC1ldnBfNXlvckpsZ0ZYMGxCall2MkJPdjlhYjk3dHUwTTJYZFFJZTg5TWVwUTNWR3FxZUt1czk2N2dyUQ?oc=5",
       "featured": false
