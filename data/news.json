@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 09:50 UTC",
+  "last_updated": "2026-08-07 10:41 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -195,27 +195,15 @@
       "featured": false
     },
     {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - spokesman.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
-      "source": "The Spokesman-Review",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand spokesman.com",
+      "source": "spokesman.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Bubba's 33 restaurant opening in Davenport on Monday - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Grand Opening",
-      "date": "Jul 26, 2026",
-      "summary": "Bubba's 33 restaurant opening in Davenport on Monday WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkhkWS1XQVpxSUJtSVBubTN0NW9qM2FlUW1OeHlELVNsZlIxbTVmS3hpRXBUUURMYktRdTVPQWRJSEhvQ0ZtODVIRjQ1VTQzdUR0Q0xSSWVGcUdIZWhpMmMzS2JST0FYamx0NGVHR1hMY0FKUTQycHU0azMyNUVxNlpzUEswa3NVc3UyNG5jZmhPZHVweC1RWEVBM3RWWGJXNEpfRTh3enR2bFMyRmtvNzhJTGpPUHgwQ1VHLWdOYkJGdE9sOHNiOQ?oc=5",
       "featured": false
     },
     {
@@ -252,6 +240,18 @@
       "source": "LODGING Magazine",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport restaurant to close its doors - KWQC",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 12, 2026",
+      "summary": "Davenport restaurant to close its doors KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
       "featured": false
     },
     {
@@ -651,18 +651,6 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
-      "featured": false
-    },
-    {
       "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -672,6 +660,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Apr 03, 2026",
+      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
+      "source": "News-Herald",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
     },
     {
@@ -735,13 +735,13 @@
       "featured": false
     },
     {
-      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
+      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - douglasnow.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 09, 2026",
-      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
-      "source": "Douglas Now",
+      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open douglasnow.com",
+      "source": "douglasnow.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
       "featured": false
@@ -771,13 +771,13 @@
       "featured": false
     },
     {
-      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - pr.com",
+      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - PR.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 15, 2026",
-      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location pr.com",
-      "source": "pr.com",
+      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location PR.com",
+      "source": "PR.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VjBsQkFONFRsb05oZmxPWTFTNmotOWpoZmNKbjlRLXB0Wmp6RFRzYmhJTW05OFlzZkcwbml0ZXd1MHd2YkhQSHNxQmJFNUpM?oc=5",
       "featured": false
