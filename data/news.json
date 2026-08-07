@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 15:33 UTC",
+  "last_updated": "2026-08-07 16:31 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -87,13 +87,13 @@
       "featured": false
     },
     {
-      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - Dispatch Argus",
+      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - qconline.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Aug 05, 2026",
-      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport Dispatch Argus",
-      "source": "Dispatch Argus",
+      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport qconline.com",
+      "source": "qconline.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckxacnR1TGg3VmVicndraWhUZTFwaDhNRzJMYmlkRS01TGFLQ2ZyZjB2NXU3VUVaTTE2UzM0cDZPaVROV2ZwV1NDaWYyeXYwV0RuVzVWUDh3SGFCYVYtTnc2ZnVmRmZYRXVCSFh1ZEViaEV6NWJ3UE1BWlFQLXI2OHpZdjBLRGZCS2ZZR1RRckVDU1ktbDJPY3FkLVFTbXN5dXYxY1NNWmk0UQ?oc=5",
       "featured": false
@@ -171,18 +171,6 @@
       "featured": false
     },
     {
-      "title": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project - Construction Owners",
-      "city": "Auburndale",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 28, 2026",
-      "summary": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project Construction Owners",
-      "source": "Construction Owners",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelVDOS0ydjUtM2FaNUVUY0t1Qm5nQk9FWjYxamZwYmhFbldMcHFyN2JNaUVGZGUwQ2VHMDZ1bVNVYWwtMU9hd3JoWDZ6UUE3Q2U2TVg4R09hMnVBMjMxZFJELUpFbmI3RWhLeEFlbjBtZjZfdnA5LVNBNF9TVEVDSGNSdGdXUkNGWlZEOGVpbGp0V3VEZGN5MnFoYTN0S0g4RThsTTcyVmNvTXNVVTNEeTVFS1hzRUt6RGFxV0hhbGExZ2dUclBobzBuQQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "2026 Construction Season - City of Davenport",
       "city": "Davenport",
       "category": "Development",
@@ -195,15 +183,39 @@
       "featured": false
     },
     {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - spokesman.com",
+      "title": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project - Construction Owners",
+      "city": "Auburndale",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 28, 2026",
+      "summary": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project Construction Owners",
+      "source": "Construction Owners",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelVDOS0ydjUtM2FaNUVUY0t1Qm5nQk9FWjYxamZwYmhFbldMcHFyN2JNaUVGZGUwQ2VHMDZ1bVNVYWwtMU9hd3JoWDZ6UUE3Q2U2TVg4R09hMnVBMjMxZFJELUpFbmI3RWhLeEFlbjBtZjZfdnA5LVNBNF9TVEVDSGNSdGdXUkNGWlZEOGVpbGp0V3VEZGN5MnFoYTN0S0g4RThsTTcyVmNvTXNVVTNEeTVFS1hzRUt6RGFxV0hhbGExZ2dUclBobzBuQQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand spokesman.com",
-      "source": "spokesman.com",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
+      "source": "The Spokesman-Review",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Bubba's 33 restaurant opening in Davenport on Monday - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Grand Opening",
+      "date": "Jul 26, 2026",
+      "summary": "Bubba's 33 restaurant opening in Davenport on Monday WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkhkWS1XQVpxSUJtSVBubTN0NW9qM2FlUW1OeHlELVNsZlIxbTVmS3hpRXBUUURMYktRdTVPQWRJSEhvQ0ZtODVIRjQ1VTQzdUR0Q0xSSWVGcUdIZWhpMmMzS2JST0FYamx0NGVHR1hMY0FKUTQycHU0azMyNUVxNlpzUEswa3NVc3UyNG5jZmhPZHVweC1RWEVBM3RWWGJXNEpfRTh3enR2bFMyRmtvNzhJTGpPUHgwQ1VHLWdOYkJGdE9sOHNiOQ?oc=5",
       "featured": false
     },
     {
@@ -567,13 +579,13 @@
       "featured": false
     },
     {
-      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - Dispatch Argus",
+      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - qconline.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 22, 2026",
-      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting Dispatch Argus",
-      "source": "Dispatch Argus",
+      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting qconline.com",
+      "source": "qconline.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3ozMW1xVG9WVDg3M2RJcGVwSUFvNGUybGNHRGEteVE0VWc5ZU9HRW1nMzBmYm5rVlBMRkpLdXNKejJiVjNBMXRXSkNWSGNmZWlJWWJPdVQxN2pfa1NsWjB5b29WanZadHJCRDlYbWVGZkprS016ZkRmRXVKdUFoUl9XTEU5cVcyeTJqeEJfVFZjakFiX084TU52N2NmM2lwY1dqVTBhSzQ0Zw?oc=5",
       "featured": false
@@ -672,18 +684,6 @@
       "source": "News-Herald",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
-      "featured": false
-    },
-    {
-      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - natlawreview.com",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Apr 17, 2026",
-      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th natlawreview.com",
-      "source": "natlawreview.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
       "featured": false
     },
     {
@@ -804,6 +804,18 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeDlhQUUzYllseE5pQklNN3RXTV9scldoc3dVaUJBeXpuRkY1OUJKSGRDSk01NXk1S1MtRnNrdC1ERVVveF9HV2ZCQjNuUHZFc044TGc3Z19IV2NBR1F0dUp0ODJSVHVXTGZ4c0wtR3pZZmE0NHhTZlphNWpqNDVxcUUyRDc1VW9lMmpyUkxmT1FDdHpKcXJuNVNEbG9kMGhPWGt1d09VeXVOazZNMi1LelAxcDhTY1BGSWk3SnlUYk91ZzFERWJCcXZLbC1ldnBfNXlvckpsZ0ZYMGxCall2MkJPdjlhYjk3dHUwTTJYZFFJZTg5TWVwUTNWR3FxZUt1czk2N2dyUQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport’s first charter school now open - KWQC",
+      "city": "Davenport",
+      "category": "Community",
+      "status": "Grand Opening",
+      "date": "Aug 27, 2025",
+      "summary": "Davenport’s first charter school now open KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RQUVTNW10anc2c0dYM20ydUJfX25NREdsUHVtMmdUaUQydEI0TDZFMkJONGlTNlBELTdtakcyLTlDWUc3czdqSWlnems2S05iMkdBUTFnY2liYU1vdktKdTVNSDctcVdDOWJMMkRKM0dfTXQ5X1E5ZVlqRENWUdIBkgFBVV95cUxQenpRcnI2bFREc2JieVQtdEpiYWQxc0xqT2J5TTgydkRGUGRPTkk1VWJtMkIyZXV1TVFBTlp0YVhlVWhUWHhFUk5QNDNSb0tVcktGR1RHNE9YYTdBTDk0VGNEMGdGaE40TF9neEdFSzFWWW50SWVrQVNUT2pFM3BCamlhdF9xLVlyUXZ1U1Z4OUNBdw?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jun 24, 2023",
-      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
