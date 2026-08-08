@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 06:33 UTC",
+  "last_updated": "2026-08-08 07:34 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -255,13 +255,25 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools Approves High School Rezoning - lkldnow.com",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
+      "city": "Polk City",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
+      "source": "Tampa Bay Business and Wealth",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Public Schools Approves High School Rezoning - LkldNow",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Jan 28, 2026",
-      "summary": "Polk County Public Schools Approves High School Rezoning lkldnow.com",
-      "source": "lkldnow.com",
+      "summary": "Polk County Public Schools Approves High School Rezoning LkldNow",
+      "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0lwMTJ5SVFWWXc4N2hfeVJ2S3ZlUFJjbTZydk5USmxJQTlkTW5qMkx4VThhX3JhY2o1cGdXX3ZreFBCY2diM1duN01GbzlfQkZrNC1QM2NNZ2U0eUJDWjNFUzFoWWVHeENwcTI4X284QWgyeXBSdVM3Ql9pRVBnaG9sc0JaZzhE?oc=5",
       "featured": false
@@ -291,15 +303,15 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
-      "city": "Polk City",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
-      "source": "Tampa Bay Business and Wealth",
+      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 12, 2025",
+      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
+      "source": "wtsp.com",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
       "featured": false
     },
     {
@@ -315,18 +327,6 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
-      "source": "wtsp.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -336,30 +336,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 28, 2025",
-      "summary": "School rezoning plan for Polk County FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 01, 2025",
-      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -375,15 +351,27 @@
       "featured": false
     },
     {
-      "title": "Polk County School Board discusses rezoning certain - wtsp.com",
+      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County School Board discusses rezoning certain wtsp.com",
-      "source": "wtsp.com",
+      "date": "Aug 01, 2025",
+      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
+      "source": "Polk County Public Schools",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1pKR3k1UjhrMVV4VnVIZ3o5Nk00SndUUzlqYm11RXZPVVJkNWpDRzFXMzVmU1pUNmpxZWlYcWphNjZtSUVWSy1oYWsxX2ZVX2tDOTNLVjI3T0paTE9GRU1HazUyYkxEWnZodUlfTWNLQ3ROa0tkbVhSdTRyX0pIQmtGdS1DNHFuaHFILUJ5TFN1UDZMR2huWHNVOUZnYUJ5TnFOaF9KeGtVSElBS0VsTk1oZHBkWUYzRUFyQ1R3RQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 28, 2025",
+      "summary": "School rezoning plan for Polk County FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
       "featured": false
     },
     {
@@ -396,6 +384,30 @@
       "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County schools plan comprehensive rezoning for 2026-27 school year - WFLA",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 02, 2025",
+      "summary": "Polk County schools plan comprehensive rezoning for 2026-27 school year WFLA",
+      "source": "WFLA",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtaV21Pck1WRWd6V3V4UWpBUzYxa3hxbC1YWll6ajNOQ1RMRS01TUQyR0JZRzJxMTNTUDdGNXZ6THMtdkNYaDRzZEVTdHlUVm4teWtlRXJjVlRmVXltRGo3SmdxWXo4TjdtSWpXYTM5a2FYdlQtb2V0Y0NnWUl2OUx0dVQ2Y1BPeHJrM2w0eE8tWVI0VVZHY0piMktpMXZrdUxSUS0wR294Zk5ubU9v0gG0AUFVX3lxTE9SUEFrejZBT3V3RDlpZzl4OXZXbEdVUEs1S3hWMFQ4Y0s4ZjEwMjVCa2QyOGU4aS1BMnh4T2VHQ3FkUHdCR0VoU252UkcyMVdLcFB3OERneFNlRjZfY3diWklid3FfTXJNeFdUMVpobTBmd0hMWnhOamtmdTFsZW03NXdpLUZtYzZlTzZwNU5SRDVrUlhoa1UtSnRVc1dxY1dlXzd5MlNfamU2YkV4WDlfSEZ4Mw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County School Board discusses rezoning certain - wtsp.com",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 12, 2025",
+      "summary": "Polk County School Board discusses rezoning certain wtsp.com",
+      "source": "wtsp.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1pKR3k1UjhrMVV4VnVIZ3o5Nk00SndUUzlqYm11RXZPVVJkNWpDRzFXMzVmU1pUNmpxZWlYcWphNjZtSUVWSy1oYWsxX2ZVX2tDOTNLVjI3T0paTE9GRU1HazUyYkxEWnZodUlfTWNLQ3ROa0tkbVhSdTRyX0pIQmtGdS1DNHFuaHFILUJ5TFN1UDZMR2huWHNVOUZnYUJ5TnFOaF9KeGtVSElBS0VsTk1oZHBkWUYzRUFyQ1R3RQ?oc=5",
       "featured": false
     },
     {
@@ -615,6 +627,18 @@
       "featured": false
     },
     {
+      "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - dailyridge.com",
+      "city": "Winter Haven",
+      "category": "Infrastructure",
+      "status": "Grand Opening",
+      "date": "Jun 18, 2026",
+      "summary": "Texas Roadhouse in Winter Haven Announces Grand Opening dailyridge.com",
+      "source": "dailyridge.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW0wUFB3RjUyU2xXVUNDbVJ4TkhGQ3JRZ3F6R0ZEVVZYUUVVSUwtYk9CdXBMUWQxbmIxSnV4blpDZ2cxNEgyTTZSWFMxTFN3RHJsT2FlN0h4dUR0YlBiYlpLdXdwR2x3Tld3MWZ4c0owU1N1eUppREV0bEg0eTlobTB6UTluRjZLckxFTURjMmNiMHla?oc=5",
+      "featured": false
+    },
+    {
       "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -624,18 +648,6 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - DailyRidge.com",
-      "city": "Winter Haven",
-      "category": "Infrastructure",
-      "status": "Grand Opening",
-      "date": "Jun 18, 2026",
-      "summary": "Texas Roadhouse in Winter Haven Announces Grand Opening DailyRidge.com",
-      "source": "DailyRidge.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW0wUFB3RjUyU2xXVUNDbVJ4TkhGQ3JRZ3F6R0ZEVVZYUUVVSUwtYk9CdXBMUWQxbmIxSnV4blpDZ2cxNEgyTTZSWFMxTFN3RHJsT2FlN0h4dUR0YlBiYlpLdXdwR2x3Tld3MWZ4c0owU1N1eUppREV0bEg0eTlobTB6UTluRjZLckxFTURjMmNiMHla?oc=5",
       "featured": false
     },
     {
@@ -675,6 +687,18 @@
       "featured": false
     },
     {
+      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 09, 2026",
+      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
+      "source": "Douglas Now",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
+      "featured": false
+    },
+    {
       "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
       "city": "Davenport",
       "category": "Restaurant",
@@ -684,18 +708,6 @@
       "source": "WFTV",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening - LakelandToday.ca",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Aug 01, 2026",
-      "summary": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening LakelandToday.ca",
-      "source": "LakelandToday.ca",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFd4Vkx1dUZGSVRqRS1tbnZrV2RscXVpVmFrYy1VeHpyblotUFpNWk1seWs1LTZvZTdQMm1Ub3dDNnpGMnJLck13QmpwZG1aNDFXZjNLOXpkQTExdVM1NjhobEZiUmtTQnk3bW5iMU83SUw5V3FjUXIyZGJGb0VpUW4yNmE5ZVI1SFpSUExLZUVMRGJXb1dia2hyOUdoUXcxMll0MGJaTkVXb0FBRHJ1ejdBVS1Pd1Q5OWRrMTc3dXlLbjVheEk0?oc=5",
       "featured": false
     },
     {
@@ -723,15 +735,15 @@
       "featured": false
     },
     {
-      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
+      "title": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening - LakelandToday.ca",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
-      "date": "Feb 09, 2026",
-      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
-      "source": "Douglas Now",
+      "date": "Aug 01, 2026",
+      "summary": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening LakelandToday.ca",
+      "source": "LakelandToday.ca",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFd4Vkx1dUZGSVRqRS1tbnZrV2RscXVpVmFrYy1VeHpyblotUFpNWk1seWs1LTZvZTdQMm1Ub3dDNnpGMnJLck13QmpwZG1aNDFXZjNLOXpkQTExdVM1NjhobEZiUmtTQnk3bW5iMU83SUw5V3FjUXIyZGJGb0VpUW4yNmE5ZVI1SFpSUExLZUVMRGJXb1dia2hyOUdoUXcxMll0MGJaTkVXb0FBRHJ1ejdBVS1Pd1Q5OWRrMTc3dXlLbjVheEk0?oc=5",
       "featured": false
     },
     {
@@ -759,6 +771,18 @@
       "featured": false
     },
     {
+      "title": "You Are Invited to the Grand Opening of the Newly Revitalized Chain of Lakes Park — Winter Haven - dailyridge.com",
+      "city": "Winter Haven",
+      "category": "Community",
+      "status": "Grand Opening",
+      "date": "Nov 11, 2025",
+      "summary": "You Are Invited to the Grand Opening of the Newly Revitalized Chain of Lakes Park — Winter Haven dailyridge.com",
+      "source": "dailyridge.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVndwZTFtVnIzYnpPQkJCS1hyaEZpMXJqYngyWHdqUWJUbGIxd2x1cGJXMzFPVnYydTBkNmN3Q1FkWklBa3BrU3pndmhST0w3MFZpNkY5R3p1Z0I3a2hacXdlczl3Vmd4Z1BzVnY1UUY5cndXT2JTbkV6cFVyM2UtM3o3Zkc4ai1CVlAzYTlBNkFHYjhISmJ2djBMejlUNzV5ZTBrLWV4OFllV1BGUHN0UHNUTGJHR2c?oc=5",
+      "featured": false
+    },
+    {
       "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - PR.com",
       "city": "Lakeland",
       "category": "Development",
@@ -768,18 +792,6 @@
       "source": "PR.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VjBsQkFONFRsb05oZmxPWTFTNmotOWpoZmNKbjlRLXB0Wmp6RFRzYmhJTW05OFlzZkcwbml0ZXd1MHd2YkhQSHNxQmJFNUpM?oc=5",
-      "featured": false
-    },
-    {
-      "title": "You Are Invited to the Grand Opening of the Newly Revitalized Chain of Lakes Park — Winter Haven - DailyRidge.com",
-      "city": "Winter Haven",
-      "category": "Community",
-      "status": "Grand Opening",
-      "date": "Nov 11, 2025",
-      "summary": "You Are Invited to the Grand Opening of the Newly Revitalized Chain of Lakes Park — Winter Haven DailyRidge.com",
-      "source": "DailyRidge.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVndwZTFtVnIzYnpPQkJCS1hyaEZpMXJqYngyWHdqUWJUbGIxd2x1cGJXMzFPVnYydTBkNmN3Q1FkWklBa3BrU3pndmhST0w3MFZpNkY5R3p1Z0I3a2hacXdlczl3Vmd4Z1BzVnY1UUY5cndXT2JTbkV6cFVyM2UtM3o3Zkc4ai1CVlAzYTlBNkFHYjhISmJ2djBMejlUNzV5ZTBrLWV4OFllV1BGUHN0UHNUTGJHR2c?oc=5",
       "featured": false
     },
     {
@@ -1059,27 +1071,15 @@
       "featured": false
     },
     {
-      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - lkldnow.com",
+      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - LkldNow",
       "city": "Lakeland",
       "category": "Housing",
       "status": "Update",
       "date": "Oct 18, 2021",
-      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses lkldnow.com",
-      "source": "lkldnow.com",
+      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses LkldNow",
+      "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - lkldnow.com",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jun 24, 2023",
-      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments lkldnow.com",
-      "source": "lkldnow.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
