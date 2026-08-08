@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 02:49 UTC",
+  "last_updated": "2026-08-08 04:04 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -183,25 +183,25 @@
       "featured": false
     },
     {
-      "title": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project - Construction Owners",
+      "title": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project - constructionowners.com",
       "city": "Auburndale",
       "category": "Development",
       "status": "Update",
       "date": "Jul 28, 2026",
-      "summary": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project Construction Owners",
-      "source": "Construction Owners",
+      "summary": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project constructionowners.com",
+      "source": "constructionowners.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelVDOS0ydjUtM2FaNUVUY0t1Qm5nQk9FWjYxamZwYmhFbldMcHFyN2JNaUVGZGUwQ2VHMDZ1bVNVYWwtMU9hd3JoWDZ6UUE3Q2U2TVg4R09hMnVBMjMxZFJELUpFbmI3RWhLeEFlbjBtZjZfdnA5LVNBNF9TVEVDSGNSdGdXUkNGWlZEOGVpbGp0V3VEZGN5MnFoYTN0S0g4RThsTTcyVmNvTXNVVTNEeTVFS1hzRUt6RGFxV0hhbGExZ2dUclBobzBuQQ?oc=5",
       "featured": false
     },
     {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - spokesman.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
-      "source": "The Spokesman-Review",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand spokesman.com",
+      "source": "spokesman.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
       "featured": false
@@ -459,13 +459,13 @@
       "featured": false
     },
     {
-      "title": "Foxtail Coffee Co. at Work on Davenport Opening - whatnow.com",
+      "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Aug 28, 2025",
-      "summary": "Foxtail Coffee Co. at Work on Davenport Opening whatnow.com",
-      "source": "whatnow.com",
+      "summary": "Foxtail Coffee Co. at Work on Davenport Opening WhatNow",
+      "source": "WhatNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
       "featured": false
@@ -639,6 +639,18 @@
       "featured": false
     },
     {
+      "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - DailyRidge.com",
+      "city": "Winter Haven",
+      "category": "Infrastructure",
+      "status": "Grand Opening",
+      "date": "Jun 18, 2026",
+      "summary": "Texas Roadhouse in Winter Haven Announces Grand Opening DailyRidge.com",
+      "source": "DailyRidge.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW0wUFB3RjUyU2xXVUNDbVJ4TkhGQ3JRZ3F6R0ZEVVZYUUVVSUwtYk9CdXBMUWQxbmIxSnV4blpDZ2cxNEgyTTZSWFMxTFN3RHJsT2FlN0h4dUR0YlBiYlpLdXdwR2x3Tld3MWZ4c0owU1N1eUppREV0bEg0eTlobTB6UTluRjZLckxFTURjMmNiMHla?oc=5",
+      "featured": false
+    },
+    {
       "title": "Davenport sheriff's office substation to hold grand opening - ksbw.com",
       "city": "Davenport",
       "category": "Commercial",
@@ -792,18 +804,6 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeDlhQUUzYllseE5pQklNN3RXTV9scldoc3dVaUJBeXpuRkY1OUJKSGRDSk01NXk1S1MtRnNrdC1ERVVveF9HV2ZCQjNuUHZFc044TGc3Z19IV2NBR1F0dUp0ODJSVHVXTGZ4c0wtR3pZZmE0NHhTZlphNWpqNDVxcUUyRDc1VW9lMmpyUkxmT1FDdHpKcXJuNVNEbG9kMGhPWGt1d09VeXVOazZNMi1LelAxcDhTY1BGSWk3SnlUYk91ZzFERWJCcXZLbC1ldnBfNXlvckpsZ0ZYMGxCall2MkJPdjlhYjk3dHUwTTJYZFFJZTg5TWVwUTNWR3FxZUt1czk2N2dyUQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport’s first charter school now open - KWQC",
-      "city": "Davenport",
-      "category": "Community",
-      "status": "Grand Opening",
-      "date": "Aug 27, 2025",
-      "summary": "Davenport’s first charter school now open KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RQUVTNW10anc2c0dYM20ydUJfX25NREdsUHVtMmdUaUQydEI0TDZFMkJONGlTNlBELTdtakcyLTlDWUc3czdqSWlnems2S05iMkdBUTFnY2liYU1vdktKdTVNSDctcVdDOWJMMkRKM0dfTXQ5X1E5ZVlqRENWUdIBkgFBVV95cUxQenpRcnI2bFREc2JieVQtdEpiYWQxc0xqT2J5TTgydkRGUGRPTkk1VWJtMkIyZXV1TVFBTlp0YVhlVWhUWHhFUk5QNDNSb0tVcktGR1RHNE9YYTdBTDk0VGNEMGdGaE40TF9neEdFSzFWWW50SWVrQVNUT2pFM3BCamlhdF9xLVlyUXZ1U1Z4OUNBdw?oc=5",
       "featured": false
     },
     {
