@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 16:19 UTC",
+  "last_updated": "2026-08-08 16:59 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -75,6 +75,18 @@
       "featured": false
     },
     {
+      "title": "New housing development aims to help homeless people in Davenport - KWQC",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 15, 2026",
+      "summary": "New housing development aims to help homeless people in Davenport KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
+      "featured": false
+    },
+    {
       "title": "After opening first Orlando store, Whataburger expanding to Davenport - GrowthSpotter",
       "city": "Davenport",
       "category": "Retail",
@@ -87,27 +99,15 @@
       "featured": false
     },
     {
-      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - adventhealth.com",
       "city": "Auburndale",
       "category": "Development",
       "status": "Update",
       "date": "Jul 27, 2026",
-      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
-      "source": "AdventHealth",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale adventhealth.com",
+      "source": "adventhealth.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New housing development aims to help homeless people in Davenport - KWQC",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 15, 2026",
-      "summary": "New housing development aims to help homeless people in Davenport KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
       "featured": false
     },
     {
@@ -135,27 +135,15 @@
       "featured": false
     },
     {
-      "title": "2026 Construction Season - City of Davenport",
+      "title": "2026 Construction Season - davenportiowa.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "May 15, 2026",
-      "summary": "2026 Construction Season City of Davenport",
-      "source": "City of Davenport",
+      "summary": "2026 Construction Season davenportiowa.com",
+      "source": "davenportiowa.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project - Construction Owners",
-      "city": "Auburndale",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 28, 2026",
-      "summary": "Robins & Morton Reaches Topping Out Milestone for AdventHealth Auburndale ER Project Construction Owners",
-      "source": "Construction Owners",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelVDOS0ydjUtM2FaNUVUY0t1Qm5nQk9FWjYxamZwYmhFbldMcHFyN2JNaUVGZGUwQ2VHMDZ1bVNVYWwtMU9hd3JoWDZ6UUE3Q2U2TVg4R09hMnVBMjMxZFJELUpFbmI3RWhLeEFlbjBtZjZfdnA5LVNBNF9TVEVDSGNSdGdXUkNGWlZEOGVpbGp0V3VEZGN5MnFoYTN0S0g4RThsTTcyVmNvTXNVVTNEeTVFS1hzRUt6RGFxV0hhbGExZ2dUclBobzBuQQ?oc=5",
       "featured": false
     },
     {
@@ -204,18 +192,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "May 20, 2026",
-      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
-      "source": "LODGING Magazine",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
       "featured": false
     },
     {
@@ -423,13 +399,13 @@
       "featured": false
     },
     {
-      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
+      "title": "Madison Place by Starlight Homes in Polk County FL - livabl.com",
       "city": "Polk County",
       "category": "Housing",
       "status": "Update",
       "date": "May 12, 2023",
-      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
-      "source": "Livabl",
+      "summary": "Madison Place by Starlight Homes in Polk County FL livabl.com",
+      "source": "livabl.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
       "featured": false
@@ -459,13 +435,13 @@
       "featured": false
     },
     {
-      "title": "Orchid Grove by Starlight Homes in Davenport FL - Livabl",
+      "title": "Orchid Grove by Starlight Homes in Davenport FL - livabl.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Apr 19, 2023",
-      "summary": "Orchid Grove by Starlight Homes in Davenport FL Livabl",
-      "source": "Livabl",
+      "summary": "Orchid Grove by Starlight Homes in Davenport FL livabl.com",
+      "source": "livabl.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HREw4TnM4a1lELV9IU2hReDlRa1paNGhlck54MzRrcVlUX1B6SHJZTTUxdU1DY01jNjNmNGJ5OWxZc1BjT3dUODJOcGdNWUIxR212X3NfUndfYS1l?oc=5",
       "featured": false
@@ -531,13 +507,13 @@
       "featured": false
     },
     {
-      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
+      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - livabl.com",
       "city": "Lake Wales",
       "category": "Housing",
       "status": "Update",
       "date": "Jan 04, 2023",
-      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
-      "source": "Livabl",
+      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL livabl.com",
+      "source": "livabl.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
       "featured": false
@@ -1080,6 +1056,30 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOElLdWxfUFFqYl80bTlvbE9pbUpDSm9pSDJBYnFLNU9MOWtXZS1fVW1uTTlWTTZLY2prZWJaTU9xWGJJMmJSSzk4aVlzUnZqbGlPajBCellEaWxFRUdPdWIzRWZNeThYdWJaMHE4dWdYa2lpQ1ZNMWQ1S0ZSRG1uVFZOMmVLa2J3S3hhQnpB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Swan Landing Will Add to Lakeland’s Mix of Affordable Housing - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Aug 23, 2022",
+      "summary": "Swan Landing Will Add to Lakeland’s Mix of Affordable Housing LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1B5emY0enlFSGhGTkoweHUzV0QtOXBEMG1xLU81UHdtVzA0Z2NHTU1xYk4yOHFYb2EyNjA1aVZTendZdXZFUnlUbVdDRmNzOHJZblA5d19vXzNCVDZnZTNwSlI2OWJZOGc1Y0NxQVdldlpXUDM0eFRzRFZXN1h3dkhmMzlCVTQwWi1mYmpR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Development Momentum Generating Interest in Lakeland’s Redevelopment Districts - LkldNow",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Apr 27, 2022",
+      "summary": "Development Momentum Generating Interest in Lakeland’s Redevelopment Districts LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWVtNXBBZElwemhmSkQtV0k4NThYVTNXLXlPZ0Fpa3J2SzVQQ3pWQ2VySS1GOExPal9QV3R1Y1NKR3dFR1E0cGdTdENVU1FjcWRpUFA0eElYX3luVG4wRzVTYXl6Snhldm5YWUpEMV9YVTczV1V3YVVsQVNuMkhQYnZ1bmJaREp2cTA2aHhZVUFybGNHY0d4cjdWOE5pUW5SYndQWA?oc=5",
       "featured": false
     }
   ]
