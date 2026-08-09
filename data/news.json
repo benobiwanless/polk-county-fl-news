@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09 04:13 UTC",
+  "last_updated": "2026-08-09 05:17 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -123,13 +123,13 @@
       "featured": false
     },
     {
-      "title": "2026 Construction Season - City of Davenport",
+      "title": "2026 Construction Season - davenportiowa.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "May 15, 2026",
-      "summary": "2026 Construction Season City of Davenport",
-      "source": "City of Davenport",
+      "summary": "2026 Construction Season davenportiowa.com",
+      "source": "davenportiowa.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
       "featured": false
@@ -175,7 +175,7 @@
       "city": "Davenport",
       "category": "Retail",
       "status": "Update",
-      "date": "Jul 20, 2026",
+      "date": "Jul 21, 2026",
       "summary": "Deputies seek suspects in Davenport retail theft and battery Tampa Bay 28",
       "source": "Tampa Bay 28",
       "image": "",
@@ -219,27 +219,15 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - lodgingmagazine.com",
+      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Update",
       "date": "May 20, 2026",
-      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation lodgingmagazine.com",
-      "source": "lodgingmagazine.com",
+      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
+      "source": "LODGING Magazine",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport restaurant to close its doors - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Davenport restaurant to close its doors KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
       "featured": false
     },
     {
@@ -252,6 +240,18 @@
       "source": "VCU News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport restaurant to close its doors - KWQC",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 12, 2026",
+      "summary": "Davenport restaurant to close its doors KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
       "featured": false
     },
     {
@@ -291,13 +291,13 @@
       "featured": false
     },
     {
-      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Spectrum Bay News 9",
+      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - baynews9.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Jan 27, 2026",
-      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools baynews9.com",
+      "source": "baynews9.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
       "featured": false
@@ -315,13 +315,13 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - tbbwmag.com",
       "city": "Polk City",
       "category": "Development",
       "status": "Update",
       "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
-      "source": "Tampa Bay Business and Wealth",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp tbbwmag.com",
+      "source": "tbbwmag.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
@@ -351,13 +351,13 @@
       "featured": false
     },
     {
-      "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
+      "title": "School rezoning plan for Polk County - fox13news.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 28, 2025",
-      "summary": "School rezoning plan for Polk County FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
+      "summary": "School rezoning plan for Polk County fox13news.com",
+      "source": "fox13news.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
       "featured": false
@@ -387,13 +387,13 @@
       "featured": false
     },
     {
-      "title": "Polk County schedules public forums on school rezoning - Spectrum Bay News 9",
+      "title": "Polk County schedules public forums on school rezoning - baynews9.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 26, 2025",
-      "summary": "Polk County schedules public forums on school rezoning Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "summary": "Polk County schedules public forums on school rezoning baynews9.com",
+      "source": "baynews9.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYllSRWExX2QwOUZkdFNMZEFGU0lhckhGMEtSVHh1aWxCRlM1TV9YSGpIWWtpNXhrMHNxX0RHaXlMVEwyeXhuZDd5eHhUb1kwT0dhSGR4MXBxX0JFZ21iQ2xHM0NQZ25zZUJUMXFRSzhDQ0tYaGN3S0pobWxfR2pTbWxxY1VHRUJUanFxSXh0bVJVbVZMNWtHejFjS2wyV3FhcVE?oc=5",
       "featured": false
@@ -447,13 +447,13 @@
       "featured": false
     },
     {
-      "title": "$170 million Davenport resort breaks ground - FOX 13 Tampa Bay",
+      "title": "$170 million Davenport resort breaks ground - fox13news.com",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Under Construction",
       "date": "Nov 15, 2023",
-      "summary": "$170 million Davenport resort breaks ground FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
+      "summary": "$170 million Davenport resort breaks ground fox13news.com",
+      "source": "fox13news.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFxSzBiZHZ6ZmFGQ2xPeEc5RUxTNWhhVVV4MG9oZFltdzM4eWxVeExFQjhLb1hrSktpSGpkWTV4YVBuLTdNOFFSb3k0WDE1bkNpM2xRSS1UY1BoOV9leWt0V3l1aHBrMkRHM19ObVJ4U3RCdmo0ZEVjalUtbWZtbXlUdTk4N1lxNC0xSDRheUM0aDlhOWpQWDMxcUVvUklEU3kzWFBGRdIBrAFBVV95cUxNSndvTlN0NzgyMl9FSnI2aEF1QU9Rb0l1NFo4TUZFN0JpMlllaHNfZzB2ZGVCcURrNkFjUTBFaEtJY2N2UlQ4ZTd0cF9FODVIOEtzLU9HWUt2WFdKZzJfUEkyaU5NLUQ0VTJIUk85THhKTTFDWktGTHMyd3RtVWM4aWd5eHVoNzZ0dWltZjAwRlg1VnJ0QTRjY2owa1RMU3ZPQTRnc1ZkT2U5Q0Fp?oc=5",
       "featured": false
@@ -543,18 +543,6 @@
       "featured": false
     },
     {
-      "title": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Grand Opening",
-      "date": "May 29, 2025",
-      "summary": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHBUVnFSNUEwODY1MG83enJmbkVpZ1k4V1ZvYzh5dEowbHEtSWh3RktvVWxmR3AzSW5WbUpKSlExclBCQ1F5NWRiclJOalZLTjFUTjYzby10V09pVGdzYk5adTBrUDlGSjVoM3BETXZ0NXdpUHV6MHpVTFZ2cVJ1WXF2N203ODFZOU5udXJIRjI0TEZyaFV1c09EdWQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "'There's an expectation': Governments realize broadband isn't just a private-sector issue - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -564,6 +552,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON3VLZHVrd19tbWJlYk5mYl9rX0FTNTRRc05ic21wRkhsVU00NmhwR0dXdmVvR0I3Mk5zWmRBTGY1ajN6TV9KQW92UlZYNjNlZnlTTks0WllnV3FuSWc0eGJXSHo3SlBoS3BMQ2VYa2x6bmtTRWpZODdzdHBuRHRwOUh0U1ZwZHJOSjBxQ1BIMkZueGE0cGhneVVvYUJ1aDhQMVJVQjFfT2FpY1lYeHpQWUpfaGxpZ0M1V0NheHJQUnlHaDJvQWNGcDA3bGVHSnF1ak9LSXZhR0lnRzN2X0FoQjZleUlPRU9FWlE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Grand Opening",
+      "date": "May 29, 2025",
+      "summary": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHBUVnFSNUEwODY1MG83enJmbkVpZ1k4V1ZvYzh5dEowbHEtSWh3RktvVWxmR3AzSW5WbUpKSlExclBCQ1F5NWRiclJOalZLTjFUTjYzby10V09pVGdzYk5adTBrUDlGSjVoM3BETXZ0NXdpUHV6MHpVTFZ2cVJ1WXF2N203ODFZOU5udXJIRjI0TEZyaFV1c09EdWQ?oc=5",
       "featured": false
     },
     {
@@ -711,25 +711,25 @@
       "featured": false
     },
     {
-      "title": "Lakeland's Depot Arts District set for grand opening - FOX 13 Tampa Bay",
+      "title": "Lakeland's Depot Arts District set for grand opening - fox13news.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Oct 30, 2025",
-      "summary": "Lakeland's Depot Arts District set for grand opening FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
+      "summary": "Lakeland's Depot Arts District set for grand opening fox13news.com",
+      "source": "fox13news.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUdReG5sWF9nM1Zzckd4R09jb1cyQ3p5TTNDX3hac2draGZzWDJmTU0yZHJmZUxRQlh3d0Q1NW11QU5EWW5yOEktWHlPMm91QWJrQnZETkhhXzVDNEI0S25qRDVmSHNOZk9sZnZySE1yalRCSHE5UDNjRm1oWUQ5eU5GWVEtanlsa05TSE42enRqTnZfRXkyStIBngFBVV95cUxPdmo1WGMwMURjT1Y4T1JFVXV5ZC10elJnTnI3QjFDd04yQ0gydUYwb1d1cllyOWVld1JwSUxjdm1HOUFtMTJ6cEtpVkg1RVRMekcxaW5CRUpoQ19DYW9UWnZPMDJidWxIZEJwNXQ4OEpvcXFHMUZ2bmNxVlI1YnlVQnZqZjNqdG9IMFlJWVBBRTIzMnlmNUx0aXh4VzFUQQ?oc=5",
       "featured": false
     },
     {
-      "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
+      "title": "New Lakeland Animal Hospital Now Open - lakelandcurrents.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 17, 2026",
-      "summary": "New Lakeland Animal Hospital Now Open Lakeland Currents",
-      "source": "Lakeland Currents",
+      "summary": "New Lakeland Animal Hospital Now Open lakelandcurrents.com",
+      "source": "lakelandcurrents.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
       "featured": false
