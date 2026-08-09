@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09 23:20 UTC",
+  "last_updated": "2026-08-09 23:55 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -75,13 +75,13 @@
       "featured": false
     },
     {
-      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - qconline.com",
+      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - Dispatch Argus",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Aug 05, 2026",
-      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport qconline.com",
-      "source": "qconline.com",
+      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport Dispatch Argus",
+      "source": "Dispatch Argus",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckxacnR1TGg3VmVicndraWhUZTFwaDhNRzJMYmlkRS01TGFLQ2ZyZjB2NXU3VUVaTTE2UzM0cDZPaVROV2ZwV1NDaWYyeXYwV0RuVzVWUDh3SGFCYVYtTnc2ZnVmRmZYRXVCSFh1ZEViaEV6NWJ3UE1BWlFQLXI2OHpZdjBLRGZCS2ZZR1RRckVDU1ktbDJPY3FkLVFTbXN5dXYxY1NNWmk0UQ?oc=5",
       "featured": false
@@ -147,13 +147,13 @@
       "featured": false
     },
     {
-      "title": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 - iowadot.gov",
+      "title": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 - Iowa Department of Transportation (.gov)",
       "city": "Davenport",
       "category": "Infrastructure",
       "status": "Update",
       "date": "Feb 24, 2026",
-      "summary": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 iowadot.gov",
-      "source": "iowadot.gov",
+      "summary": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 Iowa Department of Transportation (.gov)",
+      "source": "Iowa Department of Transportation (.gov)",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTBWVmdpamN5bUY3aWI0X3I3MnEyUi1taDgxV3dsMDJlZXJDcEduQUhvUXpzaFNlOWU0aGxqanlhZ25JTmdWLTdVWDRaaVJhb0lLdVBHbFZJUjFjU1Q4d3hsNE5nUndaUUU0dFVoVjVzUXA2a05pdklyUUxKajZXRUFpOXk4YzZPdXJDZ3ZMX3pqV0xfelJCTzFGcFdjZDllUnFIOEo3M3FXVHBFdlFOb2J2cmdxMUc2SUtfLVFlSHVUMm1fOVhVZg?oc=5",
       "featured": false
@@ -411,30 +411,6 @@
       "featured": false
     },
     {
-      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
-      "city": "Polk County",
-      "category": "Restaurant",
-      "status": "Coming Soon",
-      "date": "May 30, 2026",
-      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
-      "featured": false
-    },
-    {
-      "title": "5 Coming Soon Polk County Restaurants - Business Debut",
-      "city": "Polk County",
-      "category": "Restaurant",
-      "status": "Coming Soon",
-      "date": "Nov 26, 2025",
-      "summary": "5 Coming Soon Polk County Restaurants Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KX1BOdno3MnhwNENJVlBfRlBRWUpKYnBrQ3loVUFWb3J0X0JxSE9pVnRUSEdEcllkTmMzZDJaeFU4bkE2dGxVc21LbURCOFcwWFhJUHM1NWJvTUpFWVBadFlza0RaVlpOTmpvR215Wmk4ZHFiMzBr?oc=5",
-      "featured": false
-    },
-    {
       "title": "Downtown Lakeland burger shop coming soon with nod to one of Polk's most influential musicians - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -444,18 +420,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUprMDFHdDNvQnlTc0Z6QXp2REEwSUg0WHA1Z19hdGtVRjNBSTlqMEtaOV85T05ZM0RuQWdWYmVqTkcwcjZBWkVlVndCX1VwTDhJYzJMRzNlMlBBSUwxR0lxZEQ2TktiQ0xYc09tbzJveDhEcEtvQ0M4Z044d2d5bmc4R1pNT2VOZXRGVjBxalJwZXhpZzUxSlVBc0t3cFNWazZ0WVFDNmthRDVaY1h6SmlXbC1RLUpmSldCTEozd1pwNHgxaWQzbkNjdFpRMXh3SkVORVdSSEFldmRJNmdRbg?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Downtown Winter Haven Restaurant Relocating After 26 Years - Business Debut",
-      "city": "Winter Haven",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Feb 23, 2026",
-      "summary": "Downtown Winter Haven Restaurant Relocating After 26 Years Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjUxbVN6V3EybU11U1ZLX181LWR3Ykh1QUpaVE4wdnpvY3UzUU45UzE2WjZTaUNfdW5nWnM1aFowVmVPWFF2aWMyajFoVXhIYTZWZzhQQWFpMjlRbmRNaWplNDdtMUFaQXRMWmVfVXJpR29vSUx6X3hOVll4Sk1Rc3ZvdG5hRnFSZlVkcUNHcDVRYkk?oc=5",
       "featured": false
     },
     {
@@ -483,6 +447,18 @@
       "featured": false
     },
     {
+      "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Grand Opening",
+      "date": "Aug 28, 2025",
+      "summary": "Foxtail Coffee Co. at Work on Davenport Opening WhatNow",
+      "source": "WhatNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
+      "featured": false
+    },
+    {
       "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
       "city": "Lakeland",
       "category": "Restaurant",
@@ -492,6 +468,18 @@
       "source": "6AM City",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Orchid Grove by Starlight Homes in Davenport FL - Livabl",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Apr 19, 2023",
+      "summary": "Orchid Grove by Starlight Homes in Davenport FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HREw4TnM4a1lELV9IU2hReDlRa1paNGhlck54MzRrcVlUX1B6SHJZTTUxdU1DY01jNjNmNGJ5OWxZc1BjT3dUODJOcGdNWUIxR212X3NfUndfYS1l?oc=5",
       "featured": false
     },
     {
@@ -507,30 +495,6 @@
       "featured": false
     },
     {
-      "title": "Raise the Bar and Grill Opening Soon in Lake Alfred - Business Debut",
-      "city": "Lake Alfred",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Oct 07, 2025",
-      "summary": "Raise the Bar and Grill Opening Soon in Lake Alfred Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFp3LTctNnRYbnRKU0RsaG5LT0IyZHQydkJWV2pKS2RvMThOM0lnX3VnV1pUMFF4cVFObWJ2NmVGMlFRODRBQzRhV1hxZU1JclRiQUZ2T1JOTk5wNzQySTVGMHpnbnRzVzVFMFpPb2JFbG1TWjYxb2M1enB5ZVlzTVozaWJ0aFFOc2c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Three J’s Ice Cream Opening Brick-and-Mortar in Winter Haven - Business Debut",
-      "city": "Winter Haven",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "May 05, 2026",
-      "summary": "Three J’s Ice Cream Opening Brick-and-Mortar in Winter Haven Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbU5Bdkl3X09tQWh5S0xHWnM3TUlJRTZBRDZKblRkX3JGMFRPdlU3dlY5LWFyYkpscmZNaFZSRXg0MDJORVp6UzR3enE5ZE5FNjRqdVJFeGIyQkM1MVFZazVZX0ZhNmw1OUpuaFpKQ1loOU1sZkZxWU92dUttVHFzLWFvay1vdTJULTJtcTU2R21ZcFdU?oc=5",
-      "featured": false
-    },
-    {
       "title": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Housing",
@@ -543,25 +507,73 @@
       "featured": false
     },
     {
-      "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
-      "city": "Davenport",
-      "category": "Restaurant",
+      "title": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
       "status": "Grand Opening",
-      "date": "Aug 28, 2025",
-      "summary": "Foxtail Coffee Co. at Work on Davenport Opening WhatNow",
-      "source": "WhatNow",
+      "date": "Feb 16, 2026",
+      "summary": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening Lakeland Ledger",
+      "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTduLUlHQWlZWk9zQ1ZOZzZoSXVUY2NuQVBXMC1SUjB2bEpHdWlkei1lcHlzYVJFNXUxTm55dG1pcV9JWERQYU80WWp0NHJlMzdHZDlLa3ktOUZJcW41LWdWMG1ZR2RuTjIzTi1PaFo1VkNjUFpsV1VkcFc5X082dGpuZFlSY1F5RnI5eFRKRmF6RmltYjh5UGIxdHRpeEtjOHpyWWFYajhtSTlEZDQ3cUNPYWkza1B4bHNlckFHNldDT2p1eUtKUU1OakpZeUp6dmJjd3Jqdl9qbVpT?oc=5",
       "featured": false
     },
     {
-      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - qconline.com",
+      "title": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Grand Opening",
+      "date": "May 29, 2025",
+      "summary": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHBUVnFSNUEwODY1MG83enJmbkVpZ1k4V1ZvYzh5dEowbHEtSWh3RktvVWxmR3AzSW5WbUpKSlExclBCQ1F5NWRiclJOalZLTjFUTjYzby10V09pVGdzYk5adTBrUDlGSjVoM3BETXZ0NXdpUHV6MHpVTFZ2cVJ1WXF2N203ODFZOU5udXJIRjI0TEZyaFV1c09EdWQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "'There's an expectation': Governments realize broadband isn't just a private-sector issue - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Jun 11, 2021",
+      "summary": "'There's an expectation': Governments realize broadband isn't just a private-sector issue Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON3VLZHVrd19tbWJlYk5mYl9rX0FTNTRRc05ic21wRkhsVU00NmhwR0dXdmVvR0I3Mk5zWmRBTGY1ajN6TV9KQW92UlZYNjNlZnlTTks0WllnV3FuSWc0eGJXSHo3SlBoS3BMQ2VYa2x6bmtTRWpZODdzdHBuRHRwOUh0U1ZwZHJOSjBxQ1BIMkZueGE0cGhneVVvYUJ1aDhQMVJVQjFfT2FpY1lYeHpQWUpfaGxpZ0M1V0NheHJQUnlHaDJvQWNGcDA3bGVHSnF1ak9LSXZhR0lnRzN2X0FoQjZleUlPRU9FWlE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
+      "city": "Lake Wales",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jan 04, 2023",
+      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Coming Soon",
+      "date": "Mar 16, 2005",
+      "summary": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3Y1ekpicHp0ZWh6U25FcW5QVkdPdWtWc0YxY0VvaXp2aXd4M1FhT1U5VjFaemVjUGxpVTh3Rk9ib09LR2liMTB4dWlkS2xiS1NYeWIwUXB2ejliVWt1UUNLaTNpNG1mTnZQZVVlaWFzeTQ3ejRvVWdGbmItNWxpZ0lDcUFvdkE4blFlTDZDNWQtQ1hPNkpXNnFmVzU5WTI4RDE0N3d3Y0tzSGJDVkdZRkIxZWtnOHVhR0JQREFQLVptcFBLZnNUU0xEQ1VmWEMyMUE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - Dispatch Argus",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 22, 2026",
-      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting qconline.com",
-      "source": "qconline.com",
+      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting Dispatch Argus",
+      "source": "Dispatch Argus",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3ozMW1xVG9WVDg3M2RJcGVwSUFvNGUybGNHRGEteVE0VWc5ZU9HRW1nMzBmYm5rVlBMRkpLdXNKejJiVjNBMXRXSkNWSGNmZWlJWWJPdVQxN2pfa1NsWjB5b29WanZadHJCRDlYbWVGZkprS016ZkRmRXVKdUFoUl9XTEU5cVcyeTJqeEJfVFZjakFiX084TU52N2NmM2lwY1dqVTBhSzQ0Zw?oc=5",
       "featured": false
@@ -924,18 +936,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0txMnJ6MXoydVlxeTlYV3RVTWdnWXBnanduWTZFX0hiQzFlZy1EZXhaWG5POEdSSHNJVk5iNWtDZkVWTDVaM00tRDg4ZkxNS2xuc20tV3NEMmQxYlI2QmJPZmg5cHNTWGNFQnd0THhpTWpYVDlkZWNNcDU4NGFkSmJsU1hfV1lzbzQtVTAzMDU2NzBsMU9jWm5oYTRjdGtwbUxVYTFXRExhUzdtWEUzNzVjUFF2MDJwQzRDbS1ZU3FHVzE2WkNEemRnWkFUUWVzMnRNMUdaMm1KMG9vb1I0?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Coming Soon",
-      "date": "Mar 16, 2005",
-      "summary": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3Y1ekpicHp0ZWh6U25FcW5QVkdPdWtWc0YxY0VvaXp2aXd4M1FhT1U5VjFaemVjUGxpVTh3Rk9ib09LR2liMTB4dWlkS2xiS1NYeWIwUXB2ejliVWt1UUNLaTNpNG1mTnZQZVVlaWFzeTQ3ejRvVWdGbmItNWxpZ0lDcUFvdkE4blFlTDZDNWQtQ1hPNkpXNnFmVzU5WTI4RDE0N3d3Y0tzSGJDVkdZRkIxZWtnOHVhR0JQREFQLVptcFBLZnNUU0xEQ1VmWEMyMUE?oc=5",
       "featured": false
     },
     {
