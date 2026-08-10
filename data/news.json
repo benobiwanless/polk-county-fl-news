@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09 23:55 UTC",
+  "last_updated": "2026-08-10 00:55 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -75,13 +75,13 @@
       "featured": false
     },
     {
-      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - Dispatch Argus",
+      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - qconline.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Aug 05, 2026",
-      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport Dispatch Argus",
-      "source": "Dispatch Argus",
+      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport qconline.com",
+      "source": "qconline.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckxacnR1TGg3VmVicndraWhUZTFwaDhNRzJMYmlkRS01TGFLQ2ZyZjB2NXU3VUVaTTE2UzM0cDZPaVROV2ZwV1NDaWYyeXYwV0RuVzVWUDh3SGFCYVYtTnc2ZnVmRmZYRXVCSFh1ZEViaEV6NWJ3UE1BWlFQLXI2OHpZdjBLRGZCS2ZZR1RRckVDU1ktbDJPY3FkLVFTbXN5dXYxY1NNWmk0UQ?oc=5",
       "featured": false
@@ -120,6 +120,18 @@
       "source": "City of Davenport",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New construction partially collapses in Davenport - yahoo.com",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 04, 2026",
+      "summary": "New construction partially collapses in Davenport yahoo.com",
+      "source": "yahoo.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGVYa1Y0T1Z6NFNOU2xBVTNmeGJWUTJoUmJwcHBhcUJQOE9UYnB2bVlBR3h3c1R4Z05qeFFIQk1DX3ZCalA2bzBPLXdMMWI4dW9Nendmb2RkN3hrNUdpWnRpTnhmeHRRVV9XUDI0S25XV0dZWmRvWnY0Sy1UVWFYeHdEWEZqTDM4TGY2bk9XTzYzc0J1V0E?oc=5",
       "featured": false
     },
     {
@@ -192,18 +204,6 @@
       "source": "VCU News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New construction partially collapses in Davenport - Yahoo",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 04, 2026",
-      "summary": "New construction partially collapses in Davenport Yahoo",
-      "source": "Yahoo",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGVYa1Y0T1Z6NFNOU2xBVTNmeGJWUTJoUmJwcHBhcUJQOE9UYnB2bVlBR3h3c1R4Z05qeFFIQk1DX3ZCalA2bzBPLXdMMWI4dW9Nendmb2RkN3hrNUdpWnRpTnhmeHRRVV9XUDI0S25XV0dZWmRvWnY0Sy1UVWFYeHdEWEZqTDM4TGY2bk9XTzYzc0J1V0E?oc=5",
       "featured": false
     },
     {
@@ -327,6 +327,18 @@
       "featured": false
     },
     {
+      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Sep 04, 2025",
+      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
+      "featured": false
+    },
+    {
       "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
@@ -348,6 +360,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 01, 2025",
+      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -519,18 +543,6 @@
       "featured": false
     },
     {
-      "title": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Grand Opening",
-      "date": "May 29, 2025",
-      "summary": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHBUVnFSNUEwODY1MG83enJmbkVpZ1k4V1ZvYzh5dEowbHEtSWh3RktvVWxmR3AzSW5WbUpKSlExclBCQ1F5NWRiclJOalZLTjFUTjYzby10V09pVGdzYk5adTBrUDlGSjVoM3BETXZ0NXdpUHV6MHpVTFZ2cVJ1WXF2N203ODFZOU5udXJIRjI0TEZyaFV1c09EdWQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "'There's an expectation': Governments realize broadband isn't just a private-sector issue - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -540,6 +552,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON3VLZHVrd19tbWJlYk5mYl9rX0FTNTRRc05ic21wRkhsVU00NmhwR0dXdmVvR0I3Mk5zWmRBTGY1ajN6TV9KQW92UlZYNjNlZnlTTks0WllnV3FuSWc0eGJXSHo3SlBoS3BMQ2VYa2x6bmtTRWpZODdzdHBuRHRwOUh0U1ZwZHJOSjBxQ1BIMkZueGE0cGhneVVvYUJ1aDhQMVJVQjFfT2FpY1lYeHpQWUpfaGxpZ0M1V0NheHJQUnlHaDJvQWNGcDA3bGVHSnF1ak9LSXZhR0lnRzN2X0FoQjZleUlPRU9FWlE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Grand Opening",
+      "date": "May 29, 2025",
+      "summary": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHBUVnFSNUEwODY1MG83enJmbkVpZ1k4V1ZvYzh5dEowbHEtSWh3RktvVWxmR3AzSW5WbUpKSlExclBCQ1F5NWRiclJOalZLTjFUTjYzby10V09pVGdzYk5adTBrUDlGSjVoM3BETXZ0NXdpUHV6MHpVTFZ2cVJ1WXF2N203ODFZOU5udXJIRjI0TEZyaFV1c09EdWQ?oc=5",
       "featured": false
     },
     {
@@ -567,13 +591,13 @@
       "featured": false
     },
     {
-      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - Dispatch Argus",
+      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - qconline.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 22, 2026",
-      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting Dispatch Argus",
-      "source": "Dispatch Argus",
+      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting qconline.com",
+      "source": "qconline.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3ozMW1xVG9WVDg3M2RJcGVwSUFvNGUybGNHRGEteVE0VWc5ZU9HRW1nMzBmYm5rVlBMRkpLdXNKejJiVjNBMXRXSkNWSGNmZWlJWWJPdVQxN2pfa1NsWjB5b29WanZadHJCRDlYbWVGZkprS016ZkRmRXVKdUFoUl9XTEU5cVcyeTJqeEJfVFZjakFiX084TU52N2NmM2lwY1dqVTBhSzQ0Zw?oc=5",
       "featured": false
@@ -723,13 +747,13 @@
       "featured": false
     },
     {
-      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - douglasnow.com",
+      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 09, 2026",
-      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open douglasnow.com",
-      "source": "douglasnow.com",
+      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
+      "source": "Douglas Now",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
       "featured": false
@@ -1056,30 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRtZ2VhbVBIMDAwU1pvdFMwcWpOQW9nVUhsZlBpcUtRSlBMMFRBT1dSMkY3OUVSYzNPSFlFclFaRXQ3UDBfQWY0LVdQdVY0c2c1OHlQeHFOZW8xTVBxVGlzSnpZWWJzaTllcVlwUUsxRGV1Z25DbWdkT0U0a0JnZEFDMEk1eWl3U1JsS3psQUNPZmtLZEdnMUJIVEpIeXh3eGh3d0RhMTRwNnhvV3hoaGtGem1UVW0yUy1ucG5vMUllemtwYi1maE1xOA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Oct 18, 2021",
-      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jun 24, 2023",
-      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
