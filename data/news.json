@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10 15:14 UTC",
+  "last_updated": "2026-08-10 16:09 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -123,15 +123,27 @@
       "featured": false
     },
     {
-      "title": "Battery and retail theft at Davenport 7-ELEVEn - Polk County Sheriff's Office",
+      "title": "Battery and retail theft at Davenport 7-ELEVEn - polksheriff.org",
       "city": "Davenport",
       "category": "Retail",
       "status": "Update",
       "date": "Jul 31, 2026",
-      "summary": "Battery and retail theft at Davenport 7-ELEVEn Polk County Sheriff's Office",
-      "source": "Polk County Sheriff's Office",
+      "summary": "Battery and retail theft at Davenport 7-ELEVEn polksheriff.org",
+      "source": "polksheriff.org",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb19xaUg3YUdzeEtSRTk2Q0M3TVRzaXVJS0FwTmx3NTJOZ3FYLVdlX25DeGhUSjVleFpyUEl1ZmpidlZvY0Z3WS1RMnBicW5KU1FIaF9KaDVfb0JZcmtzWDJRNDU4OUtpNHFlQzIxZG9IVWp1Vk0yMlE2dmxQbFdEYWFDLUlkb0VMTVF3?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New construction partially collapses in Davenport - Yahoo",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 04, 2026",
+      "summary": "New construction partially collapses in Davenport Yahoo",
+      "source": "Yahoo",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGVYa1Y0T1Z6NFNOU2xBVTNmeGJWUTJoUmJwcHBhcUJQOE9UYnB2bVlBR3h3c1R4Z05qeFFIQk1DX3ZCalA2bzBPLXdMMWI4dW9Nendmb2RkN3hrNUdpWnRpTnhmeHRRVV9XUDI0S25XV0dZWmRvWnY0Sy1UVWFYeHdEWEZqTDM4TGY2bk9XTzYzc0J1V0E?oc=5",
       "featured": false
     },
     {
@@ -171,13 +183,13 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - lodgingmagazine.com",
+      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Update",
       "date": "May 20, 2026",
-      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation lodgingmagazine.com",
-      "source": "lodgingmagazine.com",
+      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
+      "source": "LODGING Magazine",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
       "featured": false
@@ -192,18 +204,6 @@
       "source": "VCU News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New construction partially collapses in Davenport - Yahoo",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 04, 2026",
-      "summary": "New construction partially collapses in Davenport Yahoo",
-      "source": "Yahoo",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGVYa1Y0T1Z6NFNOU2xBVTNmeGJWUTJoUmJwcHBhcUJQOE9UYnB2bVlBR3h3c1R4Z05qeFFIQk1DX3ZCalA2bzBPLXdMMWI4dW9Nendmb2RkN3hrNUdpWnRpTnhmeHRRVV9XUDI0S25XV0dZWmRvWnY0Sy1UVWFYeHdEWEZqTDM4TGY2bk9XTzYzc0J1V0E?oc=5",
       "featured": false
     },
     {
@@ -327,18 +327,6 @@
       "featured": false
     },
     {
-      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Sep 04, 2025",
-      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
-      "featured": false
-    },
-    {
       "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
@@ -348,18 +336,6 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 01, 2025",
-      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -591,6 +567,18 @@
       "featured": false
     },
     {
+      "title": "Orlando Health Watson Clinic Lakeland Highlands Hospital Hosts Grand Opening Preview - Orlando Health",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Aug 06, 2026",
+      "summary": "Orlando Health Watson Clinic Lakeland Highlands Hospital Hosts Grand Opening Preview Orlando Health",
+      "source": "Orlando Health",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1RnMmYwaVJlYUtrbFNMTWNyb2R5YWw0N2FsbVd4VS1jVFlweUtpekJjcVpwX3YxTVJpc0N0bGp2VHFaSDBvRFdsMXp1SFU3VWx4UndBSW1FM2l0bDIwRzJGWFlLVmZEN1FranpzZjZiX2ZjN0p6QXlKczhrbGN3ekFhUDNldmpGbjZaZ1hLc1kxSi1MekVUSnhlYVJ6SHdUTGV0NlZzY0t5Yk44SGxHMDFxSUw3WGxCWERaSlBxNklVWGdJ?oc=5",
+      "featured": false
+    },
+    {
       "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - Dispatch Argus",
       "city": "Davenport",
       "category": "Development",
@@ -816,18 +804,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RQUVTNW10anc2c0dYM20ydUJfX25NREdsUHVtMmdUaUQydEI0TDZFMkJONGlTNlBELTdtakcyLTlDWUc3czdqSWlnems2S05iMkdBUTFnY2liYU1vdktKdTVNSDctcVdDOWJMMkRKM0dfTXQ5X1E5ZVlqRENWUdIBkgFBVV95cUxQenpRcnI2bFREc2JieVQtdEpiYWQxc0xqT2J5TTgydkRGUGRPTkk1VWJtMkIyZXV1TVFBTlp0YVhlVWhUWHhFUk5QNDNSb0tVcktGR1RHNE9YYTdBTDk0VGNEMGdGaE40TF9neEdFSzFWWW50SWVrQVNUT2pFM3BCamlhdF9xLVlyUXZ1U1Z4OUNBdw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "GOLDFLOWER CANNABIS ANNOUNCES GRAND OPENING OF TENTH FLORIDA DISPENSARY IN LAKELAND AND 4TH NEW STORE IN 75 DAYS - PR Newswire",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Grand Opening",
-      "date": "Aug 19, 2025",
-      "summary": "GOLDFLOWER CANNABIS ANNOUNCES GRAND OPENING OF TENTH FLORIDA DISPENSARY IN LAKELAND AND 4TH NEW STORE IN 75 DAYS PR Newswire",
-      "source": "PR Newswire",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdXJ5TFVUeGFBR3lOaVJhWW5aZzhzQmpEOENUUkozMFpJbFU5N0wtVVZ2OGtJTWtPazN0TWs0dHBPOGdqRHdWSUczZ3NwczJYbTFIRXozdExBRVVYdlN6SFhwZ1JzQUxIQW5BcmZxeHRubnRpSFVoaEM0VnRSUFU0NzRla08tbXhDUzEyMTFReXBWTmpiazlYejBBcXAwbEw5SktTUm5oVGpPeldaOWpSbkhxNzdhUlhNRjM2LWpQQk1RaEJrdjFKUVZOWEJvSGg4elkwR2VzM1JWZTluZDVxNXlZMjZ1bDFtMXRMN0Jab2cwOHIwRDY4MGN4QVQ?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1056,30 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRtZ2VhbVBIMDAwU1pvdFMwcWpOQW9nVUhsZlBpcUtRSlBMMFRBT1dSMkY3OUVSYzNPSFlFclFaRXQ3UDBfQWY0LVdQdVY0c2c1OHlQeHFOZW8xTVBxVGlzSnpZWWJzaTllcVlwUUsxRGV1Z25DbWdkT0U0a0JnZEFDMEk1eWl3U1JsS3psQUNPZmtLZEdnMUJIVEpIeXh3eGh3d0RhMTRwNnhvV3hoaGtGem1UVW0yUy1ucG5vMUllemtwYi1maE1xOA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Oct 18, 2021",
+      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jun 24, 2023",
+      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
