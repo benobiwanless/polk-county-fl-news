@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 07:50 UTC",
+  "last_updated": "2026-08-12 09:00 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -75,13 +75,13 @@
       "featured": false
     },
     {
-      "title": "A&M Family Restaurant opens in Davenport - quadcitiesbusiness.com",
+      "title": "A&M Family Restaurant opens in Davenport - Quad Cities Business Journal",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Aug 10, 2026",
-      "summary": "A&M Family Restaurant opens in Davenport quadcitiesbusiness.com",
-      "source": "quadcitiesbusiness.com",
+      "summary": "A&M Family Restaurant opens in Davenport Quad Cities Business Journal",
+      "source": "Quad Cities Business Journal",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDZHQtc3BpVFA2RkNDUDJxZVk0aTFwZ3RQS3MyRVJGQWJhaWJUV1dmRzFQTzg5dUZfZXNTM19ZYktrbnFZQ1hBTDNKbE1mRW1val9yS0V2YndZd0FBcjFfcWpMR2Z2V2xRZFlHcHV0bDloa0RTaFBjNmttTQ?oc=5",
       "featured": false
@@ -267,30 +267,6 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
-      "city": "Polk City",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
-      "source": "Tampa Bay Business and Wealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County planning board denies 3rd bid for Deeson Road development - - Lakeland Gazette",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Approved",
-      "date": "Jun 04, 2026",
-      "summary": "Polk County planning board denies 3rd bid for Deeson Road development - Lakeland Gazette",
-      "source": "Lakeland Gazette",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2FoNnExTjZPNF8zSldlYnNFdkdnaXktRUx5VUpHNWdKTjgtMFZrSlhNYjMwNU9ibFA3Vk1pNDE0MVp5QzBoWHUxVXFScDlDLUNCOW1ubzJEZkJsRXlJZ2hvOGE3RHdUU0o5ZExmOG1kd3lZVkwzc1A5aFVsdVVxWS14ay1FNzRRN1k3bFVUN0tGWGhvR0tNMW5rUWlhX2RMWS1rMmhEMlNxZ0dXYlZ6RlpCa1RZdw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Public Schools Approves High School Rezoning - LkldNow",
       "city": "Polk County",
       "category": "Community",
@@ -327,15 +303,27 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
-      "source": "wtsp.com",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
+      "city": "Polk City",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
+      "source": "Tampa Bay Business and Wealth",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County planning board denies 3rd bid for Deeson Road development - - Lakeland Gazette",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Approved",
+      "date": "Jun 04, 2026",
+      "summary": "Polk County planning board denies 3rd bid for Deeson Road development - Lakeland Gazette",
+      "source": "Lakeland Gazette",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2FoNnExTjZPNF8zSldlYnNFdkdnaXktRUx5VUpHNWdKTjgtMFZrSlhNYjMwNU9ibFA3Vk1pNDE0MVp5QzBoWHUxVXFScDlDLUNCOW1ubzJEZkJsRXlJZ2hvOGE3RHdUU0o5ZExmOG1kd3lZVkwzc1A5aFVsdVVxWS14ay1FNzRRN1k3bFVUN0tGWGhvR0tNMW5rUWlhX2RMWS1rMmhEMlNxZ0dXYlZ6RlpCa1RZdw?oc=5",
       "featured": false
     },
     {
@@ -351,15 +339,15 @@
       "featured": false
     },
     {
-      "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
-      "city": "Lakeland",
+      "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
+      "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Aug 20, 2025",
-      "summary": "Polk County high school rezoning plan: See all the current and proposed zones Lakeland Ledger",
-      "source": "Lakeland Ledger",
+      "date": "Aug 28, 2025",
+      "summary": "School rezoning plan for Polk County FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
       "featured": false
     },
     {
@@ -375,27 +363,51 @@
       "featured": false
     },
     {
-      "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
+      "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 20, 2025",
+      "summary": "Polk County high school rezoning plan: See all the current and proposed zones Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 12, 2025",
+      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
+      "source": "wtsp.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Some Polk County parents express worry as high school rezoning plans take shape - Tampa Bay 28",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 28, 2025",
-      "summary": "School rezoning plan for Polk County FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
+      "summary": "Some Polk County parents express worry as high school rezoning plans take shape Tampa Bay 28",
+      "source": "Tampa Bay 28",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkxyODNuSm5Ja3pXQW9kOVFOU1NHZnBjUVpQeGZsNzItTTM1bnBWTFVVWXphZUNUUWtzbUFqVjBqeUZIUFMyclg1azVvczJUTS1UaVN6S3FpMU1vTVhGMVJoZXdQNVJBeFBGY2dhdDcwN1JyZ1NKVUc0c2J6QjdkaG9WVGU3Z0I0dGlYemN5aU53MjVfSF9oa3NqT0lIYUFOOVBtbXRac0pVc1NpQlJvbnZwQzhBMTdqendrTzhIZU4?oc=5",
       "featured": false
     },
     {
-      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
-      "city": "Polk County",
+      "title": "Town hall Sept. 18 on rezoning of eastern Polk high schools changed to Haines City High - Lakeland Ledger",
+      "city": "Haines City",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Aug 04, 2025",
-      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
-      "source": "Tampa Bay 28",
+      "date": "Sep 16, 2025",
+      "summary": "Town hall Sept. 18 on rezoning of eastern Polk high schools changed to Haines City High Lakeland Ledger",
+      "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDJSUWFBMkhabVYyajI3YzQyRkFUUUNGVVJyRnZ5ME1fX2x1a01FbWpDbnh3WnpnX203M2FyaDJSUGJ6OWdMSEhfLXpKWUlfYy12V1ZyYUtNSUR6TWVQTzJ3aXNJeHl0eW95UDNtNGw2d2hwYXhoU0dfNXIxcjltaWpZUi1PandZVlJRYW9wM1RyQTZSNDJRWmpqcHRGeERSS082emMzcVVJS3NtWmNEQnpKdE9Kazh2cllmTUE4UDNiZw?oc=5",
       "featured": false
     },
     {
@@ -408,30 +420,6 @@
       "source": "WFLA",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtaV21Pck1WRWd6V3V4UWpBUzYxa3hxbC1YWll6ajNOQ1RMRS01TUQyR0JZRzJxMTNTUDdGNXZ6THMtdkNYaDRzZEVTdHlUVm4teWtlRXJjVlRmVXltRGo3SmdxWXo4TjdtSWpXYTM5a2FYdlQtb2V0Y0NnWUl2OUx0dVQ2Y1BPeHJrM2w0eE8tWVI0VVZHY0piMktpMXZrdUxSUS0wR294Zk5ubU9v0gG0AUFVX3lxTE9SUEFrejZBT3V3RDlpZzl4OXZXbEdVUEs1S3hWMFQ4Y0s4ZjEwMjVCa2QyOGU4aS1BMnh4T2VHQ3FkUHdCR0VoU252UkcyMVdLcFB3OERneFNlRjZfY3diWklid3FfTXJNeFdUMVpobTBmd0hMWnhOamtmdTFsZW03NXdpLUZtYzZlTzZwNU5SRDVrUlhoa1UtSnRVc1dxY1dlXzd5MlNfamU2YkV4WDlfSEZ4Mw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 05, 2025",
-      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
-      "source": "WFLA",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County School Board discusses rezoning certain - wtsp.com",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County School Board discusses rezoning certain wtsp.com",
-      "source": "wtsp.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1pKR3k1UjhrMVV4VnVIZ3o5Nk00SndUUzlqYm11RXZPVVJkNWpDRzFXMzVmU1pUNmpxZWlYcWphNjZtSUVWSy1oYWsxX2ZVX2tDOTNLVjI3T0paTE9GRU1HazUyYkxEWnZodUlfTWNLQ3ROa0tkbVhSdTRyX0pIQmtGdS1DNHFuaHFILUJ5TFN1UDZMR2huWHNVOUZnYUJ5TnFOaF9KeGtVSElBS0VsTk1oZHBkWUYzRUFyQ1R3RQ?oc=5",
       "featured": false
     },
     {
@@ -591,25 +579,13 @@
       "featured": false
     },
     {
-      "title": "5 Coming Soon Polk County Restaurants - Business Debut",
-      "city": "Polk County",
-      "category": "Restaurant",
-      "status": "Coming Soon",
-      "date": "Nov 26, 2025",
-      "summary": "5 Coming Soon Polk County Restaurants Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KX1BOdno3MnhwNENJVlBfRlBRWUpKYnBrQ3loVUFWb3J0X0JxSE9pVnRUSEdEcllkTmMzZDJaeFU4bkE2dGxVc21LbURCOFcwWFhJUHM1NWJvTUpFWVBadFlza0RaVlpOTmpvR215Wmk4ZHFiMzBr?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Orlando Health Watson Clinic Lakeland Highlands Hospital Hosts Grand Opening Preview - orlandohealth.com",
+      "title": "Orlando Health Watson Clinic Lakeland Highlands Hospital Hosts Grand Opening Preview - Orlando Health",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Aug 06, 2026",
-      "summary": "Orlando Health Watson Clinic Lakeland Highlands Hospital Hosts Grand Opening Preview orlandohealth.com",
-      "source": "orlandohealth.com",
+      "summary": "Orlando Health Watson Clinic Lakeland Highlands Hospital Hosts Grand Opening Preview Orlando Health",
+      "source": "Orlando Health",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1RnMmYwaVJlYUtrbFNMTWNyb2R5YWw0N2FsbVd4VS1jVFlweUtpekJjcVpwX3YxTVJpc0N0bGp2VHFaSDBvRFdsMXp1SFU3VWx4UndBSW1FM2l0bDIwRzJGWFlLVmZEN1FranpzZjZiX2ZjN0p6QXlKczhrbGN3ekFhUDNldmpGbjZaZ1hLc1kxSi1MekVUSnhlYVJ6SHdUTGV0NlZzY0t5Yk44SGxHMDFxSUw3WGxCWERaSlBxNklVWGdJ?oc=5",
       "featured": false
@@ -699,13 +675,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
+      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
+      "source": "news-herald.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
@@ -819,13 +795,13 @@
       "featured": false
     },
     {
-      "title": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening - LakelandToday.ca",
+      "title": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening - lakelandtoday.ca",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Aug 01, 2026",
-      "summary": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening LakelandToday.ca",
-      "source": "LakelandToday.ca",
+      "summary": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening lakelandtoday.ca",
+      "source": "lakelandtoday.ca",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFd4Vkx1dUZGSVRqRS1tbnZrV2RscXVpVmFrYy1VeHpyblotUFpNWk1seWs1LTZvZTdQMm1Ub3dDNnpGMnJLck13QmpwZG1aNDFXZjNLOXpkQTExdVM1NjhobEZiUmtTQnk3bW5iMU83SUw5V3FjUXIyZGJGb0VpUW4yNmE5ZVI1SFpSUExLZUVMRGJXb1dia2hyOUdoUXcxMll0MGJaTkVXb0FBRHJ1ejdBVS1Pd1Q5OWRrMTc3dXlLbjVheEk0?oc=5",
       "featured": false
@@ -1080,6 +1056,30 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents - Lakeland Ledger",
+      "city": "Auburndale",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Feb 17, 2023",
+      "summary": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Mar 10, 2004",
+      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
       "featured": false
     }
   ]
