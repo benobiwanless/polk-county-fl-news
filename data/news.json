@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 00:41 UTC",
+  "last_updated": "2026-08-12 03:09 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -183,13 +183,13 @@
       "featured": false
     },
     {
-      "title": "Bubba's 33 restaurant opening in Davenport on Monday - yahoo.com",
+      "title": "Bubba's 33 restaurant opening in Davenport on Monday - Yahoo",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Jul 24, 2026",
-      "summary": "Bubba's 33 restaurant opening in Davenport on Monday yahoo.com",
-      "source": "yahoo.com",
+      "summary": "Bubba's 33 restaurant opening in Davenport on Monday Yahoo",
+      "source": "Yahoo",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUZGMG0tWU9QZ2Z1aWo4cTJLVE9aMC1tV1NYRDRUd2pXTHE2X0o3R1BOcmdYWmhfbWZBdzRaZVJzX1Z5OHlxLTAyZXkybklVZG9KNHJraUktdnhpajczc0tsVWRsQVBLeGNSMWptTTVlUGJncWE1VGkyQ1p6MzcyQ2h4UjRwMkdNMEFGSXZnNVg?oc=5",
       "featured": false
@@ -243,6 +243,18 @@
       "featured": false
     },
     {
+      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - baynews9.com",
+      "city": "Lake Wales",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Jun 12, 2026",
+      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel baynews9.com",
+      "source": "baynews9.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFiaE5nVzY3RnMxUUpEZjluODhULTNQTUhQWWZJV2V4VV9ZRmVfVGNkLUExMG5QYVpOZ01yX3dONmVzSWdoMV9yMmJWNVZoT0ozeEFnV3BoY0pwRFZBX1l2R3RGZEMyRGo4R0dyNTdLQjAxYy1KeENhSjdTNE1hQzh3QlpEYXp4VW1CTkxJOGJqeENCZnhBdVFCM0ZSWTNBcXhqZFZqRDM5WUp3NXRQbw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Construction at Second and Gaines, Davenport, snarls traffic - OurQuadCities",
       "city": "Davenport",
       "category": "Development",
@@ -252,18 +264,6 @@
       "source": "OurQuadCities",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1JQejM0dElDWjFnZXFDbWV6VUp4c3oyYWNrRnNaVkI0aG5LVFduSzlNUFF5ZGpual9HSVdOeXRibFJTX09Ua3pfN2VtOFFDVDNZSjZCaUh6VVVaUG93VWpGZzVzOUZUQ0pzUERWWXZOdE1yZG1qNF9FaXlvOVdrbGZIeUIyR3JvNEdZdWlCSDhOYnRfWC13YmxJNHUxMVg4b1c2aDZTZVLSAa4BQVVfeXFMTk1QSW5QVllreWFXWVNIeTlNdjF6U2FYQ1BqUFRCTmlTWEhxbllzendObmFjaFA4dVZQSnBFdDl2NVI0dDFaZW1zU0YxcTNPWWNWT21xT1R3c3JDMHplNWZCWEwyd09QNUNmTGI0QmtUOUdDMm9paUlScU5qZWVOeG0wSU5RZE5hTGxfejhIbzh0ZVdWc0wwX2k1b2xqWnpEdWRZODN6VUNqcWlXRTV3?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - Spectrum Bay News 9",
-      "city": "Lake Wales",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFiaE5nVzY3RnMxUUpEZjluODhULTNQTUhQWWZJV2V4VV9ZRmVfVGNkLUExMG5QYVpOZ01yX3dONmVzSWdoMV9yMmJWNVZoT0ozeEFnV3BoY0pwRFZBX1l2R3RGZEMyRGo4R0dyNTdLQjAxYy1KeENhSjdTNE1hQzh3QlpEYXp4VW1CTkxJOGJqeENCZnhBdVFCM0ZSWTNBcXhqZFZqRDM5WUp3NXRQbw?oc=5",
       "featured": false
     },
     {
@@ -303,13 +303,13 @@
       "featured": false
     },
     {
-      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Spectrum Bay News 9",
+      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - baynews9.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Jan 27, 2026",
-      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools baynews9.com",
+      "source": "baynews9.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
       "featured": false
@@ -387,6 +387,18 @@
       "featured": false
     },
     {
+      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 04, 2025",
+      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk County schools plan comprehensive rezoning for 2026-27 school year - wfla.com",
       "city": "Polk County",
       "category": "Community",
@@ -411,15 +423,15 @@
       "featured": false
     },
     {
-      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
+      "title": "Polk County School Board discusses rezoning certain - wtsp.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Aug 04, 2025",
-      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
-      "source": "Tampa Bay 28",
+      "date": "Aug 12, 2025",
+      "summary": "Polk County School Board discusses rezoning certain wtsp.com",
+      "source": "wtsp.com",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1pKR3k1UjhrMVV4VnVIZ3o5Nk00SndUUzlqYm11RXZPVVJkNWpDRzFXMzVmU1pUNmpxZWlYcWphNjZtSUVWSy1oYWsxX2ZVX2tDOTNLVjI3T0paTE9GRU1HazUyYkxEWnZodUlfTWNLQ3ROa0tkbVhSdTRyX0pIQmtGdS1DNHFuaHFILUJ5TFN1UDZMR2huWHNVOUZnYUJ5TnFOaF9KeGtVSElBS0VsTk1oZHBkWUYzRUFyQ1R3RQ?oc=5",
       "featured": false
     },
     {
@@ -483,15 +495,15 @@
       "featured": false
     },
     {
-      "title": "Orchid Grove by Starlight Homes in Davenport FL - Livabl",
+      "title": "Greenfield Village by Landsea Homes in Davenport FL - Livabl",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
-      "date": "Apr 19, 2023",
-      "summary": "Orchid Grove by Starlight Homes in Davenport FL Livabl",
+      "date": "Sep 24, 2024",
+      "summary": "Greenfield Village by Landsea Homes in Davenport FL Livabl",
       "source": "Livabl",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HREw4TnM4a1lELV9IU2hReDlRa1paNGhlck54MzRrcVlUX1B6SHJZTTUxdU1DY01jNjNmNGJ5OWxZc1BjT3dUODJOcGdNWUIxR212X3NfUndfYS1l?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUVJ1SUg3a2ZTSVpQSTU2eDQyY2FaTkdkZVJ0YkZNSmNDQzNJbkxRY2tVMllNd21VMzRUSHdvTXAzSHpOWjlzQzZiWGR5YUNhQ25TcV9FLXJwMERtVzJmc0Z3Sjk?oc=5",
       "featured": false
     },
     {
@@ -504,6 +516,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOENtR05YUXhvTTNvbWxVUVFOY0VhcnFGWGRWbHk3b1p1Q0ZWR2JNM2Y0N3lZanlJSVBUdVE1YlNndGFYeU9Jb1JCRXYtUHZjbnNTSHZKbWhzOU5SMmVrX0k5alhWV3VCbVFmZVN3MkJrUGpudVlKMjdxdFdTT0FSczZOUnRDRGYtaG5sNkxKTkdBVi1ZbC1vc2VRcC1xOWpTLWZSMFJXdUowYk5ZdjJ2a1FNTlVJZXJUb29UemtqNkdVU1htRTk3bFZPMTJXVi1GZzJOTmJBcVM3NVRSenpQZXBMUnZOZUJEOHN4Y2dxYUNpTXdaV0pyYjZR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Orchid Grove by Starlight Homes in Davenport FL - Livabl",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Apr 19, 2023",
+      "summary": "Orchid Grove by Starlight Homes in Davenport FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HREw4TnM4a1lELV9IU2hReDlRa1paNGhlck54MzRrcVlUX1B6SHJZTTUxdU1DY01jNjNmNGJ5OWxZc1BjT3dUODJOcGdNWUIxR212X3NfUndfYS1l?oc=5",
       "featured": false
     },
     {
@@ -555,27 +579,27 @@
       "featured": false
     },
     {
-      "title": "'This is going to put Auburndale on the map.' Camp Margaritaville to take over Cabana Club RV Resort - Lakeland Ledger",
-      "city": "Auburndale",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "Sep 23, 2021",
-      "summary": "'This is going to put Auburndale on the map.' Camp Margaritaville to take over Cabana Club RV Resort Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTFRQUJreHdfWGk5UWtZa1R3QTZOeVc5OGZhRzFMalNCY1ZmSkxfSGFKVE9BT1FrdjZuTDNmWTNKdEltRllrUjdaNTVHX3JqNkxoYkU1dkNLdXV5bnowMjQzclBhV2hxOERRVHY3QmNXeDJCNHd0MFdvVElmcUNpb0NacFdvZXE2TzA4OGVrckJNT2JJR1dXVWFzQ0Z1NUZ0WTREcGhGVGg4OVliTVlwUXRUVWdSZmg2UkJQclhtdTFoNFFmU3hsRkhpNTROV3c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
+      "title": "A Look at 3 Restaurants Coming Soon in Polk County - businessdebut.com",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Coming Soon",
       "date": "May 30, 2026",
-      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
-      "source": "Business Debut",
+      "summary": "A Look at 3 Restaurants Coming Soon in Polk County businessdebut.com",
+      "source": "businessdebut.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
+      "featured": false
+    },
+    {
+      "title": "5 Coming Soon Polk County Restaurants - businessdebut.com",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Coming Soon",
+      "date": "Nov 26, 2025",
+      "summary": "5 Coming Soon Polk County Restaurants businessdebut.com",
+      "source": "businessdebut.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KX1BOdno3MnhwNENJVlBfRlBRWUpKYnBrQ3loVUFWb3J0X0JxSE9pVnRUSEdEcllkTmMzZDJaeFU4bkE2dGxVc21LbURCOFcwWFhJUHM1NWJvTUpFWVBadFlza0RaVlpOTmpvR215Wmk4ZHFiMzBr?oc=5",
       "featured": false
     },
     {
@@ -615,13 +639,13 @@
       "featured": false
     },
     {
-      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God (USA)",
+      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God",
       "city": "Winter Haven",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 01, 2026",
-      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God (USA)",
-      "source": "Assemblies of God (USA)",
+      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God",
+      "source": "Assemblies of God",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
       "featured": false
@@ -783,13 +807,25 @@
       "featured": false
     },
     {
-      "title": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening - lakelandtoday.ca",
+      "title": "Putnam, Davenport, announces grand opening of new Family Discovery Center - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 04, 2026",
+      "summary": "Putnam, Davenport, announces grand opening of new Family Discovery Center OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1Z6NE9wYzdaUnNDa3ByRFRSRTRRMERUWG9UaWJqOTFpUF9zdjRLNlZEdzZRSlFGSlh1VXBpRFV6RGJEa21QSXhmSWVEV3hmTHVGLWdhZDBPTGpsMFlxV18yZGpKdHplbnR6akx3ckFuaVF4RERReUlEY0RrbHdYRnRfUWR3U29QNTUwU3VRQUF4andLUUhMQ0gybjhPT1JTY19wMjZmbkp6VEcxUDZSS1A3VjVxeHBMNmfSAb8BQVVfeXFMT2FkbDBqeG5SMlk0a0NHdTNoRDNFel8zOHp2UlFQaDJhaXdFc0NYZmhhM01yLWIzQkppYkpuaWJLb2k0Z3pUWTdNTUZ4MTFTX1NGU0dsTzB3WlJZMXVtTXltc3hOZXJnRXU2ekJpcGpfY0dYTlRsQWsyR3B2ZlAyazd2OWRtdVJpcUdpRHl4NzZ1aGJjSWt5dGdjcXJ0NURSOVhuTTF1UE5vZG5YRjdJVlpXVWlMZmdIVUNONi1YWDg?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening - LakelandToday.ca",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Aug 01, 2026",
-      "summary": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening lakelandtoday.ca",
-      "source": "lakelandtoday.ca",
+      "summary": "Montana First Nation celebrates Killarney Lake Solar Farm grand opening LakelandToday.ca",
+      "source": "LakelandToday.ca",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFd4Vkx1dUZGSVRqRS1tbnZrV2RscXVpVmFrYy1VeHpyblotUFpNWk1seWs1LTZvZTdQMm1Ub3dDNnpGMnJLck13QmpwZG1aNDFXZjNLOXpkQTExdVM1NjhobEZiUmtTQnk3bW5iMU83SUw5V3FjUXIyZGJGb0VpUW4yNmE5ZVI1SFpSUExLZUVMRGJXb1dia2hyOUdoUXcxMll0MGJaTkVXb0FBRHJ1ejdBVS1Pd1Q5OWRrMTc3dXlLbjVheEk0?oc=5",
       "featured": false
@@ -1044,42 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents - Lakeland Ledger",
-      "city": "Auburndale",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Feb 17, 2023",
-      "summary": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 10, 2004",
-      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "May 19, 2025",
-      "summary": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRtZ2VhbVBIMDAwU1pvdFMwcWpOQW9nVUhsZlBpcUtRSlBMMFRBT1dSMkY3OUVSYzNPSFlFclFaRXQ3UDBfQWY0LVdQdVY0c2c1OHlQeHFOZW8xTVBxVGlzSnpZWWJzaTllcVlwUUsxRGV1Z25DbWdkT0U0a0JnZEFDMEk1eWl3U1JsS3psQUNPZmtLZEdnMUJIVEpIeXh3eGh3d0RhMTRwNnhvV3hoaGtGem1UVW0yUy1ucG5vMUllemtwYi1maE1xOA?oc=5",
       "featured": false
     }
   ]
