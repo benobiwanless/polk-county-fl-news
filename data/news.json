@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 23:36 UTC",
+  "last_updated": "2026-08-13 00:42 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -87,13 +87,13 @@
       "featured": false
     },
     {
-      "title": "2026 Construction Season - davenportiowa.com",
+      "title": "2026 Construction Season - City of Davenport",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "May 15, 2026",
-      "summary": "2026 Construction Season davenportiowa.com",
-      "source": "davenportiowa.com",
+      "summary": "2026 Construction Season City of Davenport",
+      "source": "City of Davenport",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
       "featured": false
@@ -171,18 +171,6 @@
       "featured": false
     },
     {
-      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 09, 2026",
-      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
-      "source": "VCU News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
       "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
       "city": "Davenport",
       "category": "Housing",
@@ -192,6 +180,18 @@
       "source": "OurQuadCities",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 09, 2026",
+      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
+      "source": "VCU News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
       "featured": false
     },
     {
@@ -279,13 +279,13 @@
       "featured": false
     },
     {
-      "title": "City looks at future developments - davenportiowa.com",
+      "title": "City looks at future developments - City of Davenport",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "May 08, 2026",
-      "summary": "City looks at future developments davenportiowa.com",
-      "source": "davenportiowa.com",
+      "summary": "City looks at future developments City of Davenport",
+      "source": "City of Davenport",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1RqMXhPUUhPSVFBejRFZTZIT01HVl9DaGk1a2JBdU1WZnk2RENHWWNvTFJvaWtEU0hpM2JaX1lDUk5xNjNzWllkdnpiLU9HRW9PWXNNaFNNcU9iZ25FSVVhRFFmNXA5LTJEQXdYV2pIMW13NXlqd1NIcGV1OE5MUy1Ub0JVYUkyT2xiOXNkOU4yMjNUWGp5aFZnTF9SNlNUVy00QjdR?oc=5",
       "featured": false
@@ -327,13 +327,13 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - tbbwmag.com",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
       "city": "Polk City",
       "category": "Development",
       "status": "Update",
       "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp tbbwmag.com",
-      "source": "tbbwmag.com",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
+      "source": "Tampa Bay Business and Wealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
@@ -687,13 +687,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
+      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
+      "source": "news-herald.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
