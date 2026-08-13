@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13 11:27 UTC",
+  "last_updated": "2026-08-13 12:07 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -159,18 +159,6 @@
       "featured": false
     },
     {
-      "title": "Deputies seek suspects in Davenport retail theft and battery - Tampa Bay 28",
-      "city": "Davenport",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Jul 20, 2026",
-      "summary": "Deputies seek suspects in Davenport retail theft and battery Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUW1NLUlZRUVZRmo4SW80dVlwSWdTLTJCY2E5Y0U4dUlFSWFGU2txN3dmTFpGQkItbGVwdkZ0bkZkaGY1U1hBZW5rQ1Z1OE1kbmZZZ1Y2TjEySE9WckZWb3hlVlBsMmQtc3A5dlREWGgzNWphQXhreHk4Q09WUHVWX2pUdml3TjNyR1k3bTlhck1odTMzUDhESjNuWHlCa0dQWnBTSkRjaw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
       "city": "Davenport",
       "category": "Hotel",
@@ -180,6 +168,18 @@
       "source": "LODGING Magazine",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Deputies seek suspects in Davenport retail theft and battery - Tampa Bay 28",
+      "city": "Davenport",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Jul 20, 2026",
+      "summary": "Deputies seek suspects in Davenport retail theft and battery Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUW1NLUlZRUVZRmo4SW80dVlwSWdTLTJCY2E5Y0U4dUlFSWFGU2txN3dmTFpGQkItbGVwdkZ0bkZkaGY1U1hBZW5rQ1Z1OE1kbmZZZ1Y2TjEySE9WckZWb3hlVlBsMmQtc3A5dlREWGgzNWphQXhreHk4Q09WUHVWX2pUdml3TjNyR1k3bTlhck1odTMzUDhESjNuWHlCa0dQWnBTSkRjaw?oc=5",
       "featured": false
     },
     {
@@ -543,6 +543,18 @@
       "featured": false
     },
     {
+      "title": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 20, 2022",
+      "summary": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWs0eGhoOHF2YlpFWTFaSW5JaVNfWFM3OU5CNzlNNV9qTDBFVnJ5Q25SUHRoWS0zLTRwMkViSmI2YWJsYWtNWEl0M2w2SklxeDNQS0tHc3R2NnloSi1jcjdJaGdZTmhsNFlKM2VsQXhoODJHWk9YWkxFQ0JhZzRSSGwtenUzUnY2Y01lVWREeWIzdmNzdXg3YmdTTGR3Rm1pcEJ3OGN6QTZsNTlCalkzVHZURVFMejlPVHZpTkVpc0Nnb0ZPRWhv?oc=5",
+      "featured": false
+    },
+    {
       "title": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -555,15 +567,15 @@
       "featured": false
     },
     {
-      "title": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen - Lakeland Ledger",
-      "city": "Lakeland",
+      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
+      "city": "Lake Wales",
       "category": "Housing",
       "status": "Update",
-      "date": "Jul 20, 2022",
-      "summary": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen Lakeland Ledger",
-      "source": "Lakeland Ledger",
+      "date": "Jan 04, 2023",
+      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
+      "source": "Livabl",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWs0eGhoOHF2YlpFWTFaSW5JaVNfWFM3OU5CNzlNNV9qTDBFVnJ5Q25SUHRoWS0zLTRwMkViSmI2YWJsYWtNWEl0M2w2SklxeDNQS0tHc3R2NnloSi1jcjdJaGdZTmhsNFlKM2VsQXhoODJHWk9YWkxFQ0JhZzRSSGwtenUzUnY2Y01lVWREeWIzdmNzdXg3YmdTTGR3Rm1pcEJ3OGN6QTZsNTlCalkzVHZURVFMejlPVHZpTkVpc0Nnb0ZPRWhv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
       "featured": false
     },
     {
@@ -588,18 +600,6 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KX1BOdno3MnhwNENJVlBfRlBRWUpKYnBrQ3loVUFWb3J0X0JxSE9pVnRUSEdEcllkTmMzZDJaeFU4bkE2dGxVc21LbURCOFcwWFhJUHM1NWJvTUpFWVBadFlza0RaVlpOTmpvR215Wmk4ZHFiMzBr?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Downtown Winter Haven Restaurant Relocating After 26 Years - Business Debut",
-      "city": "Winter Haven",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Feb 23, 2026",
-      "summary": "Downtown Winter Haven Restaurant Relocating After 26 Years Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjUxbVN6V3EybU11U1ZLX181LWR3Ykh1QUpaVE4wdnpvY3UzUU45UzE2WjZTaUNfdW5nWnM1aFowVmVPWFF2aWMyajFoVXhIYTZWZzhQQWFpMjlRbmRNaWplNDdtMUFaQXRMWmVfVXJpR29vSUx6X3hOVll4Sk1Rc3ZvdG5hRnFSZlVkcUNHcDVRYkk?oc=5",
       "featured": false
     },
     {
@@ -663,13 +663,13 @@
       "featured": false
     },
     {
-      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
+      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - quadcities.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 18, 2026",
-      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event QuadCities.com",
-      "source": "QuadCities.com",
+      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event quadcities.com",
+      "source": "quadcities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUc0QS1EVnBHSGpGRGJPVXpaYlRUX1Y3YjctX1d3WVBYSzduM2ZhWlZqRlJkWkJqU1JFMFRXQVJwS0xETUl4ZlRwdnF5QWFYTGE0ZG9rQm03dDU1VUVoV2F2eTV2Wm9RU0ttLXk4aWhZdWtsd0Y1UFlMYUJsN003QUlMcGNMbmZHbTFyb0J1YWZwa0dGdnpFTGRXRjVVdlp2V0FKeHM2SkFfN1Vqalc2SEh2VlNLcDNISzVhag?oc=5",
       "featured": false
@@ -687,13 +687,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
+      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
+      "source": "news-herald.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
