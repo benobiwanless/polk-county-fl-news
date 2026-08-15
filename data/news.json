@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 10:12 UTC",
+  "last_updated": "2026-08-15 10:37 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -51,18 +51,6 @@
       "featured": false
     },
     {
-      "title": "Polk County approves 747-home Highlands Club development - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 07, 2026",
-      "summary": "Polk County approves 747-home Highlands Club development Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
-      "featured": false
-    },
-    {
       "title": "What's you're favorite romantic restaurant in Polk County? Here are 7 favorites - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Restaurant",
@@ -72,6 +60,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM21YZ2VFeEhLSVh3OVF0ZXdMRXhOYVJaQ3ZJNERDWTk1MGxCbFhrcEM4b0U0eExIZk5LYjN1OG9DTW9UX1BCU1h5cFFxWERLWUs2ZERMOVVtajBLbUI5VVllNVZnbTA1TmJqNm1DYmJ3S1NCM3kyVzZyeEUwNm9seldmc3ROd2VfZ0dnRXpwRVoxSEY0UkxCanJNYUZDU0ZQV1c0ZUs3NUJCTTMwRzBOX011WC1zTWdyYUZ3cHIwdFZ5ZjJ6Vi1Gbl80VUd4dWZQa3lDTUNfMjBZNXI0cW9ORkNYRjh2V19CTGp3?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County approves 747-home Highlands Club development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 07, 2026",
+      "summary": "Polk County approves 747-home Highlands Club development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
       "featured": false
     },
     {
@@ -111,13 +111,13 @@
       "featured": false
     },
     {
-      "title": "New housing development aims to help homeless people in Davenport - KWQC",
+      "title": "New housing development aims to help homeless people in Davenport - kwqc.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Jul 15, 2026",
-      "summary": "New housing development aims to help homeless people in Davenport KWQC",
-      "source": "KWQC",
+      "summary": "New housing development aims to help homeless people in Davenport kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
       "featured": false
@@ -132,6 +132,42 @@
       "source": "Dispatch Argus",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckxacnR1TGg3VmVicndraWhUZTFwaDhNRzJMYmlkRS01TGFLQ2ZyZjB2NXU3VUVaTTE2UzM0cDZPaVROV2ZwV1NDaWYyeXYwV0RuVzVWUDh3SGFCYVYtTnc2ZnVmRmZYRXVCSFh1ZEViaEV6NWJ3UE1BWlFQLXI2OHpZdjBLRGZCS2ZZR1RRckVDU1ktbDJPY3FkLVFTbXN5dXYxY1NNWmk0UQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 24, 2026",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 - Iowa Department of Transportation (.gov)",
+      "city": "Davenport",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Feb 24, 2026",
+      "summary": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 Iowa Department of Transportation (.gov)",
+      "source": "Iowa Department of Transportation (.gov)",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTBWVmdpamN5bUY3aWI0X3I3MnEyUi1taDgxV3dsMDJlZXJDcEduQUhvUXpzaFNlOWU0aGxqanlhZ25JTmdWLTdVWDRaaVJhb0lLdVBHbFZJUjFjU1Q4d3hsNE5nUndaUUU0dFVoVjVzUXA2a05pdklyUUxKajZXRUFpOXk4YzZPdXJDZ3ZMX3pqV0xfelJCTzFGcFdjZDllUnFIOEo3M3FXVHBFdlFOb2J2cmdxMUc2SUtfLVFlSHVUMm1fOVhVZg?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "May 20, 2026",
+      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
+      "source": "LODGING Magazine",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
       "featured": false
     },
     {
@@ -159,15 +195,75 @@
       "featured": false
     },
     {
-      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - Spectrum Bay News 9",
-      "city": "Lake Wales",
-      "category": "Hotel",
+      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 09, 2026",
+      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
+      "source": "VCU News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - kwqc.com",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support kwqc.com",
+      "source": "kwqc.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport restaurant to close its doors - kwqc.com",
+      "city": "Davenport",
+      "category": "Restaurant",
       "status": "Update",
       "date": "Jun 12, 2026",
-      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "summary": "Davenport restaurant to close its doors kwqc.com",
+      "source": "kwqc.com",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFiaE5nVzY3RnMxUUpEZjluODhULTNQTUhQWWZJV2V4VV9ZRmVfVGNkLUExMG5QYVpOZ01yX3dONmVzSWdoMV9yMmJWNVZoT0ozeEFnV3BoY0pwRFZBX1l2R3RGZEMyRGo4R0dyNTdLQjAxYy1KeENhSjdTNE1hQzh3QlpEYXp4VW1CTkxJOGJqeENCZnhBdVFCM0ZSWTNBcXhqZFZqRDM5WUp3NXRQbw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Construction begins for Davenport quiet zone, expected to complete in August - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Under Construction",
+      "date": "May 18, 2026",
+      "summary": "Construction begins for Davenport quiet zone, expected to complete in August OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblNXdXg2SWZ2dXdTMkgtbFQ1al9nc1oxM01XcXpvN0ZyVzJ3QnFkMmFfZWNBaTNCSzJITzFJSlZmeU16MXZyNXhrMjhFNkVJVnU2TGlKSkdRbzBzZ184LVFENjBQUFoyNEFCUHJ1R3Z3ZGtBbVIzQkFDNzNQVFlmWEFzUzJoUVZHNktWRHpFNjNmS2pIN3ZScTlZemRwV2Rac1hlMjB5bjNLQ2RHRVVyb2tmWWw3VU1JYlFYUDhERdIBxAFBVV95cUxOTTVWRkdsamlEVFYyNkdoRUJ3N0o5UUxnZ2tDRXhOcURwb25jb1o0SmdjbzhlbUFZMV9lNUhhQ2swQURrZVNGcEdDTjVMR1FidDhVQmo1MFBRZ3ZvbUdvbHRDODRFZWJucHhXR25xVmxRRTZxc2dHQjhuNDE2b1hmZkJJR1kwMTRTM005bVNKamlsbk1zMWktaGZZeEFwVUNxcWJiMkNZOGpRUklOeXQyREtiaml3UC1VQzRXWGNpSmFPb25W?oc=5",
+      "featured": false
+    },
+    {
+      "title": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors - inlander.com",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 25, 2026",
+      "summary": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors inlander.com",
+      "source": "inlander.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYkM0S1NtSURlV1NXM1FuRzdnWWxOcmZiS2l3eFhvZzVHRnBXOVRwOFRqVDhobnc2Y05fb0pqS2NWU0VWNm8ydTBIVzJxdERmM1pFUklkQWo3Q2hCc0lEYTFvc0daWkdRblZrR2hQS2thd240c19ybHpEbEVvd1MtZ21PR2FLbmVGaDRxZU93Z2NaYzdLMlJGS2NxRXB1dU9JYm5qUjZKVzJ1WjB4eXJXZmlKWjl4TFlWWkR3WmN6WDNWT3Jtd1p3ckc2Ul94VGxmRm14S19KS3NhdUd3MHZ1c2xINlJLS3VRNWMxSHNiWENPamc5VFZzVEpn?oc=5",
       "featured": false
     },
     {
@@ -180,114 +276,6 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2dvRmh3WFNEWXpSYjc1blFLaF9kb3N0aXpuZEtMM1NxYmp2SzEzaHVSTXZjelpROEd5UE5jbEctS2Z4THlCX3J3Q3ppSGQ5anl6NF9lXzIybTZhTFlYOFZad3FsR0xNeDFZRDhFNWJ3XzY0QmIzNS03R1pPNEhuWHFXQnNoTE0ycVY1aXVadDBxM0tqRU5yc09qaFFUdl9GVnNLazAxLXRqU0psSWpnR3Y4NVDSAboBQVVfeXFMTWhqbnBnWVpyRW5VNlNLWGxLaUhBQW9yVFM0NEh4Q3lMVnMzcFdNcmlpSmpNcFFIOWYxaENXbTBzLVFtSi1JUlFOSjZCSWNuVGpjcEpxbGNPUGVndjdYSlg2OU1YS1g5SHhjVUVPVjgzMUZJenZETjE2SGJOYThvcElyLVhlZ2Vobk9LcWZQeVJxVmpxODV6WmdMdmZiTk5QMFlJZjJSSlR1NndkekxocW5IWG5mV29KZVNR?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "May 20, 2026",
-      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
-      "source": "LODGING Magazine",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 - Iowa Department of Transportation (.gov)",
-      "city": "Davenport",
-      "category": "Infrastructure",
-      "status": "Update",
-      "date": "Feb 24, 2026",
-      "summary": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 Iowa Department of Transportation (.gov)",
-      "source": "Iowa Department of Transportation (.gov)",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTBWVmdpamN5bUY3aWI0X3I3MnEyUi1taDgxV3dsMDJlZXJDcEduQUhvUXpzaFNlOWU0aGxqanlhZ25JTmdWLTdVWDRaaVJhb0lLdVBHbFZJUjFjU1Q4d3hsNE5nUndaUUU0dFVoVjVzUXA2a05pdklyUUxKajZXRUFpOXk4YzZPdXJDZ3ZMX3pqV0xfelJCTzFGcFdjZDllUnFIOEo3M3FXVHBFdlFOb2J2cmdxMUc2SUtfLVFlSHVUMm1fOVhVZg?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lake Wales to transform decades-old public housing complex into af­fordable housing - Spectrum Bay News 9",
-      "city": "Lake Wales",
-      "category": "Housing",
-      "status": "Update",
-      "date": "May 04, 2026",
-      "summary": "Lake Wales to transform decades-old public housing complex into af­fordable housing Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXRJTjJXdGNHMFVyTFpibFU4VDhLcE9tS1o4ekhiVEJqNHlPNUhvSng4UDVJNFp5TWZWRjV1cmJRNWVkUWJxdVBHWll5NjF3Y3VMQlRjeUNqdzNBRW1pY19DWVJZTWVUNk84MkM5SW1oeVhOd0FUT2xZcXdnOEw5UmlLWnZURG9KeGUzUFZXako?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane - Hospitality Net",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "May 20, 2026",
-      "summary": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane Hospitality Net",
-      "source": "Hospitality Net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQk1MQXVub3hiaXd4TEVJTXhaZjZZUlEtNVRUaU9wbHBwRU9aNlVYRy1ldy1XLTFpdGRLaWprT3ZUZzRqSFktYXNSYTNZOEI0Z0pNbmNxSzExd3hfa2tkbndZU1MwVi1sS0ZFU2lJNGF3Q3F2TDhUeFhMaGxWNXhmWmdHR1pjN3V4dUo4Qm9MdVVnX1VlLWJVVmRjcVV5eVgzQktScEoxLTBzYklMMU5HYThqSVpQMUp6S2hPYTM0VkFfdE9faVdLd1ZnLWFXWU13bFhTTUxmcks3NGpySVdVZFFLbWJHVWlJbU91UzU4N2FaUzlMcjZndlRxTWdJejhPYWo5S21zUGdkaU5aR0djcFlpR18?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
-      "source": "The Spokesman-Review",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Construction begins to replace Lake Wales' Grove Manor with affordable housing - Tampa Bay 28",
-      "city": "Lake Wales",
-      "category": "Housing",
-      "status": "Under Construction",
-      "date": "Jun 08, 2026",
-      "summary": "Construction begins to replace Lake Wales' Grove Manor with affordable housing Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaVRwVmJBWndnNEhfcmwzanVCYzBFVHctYkgxdjNGcUNodUxTR3FwZG9weV94dzItcHMwYVZ6WVA4YzhPQ1lUVXRicmJYMVk5dHBqRWJiZG5HOWUwcmljTk1aWXMwVFEyNG5FOFBFXzlSeFQ1MFR3SHJKRHotZVFubXNydGdSQnBMeS1fUllzU2tJa3IyaVRjNVpsa2NFQWhQRnhQbm9UQWdITXFlMEJsSmZhU1ZvTDVwVWJkWlVHSTFxbzItbXZCOHdVcEhMUHJKNklHMDVBdjE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport’s strategy plan prioritizes housing, roads, public-safety transparency - KWQC",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "May 15, 2026",
-      "summary": "Davenport’s strategy plan prioritizes housing, roads, public-safety transparency KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTExUY3dqeVRlV0I2aUg3RkVEbkUwUUNBYkNRcVFiZlJvbGJVczY0dEd6VWEyNlZZQ3JieUZTWG54TjQ3MVlKektKdGVzVy1VVmg1bTN1RWxMQUxreFUzdzQ3NWZYVE56bGlmMy1VbU1hcEhCNE90TkNpOGpyTndBVWxreVFqb2djOUE1SXV0Z2NKbVpMbnl2UnczeW1ETFpOdkljWFMwU0Z4d1JPWFUw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport's Eastern Avenue Bridge will be closed for construction starting Wednesday, May 6 - WQAD",
-      "city": "Davenport",
-      "category": "Infrastructure",
-      "status": "Update",
-      "date": "May 06, 2026",
-      "summary": "Davenport's Eastern Avenue Bridge will be closed for construction starting Wednesday, May 6 WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVE1TN041SW9ubzE1VXZmbjBNX29BSjRSTUhGQ1pGd1g2U2t4QU4wVXpfeU9PNjhuTnZJNVRwUlc1a3BPZ1RINVBPY2g5VkZpVGJkakVGZk5jRDh0c1BzbjN2elVLX1REX0JLWk1PcUV3MV9CR3QtZlFZS0IxYkMwN0tmTWdLaUtkNXZhcnpfSHdIYXNacHRVMVdmV0R6MV82RGhJNWw1QjJqOXdKMDVBcmNuLUtUS2t4enRYRnBIcFlCY0JjNG5R?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New affordable housing complex breaks ground in Lake Wales - WFLA",
-      "city": "Lake Wales",
-      "category": "Housing",
-      "status": "Under Construction",
-      "date": "May 13, 2026",
-      "summary": "New affordable housing complex breaks ground in Lake Wales WFLA",
-      "source": "WFLA",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc20ydjMtdDAzeF9SQzlJM0k5RXlSYUd3YXlZa2QyUUx4VHV5Sk9ZNW5yeG5kdkI3UEFzSmY2MUVqTGt5ZDI5NHNCYlNTZTZYdTcyR2FhZFh2WjVQOXE5NkduN0dTVVI5S3BIWVBHMjI0dVNHQ0NKeFQ1V1MzSFoxcTlWQ1hMV2Z2QXZtNFAxQ3JhVHFIaWc5MllnTkFVd9IBowFBVV95cUxQX1BLTXctbDRkc2EwZlRPLU93Vm5tMDFmN3FFSG1JeWJfNDc3VWFCdnJuTU55bnJBMUhSNl8wWF9HalQtaWE5RGN4a1NULW9Tc3BSN0ZNVldxRFlMTDVvckQ2X2pCUGZuZTVjZ2JBQTlKX19rVkxzWmx5WWYyT1l6OFNrQzdCQ1BOZThMWVl6VEg4aVBSekVyZnBFYUVnaEUzLUdJ?oc=5",
       "featured": false
     },
     {
@@ -315,13 +303,13 @@
       "featured": false
     },
     {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - drydenwire.com",
       "city": "Polk County",
       "category": "Development",
       "status": "Update",
       "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
-      "source": "DrydenWire.com",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes drydenwire.com",
+      "source": "drydenwire.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
@@ -627,13 +615,13 @@
       "featured": false
     },
     {
-      "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - KWQC",
+      "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - kwqc.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 15, 2026",
-      "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
-      "source": "KWQC",
+      "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFRsZ0wtenl6QldPOHVMR053TnB5YTBmMEUzN0U1TUhTUXdrYUhlNThnZHQydFEzSGhUeHlyVFk4OW1aX0RDVklkSjlMSmR3TUc2TlpCS1JPZ191ZENTLTNTOE5YbE1SeGZFcENOblc2bmhHUG5JTURFaGNWSTB5NjktR2tKckZqSUVXODRYSTFhQ0I1aE80SGR4R2xFZ1l2WnhmYkMxVdIBuwFBVV95cUxPZ1g3MTVZdlZjTEhKcThqcDNJUjYyU0RBelluRmlVd2J4TXVIdTc2OWNhOWlkU3ROOWVLak55NFhoZ1F5TXc5ZE9QRlZqRFZ1Y0J0Y2x1UU1MMDNxRENuYWNLdS1zejM1VHB6dF84M0Q4TDcxVkdDYkhKb00wWWRyT0c4WnNaUGVVUTFfNGVROEFhLWtVV3Ewb1JaQ0pzUUJBTktDTU82U1BpcTZwcExvejBIb0lOSlhoNkNN?oc=5",
       "featured": false
@@ -663,13 +651,13 @@
       "featured": false
     },
     {
-      "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - DailyRidge.com",
+      "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - dailyridge.com",
       "city": "Winter Haven",
       "category": "Infrastructure",
       "status": "Grand Opening",
       "date": "Jun 18, 2026",
-      "summary": "Texas Roadhouse in Winter Haven Announces Grand Opening DailyRidge.com",
-      "source": "DailyRidge.com",
+      "summary": "Texas Roadhouse in Winter Haven Announces Grand Opening dailyridge.com",
+      "source": "dailyridge.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW0wUFB3RjUyU2xXVUNDbVJ4TkhGQ3JRZ3F6R0ZEVVZYUUVVSUwtYk9CdXBMUWQxbmIxSnV4blpDZ2cxNEgyTTZSWFMxTFN3RHJsT2FlN0h4dUR0YlBiYlpLdXdwR2x3Tld3MWZ4c0owU1N1eUppREV0bEg0eTlobTB6UTluRjZLckxFTURjMmNiMHla?oc=5",
       "featured": false
@@ -987,6 +975,18 @@
       "featured": false
     },
     {
+      "title": "University Study: Central Florida Continues to Attract Vacation Home Development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 31, 2006",
+      "summary": "University Study: Central Florida Continues to Attract Vacation Home Development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2MyaGNHNkhZa1lTMm9hQlBDVC12T1hxSDEzMGEtUXFYNXpKZzdHNmp4TEVjMkl3YjlmY0NtQ21DZ3VBUlZEaE0wUm1hdUMxMmZueDZkNHUyTnUxOXhkQmlHTVp5cmx1bjVzNk82ckFuanVZUmtFUXFKNF9laWRNUHJWZS1oNldsOTVqcnkzV2NoS2l3WlpwZm9WVlNnM3Z3dVdjbWRpZmx6T3BmaUQ3akR3Q0cxSndfZkszLXFjX2tQMzBDa2ZMMnltdUpzckFIOE16NFJWMA?oc=5",
+      "featured": false
+    },
+    {
       "title": "Winter Haven residents fume over zoning change on Thompson Nursery Road - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -1059,18 +1059,6 @@
       "featured": false
     },
     {
-      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 10, 2004",
-      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - LkldNow",
       "city": "Lakeland",
       "category": "Housing",
@@ -1080,6 +1068,18 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jun 24, 2023",
+      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
