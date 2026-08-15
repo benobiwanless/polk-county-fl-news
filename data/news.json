@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 19:37 UTC",
+  "last_updated": "2026-08-15 19:53 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -111,13 +111,13 @@
       "featured": false
     },
     {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - spokesman.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
-      "source": "The Spokesman-Review",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand spokesman.com",
+      "source": "spokesman.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
       "featured": false
@@ -183,18 +183,6 @@
       "featured": false
     },
     {
-      "title": "Deputies seek suspects in Davenport retail theft and battery - Tampa Bay 28",
-      "city": "Davenport",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Jul 20, 2026",
-      "summary": "Deputies seek suspects in Davenport retail theft and battery Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUW1NLUlZRUVZRmo4SW80dVlwSWdTLTJCY2E5Y0U4dUlFSWFGU2txN3dmTFpGQkItbGVwdkZ0bkZkaGY1U1hBZW5rQ1Z1OE1kbmZZZ1Y2TjEySE9WckZWb3hlVlBsMmQtc3A5dlREWGgzNWphQXhreHk4Q09WUHVWX2pUdml3TjNyR1k3bTlhck1odTMzUDhESjNuWHlCa0dQWnBTSkRjaw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Davenport restaurant to close its doors - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -255,27 +243,15 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
-      "city": "Polk City",
+      "title": "City looks at future developments - City of Davenport",
+      "city": "Davenport",
       "category": "Development",
       "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
-      "source": "Tampa Bay Business and Wealth",
+      "date": "May 08, 2026",
+      "summary": "City looks at future developments City of Davenport",
+      "source": "City of Davenport",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County planning board denies 3rd bid for Deeson Road development - - Lakeland Gazette",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Approved",
-      "date": "Jun 06, 2026",
-      "summary": "Polk County planning board denies 3rd bid for Deeson Road development - Lakeland Gazette",
-      "source": "Lakeland Gazette",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2FoNnExTjZPNF8zSldlYnNFdkdnaXktRUx5VUpHNWdKTjgtMFZrSlhNYjMwNU9ibFA3Vk1pNDE0MVp5QzBoWHUxVXFScDlDLUNCOW1ubzJEZkJsRXlJZ2hvOGE3RHdUU0o5ZExmOG1kd3lZVkwzc1A5aFVsdVVxWS14ay1FNzRRN1k3bFVUN0tGWGhvR0tNMW5rUWlhX2RMWS1rMmhEMlNxZ0dXYlZ6RlpCa1RZdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1RqMXhPUUhPSVFBejRFZTZIT01HVl9DaGk1a2JBdU1WZnk2RENHWWNvTFJvaWtEU0hpM2JaX1lDUk5xNjNzWllkdnpiLU9HRW9PWXNNaFNNcU9iZ25FSVVhRFFmNXA5LTJEQXdYV2pIMW13NXlqd1NIcGV1OE5MUy1Ub0JVYUkyT2xiOXNkOU4yMjNUWGp5aFZnTF9SNlNUVy00QjdR?oc=5",
       "featured": false
     },
     {
@@ -315,15 +291,27 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
-      "source": "wtsp.com",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
+      "city": "Polk City",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
+      "source": "Tampa Bay Business and Wealth",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County planning board denies 3rd bid for Deeson Road development - - Lakeland Gazette",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Approved",
+      "date": "Jun 06, 2026",
+      "summary": "Polk County planning board denies 3rd bid for Deeson Road development - Lakeland Gazette",
+      "source": "Lakeland Gazette",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2FoNnExTjZPNF8zSldlYnNFdkdnaXktRUx5VUpHNWdKTjgtMFZrSlhNYjMwNU9ibFA3Vk1pNDE0MVp5QzBoWHUxVXFScDlDLUNCOW1ubzJEZkJsRXlJZ2hvOGE3RHdUU0o5ZExmOG1kd3lZVkwzc1A5aFVsdVVxWS14ay1FNzRRN1k3bFVUN0tGWGhvR0tNMW5rUWlhX2RMWS1rMmhEMlNxZ0dXYlZ6RlpCa1RZdw?oc=5",
       "featured": false
     },
     {
@@ -339,15 +327,15 @@
       "featured": false
     },
     {
-      "title": "Polk County high school rezoning plan: See all the current and proposed zones - theledger.com",
+      "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Aug 20, 2025",
-      "summary": "Polk County high school rezoning plan: See all the current and proposed zones theledger.com",
-      "source": "theledger.com",
+      "date": "Aug 28, 2025",
+      "summary": "School rezoning plan for Polk County FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
       "featured": false
     },
     {
@@ -363,15 +351,39 @@
       "featured": false
     },
     {
-      "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
+      "title": "Polk County high school rezoning plan: See all the current and proposed zones - theledger.com",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 20, 2025",
+      "summary": "Polk County high school rezoning plan: See all the current and proposed zones theledger.com",
+      "source": "theledger.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 12, 2025",
+      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
+      "source": "wtsp.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Some Polk County parents express worry as high school rezoning plans take shape - Tampa Bay 28",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 28, 2025",
-      "summary": "School rezoning plan for Polk County FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
+      "summary": "Some Polk County parents express worry as high school rezoning plans take shape Tampa Bay 28",
+      "source": "Tampa Bay 28",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkxyODNuSm5Ja3pXQW9kOVFOU1NHZnBjUVpQeGZsNzItTTM1bnBWTFVVWXphZUNUUWtzbUFqVjBqeUZIUFMyclg1azVvczJUTS1UaVN6S3FpMU1vTVhGMVJoZXdQNVJBeFBGY2dhdDcwN1JyZ1NKVUc0c2J6QjdkaG9WVGU3Z0I0dGlYemN5aU53MjVfSF9oa3NqT0lIYUFOOVBtbXRac0pVc1NpQlJvbnZwQzhBMTdqendrTzhIZU4?oc=5",
       "featured": false
     },
     {
@@ -384,30 +396,6 @@
       "source": "WFLA",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtaV21Pck1WRWd6V3V4UWpBUzYxa3hxbC1YWll6ajNOQ1RMRS01TUQyR0JZRzJxMTNTUDdGNXZ6THMtdkNYaDRzZEVTdHlUVm4teWtlRXJjVlRmVXltRGo3SmdxWXo4TjdtSWpXYTM5a2FYdlQtb2V0Y0NnWUl2OUx0dVQ2Y1BPeHJrM2w0eE8tWVI0VVZHY0piMktpMXZrdUxSUS0wR294Zk5ubU9v0gG0AUFVX3lxTE9SUEFrejZBT3V3RDlpZzl4OXZXbEdVUEs1S3hWMFQ4Y0s4ZjEwMjVCa2QyOGU4aS1BMnh4T2VHQ3FkUHdCR0VoU252UkcyMVdLcFB3OERneFNlRjZfY3diWklid3FfTXJNeFdUMVpobTBmd0hMWnhOamtmdTFsZW03NXdpLUZtYzZlTzZwNU5SRDVrUlhoa1UtSnRVc1dxY1dlXzd5MlNfamU2YkV4WDlfSEZ4Mw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 04, 2025",
-      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 05, 2025",
-      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
-      "source": "WFLA",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
       "featured": false
     },
     {
@@ -471,13 +459,13 @@
       "featured": false
     },
     {
-      "title": "Foxtail Coffee Co. at Work on Davenport Opening - whatnow.com",
+      "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Aug 28, 2025",
-      "summary": "Foxtail Coffee Co. at Work on Davenport Opening whatnow.com",
-      "source": "whatnow.com",
+      "summary": "Foxtail Coffee Co. at Work on Davenport Opening WhatNow",
+      "source": "WhatNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
       "featured": false
@@ -555,13 +543,13 @@
       "featured": false
     },
     {
-      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - qctimes.com",
+      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 20, 2026",
-      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting qctimes.com",
-      "source": "qctimes.com",
+      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting The Quad-City Times",
+      "source": "The Quad-City Times",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenZIX0tBUDhFVmczYmM1NkgyVl9GTVVNUEFOU05FTjVEcEh1YVV5YWZSaHNudkZZaFFaTk9qNDA3NW5BMmgwU21CaTExZi1nRDJ6WUItUUo3aHVndml5SlgzR0ZrNGFTZllreklqOWtIQlU3YTQ4TGtNeU5jTGlPVEZhSXk4T1NFV3JPNWdMdkRiR2poZml0Z3Z2RGJTNGttb2plWmJHNkY?oc=5",
       "featured": false
@@ -675,13 +663,13 @@
       "featured": false
     },
     {
-      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - douglasnow.com",
+      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 09, 2026",
-      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open douglasnow.com",
-      "source": "douglasnow.com",
+      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
+      "source": "Douglas Now",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
       "featured": false
@@ -1080,6 +1068,18 @@
       "source": "DailyRidge.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWGJ4cU9HRUVJS2ZRaGRzWWRPeFRjWjY1VEF0NnNWSFFrcEtuZGNuUWdMSHJDU0JpV3hEc0dTc1NGSFhWNktYLVVNaWk4U2xhbndzYmhzSC10eDNEc0w5azBHbjJhY0pIRS12RDFfaEh0dzQ3TVVUelpobU5hcmZDMmNORjE3S2o2SUNtWE16RnFTUlVfTnYxU0lHZW41UlR0TDIteFlyX01XNmgwUnZkMmhhNzduOGZlVW4zNzhqR1hUUERzZkVRT3pDdkxsakFycnhsTkx4R2xmZHBKOWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County embraces red-hot industrial market - Business Observer",
+      "city": "Polk County",
+      "category": "Commercial",
+      "status": "Update",
+      "date": "Jan 11, 2022",
+      "summary": "Polk County embraces red-hot industrial market Business Observer",
+      "source": "Business Observer",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamVGcm9LaVhfcDM3dnViQTk0NXNjN0wzR2dScU5JNmZmMG1NVjExUEY2WWd2S3hibkMxZ3pvam1UeEFtUktnaUdaQkY1SDhtWmswM1lLb2FrT08yeldzWkhaeURlclRaaDFqN2hyMXdFR3Jyd3Bqb3lSTjR5N2NXZ1YyeG5RelhhWm9henNsSFF0QThOSFZKRWdYcnUwbUQ3?oc=5",
       "featured": false
     }
   ]
