@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16 17:32 UTC",
+  "last_updated": "2026-08-16 17:54 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -123,13 +123,13 @@
       "featured": false
     },
     {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - spokesman.com",
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand spokesman.com",
-      "source": "spokesman.com",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
+      "source": "The Spokesman-Review",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
       "featured": false
@@ -171,18 +171,6 @@
       "featured": false
     },
     {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
-      "featured": false
-    },
-    {
       "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
       "city": "Davenport",
       "category": "Development",
@@ -192,6 +180,18 @@
       "source": "VCU News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 09, 2026",
+      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
       "featured": false
     },
     {
@@ -447,13 +447,13 @@
       "featured": false
     },
     {
-      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
+      "title": "Madison Place by Starlight Homes in Polk County FL - livabl.com",
       "city": "Polk County",
       "category": "Housing",
       "status": "Update",
       "date": "May 12, 2023",
-      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
-      "source": "Livabl",
+      "summary": "Madison Place by Starlight Homes in Polk County FL livabl.com",
+      "source": "livabl.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
       "featured": false
@@ -483,13 +483,13 @@
       "featured": false
     },
     {
-      "title": "Greenfield Village by Landsea Homes in Davenport FL - Livabl",
+      "title": "Greenfield Village by Landsea Homes in Davenport FL - livabl.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Sep 24, 2024",
-      "summary": "Greenfield Village by Landsea Homes in Davenport FL Livabl",
-      "source": "Livabl",
+      "summary": "Greenfield Village by Landsea Homes in Davenport FL livabl.com",
+      "source": "livabl.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUVJ1SUg3a2ZTSVpQSTU2eDQyY2FaTkdkZVJ0YkZNSmNDQzNJbkxRY2tVMllNd21VMzRUSHdvTXAzSHpOWjlzQzZiWGR5YUNhQ25TcV9FLXJwMERtVzJmc0Z3Sjk?oc=5",
       "featured": false
@@ -543,15 +543,15 @@
       "featured": false
     },
     {
-      "title": "After a 16-month rebuild, the Lake Miriam Publix will open Nov. 13 with new features - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
+      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - livabl.com",
+      "city": "Lake Wales",
+      "category": "Housing",
       "status": "Update",
-      "date": "Nov 11, 2025",
-      "summary": "After a 16-month rebuild, the Lake Miriam Publix will open Nov. 13 with new features Lakeland Ledger",
-      "source": "Lakeland Ledger",
+      "date": "Jan 04, 2023",
+      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL livabl.com",
+      "source": "livabl.com",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ2JxNklxNlVQYVF6enJjOXVXdE4zblJGdVZzaEdwckVLTGwwM3gwSXNxdzdZLVpIRWpDVUNqVHhnaUxvUlRMQXpVUkVKQ25Sak5wX2NTY3JURWJhWVV2UkNpU01HQVJfVWtRbmN3RmpOLUtST0lXMUFJcmxRTzZWV011eGxhX29oVmpjNktjSlFCa1k4OUwxOGpmcHoyc2RPekt5MlpEMGJiME5EYjFNMkxLcThpc2dwUThlZnV3NmQ0b2U0UXN2Z0o0SFEteGJNZlF2LQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
       "featured": false
     },
     {
@@ -591,13 +591,13 @@
       "featured": false
     },
     {
-      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - news.ag.org",
+      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God",
       "city": "Winter Haven",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 01, 2026",
-      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus news.ag.org",
-      "source": "news.ag.org",
+      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God",
+      "source": "Assemblies of God",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
       "featured": false
