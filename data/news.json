@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16 22:34 UTC",
+  "last_updated": "2026-08-16 22:55 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -411,18 +411,6 @@
       "featured": false
     },
     {
-      "title": "Polk County schedules public forums on school rezoning - Spectrum Bay News 9",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 26, 2025",
-      "summary": "Polk County schedules public forums on school rezoning Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYllSRWExX2QwOUZkdFNMZEFGU0lhckhGMEtSVHh1aWxCRlM1TV9YSGpIWWtpNXhrMHNxX0RHaXlMVEwyeXhuZDd5eHhUb1kwT0dhSGR4MXBxX0JFZ21iQ2xHM0NQZ25zZUJUMXFRSzhDQ0tYaGN3S0pobWxfR2pTbWxxY1VHRUJUanFxSXh0bVJVbVZMNWtHejFjS2wyV3FhcVE?oc=5",
-      "featured": false
-    },
-    {
       "title": "What's new and coming soon to Lakeland - 6AM City",
       "city": "Lakeland",
       "category": "Development",
@@ -483,13 +471,13 @@
       "featured": false
     },
     {
-      "title": "Foxtail Coffee Co. at Work on Davenport Opening - whatnow.com",
+      "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Aug 28, 2025",
-      "summary": "Foxtail Coffee Co. at Work on Davenport Opening whatnow.com",
-      "source": "whatnow.com",
+      "summary": "Foxtail Coffee Co. at Work on Davenport Opening WhatNow",
+      "source": "WhatNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
       "featured": false
@@ -603,13 +591,13 @@
       "featured": false
     },
     {
-      "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - DailyRidge.com",
+      "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - dailyridge.com",
       "city": "Winter Haven",
       "category": "Infrastructure",
       "status": "Grand Opening",
       "date": "Jun 18, 2026",
-      "summary": "Texas Roadhouse in Winter Haven Announces Grand Opening DailyRidge.com",
-      "source": "DailyRidge.com",
+      "summary": "Texas Roadhouse in Winter Haven Announces Grand Opening dailyridge.com",
+      "source": "dailyridge.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW0wUFB3RjUyU2xXVUNDbVJ4TkhGQ3JRZ3F6R0ZEVVZYUUVVSUwtYk9CdXBMUWQxbmIxSnV4blpDZ2cxNEgyTTZSWFMxTFN3RHJsT2FlN0h4dUR0YlBiYlpLdXdwR2x3Tld3MWZ4c0owU1N1eUppREV0bEg0eTlobTB6UTluRjZLckxFTURjMmNiMHla?oc=5",
       "featured": false
@@ -1071,15 +1059,27 @@
       "featured": false
     },
     {
-      "title": "Upcoming 120 Acre Development – Crossroads Village Center Will House Proposed New Target, Restaurants, Hotel, Retail & Housing — Haines City - DailyRidge.com",
+      "title": "Upcoming 120 Acre Development – Crossroads Village Center Will House Proposed New Target, Restaurants, Hotel, Retail & Housing — Haines City - dailyridge.com",
       "city": "Haines City",
       "category": "Housing",
       "status": "Coming Soon",
       "date": "Feb 18, 2025",
-      "summary": "Upcoming 120 Acre Development – Crossroads Village Center Will House Proposed New Target, Restaurants, Hotel, Retail & Housing — Haines City DailyRidge.com",
-      "source": "DailyRidge.com",
+      "summary": "Upcoming 120 Acre Development – Crossroads Village Center Will House Proposed New Target, Restaurants, Hotel, Retail & Housing — Haines City dailyridge.com",
+      "source": "dailyridge.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWGJ4cU9HRUVJS2ZRaGRzWWRPeFRjWjY1VEF0NnNWSFFrcEtuZGNuUWdMSHJDU0JpV3hEc0dTc1NGSFhWNktYLVVNaWk4U2xhbndzYmhzSC10eDNEc0w5azBHbjJhY0pIRS12RDFfaEh0dzQ3TVVUelpobU5hcmZDMmNORjE3S2o2SUNtWE16RnFTUlVfTnYxU0lHZW41UlR0TDIteFlyX01XNmgwUnZkMmhhNzduOGZlVW4zNzhqR1hUUERzZkVRT3pDdkxsakFycnhsTkx4R2xmZHBKOWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County embraces red-hot industrial market - Business Observer",
+      "city": "Polk County",
+      "category": "Commercial",
+      "status": "Update",
+      "date": "Jan 11, 2022",
+      "summary": "Polk County embraces red-hot industrial market Business Observer",
+      "source": "Business Observer",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamVGcm9LaVhfcDM3dnViQTk0NXNjN0wzR2dScU5JNmZmMG1NVjExUEY2WWd2S3hibkMxZ3pvam1UeEFtUktnaUdaQkY1SDhtWmswM1lLb2FrT08yeldzWkhaeURlclRaaDFqN2hyMXdFR3Jyd3Bqb3lSTjR5N2NXZ1YyeG5RelhhWm9henNsSFF0QThOSFZKRWdYcnUwbUQ3?oc=5",
       "featured": false
     }
   ]
