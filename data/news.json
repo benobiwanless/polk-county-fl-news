@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 15:20 UTC",
+  "last_updated": "2026-08-18 15:54 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -51,18 +51,6 @@
       "featured": false
     },
     {
-      "title": "Polk County approves 747-home Highlands Club development - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 07, 2026",
-      "summary": "Polk County approves 747-home Highlands Club development Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
-      "featured": false
-    },
-    {
       "title": "What's you're favorite romantic restaurant in Polk County? Here are 7 favorites - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Restaurant",
@@ -75,13 +63,25 @@
       "featured": false
     },
     {
-      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - adventhealth.com",
+      "title": "Polk County approves 747-home Highlands Club development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 07, 2026",
+      "summary": "Polk County approves 747-home Highlands Club development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
+      "featured": false
+    },
+    {
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
       "city": "Auburndale",
       "category": "Development",
       "status": "Update",
       "date": "Jul 27, 2026",
-      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale adventhealth.com",
-      "source": "adventhealth.com",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
+      "source": "AdventHealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
       "featured": false
@@ -159,18 +159,6 @@
       "featured": false
     },
     {
-      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - news.vcu.edu",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 09, 2026",
-      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State news.vcu.edu",
-      "source": "news.vcu.edu",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
       "title": "New housing development aims to help homeless people in Davenport - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -243,6 +231,18 @@
       "featured": false
     },
     {
+      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 09, 2026",
+      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
+      "source": "VCU News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
+      "featured": false
+    },
+    {
       "title": "Construction begins for Davenport quiet zone, expected to complete in August - OurQuadCities",
       "city": "Davenport",
       "category": "Development",
@@ -255,15 +255,15 @@
       "featured": false
     },
     {
-      "title": "City looks at future developments - City of Davenport",
+      "title": "Construction at Second and Gaines, Davenport, snarls traffic - OurQuadCities",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
-      "date": "May 08, 2026",
-      "summary": "City looks at future developments City of Davenport",
-      "source": "City of Davenport",
+      "date": "May 27, 2026",
+      "summary": "Construction at Second and Gaines, Davenport, snarls traffic OurQuadCities",
+      "source": "OurQuadCities",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1RqMXhPUUhPSVFBejRFZTZIT01HVl9DaGk1a2JBdU1WZnk2RENHWWNvTFJvaWtEU0hpM2JaX1lDUk5xNjNzWllkdnpiLU9HRW9PWXNNaFNNcU9iZ25FSVVhRFFmNXA5LTJEQXdYV2pIMW13NXlqd1NIcGV1OE5MUy1Ub0JVYUkyT2xiOXNkOU4yMjNUWGp5aFZnTF9SNlNUVy00QjdR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1JQejM0dElDWjFnZXFDbWV6VUp4c3oyYWNrRnNaVkI0aG5LVFduSzlNUFF5ZGpual9HSVdOeXRibFJTX09Ua3pfN2VtOFFDVDNZSjZCaUh6VVVaUG93VWpGZzVzOUZUQ0pzUERWWXZOdE1yZG1qNF9FaXlvOVdrbGZIeUIyR3JvNEdZdWlCSDhOYnRfWC13YmxJNHUxMVg4b1c2aDZTZVLSAa4BQVVfeXFMTk1QSW5QVllreWFXWVNIeTlNdjF6U2FYQ1BqUFRCTmlTWEhxbllzendObmFjaFA4dVZQSnBFdDl2NVI0dDFaZW1zU0YxcTNPWWNWT21xT1R3c3JDMHplNWZCWEwyd09QNUNmTGI0QmtUOUdDMm9paUlScU5qZWVOeG0wSU5RZE5hTGxfejhIbzh0ZVdWc0wwX2k1b2xqWnpEdWRZODN6VUNqcWlXRTV3?oc=5",
       "featured": false
     },
     {
@@ -315,13 +315,13 @@
       "featured": false
     },
     {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - drydenwire.com",
       "city": "Polk County",
       "category": "Development",
       "status": "Update",
       "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
-      "source": "DrydenWire.com",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes drydenwire.com",
+      "source": "drydenwire.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
@@ -339,6 +339,18 @@
       "featured": false
     },
     {
+      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Sep 04, 2025",
+      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -348,6 +360,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 01, 2025",
+      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -411,13 +435,13 @@
       "featured": false
     },
     {
-      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
+      "title": "Madison Place by Starlight Homes in Polk County FL - livabl.com",
       "city": "Polk County",
       "category": "Housing",
       "status": "Update",
       "date": "May 12, 2023",
-      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
-      "source": "Livabl",
+      "summary": "Madison Place by Starlight Homes in Polk County FL livabl.com",
+      "source": "livabl.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
       "featured": false
@@ -459,13 +483,13 @@
       "featured": false
     },
     {
-      "title": "Greenfield Village by Landsea Homes in Davenport FL - Livabl",
+      "title": "Greenfield Village by Landsea Homes in Davenport FL - livabl.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Sep 24, 2024",
-      "summary": "Greenfield Village by Landsea Homes in Davenport FL Livabl",
-      "source": "Livabl",
+      "summary": "Greenfield Village by Landsea Homes in Davenport FL livabl.com",
+      "source": "livabl.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUVJ1SUg3a2ZTSVpQSTU2eDQyY2FaTkdkZVJ0YkZNSmNDQzNJbkxRY2tVMllNd21VMzRUSHdvTXAzSHpOWjlzQzZiWGR5YUNhQ25TcV9FLXJwMERtVzJmc0Z3Sjk?oc=5",
       "featured": false
@@ -603,13 +627,13 @@
       "featured": false
     },
     {
-      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - lakelandcurrents.com",
+      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 13, 2026",
-      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location lakelandcurrents.com",
-      "source": "lakelandcurrents.com",
+      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location Lakeland Currents",
+      "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
       "featured": false
@@ -651,13 +675,13 @@
       "featured": false
     },
     {
-      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - quadcities.com",
+      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 18, 2026",
-      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event quadcities.com",
-      "source": "quadcities.com",
+      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event QuadCities.com",
+      "source": "QuadCities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUc0QS1EVnBHSGpGRGJPVXpaYlRUX1Y3YjctX1d3WVBYSzduM2ZhWlZqRlJkWkJqU1JFMFRXQVJwS0xETUl4ZlRwdnF5QWFYTGE0ZG9rQm03dDU1VUVoV2F2eTV2Wm9RU0ttLXk4aWhZdWtsd0Y1UFlMYUJsN003QUlMcGNMbmZHbTFyb0J1YWZwa0dGdnpFTGRXRjVVdlp2V0FKeHM2SkFfN1Vqalc2SEh2VlNLcDNISzVhag?oc=5",
       "featured": false
@@ -747,13 +771,13 @@
       "featured": false
     },
     {
-      "title": "New Lakeland Animal Hospital Now Open - lakelandcurrents.com",
+      "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 17, 2026",
-      "summary": "New Lakeland Animal Hospital Now Open lakelandcurrents.com",
-      "source": "lakelandcurrents.com",
+      "summary": "New Lakeland Animal Hospital Now Open Lakeland Currents",
+      "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
       "featured": false
@@ -1056,30 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jun 24, 2023",
-      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Three Projects Propose 1,000 Apartments in Southwest Lakeland - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Mar 17, 2022",
-      "summary": "Three Projects Propose 1,000 Apartments in Southwest Lakeland LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOElLdWxfUFFqYl80bTlvbE9pbUpDSm9pSDJBYnFLNU9MOWtXZS1fVW1uTTlWTTZLY2prZWJaTU9xWGJJMmJSSzk4aVlzUnZqbGlPajBCellEaWxFRUdPdWIzRWZNeThYdWJaMHE4dWdYa2lpQ1ZNMWQ1S0ZSRG1uVFZOMmVLa2J3S3hhQnpB?oc=5",
       "featured": false
     }
   ]
