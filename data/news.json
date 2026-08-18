@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 14:03 UTC",
+  "last_updated": "2026-08-18 14:49 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -75,6 +75,18 @@
       "featured": false
     },
     {
+      "title": "New housing development aims to help homeless people in Davenport - KWQC",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 15, 2026",
+      "summary": "New housing development aims to help homeless people in Davenport KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
+      "featured": false
+    },
+    {
       "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
       "city": "Auburndale",
       "category": "Development",
@@ -111,18 +123,6 @@
       "featured": false
     },
     {
-      "title": "New housing development aims to help homeless people in Davenport - KWQC",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 15, 2026",
-      "summary": "New housing development aims to help homeless people in Davenport KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
       "city": "Davenport",
       "category": "Restaurant",
@@ -147,13 +147,13 @@
       "featured": false
     },
     {
-      "title": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 - Iowa Department of Transportation (.gov)",
+      "title": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 - iowadot.gov",
       "city": "Davenport",
       "category": "Infrastructure",
       "status": "Update",
       "date": "Feb 24, 2026",
-      "summary": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 Iowa Department of Transportation (.gov)",
-      "source": "Iowa Department of Transportation (.gov)",
+      "summary": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 iowadot.gov",
+      "source": "iowadot.gov",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTBWVmdpamN5bUY3aWI0X3I3MnEyUi1taDgxV3dsMDJlZXJDcEduQUhvUXpzaFNlOWU0aGxqanlhZ25JTmdWLTdVWDRaaVJhb0lLdVBHbFZJUjFjU1Q4d3hsNE5nUndaUUU0dFVoVjVzUXA2a05pdklyUUxKajZXRUFpOXk4YzZPdXJDZ3ZMX3pqV0xfelJCTzFGcFdjZDllUnFIOEo3M3FXVHBFdlFOb2J2cmdxMUc2SUtfLVFlSHVUMm1fOVhVZg?oc=5",
       "featured": false
@@ -219,6 +219,18 @@
       "featured": false
     },
     {
+      "title": "City looks at future developments - City of Davenport",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 08, 2026",
+      "summary": "City looks at future developments City of Davenport",
+      "source": "City of Davenport",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1RqMXhPUUhPSVFBejRFZTZIT01HVl9DaGk1a2JBdU1WZnk2RENHWWNvTFJvaWtEU0hpM2JaX1lDUk5xNjNzWllkdnpiLU9HRW9PWXNNaFNNcU9iZ25FSVVhRFFmNXA5LTJEQXdYV2pIMW13NXlqd1NIcGV1OE5MUy1Ub0JVYUkyT2xiOXNkOU4yMjNUWGp5aFZnTF9SNlNUVy00QjdR?oc=5",
+      "featured": false
+    },
+    {
       "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
       "city": "Davenport",
       "category": "Housing",
@@ -267,18 +279,6 @@
       "featured": false
     },
     {
-      "title": "City looks at future developments - City of Davenport",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 08, 2026",
-      "summary": "City looks at future developments City of Davenport",
-      "source": "City of Davenport",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1RqMXhPUUhPSVFBejRFZTZIT01HVl9DaGk1a2JBdU1WZnk2RENHWWNvTFJvaWtEU0hpM2JaX1lDUk5xNjNzWllkdnpiLU9HRW9PWXNNaFNNcU9iZ25FSVVhRFFmNXA5LTJEQXdYV2pIMW13NXlqd1NIcGV1OE5MUy1Ub0JVYUkyT2xiOXNkOU4yMjNUWGp5aFZnTF9SNlNUVy00QjdR?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Public Schools Approves High School Rezoning - lkldnow.com",
       "city": "Polk County",
       "category": "Community",
@@ -291,13 +291,13 @@
       "featured": false
     },
     {
-      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - baynews9.com",
+      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Spectrum Bay News 9",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Jan 27, 2026",
-      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools baynews9.com",
-      "source": "baynews9.com",
+      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Spectrum Bay News 9",
+      "source": "Spectrum Bay News 9",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
       "featured": false
@@ -387,6 +387,18 @@
       "featured": false
     },
     {
+      "title": "Polk County schedules public forums on school rezoning - Spectrum Bay News 9",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 26, 2025",
+      "summary": "Polk County schedules public forums on school rezoning Spectrum Bay News 9",
+      "source": "Spectrum Bay News 9",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYllSRWExX2QwOUZkdFNMZEFGU0lhckhGMEtSVHh1aWxCRlM1TV9YSGpIWWtpNXhrMHNxX0RHaXlMVEwyeXhuZDd5eHhUb1kwT0dhSGR4MXBxX0JFZ21iQ2xHM0NQZ25zZUJUMXFRSzhDQ0tYaGN3S0pobWxfR2pTbWxxY1VHRUJUanFxSXh0bVJVbVZMNWtHejFjS2wyV3FhcVE?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -399,25 +411,13 @@
       "featured": false
     },
     {
-      "title": "Polk County schedules public forums on school rezoning - baynews9.com",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 26, 2025",
-      "summary": "Polk County schedules public forums on school rezoning baynews9.com",
-      "source": "baynews9.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYllSRWExX2QwOUZkdFNMZEFGU0lhckhGMEtSVHh1aWxCRlM1TV9YSGpIWWtpNXhrMHNxX0RHaXlMVEwyeXhuZDd5eHhUb1kwT0dhSGR4MXBxX0JFZ21iQ2xHM0NQZ25zZUJUMXFRSzhDQ0tYaGN3S0pobWxfR2pTbWxxY1VHRUJUanFxSXh0bVJVbVZMNWtHejFjS2wyV3FhcVE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "What's new and coming soon to Lakeland - 6amcity.com",
+      "title": "What's new and coming soon to Lakeland - 6AM City",
       "city": "Lakeland",
       "category": "Development",
       "status": "Coming Soon",
       "date": "Apr 13, 2026",
-      "summary": "What's new and coming soon to Lakeland 6amcity.com",
-      "source": "6amcity.com",
+      "summary": "What's new and coming soon to Lakeland 6AM City",
+      "source": "6AM City",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0YxSUEzYnRvX01ILWhLYnVzRE9xVTJKWVhlOFpyeGVfaTliNkFLdmNNdkV2eDNXWDQyQzF3ZGNGTGgtdFg1eHdTQ0pCVzNjQXp4N29hNXJBYWVsQjNNakUyYURRU1VEN0Q2ZGdwWHV0alVfUTM3WWhpT1RWRkVIekNOR2s?oc=5",
       "featured": false
@@ -471,13 +471,13 @@
       "featured": false
     },
     {
-      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6amcity.com",
+      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
       "city": "Lakeland",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 16, 2026",
-      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6amcity.com",
-      "source": "6amcity.com",
+      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
+      "source": "6AM City",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
       "featured": false
@@ -567,13 +567,13 @@
       "featured": false
     },
     {
-      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - news.ag.org",
+      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God",
       "city": "Winter Haven",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 01, 2026",
-      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus news.ag.org",
-      "source": "news.ag.org",
+      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God",
+      "source": "Assemblies of God",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
       "featured": false
@@ -867,18 +867,6 @@
       "featured": false
     },
     {
-      "title": "Maya Lora: Shipping containers could soon transform the retail, food scene in Lakeland - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Sep 26, 2021",
-      "summary": "Maya Lora: Shipping containers could soon transform the retail, food scene in Lakeland Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOVhaLXpLX1N0M2hPNHBUTXZxVktCeEJlYmpQOHVtY0w5QnpsNmZ2alY3Yk9IVDAxQXNrRTlnMWZnUU1lTlpoN3lWbS1JdVpTQmZyLVhrTTJydDZ6d3A5YjQxczdyaGNuZVhVRzZWcXY1MlpkLTdKTUVQS21qN254cmh2bjNvMHlLbHZDZF9IMnRFZmRVUWhEODFtSG9qX1BGMUxRbWE1eXJzTVo2LWJ4bnBYWXdNTDZOSW9ZblBsQXgyUEk2cEVj?oc=5",
-      "featured": false
-    },
-    {
       "title": "Home Depot, world's largest home improvement chain, plans to build its fifth Polk County store - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -891,6 +879,18 @@
       "featured": false
     },
     {
+      "title": "Maya Lora: Shipping containers could soon transform the retail, food scene in Lakeland - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Sep 26, 2021",
+      "summary": "Maya Lora: Shipping containers could soon transform the retail, food scene in Lakeland Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOVhaLXpLX1N0M2hPNHBUTXZxVktCeEJlYmpQOHVtY0w5QnpsNmZ2alY3Yk9IVDAxQXNrRTlnMWZnUU1lTlpoN3lWbS1JdVpTQmZyLVhrTTJydDZ6d3A5YjQxczdyaGNuZVhVRzZWcXY1MlpkLTdKTUVQS21qN254cmh2bjNvMHlLbHZDZF9IMnRFZmRVUWhEODFtSG9qX1BGMUxRbWE1eXJzTVo2LWJ4bnBYWXdNTDZOSW9ZblBsQXgyUEk2cEVj?oc=5",
+      "featured": false
+    },
+    {
       "title": "641 homes planned near Kathleen in Fox Branch Ranch development - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Housing",
@@ -900,30 +900,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcWZZZVJLU2ltQnNhTVN5WXpqU2RwbmZoX2dlM1BUUFhQMUtncnU2LUtGMDRLWmhxcnVRZHc1NjB4QWZSUmxLNDY0OFphSFBrR2lpa1VJQW9ZZVV3cXY5eTVEQmM5a09sSWdtcWRUcVhmaXExTW5mSW5CTmhMWW85bkNHWTNhVUlnSlY1UExxWG91U2FuTWxGak9QSHFDRExDSVBaREstRXQ5bkdwN2wxVTYySXRJRkg2TFJYeXg3c1pwZ2tMS3NyYzl3YlU?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Update",
-      "date": "Nov 10, 2021",
-      "summary": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0txMnJ6MXoydVlxeTlYV3RVTWdnWXBnanduWTZFX0hiQzFlZy1EZXhaWG5POEdSSHNJVk5iNWtDZkVWTDVaM00tRDg4ZkxNS2xuc20tV3NEMmQxYlI2QmJPZmg5cHNTWGNFQnd0THhpTWpYVDlkZWNNcDU4NGFkSmJsU1hfV1lzbzQtVTAzMDU2NzBsMU9jWm5oYTRjdGtwbUxVYTFXRExhUzdtWEUzNzVjUFF2MDJwQzRDbS1ZU3FHVzE2WkNEemRnWkFUUWVzMnRNMUdaMm1KMG9vb1I0?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 - Lakeland Ledger",
-      "city": "Haines City",
-      "category": "Development",
-      "status": "Update",
-      "date": "Apr 18, 2024",
-      "summary": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUTVtRzNFcXp2R1pxNi1xRlRybDhHeFFqVVBUNkZ0TVdxdDU2N2NKVElRUkVwOGVsNWlnVWtvQ2RGTml2WElfNUVOZTJFX3dKSi1Jd0FHSG94S2F0MDhwbjhLUzFMXzRSOFphVEhod3JGOWlwVGJTZDc3blk2RlRrTU9PUWxWYWRXWjFpTXNvN0V0NEU0dDl1UTJRWEJyb3dVWXBFbkN1bG1LRDRPTU10YmFvMk4tNDFRQzJYMmNORTQ0YWFxSm1iaGczaURLZw?oc=5",
       "featured": false
     },
     {
@@ -951,6 +927,30 @@
       "featured": false
     },
     {
+      "title": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 - Lakeland Ledger",
+      "city": "Haines City",
+      "category": "Development",
+      "status": "Update",
+      "date": "Apr 18, 2024",
+      "summary": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUTVtRzNFcXp2R1pxNi1xRlRybDhHeFFqVVBUNkZ0TVdxdDU2N2NKVElRUkVwOGVsNWlnVWtvQ2RGTml2WElfNUVOZTJFX3dKSi1Jd0FHSG94S2F0MDhwbjhLUzFMXzRSOFphVEhod3JGOWlwVGJTZDc3blk2RlRrTU9PUWxWYWRXWjFpTXNvN0V0NEU0dDl1UTJRWEJyb3dVWXBFbkN1bG1LRDRPTU10YmFvMk4tNDFRQzJYMmNORTQ0YWFxSm1iaGczaURLZw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Nov 10, 2021",
+      "summary": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0txMnJ6MXoydVlxeTlYV3RVTWdnWXBnanduWTZFX0hiQzFlZy1EZXhaWG5POEdSSHNJVk5iNWtDZkVWTDVaM00tRDg4ZkxNS2xuc20tV3NEMmQxYlI2QmJPZmg5cHNTWGNFQnd0THhpTWpYVDlkZWNNcDU4NGFkSmJsU1hfV1lzbzQtVTAzMDU2NzBsMU9jWm5oYTRjdGtwbUxVYTFXRExhUzdtWEUzNzVjUFF2MDJwQzRDbS1ZU3FHVzE2WkNEemRnWkFUUWVzMnRNMUdaMm1KMG9vb1I0?oc=5",
+      "featured": false
+    },
+    {
       "title": "Lake Wales approves development that could double its population - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -972,18 +972,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3Y1ekpicHp0ZWh6U25FcW5QVkdPdWtWc0YxY0VvaXp2aXd4M1FhT1U5VjFaemVjUGxpVTh3Rk9ib09LR2liMTB4dWlkS2xiS1NYeWIwUXB2ejliVWt1UUNLaTNpNG1mTnZQZVVlaWFzeTQ3ejRvVWdGbmItNWxpZ0lDcUFvdkE4blFlTDZDNWQtQ1hPNkpXNnFmVzU5WTI4RDE0N3d3Y0tzSGJDVkdZRkIxZWtnOHVhR0JQREFQLVptcFBLZnNUU0xEQ1VmWEMyMUE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Winter Haven residents fume over zoning change on Thompson Nursery Road - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Update",
-      "date": "Dec 10, 2025",
-      "summary": "Winter Haven residents fume over zoning change on Thompson Nursery Road Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWNEZy1QbWlaazVwZmE2TjktdVN4QWNNTllxcllGN0lwZUtFZjl5S1Y2ay12MUxzN1FnLUFEdE1nMmZIb05TTEl2QTZmRWhNTDZQTEVCcndDLUd2NGhmaDBhVFlOc05VdjlUeXFIMkprX3dtNkQ5RTFSRVVld3JmZllLRkdNT2k4MERuQW55eEhORWZVUExYTkplRVdObWpWd1Bzdy1rVWRXNWNPalBQczJqUEFudmpxYTJYVEVwVHUyV2o2VjB1VE82eDgtUlFVaHdvbkI3WTNFQQ?oc=5",
       "featured": false
     },
     {
@@ -1011,6 +999,54 @@
       "featured": false
     },
     {
+      "title": "Winter Haven residents fume over zoning change on Thompson Nursery Road - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Dec 10, 2025",
+      "summary": "Winter Haven residents fume over zoning change on Thompson Nursery Road Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWNEZy1QbWlaazVwZmE2TjktdVN4QWNNTllxcllGN0lwZUtFZjl5S1Y2ay12MUxzN1FnLUFEdE1nMmZIb05TTEl2QTZmRWhNTDZQTEVCcndDLUd2NGhmaDBhVFlOc05VdjlUeXFIMkprX3dtNkQ5RTFSRVVld3JmZllLRkdNT2k4MERuQW55eEhORWZVUExYTkplRVdObWpWd1Bzdy1rVWRXNWNPalBQczJqUEFudmpxYTJYVEVwVHUyV2o2VjB1VE82eDgtUlFVaHdvbkI3WTNFQQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Maya Lora: Polk County planning approvals could add more than 400 apartments in Lakeland - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Mar 04, 2022",
+      "summary": "Maya Lora: Polk County planning approvals could add more than 400 apartments in Lakeland Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVDBaeDM2YWItajlRd195WDU1VUhHUnBzMnBFaEMxc3A3Y1QzMlFFRHNWSmE2dlFoZlFuZUpWYUpKNkJhdjNjTUU1TDZkUFZwZ3BGQ0ZmMjlJU01MV09kWko4RlQtZ3NIa05rWUc3QVZFUW9XVDdfYm5WdXFicnFGcUhnYzdQYW1uaHR4TzltaGFDT0tSMTdxTGpVWjJiV2VRRjVqWE5iX0VxZEJ2Y3VubXlvcWVXQ09VLWlMS0VXUVAzVEZkWTVCajZ6NDd1ZmV3Z29qUkJydUU?oc=5",
+      "featured": false
+    },
+    {
+      "title": "3 Bank Branches Among Latest Developments At Berry Town Center - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jun 01, 2006",
+      "summary": "3 Bank Branches Among Latest Developments At Berry Town Center Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDMwX0lLMlNXTzhKOEdfODMwRFdxZF9hZDNMTGMzdVlDUU1lWHdYOWk0V21ucHl3cTM1M3ctVjE1empkRTg3Zm9RT0ZKaU1MaTJlWnJyQldFb2F6NjBWekhlVzJzLTdPVGNUdE5ldUgtSy1kOVZBOENwVTYzYTFLVnRobmFCb3phWVFTSUlSNXFCZFJ0RU5SSlBRdVFObDdtMTlxQzV2eFBfOVJUN0xkX0FFRi00VDZ6ODBOQ0o0WTk?oc=5",
+      "featured": false
+    },
+    {
+      "title": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents - Lakeland Ledger",
+      "city": "Auburndale",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Feb 17, 2023",
+      "summary": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
+      "featured": false
+    },
+    {
       "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -1035,30 +1071,6 @@
       "featured": false
     },
     {
-      "title": "Maya Lora: Polk County planning approvals could add more than 400 apartments in Lakeland - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Mar 04, 2022",
-      "summary": "Maya Lora: Polk County planning approvals could add more than 400 apartments in Lakeland Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVDBaeDM2YWItajlRd195WDU1VUhHUnBzMnBFaEMxc3A3Y1QzMlFFRHNWSmE2dlFoZlFuZUpWYUpKNkJhdjNjTUU1TDZkUFZwZ3BGQ0ZmMjlJU01MV09kWko4RlQtZ3NIa05rWUc3QVZFUW9XVDdfYm5WdXFicnFGcUhnYzdQYW1uaHR4TzltaGFDT0tSMTdxTGpVWjJiV2VRRjVqWE5iX0VxZEJ2Y3VubXlvcWVXQ09VLWlMS0VXUVAzVEZkWTVCajZ6NDd1ZmV3Z29qUkJydUU?oc=5",
-      "featured": false
-    },
-    {
-      "title": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Coming Soon",
-      "date": "May 07, 2006",
-      "summary": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
-      "featured": false
-    },
-    {
       "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - lkldnow.com",
       "city": "Lakeland",
       "category": "Housing",
@@ -1068,18 +1080,6 @@
       "source": "lkldnow.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - lkldnow.com",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jun 24, 2023",
-      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments lkldnow.com",
-      "source": "lkldnow.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
