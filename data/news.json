@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 20:11 UTC",
+  "last_updated": "2026-08-18 20:38 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -75,18 +75,6 @@
       "featured": false
     },
     {
-      "title": "New construction partially collapses in Davenport - WQAD",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 04, 2026",
-      "summary": "New construction partially collapses in Davenport WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
-      "featured": false
-    },
-    {
       "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
       "city": "Auburndale",
       "category": "Development",
@@ -96,6 +84,18 @@
       "source": "AdventHealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New construction partially collapses in Davenport - WQAD",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 04, 2026",
+      "summary": "New construction partially collapses in Davenport WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
       "featured": false
     },
     {
@@ -147,27 +147,15 @@
       "featured": false
     },
     {
-      "title": "New construction partially collapses in Davenport - Yahoo",
+      "title": "New construction partially collapses in Davenport - yahoo.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "Aug 04, 2026",
-      "summary": "New construction partially collapses in Davenport Yahoo",
-      "source": "Yahoo",
+      "summary": "New construction partially collapses in Davenport yahoo.com",
+      "source": "yahoo.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGVYa1Y0T1Z6NFNOU2xBVTNmeGJWUTJoUmJwcHBhcUJQOE9UYnB2bVlBR3h3c1R4Z05qeFFIQk1DX3ZCalA2bzBPLXdMMWI4dW9Nendmb2RkN3hrNUdpWnRpTnhmeHRRVV9XUDI0S25XV0dZWmRvWnY0Sy1UVWFYeHdEWEZqTDM4TGY2bk9XTzYzc0J1V0E?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors - inlander.com",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 25, 2026",
-      "summary": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors inlander.com",
-      "source": "inlander.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYkM0S1NtSURlV1NXM1FuRzdnWWxOcmZiS2l3eFhvZzVHRnBXOVRwOFRqVDhobnc2Y05fb0pqS2NWU0VWNm8ydTBIVzJxdERmM1pFUklkQWo3Q2hCc0lEYTFvc0daWkdRblZrR2hQS2thd240c19ybHpEbEVvd1MtZ21PR2FLbmVGaDRxZU93Z2NaYzdLMlJGS2NxRXB1dU9JYm5qUjZKVzJ1WjB4eXJXZmlKWjl4TFlWWkR3WmN6WDNWT3Jtd1p3ckc2Ul94VGxmRm14S19KS3NhdUd3MHZ1c2xINlJLS3VRNWMxSHNiWENPamc5VFZzVEpn?oc=5",
       "featured": false
     },
     {
@@ -219,6 +207,30 @@
       "featured": false
     },
     {
+      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 08, 2026",
+      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors - inlander.com",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 25, 2026",
+      "summary": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors inlander.com",
+      "source": "inlander.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYkM0S1NtSURlV1NXM1FuRzdnWWxOcmZiS2l3eFhvZzVHRnBXOVRwOFRqVDhobnc2Y05fb0pqS2NWU0VWNm8ydTBIVzJxdERmM1pFUklkQWo3Q2hCc0lEYTFvc0daWkdRblZrR2hQS2thd240c19ybHpEbEVvd1MtZ21PR2FLbmVGaDRxZU93Z2NaYzdLMlJGS2NxRXB1dU9JYm5qUjZKVzJ1WjB4eXJXZmlKWjl4TFlWWkR3WmN6WDNWT3Jtd1p3ckc2Ul94VGxmRm14S19KS3NhdUd3MHZ1c2xINlJLS3VRNWMxSHNiWENPamc5VFZzVEpn?oc=5",
+      "featured": false
+    },
+    {
       "title": "Davenport restaurant to close its doors - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -228,18 +240,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "City looks at future developments - City of Davenport",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 08, 2026",
-      "summary": "City looks at future developments City of Davenport",
-      "source": "City of Davenport",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1RqMXhPUUhPSVFBejRFZTZIT01HVl9DaGk1a2JBdU1WZnk2RENHWWNvTFJvaWtEU0hpM2JaX1lDUk5xNjNzWllkdnpiLU9HRW9PWXNNaFNNcU9iZ25FSVVhRFFmNXA5LTJEQXdYV2pIMW13NXlqd1NIcGV1OE5MUy1Ub0JVYUkyT2xiOXNkOU4yMjNUWGp5aFZnTF9SNlNUVy00QjdR?oc=5",
       "featured": false
     },
     {
@@ -291,13 +291,13 @@
       "featured": false
     },
     {
-      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Spectrum Bay News 9",
+      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - baynews9.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Jan 27, 2026",
-      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Spectrum Bay News 9",
-      "source": "Spectrum Bay News 9",
+      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools baynews9.com",
+      "source": "baynews9.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
       "featured": false
@@ -327,18 +327,6 @@
       "featured": false
     },
     {
-      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Sep 04, 2025",
-      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -348,18 +336,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 01, 2025",
-      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -423,18 +399,6 @@
       "featured": false
     },
     {
-      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
-      "city": "Polk County",
-      "category": "Housing",
-      "status": "Update",
-      "date": "May 12, 2023",
-      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
-      "source": "Livabl",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
-      "featured": false
-    },
-    {
       "title": "$170 million Davenport resort breaks ground - FOX 13 Tampa Bay",
       "city": "Davenport",
       "category": "Hotel",
@@ -444,6 +408,18 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFxSzBiZHZ6ZmFGQ2xPeEc5RUxTNWhhVVV4MG9oZFltdzM4eWxVeExFQjhLb1hrSktpSGpkWTV4YVBuLTdNOFFSb3k0WDE1bkNpM2xRSS1UY1BoOV9leWt0V3l1aHBrMkRHM19ObVJ4U3RCdmo0ZEVjalUtbWZtbXlUdTk4N1lxNC0xSDRheUM0aDlhOWpQWDMxcUVvUklEU3kzWFBGRdIBrAFBVV95cUxNSndvTlN0NzgyMl9FSnI2aEF1QU9Rb0l1NFo4TUZFN0JpMlllaHNfZzB2ZGVCcURrNkFjUTBFaEtJY2N2UlQ4ZTd0cF9FODVIOEtzLU9HWUt2WFdKZzJfUEkyaU5NLUQ0VTJIUk85THhKTTFDWktGTHMyd3RtVWM4aWd5eHVoNzZ0dWltZjAwRlg1VnJ0QTRjY2owa1RMU3ZPQTRnc1ZkT2U5Q0Fp?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
+      "city": "Polk County",
+      "category": "Housing",
+      "status": "Update",
+      "date": "May 12, 2023",
+      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
       "featured": false
     },
     {
@@ -615,13 +591,13 @@
       "featured": false
     },
     {
-      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - lakelandcurrents.com",
+      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 13, 2026",
-      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location lakelandcurrents.com",
-      "source": "lakelandcurrents.com",
+      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location Lakeland Currents",
+      "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
       "featured": false
@@ -759,13 +735,13 @@
       "featured": false
     },
     {
-      "title": "New Lakeland Animal Hospital Now Open - lakelandcurrents.com",
+      "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 17, 2026",
-      "summary": "New Lakeland Animal Hospital Now Open lakelandcurrents.com",
-      "source": "lakelandcurrents.com",
+      "summary": "New Lakeland Animal Hospital Now Open Lakeland Currents",
+      "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
       "featured": false
@@ -1080,6 +1056,30 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Three Projects Propose 1,000 Apartments in Southwest Lakeland - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Mar 17, 2022",
+      "summary": "Three Projects Propose 1,000 Apartments in Southwest Lakeland LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOElLdWxfUFFqYl80bTlvbE9pbUpDSm9pSDJBYnFLNU9MOWtXZS1fVW1uTTlWTTZLY2prZWJaTU9xWGJJMmJSSzk4aVlzUnZqbGlPajBCellEaWxFRUdPdWIzRWZNeThYdWJaMHE4dWdYa2lpQ1ZNMWQ1S0ZSRG1uVFZOMmVLa2J3S3hhQnpB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Swan Landing Will Add to Lakeland’s Mix of Affordable Housing - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Aug 23, 2022",
+      "summary": "Swan Landing Will Add to Lakeland’s Mix of Affordable Housing LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1B5emY0enlFSGhGTkoweHUzV0QtOXBEMG1xLU81UHdtVzA0Z2NHTU1xYk4yOHFYb2EyNjA1aVZTendZdXZFUnlUbVdDRmNzOHJZblA5d19vXzNCVDZnZTNwSlI2OWJZOGc1Y0NxQVdldlpXUDM0eFRzRFZXN1h3dkhmMzlCVTQwWi1mYmpR?oc=5",
       "featured": false
     }
   ]
