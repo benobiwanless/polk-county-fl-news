@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 09:01 UTC",
+  "last_updated": "2026-08-19 09:47 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -75,18 +75,6 @@
       "featured": false
     },
     {
-      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
-      "city": "Auburndale",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 27, 2026",
-      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
-      "source": "AdventHealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
-      "featured": false
-    },
-    {
       "title": "2026 Construction Season - City of Davenport",
       "city": "Davenport",
       "category": "Development",
@@ -96,6 +84,18 @@
       "source": "City of Davenport",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
+      "featured": false
+    },
+    {
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
+      "city": "Auburndale",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 27, 2026",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
+      "source": "AdventHealth",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
       "featured": false
     },
     {
@@ -111,25 +111,25 @@
       "featured": false
     },
     {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - spokesman.com",
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand spokesman.com",
-      "source": "spokesman.com",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
+      "source": "The Spokesman-Review",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
       "featured": false
     },
     {
-      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - qconline.com",
+      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - Dispatch Argus",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Aug 05, 2026",
-      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport qconline.com",
-      "source": "qconline.com",
+      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport Dispatch Argus",
+      "source": "Dispatch Argus",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckxacnR1TGg3VmVicndraWhUZTFwaDhNRzJMYmlkRS01TGFLQ2ZyZjB2NXU3VUVaTTE2UzM0cDZPaVROV2ZwV1NDaWYyeXYwV0RuVzVWUDh3SGFCYVYtTnc2ZnVmRmZYRXVCSFh1ZEViaEV6NWJ3UE1BWlFQLXI2OHpZdjBLRGZCS2ZZR1RRckVDU1ktbDJPY3FkLVFTbXN5dXYxY1NNWmk0UQ?oc=5",
       "featured": false
@@ -327,13 +327,13 @@
       "featured": false
     },
     {
-      "title": "Polk County planning board denies 3rd bid for Deeson Road development - - lakelandgazette.info",
+      "title": "Polk County planning board denies 3rd bid for Deeson Road development - - Lakeland Gazette",
       "city": "Lakeland",
       "category": "Infrastructure",
       "status": "Approved",
       "date": "Jun 06, 2026",
-      "summary": "Polk County planning board denies 3rd bid for Deeson Road development - lakelandgazette.info",
-      "source": "lakelandgazette.info",
+      "summary": "Polk County planning board denies 3rd bid for Deeson Road development - Lakeland Gazette",
+      "source": "Lakeland Gazette",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2FoNnExTjZPNF8zSldlYnNFdkdnaXktRUx5VUpHNWdKTjgtMFZrSlhNYjMwNU9ibFA3Vk1pNDE0MVp5QzBoWHUxVXFScDlDLUNCOW1ubzJEZkJsRXlJZ2hvOGE3RHdUU0o5ZExmOG1kd3lZVkwzc1A5aFVsdVVxWS14ay1FNzRRN1k3bFVUN0tGWGhvR0tNMW5rUWlhX2RMWS1rMmhEMlNxZ0dXYlZ6RlpCa1RZdw?oc=5",
       "featured": false
@@ -447,13 +447,13 @@
       "featured": false
     },
     {
-      "title": "Madison Place by Starlight Homes in Polk County FL - livabl.com",
+      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
       "city": "Polk County",
       "category": "Housing",
       "status": "Update",
       "date": "May 12, 2023",
-      "summary": "Madison Place by Starlight Homes in Polk County FL livabl.com",
-      "source": "livabl.com",
+      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
+      "source": "Livabl",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
       "featured": false
@@ -483,13 +483,13 @@
       "featured": false
     },
     {
-      "title": "Greenfield Village by Landsea Homes in Davenport FL - livabl.com",
+      "title": "Greenfield Village by Landsea Homes in Davenport FL - Livabl",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Sep 24, 2024",
-      "summary": "Greenfield Village by Landsea Homes in Davenport FL livabl.com",
-      "source": "livabl.com",
+      "summary": "Greenfield Village by Landsea Homes in Davenport FL Livabl",
+      "source": "Livabl",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUVJ1SUg3a2ZTSVpQSTU2eDQyY2FaTkdkZVJ0YkZNSmNDQzNJbkxRY2tVMllNd21VMzRUSHdvTXAzSHpOWjlzQzZiWGR5YUNhQ25TcV9FLXJwMERtVzJmc0Z3Sjk?oc=5",
       "featured": false
@@ -615,13 +615,13 @@
       "featured": false
     },
     {
-      "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - dailyridge.com",
+      "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - DailyRidge.com",
       "city": "Winter Haven",
       "category": "Infrastructure",
       "status": "Grand Opening",
       "date": "Jun 18, 2026",
-      "summary": "Texas Roadhouse in Winter Haven Announces Grand Opening dailyridge.com",
-      "source": "dailyridge.com",
+      "summary": "Texas Roadhouse in Winter Haven Announces Grand Opening DailyRidge.com",
+      "source": "DailyRidge.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW0wUFB3RjUyU2xXVUNDbVJ4TkhGQ3JRZ3F6R0ZEVVZYUUVVSUwtYk9CdXBMUWQxbmIxSnV4blpDZ2cxNEgyTTZSWFMxTFN3RHJsT2FlN0h4dUR0YlBiYlpLdXdwR2x3Tld3MWZ4c0owU1N1eUppREV0bEg0eTlobTB6UTluRjZLckxFTURjMmNiMHla?oc=5",
       "featured": false
@@ -636,18 +636,6 @@
       "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Grand Opening",
-      "date": "Apr 29, 2026",
-      "summary": "Publix opening new Florida store with latest redesign. Here's where Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
       "featured": false
     },
     {
@@ -672,6 +660,18 @@
       "source": "News-Herald",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Grand Opening",
+      "date": "Apr 29, 2026",
+      "summary": "Publix opening new Florida store with latest redesign. Here's where Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
       "featured": false
     },
     {
@@ -783,25 +783,25 @@
       "featured": false
     },
     {
-      "title": "Winn-Dixie with a grand opening scheduled for May 16 - - lakelandgazette.info",
+      "title": "Winn-Dixie with a grand opening scheduled for May 16 - - Lakeland Gazette",
       "city": "Lakeland",
       "category": "Hotel",
       "status": "Grand Opening",
       "date": "May 11, 2026",
-      "summary": "Winn-Dixie with a grand opening scheduled for May 16 - lakelandgazette.info",
-      "source": "lakelandgazette.info",
+      "summary": "Winn-Dixie with a grand opening scheduled for May 16 - Lakeland Gazette",
+      "source": "Lakeland Gazette",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQV94MUoxVE5vX2hLc0d3a2tmc2xnR0FWY3lvSzdCYlBuNTZ2VGY2RGktR1FXRHJteFdlQ3ZDTC1BekR2dnpSMWdlYzRaUFhPR3ZrU1A1bFpzR1dYWmVLNWMzYm1ZT0ZJY0lMM0VHQ09zb2FEbUdVbjVFQklwWkhJZjRnSTFjemE1by1CeUJpWGR4V0U1M1g0U2U3Mnp0N1E?oc=5",
       "featured": false
     },
     {
-      "title": "Dave & Buster’s Celebrates Grand Opening in Davenport - franchising.com",
+      "title": "Dave & Buster’s Celebrates Grand Opening in Davenport - Franchising.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jan 15, 2026",
-      "summary": "Dave & Buster’s Celebrates Grand Opening in Davenport franchising.com",
-      "source": "franchising.com",
+      "summary": "Dave & Buster’s Celebrates Grand Opening in Davenport Franchising.com",
+      "source": "Franchising.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0Fnay1wN05tQ2w2MC15WHgxNm1aUnl6RENSZUltUVRUSy1YbGxSR0FRc0NTdUpJSm54NUlCWUpjS0ZCeU5EbVZkTzY5UjVwTVo1NTBjdVJIUkY1eHl3azUyME5MVTBBaTVGSlp2eGx2OVhnSWR2aXJmNFRNVHRFT0E4NmNtN0t3b3pMcTV3SVpweHUtQ2tpYWVDQ0V1LW_SAaQBQVVfeXFMTWEwU1ZDbjB4VXYwUW50VEd5eEdfbGhsckF3bmllZXR5U0loeEczWnVYLTVLZDdGWV9zUjQ0WGRjbHJueXl1Z1BnRGtkdUhpNkVQLUNmRzJnWTNWQ3l6bUY3MWVPWWgyWEhFX3VROGNSbWhjNDE1MVlpajVpWTZadnlsamR0SWNmc1JzaHNUeGNtSGVaMnB4Zkh0SFBoU3U5RnN5OTY?oc=5",
       "featured": false
