@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-08-19 17:37 UTC",
+  "last_updated": "2026-08-19 17:57 UTC",
   "feed_mode": "live-expanded",
   "items": [
-    {
-      "title": "Why a Polk County town is excited about a new Culver's opening Aug. 3 - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Aug 01, 2026",
-      "summary": "Why a Polk County town is excited about a new Culver's opening Aug. 3 Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcl9Oa3RFU0hvVEsyS3VtNlVzdTlzVDhYSjlhTDBjU19FU05pT0tOS18xVmMwNnBKNmU4WEs5ek43anptZmtual81dkZ5RVdhQmc2ekQxWVp3T0RzSS1qLTNtZEZVRHlaWXhubEl2UTdDcUdBb2Fhc3dSVFNlQVl6RXFOaldwZkFrQXh2M0ZjRGh1bUJkeDVKUmFITFN0dVI3M2x3T3pFVk9HcXZWZ1p3elRpcWhLQ01aOFZYaU5SRzRtVk5DU1BIN0NTcnlaa1l5RmduRXZkbXhJVEtMZjdn?oc=5",
-      "featured": false
-    },
     {
       "title": "In Polk, DeSantis touts Florida as leader in 'flying-car' development - Lakeland Ledger",
       "city": "Lakeland",
@@ -24,6 +12,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGFvOXVXZ2Vtd29qamtuZlNVaXVKOW1qc1lyU2JBVHVINUtJWmhjdFBHUDRrWU0tWnBOWXA0bmo5S0t4N0hSc2F4bkEzM0xqeERDaGZnTFFkYXl6Y3RaZmhVWmM2X2tKb0h6LTRFdjJhdy1PYzV1MS05X1pnTFJZNGQ2VjFsbFN6VGJDbkdGd2VIYmQtWlJhZnIySnZHaFBTb3MyU1RFR0kwdk9rOG9hOEV0amlOaTNnUDQ2WGs1TFluR3Rwc2hSYkJYTmxNOGh5N0tiX3FSano3dkNrRWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Why a Polk County town is excited about a new Culver's opening Aug. 3 - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Aug 01, 2026",
+      "summary": "Why a Polk County town is excited about a new Culver's opening Aug. 3 Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcl9Oa3RFU0hvVEsyS3VtNlVzdTlzVDhYSjlhTDBjU19FU05pT0tOS18xVmMwNnBKNmU4WEs5ek43anptZmtual81dkZ5RVdhQmc2ekQxWVp3T0RzSS1qLTNtZEZVRHlaWXhubEl2UTdDcUdBb2Fhc3dSVFNlQVl6RXFOaldwZkFrQXh2M0ZjRGh1bUJkeDVKUmFITFN0dVI3M2x3T3pFVk9HcXZWZ1p3elRpcWhLQ01aOFZYaU5SRzRtVk5DU1BIN0NTcnlaa1l5RmduRXZkbXhJVEtMZjdn?oc=5",
       "featured": false
     },
     {
@@ -75,18 +75,6 @@
       "featured": false
     },
     {
-      "title": "Two more Polk County restaurants closed by inspectors because of roaches - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jan 06, 2026",
-      "summary": "Two more Polk County restaurants closed by inspectors because of roaches Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNeHhFclZrNlRvQlQ3S0NiTW16YUxsWHpmUF9MUmRTZDBRdjlLemlIOUh3U2dBRHdFczR4YWhSamRIN1hKYnI5cFFscWlHRHpEVDh0Y3JvUlFDc3RBQUh4cGItLVhKQl9KUEZVWVl2cmIxa0Vybzc4UzQ1QTNDOUZndzkxdTBabWwyZjBiSGpKZklHVWFmdllFZmJ1TWNkbW1Rd3hnMGVHc1VYcGFTcWpodGlVYlZzOGF6bG1FV3BNa0NwZGVxYmY4T2F6VktFZ0F2RTRWcVVaWlpya3BUd2dUbkNQRnZWcDMxdFlGQk9LSzlPYzIycEI0eHM4ejJnd09nYjd5V3JlTlV5T2lhTGV0d2pB?oc=5",
-      "featured": false
-    },
-    {
       "title": "2026 Construction Season - City of Davenport",
       "city": "Davenport",
       "category": "Development",
@@ -123,18 +111,6 @@
       "featured": false
     },
     {
-      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - spokesman.com",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 24, 2026",
-      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand spokesman.com",
-      "source": "spokesman.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - Dispatch Argus",
       "city": "Davenport",
       "category": "Restaurant",
@@ -144,6 +120,18 @@
       "source": "Dispatch Argus",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckxacnR1TGg3VmVicndraWhUZTFwaDhNRzJMYmlkRS01TGFLQ2ZyZjB2NXU3VUVaTTE2UzM0cDZPaVROV2ZwV1NDaWYyeXYwV0RuVzVWUDh3SGFCYVYtTnc2ZnVmRmZYRXVCSFh1ZEViaEV6NWJ3UE1BWlFQLXI2OHpZdjBLRGZCS2ZZR1RRckVDU1ktbDJPY3FkLVFTbXN5dXYxY1NNWmk0UQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 24, 2026",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
       "featured": false
     },
     {
@@ -171,15 +159,15 @@
       "featured": false
     },
     {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
+      "title": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors - inlander.com",
       "city": "Davenport",
-      "category": "Housing",
+      "category": "Restaurant",
       "status": "Update",
-      "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
-      "source": "OurQuadCities",
+      "date": "Jun 25, 2026",
+      "summary": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors inlander.com",
+      "source": "inlander.com",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYkM0S1NtSURlV1NXM1FuRzdnWWxOcmZiS2l3eFhvZzVHRnBXOVRwOFRqVDhobnc2Y05fb0pqS2NWU0VWNm8ydTBIVzJxdERmM1pFUklkQWo3Q2hCc0lEYTFvc0daWkdRblZrR2hQS2thd240c19ybHpEbEVvd1MtZ21PR2FLbmVGaDRxZU93Z2NaYzdLMlJGS2NxRXB1dU9JYm5qUjZKVzJ1WjB4eXJXZmlKWjl4TFlWWkR3WmN6WDNWT3Jtd1p3ckc2Ul94VGxmRm14S19KS3NhdUd3MHZ1c2xINlJLS3VRNWMxSHNiWENPamc5VFZzVEpn?oc=5",
       "featured": false
     },
     {
@@ -207,18 +195,6 @@
       "featured": false
     },
     {
-      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 08, 2026",
-      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
-      "featured": false
-    },
-    {
       "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -228,6 +204,18 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 08, 2026",
+      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
       "featured": false
     },
     {
@@ -255,25 +243,25 @@
       "featured": false
     },
     {
-      "title": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors - inlander.com",
+      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
       "city": "Davenport",
-      "category": "Restaurant",
+      "category": "Housing",
       "status": "Update",
-      "date": "Jun 25, 2026",
-      "summary": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors inlander.com",
-      "source": "inlander.com",
+      "date": "Jul 09, 2026",
+      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
+      "source": "OurQuadCities",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYkM0S1NtSURlV1NXM1FuRzdnWWxOcmZiS2l3eFhvZzVHRnBXOVRwOFRqVDhobnc2Y05fb0pqS2NWU0VWNm8ydTBIVzJxdERmM1pFUklkQWo3Q2hCc0lEYTFvc0daWkdRblZrR2hQS2thd240c19ybHpEbEVvd1MtZ21PR2FLbmVGaDRxZU93Z2NaYzdLMlJGS2NxRXB1dU9JYm5qUjZKVzJ1WjB4eXJXZmlKWjl4TFlWWkR3WmN6WDNWT3Jtd1p3ckc2Ul94VGxmRm14S19KS3NhdUd3MHZ1c2xINlJLS3VRNWMxSHNiWENPamc5VFZzVEpn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
       "featured": false
     },
     {
-      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - news.vcu.edu",
+      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "Jan 09, 2026",
-      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State news.vcu.edu",
-      "source": "news.vcu.edu",
+      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
+      "source": "VCU News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
       "featured": false
@@ -303,13 +291,13 @@
       "featured": false
     },
     {
-      "title": "Polk County planning board denies 3rd bid for Deeson Road development - - lakelandgazette.info",
+      "title": "Polk County planning board denies 3rd bid for Deeson Road development - - Lakeland Gazette",
       "city": "Lakeland",
       "category": "Infrastructure",
       "status": "Approved",
       "date": "Jun 06, 2026",
-      "summary": "Polk County planning board denies 3rd bid for Deeson Road development - lakelandgazette.info",
-      "source": "lakelandgazette.info",
+      "summary": "Polk County planning board denies 3rd bid for Deeson Road development - Lakeland Gazette",
+      "source": "Lakeland Gazette",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2FoNnExTjZPNF8zSldlYnNFdkdnaXktRUx5VUpHNWdKTjgtMFZrSlhNYjMwNU9ibFA3Vk1pNDE0MVp5QzBoWHUxVXFScDlDLUNCOW1ubzJEZkJsRXlJZ2hvOGE3RHdUU0o5ZExmOG1kd3lZVkwzc1A5aFVsdVVxWS14ay1FNzRRN1k3bFVUN0tGWGhvR0tNMW5rUWlhX2RMWS1rMmhEMlNxZ0dXYlZ6RlpCa1RZdw?oc=5",
       "featured": false
@@ -459,18 +447,6 @@
       "featured": false
     },
     {
-      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
-      "city": "Polk County",
-      "category": "Housing",
-      "status": "Update",
-      "date": "May 12, 2023",
-      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
-      "source": "Livabl",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
-      "featured": false
-    },
-    {
       "title": "$170 million Davenport resort breaks ground - FOX 13 Tampa Bay",
       "city": "Davenport",
       "category": "Hotel",
@@ -480,6 +456,18 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFxSzBiZHZ6ZmFGQ2xPeEc5RUxTNWhhVVV4MG9oZFltdzM4eWxVeExFQjhLb1hrSktpSGpkWTV4YVBuLTdNOFFSb3k0WDE1bkNpM2xRSS1UY1BoOV9leWt0V3l1aHBrMkRHM19ObVJ4U3RCdmo0ZEVjalUtbWZtbXlUdTk4N1lxNC0xSDRheUM0aDlhOWpQWDMxcUVvUklEU3kzWFBGRdIBrAFBVV95cUxNSndvTlN0NzgyMl9FSnI2aEF1QU9Rb0l1NFo4TUZFN0JpMlllaHNfZzB2ZGVCcURrNkFjUTBFaEtJY2N2UlQ4ZTd0cF9FODVIOEtzLU9HWUt2WFdKZzJfUEkyaU5NLUQ0VTJIUk85THhKTTFDWktGTHMyd3RtVWM4aWd5eHVoNzZ0dWltZjAwRlg1VnJ0QTRjY2owa1RMU3ZPQTRnc1ZkT2U5Q0Fp?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
+      "city": "Polk County",
+      "category": "Housing",
+      "status": "Update",
+      "date": "May 12, 2023",
+      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
       "featured": false
     },
     {
@@ -663,13 +651,13 @@
       "featured": false
     },
     {
-      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - lakelandcurrents.com",
+      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 13, 2026",
-      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location lakelandcurrents.com",
-      "source": "lakelandcurrents.com",
+      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location Lakeland Currents",
+      "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
       "featured": false
@@ -795,25 +783,25 @@
       "featured": false
     },
     {
-      "title": "New Lakeland Animal Hospital Now Open - lakelandcurrents.com",
+      "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 17, 2026",
-      "summary": "New Lakeland Animal Hospital Now Open lakelandcurrents.com",
-      "source": "lakelandcurrents.com",
+      "summary": "New Lakeland Animal Hospital Now Open Lakeland Currents",
+      "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
       "featured": false
     },
     {
-      "title": "Winn-Dixie with a grand opening scheduled for May 16 - - lakelandgazette.info",
+      "title": "Winn-Dixie with a grand opening scheduled for May 16 - - Lakeland Gazette",
       "city": "Lakeland",
       "category": "Hotel",
       "status": "Grand Opening",
       "date": "May 11, 2026",
-      "summary": "Winn-Dixie with a grand opening scheduled for May 16 - lakelandgazette.info",
-      "source": "lakelandgazette.info",
+      "summary": "Winn-Dixie with a grand opening scheduled for May 16 - Lakeland Gazette",
+      "source": "Lakeland Gazette",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQV94MUoxVE5vX2hLc0d3a2tmc2xnR0FWY3lvSzdCYlBuNTZ2VGY2RGktR1FXRHJteFdlQ3ZDTC1BekR2dnpSMWdlYzRaUFhPR3ZrU1A1bFpzR1dYWmVLNWMzYm1ZT0ZJY0lMM0VHQ09zb2FEbUdVbjVFQklwWkhJZjRnSTFjemE1by1CeUJpWGR4V0U1M1g0U2U3Mnp0N1E?oc=5",
       "featured": false
@@ -1080,6 +1068,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "May 19, 2025",
+      "summary": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRtZ2VhbVBIMDAwU1pvdFMwcWpOQW9nVUhsZlBpcUtRSlBMMFRBT1dSMkY3OUVSYzNPSFlFclFaRXQ3UDBfQWY0LVdQdVY0c2c1OHlQeHFOZW8xTVBxVGlzSnpZWWJzaTllcVlwUUsxRGV1Z25DbWdkT0U0a0JnZEFDMEk1eWl3U1JsS3psQUNPZmtLZEdnMUJIVEpIeXh3eGh3d0RhMTRwNnhvV3hoaGtGem1UVW0yUy1ucG5vMUllemtwYi1maE1xOA?oc=5",
       "featured": false
     }
   ]
