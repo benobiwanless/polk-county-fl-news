@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 13:41 UTC",
+  "last_updated": "2026-08-19 14:16 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -447,18 +447,6 @@
       "featured": false
     },
     {
-      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
-      "city": "Polk County",
-      "category": "Housing",
-      "status": "Update",
-      "date": "May 12, 2023",
-      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
-      "source": "Livabl",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
-      "featured": false
-    },
-    {
       "title": "$170 million Davenport resort breaks ground - FOX 13 Tampa Bay",
       "city": "Davenport",
       "category": "Hotel",
@@ -468,6 +456,18 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFxSzBiZHZ6ZmFGQ2xPeEc5RUxTNWhhVVV4MG9oZFltdzM4eWxVeExFQjhLb1hrSktpSGpkWTV4YVBuLTdNOFFSb3k0WDE1bkNpM2xRSS1UY1BoOV9leWt0V3l1aHBrMkRHM19ObVJ4U3RCdmo0ZEVjalUtbWZtbXlUdTk4N1lxNC0xSDRheUM0aDlhOWpQWDMxcUVvUklEU3kzWFBGRdIBrAFBVV95cUxNSndvTlN0NzgyMl9FSnI2aEF1QU9Rb0l1NFo4TUZFN0JpMlllaHNfZzB2ZGVCcURrNkFjUTBFaEtJY2N2UlQ4ZTd0cF9FODVIOEtzLU9HWUt2WFdKZzJfUEkyaU5NLUQ0VTJIUk85THhKTTFDWktGTHMyd3RtVWM4aWd5eHVoNzZ0dWltZjAwRlg1VnJ0QTRjY2owa1RMU3ZPQTRnc1ZkT2U5Q0Fp?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
+      "city": "Polk County",
+      "category": "Housing",
+      "status": "Update",
+      "date": "May 12, 2023",
+      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
       "featured": false
     },
     {
@@ -639,13 +639,13 @@
       "featured": false
     },
     {
-      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - Lakeland Currents",
+      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - lakelandcurrents.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 13, 2026",
-      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location Lakeland Currents",
-      "source": "Lakeland Currents",
+      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location lakelandcurrents.com",
+      "source": "lakelandcurrents.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
       "featured": false
@@ -783,13 +783,13 @@
       "featured": false
     },
     {
-      "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
+      "title": "New Lakeland Animal Hospital Now Open - lakelandcurrents.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 17, 2026",
-      "summary": "New Lakeland Animal Hospital Now Open Lakeland Currents",
-      "source": "Lakeland Currents",
+      "summary": "New Lakeland Animal Hospital Now Open lakelandcurrents.com",
+      "source": "lakelandcurrents.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
       "featured": false
