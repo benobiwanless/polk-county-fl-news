@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-08-19 15:31 UTC",
+  "last_updated": "2026-08-19 16:01 UTC",
   "feed_mode": "live-expanded",
   "items": [
-    {
-      "title": "In Polk, DeSantis touts Florida as leader in 'flying-car' development - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 10, 2026",
-      "summary": "In Polk, DeSantis touts Florida as leader in 'flying-car' development Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGFvOXVXZ2Vtd29qamtuZlNVaXVKOW1qc1lyU2JBVHVINUtJWmhjdFBHUDRrWU0tWnBOWXA0bmo5S0t4N0hSc2F4bkEzM0xqeERDaGZnTFFkYXl6Y3RaZmhVWmM2X2tKb0h6LTRFdjJhdy1PYzV1MS05X1pnTFJZNGQ2VjFsbFN6VGJDbkdGd2VIYmQtWlJhZnIySnZHaFBTb3MyU1RFR0kwdk9rOG9hOEV0amlOaTNnUDQ2WGs1TFluR3Rwc2hSYkJYTmxNOGh5N0tiX3FSano3dkNrRWc?oc=5",
-      "featured": false
-    },
     {
       "title": "Why a Polk County town is excited about a new Culver's opening Aug. 3 - Lakeland Ledger",
       "city": "Lakeland",
@@ -24,6 +12,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcl9Oa3RFU0hvVEsyS3VtNlVzdTlzVDhYSjlhTDBjU19FU05pT0tOS18xVmMwNnBKNmU4WEs5ek43anptZmtual81dkZ5RVdhQmc2ekQxWVp3T0RzSS1qLTNtZEZVRHlaWXhubEl2UTdDcUdBb2Fhc3dSVFNlQVl6RXFOaldwZkFrQXh2M0ZjRGh1bUJkeDVKUmFITFN0dVI3M2x3T3pFVk9HcXZWZ1p3elRpcWhLQ01aOFZYaU5SRzRtVk5DU1BIN0NTcnlaa1l5RmduRXZkbXhJVEtMZjdn?oc=5",
+      "featured": false
+    },
+    {
+      "title": "In Polk, DeSantis touts Florida as leader in 'flying-car' development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 10, 2026",
+      "summary": "In Polk, DeSantis touts Florida as leader in 'flying-car' development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGFvOXVXZ2Vtd29qamtuZlNVaXVKOW1qc1lyU2JBVHVINUtJWmhjdFBHUDRrWU0tWnBOWXA0bmo5S0t4N0hSc2F4bkEzM0xqeERDaGZnTFFkYXl6Y3RaZmhVWmM2X2tKb0h6LTRFdjJhdy1PYzV1MS05X1pnTFJZNGQ2VjFsbFN6VGJDbkdGd2VIYmQtWlJhZnIySnZHaFBTb3MyU1RFR0kwdk9rOG9hOEV0amlOaTNnUDQ2WGs1TFluR3Rwc2hSYkJYTmxNOGh5N0tiX3FSano3dkNrRWc?oc=5",
       "featured": false
     },
     {
@@ -255,13 +255,13 @@
       "featured": false
     },
     {
-      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
+      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - news.vcu.edu",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "Jan 09, 2026",
-      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
-      "source": "VCU News",
+      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State news.vcu.edu",
+      "source": "news.vcu.edu",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
       "featured": false
@@ -471,18 +471,6 @@
       "featured": false
     },
     {
-      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
-      "city": "Lakeland",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 16, 2026",
-      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
-      "source": "6AM City",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
-      "featured": false
-    },
-    {
       "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
       "city": "Davenport",
       "category": "Restaurant",
@@ -495,15 +483,15 @@
       "featured": false
     },
     {
-      "title": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen - Lakeland Ledger",
+      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
       "city": "Lakeland",
-      "category": "Housing",
+      "category": "Restaurant",
       "status": "Update",
-      "date": "Jul 20, 2022",
-      "summary": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen Lakeland Ledger",
-      "source": "Lakeland Ledger",
+      "date": "Jun 16, 2026",
+      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
+      "source": "6AM City",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWs0eGhoOHF2YlpFWTFaSW5JaVNfWFM3OU5CNzlNNV9qTDBFVnJ5Q25SUHRoWS0zLTRwMkViSmI2YWJsYWtNWEl0M2w2SklxeDNQS0tHc3R2NnloSi1jcjdJaGdZTmhsNFlKM2VsQXhoODJHWk9YWkxFQ0JhZzRSSGwtenUzUnY2Y01lVWREeWIzdmNzdXg3YmdTTGR3Rm1pcEJ3OGN6QTZsNTlCalkzVHZURVFMejlPVHZpTkVpc0Nnb0ZPRWhv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
       "featured": false
     },
     {
@@ -519,18 +507,6 @@
       "featured": false
     },
     {
-      "title": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Feb 16, 2026",
-      "summary": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTduLUlHQWlZWk9zQ1ZOZzZoSXVUY2NuQVBXMC1SUjB2bEpHdWlkei1lcHlzYVJFNXUxTm55dG1pcV9JWERQYU80WWp0NHJlMzdHZDlLa3ktOUZJcW41LWdWMG1ZR2RuTjIzTi1PaFo1VkNjUFpsV1VkcFc5X082dGpuZFlSY1F5RnI5eFRKRmF6RmltYjh5UGIxdHRpeEtjOHpyWWFYajhtSTlEZDQ3cUNPYWkza1B4bHNlckFHNldDT2p1eUtKUU1OakpZeUp6dmJjd3Jqdl9qbVpT?oc=5",
-      "featured": false
-    },
-    {
       "title": "10 years of Legoland: How the theme park helped save the Polk County tourism industry - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -543,6 +519,30 @@
       "featured": false
     },
     {
+      "title": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 20, 2022",
+      "summary": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWs0eGhoOHF2YlpFWTFaSW5JaVNfWFM3OU5CNzlNNV9qTDBFVnJ5Q25SUHRoWS0zLTRwMkViSmI2YWJsYWtNWEl0M2w2SklxeDNQS0tHc3R2NnloSi1jcjdJaGdZTmhsNFlKM2VsQXhoODJHWk9YWkxFQ0JhZzRSSGwtenUzUnY2Y01lVWREeWIzdmNzdXg3YmdTTGR3Rm1pcEJ3OGN6QTZsNTlCalkzVHZURVFMejlPVHZpTkVpc0Nnb0ZPRWhv?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 16, 2026",
+      "summary": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTduLUlHQWlZWk9zQ1ZOZzZoSXVUY2NuQVBXMC1SUjB2bEpHdWlkei1lcHlzYVJFNXUxTm55dG1pcV9JWERQYU80WWp0NHJlMzdHZDlLa3ktOUZJcW41LWdWMG1ZR2RuTjIzTi1PaFo1VkNjUFpsV1VkcFc5X082dGpuZFlSY1F5RnI5eFRKRmF6RmltYjh5UGIxdHRpeEtjOHpyWWFYajhtSTlEZDQ3cUNPYWkza1B4bHNlckFHNldDT2p1eUtKUU1OakpZeUp6dmJjd3Jqdl9qbVpT?oc=5",
+      "featured": false
+    },
+    {
       "title": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -552,18 +552,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHBUVnFSNUEwODY1MG83enJmbkVpZ1k4V1ZvYzh5dEowbHEtSWh3RktvVWxmR3AzSW5WbUpKSlExclBCQ1F5NWRiclJOalZLTjFUTjYzby10V09pVGdzYk5adTBrUDlGSjVoM3BETXZ0NXdpUHV6MHpVTFZ2cVJ1WXF2N203ODFZOU5udXJIRjI0TEZyaFV1c09EdWQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
-      "city": "Lake Wales",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jan 04, 2023",
-      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
-      "source": "Livabl",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
       "featured": false
     },
     {
@@ -639,6 +627,18 @@
       "featured": false
     },
     {
+      "title": "Davenport sheriff's office substation to hold grand opening - KSBW",
+      "city": "Davenport",
+      "category": "Commercial",
+      "status": "Grand Opening",
+      "date": "Feb 09, 2026",
+      "summary": "Davenport sheriff's office substation to hold grand opening KSBW",
+      "source": "KSBW",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0RjTndyb1FwZjR3ejdEVEtVQzBEWWJOMVEwNU14MWNVWnBnV1p4OVlLSjhNaWxhMlFZcDVtR3FSakM1X3ZHXzVKNDJwQXA0R2pUUnA5LV9GNkVZMTNOTl9Zc2g5d19MQ09wRGFLZk5XQ3dGZXRUakRSZDVkSzU2QnRHbw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - DailyRidge.com",
       "city": "Winter Haven",
       "category": "Infrastructure",
@@ -663,6 +663,18 @@
       "featured": false
     },
     {
+      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Apr 03, 2026",
+      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
+      "source": "News-Herald",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
+      "featured": false
+    },
+    {
       "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -672,30 +684,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport sheriff's office substation to hold grand opening - KSBW",
-      "city": "Davenport",
-      "category": "Commercial",
-      "status": "Grand Opening",
-      "date": "Feb 10, 2026",
-      "summary": "Davenport sheriff's office substation to hold grand opening KSBW",
-      "source": "KSBW",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0RjTndyb1FwZjR3ejdEVEtVQzBEWWJOMVEwNU14MWNVWnBnV1p4OVlLSjhNaWxhMlFZcDVtR3FSakM1X3ZHXzVKNDJwQXA0R2pUUnA5LV9GNkVZMTNOTl9Zc2g5d19MQ09wRGFLZk5XQ3dGZXRUakRSZDVkSzU2QnRHbw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
-      "source": "news-herald.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1068,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "May 19, 2025",
+      "summary": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRtZ2VhbVBIMDAwU1pvdFMwcWpOQW9nVUhsZlBpcUtRSlBMMFRBT1dSMkY3OUVSYzNPSFlFclFaRXQ3UDBfQWY0LVdQdVY0c2c1OHlQeHFOZW8xTVBxVGlzSnpZWWJzaTllcVlwUUsxRGV1Z25DbWdkT0U0a0JnZEFDMEk1eWl3U1JsS3psQUNPZmtLZEdnMUJIVEpIeXh3eGh3d0RhMTRwNnhvV3hoaGtGem1UVW0yUy1ucG5vMUllemtwYi1maE1xOA?oc=5",
       "featured": false
     }
   ]
