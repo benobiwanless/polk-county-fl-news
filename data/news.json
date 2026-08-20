@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20 17:54 UTC",
+  "last_updated": "2026-08-20 18:22 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -12,6 +12,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGFvOXVXZ2Vtd29qamtuZlNVaXVKOW1qc1lyU2JBVHVINUtJWmhjdFBHUDRrWU0tWnBOWXA0bmo5S0t4N0hSc2F4bkEzM0xqeERDaGZnTFFkYXl6Y3RaZmhVWmM2X2tKb0h6LTRFdjJhdy1PYzV1MS05X1pnTFJZNGQ2VjFsbFN6VGJDbkdGd2VIYmQtWlJhZnIySnZHaFBTb3MyU1RFR0kwdk9rOG9hOEV0amlOaTNnUDQ2WGs1TFluR3Rwc2hSYkJYTmxNOGh5N0tiX3FSano3dkNrRWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Eight Juveniles From Philadelphia Busted In Polk County Florida For Retail Theft - Delaware Valley News",
+      "city": "Polk County",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Dec 10, 2025",
+      "summary": "Eight Juveniles From Philadelphia Busted In Polk County Florida For Retail Theft Delaware Valley News",
+      "source": "Delaware Valley News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG5uYUFvSlhKUE9oMnV6MXlGcHZLdUpjeGNJZXhZUnJvYnpKcVRKeUNEQ1VmM0xPRExoemhpUWctcThEd0hvbkpBRGZVRmNJeDNQS3pQM2pvUXc2Q1lIRFY4OXVySWdhbEVrSkcyR1lFY3J4RHViTW10Rk5VU2hnbjRJemdURTJjQnFzSHV3dG5KenBlZE9lc1YwY21MM0xuRmNSUEdjOVhHUmJEcHZpYjYwNjNlUHVSNDhyME4xbl_SAcYBQVVfeXFMTnVnS0NlWklvQ1p0OFl1YzU2US1xbTBWNUR4LTM1VUJUUWRNcVc0N1dhdS1nQWd4X3BvYUl5X0YySG1MRFFsZERaY1dYdVoyc1o4TkhoZ3dNeDUxbjFoYTJldlh1blJWWTN6aDY2OXVqVjlDc2Q1MmM1b3lCVlpXZ1BvX3F6SGxQaER5MWdidURGMFl4ZXZnTFlhdUEwQ1NaU3hDUGJWaUJYcjgxUUtXS1pUSWZ0NWRKdU84V3dxdmROY0tTNGJR?oc=5",
       "featured": false
     },
     {
@@ -411,6 +423,18 @@
       "featured": false
     },
     {
+      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
+      "city": "Lakeland",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 16, 2026",
+      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
+      "source": "6AM City",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
+      "featured": false
+    },
+    {
       "title": "Downtown Lakeland burger shop coming soon with nod to one of Polk's most influential musicians - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -456,18 +480,6 @@
       "source": "WhatNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
-      "city": "Lakeland",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 16, 2026",
-      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
-      "source": "6AM City",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
       "featured": false
     },
     {
@@ -663,6 +675,18 @@
       "featured": false
     },
     {
+      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - The National Law Review",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Apr 17, 2026",
+      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th The National Law Review",
+      "source": "The National Law Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
+      "featured": false
+    },
+    {
       "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
       "city": "Lakeland",
       "category": "Development",
@@ -759,18 +783,6 @@
       "featured": false
     },
     {
-      "title": "Lakeland's Depot Arts District set for grand opening - FOX 13 Tampa Bay",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Oct 30, 2025",
-      "summary": "Lakeland's Depot Arts District set for grand opening FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUdReG5sWF9nM1Zzckd4R09jb1cyQ3p5TTNDX3hac2draGZzWDJmTU0yZHJmZUxRQlh3d0Q1NW11QU5EWW5yOEktWHlPMm91QWJrQnZETkhhXzVDNEI0S25qRDVmSHNOZk9sZnZySE1yalRCSHE5UDNjRm1oWUQ5eU5GWVEtanlsa05TSE42enRqTnZfRXkyStIBngFBVV95cUxPdmo1WGMwMURjT1Y4T1JFVXV5ZC10elJnTnI3QjFDd04yQ0gydUYwb1d1cllyOWVld1JwSUxjdm1HOUFtMTJ6cEtpVkg1RVRMekcxaW5CRUpoQ19DYW9UWnZPMDJidWxIZEJwNXQ4OEpvcXFHMUZ2bmNxVlI1YnlVQnZqZjNqdG9IMFlJWVBBRTIzMnlmNUx0aXh4VzFUQQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "New Publix opening soon amid a plethora of East Polk housing developments - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Housing",
@@ -855,6 +867,18 @@
       "featured": false
     },
     {
+      "title": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 - Lakeland Ledger",
+      "city": "Haines City",
+      "category": "Development",
+      "status": "Update",
+      "date": "Apr 18, 2024",
+      "summary": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUTVtRzNFcXp2R1pxNi1xRlRybDhHeFFqVVBUNkZ0TVdxdDU2N2NKVElRUkVwOGVsNWlnVWtvQ2RGTml2WElfNUVOZTJFX3dKSi1Jd0FHSG94S2F0MDhwbjhLUzFMXzRSOFphVEhod3JGOWlwVGJTZDc3blk2RlRrTU9PUWxWYWRXWjFpTXNvN0V0NEU0dDl1UTJRWEJyb3dVWXBFbkN1bG1LRDRPTU10YmFvMk4tNDFRQzJYMmNORTQ0YWFxSm1iaGczaURLZw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Denied at first, Morgan Creek gets another chance at expansion - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -876,18 +900,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN2dVQ3Utcm8wQVdkdC0wREo1YkRHVF9XenBJWEM0ZkFDbTdhRlhoM1Y2elBCTHgtNzZmc09WdzhBcmRQMjgydFNHMWlxRmlucWwwdEtmeFJacUJzRlZqbFBMb3pwd0lPSVRod1lsOHhUN0w5b0NQdzRNcVVaZ2J0ZGlwUzdRWndIdXZ0R1cwTndBWFFEXzVFMGxTVEtkMjNISU9LbmdtWU5kd3JMNm9CdDJwVmw1ZVh6RW9xUG9BZUtpLWhpalFpQm9URnZMWERQaFZtdA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 - Lakeland Ledger",
-      "city": "Haines City",
-      "category": "Development",
-      "status": "Update",
-      "date": "Apr 18, 2024",
-      "summary": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUTVtRzNFcXp2R1pxNi1xRlRybDhHeFFqVVBUNkZ0TVdxdDU2N2NKVElRUkVwOGVsNWlnVWtvQ2RGTml2WElfNUVOZTJFX3dKSi1Jd0FHSG94S2F0MDhwbjhLUzFMXzRSOFphVEhod3JGOWlwVGJTZDc3blk2RlRrTU9PUWxWYWRXWjFpTXNvN0V0NEU0dDl1UTJRWEJyb3dVWXBFbkN1bG1LRDRPTU10YmFvMk4tNDFRQzJYMmNORTQ0YWFxSm1iaGczaURLZw?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1B5emY0enlFSGhGTkoweHUzV0QtOXBEMG1xLU81UHdtVzA0Z2NHTU1xYk4yOHFYb2EyNjA1aVZTendZdXZFUnlUbVdDRmNzOHJZblA5d19vXzNCVDZnZTNwSlI2OWJZOGc1Y0NxQVdldlpXUDM0eFRzRFZXN1h3dkhmMzlCVTQwWi1mYmpR?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 18, 2023",
-      "summary": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUURpenh4TkczQWh2ZFNBb01zNVAxRHBoa20zZm5TUFNMU1Jpc2JxWU1kdGJGVVNEQnlWOUpoV2FtSkExUFVIZElDTGIwSEwzLUpmY3lmZGZaV3NYeEtENHEtZ29NYU8yMU9FS2JRamxmY1VmTHByYWYybDVQTDI2eUNmUlNRMHM1NkZVbFJHaVFFeTlMRjVvYWg3X01rVTdT?oc=5",
       "featured": false
     }
   ]
