@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20 05:52 UTC",
+  "last_updated": "2026-08-20 06:26 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -75,18 +75,6 @@
       "featured": false
     },
     {
-      "title": "Two more Polk County restaurants closed by inspectors because of roaches - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jan 06, 2026",
-      "summary": "Two more Polk County restaurants closed by inspectors because of roaches Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNeHhFclZrNlRvQlQ3S0NiTW16YUxsWHpmUF9MUmRTZDBRdjlLemlIOUh3U2dBRHdFczR4YWhSamRIN1hKYnI5cFFscWlHRHpEVDh0Y3JvUlFDc3RBQUh4cGItLVhKQl9KUEZVWVl2cmIxa0Vybzc4UzQ1QTNDOUZndzkxdTBabWwyZjBiSGpKZklHVWFmdllFZmJ1TWNkbW1Rd3hnMGVHc1VYcGFTcWpodGlVYlZzOGF6bG1FV3BNa0NwZGVxYmY4T2F6VktFZ0F2RTRWcVVaWlpya3BUd2dUbkNQRnZWcDMxdFlGQk9LSzlPYzIycEI0eHM4ejJnd09nYjd5V3JlTlV5T2lhTGV0d2pB?oc=5",
-      "featured": false
-    },
-    {
       "title": "2026 Construction Season - City of Davenport",
       "city": "Davenport",
       "category": "Development",
@@ -159,13 +147,13 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - lodgingmagazine.com",
+      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Update",
       "date": "May 20, 2026",
-      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation lodgingmagazine.com",
-      "source": "lodgingmagazine.com",
+      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
+      "source": "LODGING Magazine",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
       "featured": false
@@ -327,18 +315,6 @@
       "featured": false
     },
     {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
-      "source": "DrydenWire.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
-      "featured": false
-    },
-    {
       "title": "Development eyed for 52 acres near Polk City’s Green Swamp - TBBW",
       "city": "Polk City",
       "category": "Development",
@@ -348,6 +324,18 @@
       "source": "TBBW",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 27, 2026",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
+      "source": "DrydenWire.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
     },
     {
@@ -459,13 +447,13 @@
       "featured": false
     },
     {
-      "title": "Madison Place by Starlight Homes in Polk County FL - livabl.com",
+      "title": "Madison Place by Starlight Homes in Polk County FL - Livabl",
       "city": "Polk County",
       "category": "Housing",
       "status": "Update",
       "date": "May 12, 2023",
-      "summary": "Madison Place by Starlight Homes in Polk County FL livabl.com",
-      "source": "livabl.com",
+      "summary": "Madison Place by Starlight Homes in Polk County FL Livabl",
+      "source": "Livabl",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzJUMWVBYThJOWJVSUR6TGtFaXFqbGMyQ3VlVjBkX2ZfZnBWMWZwUW9wVEIwRnlmcVJMNG1aOXFQTTJ4V0V4UDNhOFJuNlVmbDlmS3pCUkJRLUxLZVhqRA?oc=5",
       "featured": false
@@ -507,13 +495,13 @@
       "featured": false
     },
     {
-      "title": "Greenfield Village by Landsea Homes in Davenport FL - livabl.com",
+      "title": "Greenfield Village by Landsea Homes in Davenport FL - Livabl",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Sep 24, 2024",
-      "summary": "Greenfield Village by Landsea Homes in Davenport FL livabl.com",
-      "source": "livabl.com",
+      "summary": "Greenfield Village by Landsea Homes in Davenport FL Livabl",
+      "source": "Livabl",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUVJ1SUg3a2ZTSVpQSTU2eDQyY2FaTkdkZVJ0YkZNSmNDQzNJbkxRY2tVMllNd21VMzRUSHdvTXAzSHpOWjlzQzZiWGR5YUNhQ25TcV9FLXJwMERtVzJmc0Z3Sjk?oc=5",
       "featured": false
@@ -639,13 +627,13 @@
       "featured": false
     },
     {
-      "title": "Davenport sheriff's office substation to hold grand opening - KSBW",
+      "title": "Davenport sheriff's office substation to hold grand opening - ksbw.com",
       "city": "Davenport",
       "category": "Commercial",
       "status": "Grand Opening",
       "date": "Feb 09, 2026",
-      "summary": "Davenport sheriff's office substation to hold grand opening KSBW",
-      "source": "KSBW",
+      "summary": "Davenport sheriff's office substation to hold grand opening ksbw.com",
+      "source": "ksbw.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0RjTndyb1FwZjR3ejdEVEtVQzBEWWJOMVEwNU14MWNVWnBnV1p4OVlLSjhNaWxhMlFZcDVtR3FSakM1X3ZHXzVKNDJwQXA0R2pUUnA5LV9GNkVZMTNOTl9Zc2g5d19MQ09wRGFLZk5XQ3dGZXRUakRSZDVkSzU2QnRHbw?oc=5",
       "featured": false
@@ -675,13 +663,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
+      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
+      "source": "news-herald.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
@@ -795,37 +783,37 @@
       "featured": false
     },
     {
-      "title": "Winn-Dixie with a grand opening scheduled for May 16 - - lakelandgazette.info",
+      "title": "Winn-Dixie with a grand opening scheduled for May 16 - - Lakeland Gazette",
       "city": "Lakeland",
       "category": "Hotel",
       "status": "Grand Opening",
       "date": "May 11, 2026",
-      "summary": "Winn-Dixie with a grand opening scheduled for May 16 - lakelandgazette.info",
-      "source": "lakelandgazette.info",
+      "summary": "Winn-Dixie with a grand opening scheduled for May 16 - Lakeland Gazette",
+      "source": "Lakeland Gazette",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQV94MUoxVE5vX2hLc0d3a2tmc2xnR0FWY3lvSzdCYlBuNTZ2VGY2RGktR1FXRHJteFdlQ3ZDTC1BekR2dnpSMWdlYzRaUFhPR3ZrU1A1bFpzR1dYWmVLNWMzYm1ZT0ZJY0lMM0VHQ09zb2FEbUdVbjVFQklwWkhJZjRnSTFjemE1by1CeUJpWGR4V0U1M1g0U2U3Mnp0N1E?oc=5",
       "featured": false
     },
     {
-      "title": "Dave & Buster’s Celebrates Grand Opening in Davenport - Franchising.com",
+      "title": "Dave & Buster’s Celebrates Grand Opening in Davenport - franchising.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jan 15, 2026",
-      "summary": "Dave & Buster’s Celebrates Grand Opening in Davenport Franchising.com",
-      "source": "Franchising.com",
+      "summary": "Dave & Buster’s Celebrates Grand Opening in Davenport franchising.com",
+      "source": "franchising.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0Fnay1wN05tQ2w2MC15WHgxNm1aUnl6RENSZUltUVRUSy1YbGxSR0FRc0NTdUpJSm54NUlCWUpjS0ZCeU5EbVZkTzY5UjVwTVo1NTBjdVJIUkY1eHl3azUyME5MVTBBaTVGSlp2eGx2OVhnSWR2aXJmNFRNVHRFT0E4NmNtN0t3b3pMcTV3SVpweHUtQ2tpYWVDQ0V1LW_SAaQBQVVfeXFMTWEwU1ZDbjB4VXYwUW50VEd5eEdfbGhsckF3bmllZXR5U0loeEczWnVYLTVLZDdGWV9zUjQ0WGRjbHJueXl1Z1BnRGtkdUhpNkVQLUNmRzJnWTNWQ3l6bUY3MWVPWWgyWEhFX3VROGNSbWhjNDE1MVlpajVpWTZadnlsamR0SWNmc1JzaHNUeGNtSGVaMnB4Zkh0SFBoU3U5RnN5OTY?oc=5",
       "featured": false
     },
     {
-      "title": "Academy Sports + Outdoors Opens New Lakeland Store with Grand Opening Deals & Giveaways - Tampa Bay 28",
+      "title": "Academy Sports + Outdoors Opens New Lakeland Store with Grand Opening Deals & Giveaways - tampabay28.com",
       "city": "Lakeland",
       "category": "Retail",
       "status": "Grand Opening",
       "date": "Oct 17, 2025",
-      "summary": "Academy Sports + Outdoors Opens New Lakeland Store with Grand Opening Deals & Giveaways Tampa Bay 28",
-      "source": "Tampa Bay 28",
+      "summary": "Academy Sports + Outdoors Opens New Lakeland Store with Grand Opening Deals & Giveaways tampabay28.com",
+      "source": "tampabay28.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU0lRRWlUcmV1aXhLRXhsTW55Q1hQbzNqZUE1amNBS3VVemE1OG5IT0NwRy1ZNTNBTVFRUlI3by05MzAwVzhlOTJnUEJzUS1naGRKSGd2b0pHVVdsQmdNeVBJTWVZU0xfQVVYUTVseHBlR3k2TkpjRE5iUzJkNjBXUEJCZm5tVHJmQzk0Q0RmRHhDdTZCY0pjeHlqZEFYRVFJeXp5U01RLTVGTWRjZFJtZE4wUV9iZ2E1Z0tkWVU5em5Pdw?oc=5",
       "featured": false
@@ -1080,6 +1068,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "May 19, 2025",
+      "summary": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRtZ2VhbVBIMDAwU1pvdFMwcWpOQW9nVUhsZlBpcUtRSlBMMFRBT1dSMkY3OUVSYzNPSFlFclFaRXQ3UDBfQWY0LVdQdVY0c2c1OHlQeHFOZW8xTVBxVGlzSnpZWWJzaTllcVlwUUsxRGV1Z25DbWdkT0U0a0JnZEFDMEk1eWl3U1JsS3psQUNPZmtLZEdnMUJIVEpIeXh3eGh3d0RhMTRwNnhvV3hoaGtGem1UVW0yUy1ucG5vMUllemtwYi1maE1xOA?oc=5",
       "featured": false
     }
   ]
