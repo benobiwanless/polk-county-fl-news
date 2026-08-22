@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 21:17 UTC",
+  "last_updated": "2026-08-22 21:42 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -51,18 +51,6 @@
       "featured": false
     },
     {
-      "title": "Polk County approves 747-home development south of Lakeland - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 07, 2026",
-      "summary": "Polk County approves 747-home development south of Lakeland Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
       "city": "Bartow",
       "category": "Housing",
@@ -72,6 +60,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVpwZS1OTHkyR25NUGdvTlJINTZ6bUh0VXJ5dk5mcWwwd1RLQ1JRbEMzS2dXNGpDSUNfRWUxZktFQnlHcXRMSGhZZ1A4dVVlWXYxZnBRbWdQcFRwVzZQaERFMWpEUjhnd1VYdUlpYUJnOHFSZm9ZRndxT1dPNmU0M2t3RXpya0NuNHdfV2E3X1VsOTBGN0tXZllCejZGVlJ5UC1QSjFqb0pHSm5NS29KekdacnoxVXBIUGtHT2dIakZPcDFiMGZUTUw5WlA5MlNvd0ZmTFNoVjRESVFxOXNkdkQzbTVMNW8?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County approves 747-home development south of Lakeland - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 07, 2026",
+      "summary": "Polk County approves 747-home development south of Lakeland Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
       "featured": false
     },
     {
@@ -267,13 +267,13 @@
       "featured": false
     },
     {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire",
       "city": "Polk County",
       "category": "Development",
       "status": "Update",
       "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
-      "source": "DrydenWire.com",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire",
+      "source": "DrydenWire",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
@@ -627,18 +627,6 @@
       "featured": false
     },
     {
-      "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 21, 2026",
-      "summary": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay WFTV",
-      "source": "WFTV",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
       "city": "Lakeland",
       "category": "Development",
@@ -648,6 +636,18 @@
       "source": "News-Herald",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 21, 2026",
+      "summary": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay WFTV",
+      "source": "WFTV",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
       "featured": false
     },
     {
