@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 20:10 UTC",
+  "last_updated": "2026-08-23 20:36 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -183,6 +183,18 @@
       "featured": false
     },
     {
+      "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
+      "featured": false
+    },
+    {
       "title": "Davenport restaurant to close its doors - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -216,18 +228,6 @@
       "source": "VCU News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
       "featured": false
     },
     {
@@ -531,18 +531,6 @@
       "featured": false
     },
     {
-      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
-      "city": "Polk County",
-      "category": "Restaurant",
-      "status": "Coming Soon",
-      "date": "May 30, 2026",
-      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
-      "featured": false
-    },
-    {
       "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
@@ -603,27 +591,15 @@
       "featured": false
     },
     {
-      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
-      "city": "Davenport",
-      "category": "Development",
+      "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
       "status": "Grand Opening",
-      "date": "Jul 09, 2026",
-      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport WQAD",
-      "source": "WQAD",
+      "date": "Apr 29, 2026",
+      "summary": "Publix opening new Florida store with latest redesign. Here's where Lakeland Ledger",
+      "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport sheriff's office substation to hold grand opening - KSBW",
-      "city": "Davenport",
-      "category": "Commercial",
-      "status": "Grand Opening",
-      "date": "Feb 09, 2026",
-      "summary": "Davenport sheriff's office substation to hold grand opening KSBW",
-      "source": "KSBW",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0RjTndyb1FwZjR3ejdEVEtVQzBEWWJOMVEwNU14MWNVWnBnV1p4OVlLSjhNaWxhMlFZcDVtR3FSakM1X3ZHXzVKNDJwQXA0R2pUUnA5LV9GNkVZMTNOTl9Zc2g5d19MQ09wRGFLZk5XQ3dGZXRUakRSZDVkSzU2QnRHbw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
       "featured": false
     },
     {
@@ -651,18 +627,6 @@
       "featured": false
     },
     {
-      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jul 18, 2026",
-      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event QuadCities.com",
-      "source": "QuadCities.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUc0QS1EVnBHSGpGRGJPVXpaYlRUX1Y3YjctX1d3WVBYSzduM2ZhWlZqRlJkWkJqU1JFMFRXQVJwS0xETUl4ZlRwdnF5QWFYTGE0ZG9rQm03dDU1VUVoV2F2eTV2Wm9RU0ttLXk4aWhZdWtsd0Y1UFlMYUJsN003QUlMcGNMbmZHbTFyb0J1YWZwa0dGdnpFTGRXRjVVdlp2V0FKeHM2SkFfN1Vqalc2SEh2VlNLcDNISzVhag?oc=5",
-      "featured": false
-    },
-    {
       "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
       "city": "Lakeland",
       "category": "Development",
@@ -684,6 +648,18 @@
       "source": "WFTV",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 18, 2026",
+      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event QuadCities.com",
+      "source": "QuadCities.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUc0QS1EVnBHSGpGRGJPVXpaYlRUX1Y3YjctX1d3WVBYSzduM2ZhWlZqRlJkWkJqU1JFMFRXQVJwS0xETUl4ZlRwdnF5QWFYTGE0ZG9rQm03dDU1VUVoV2F2eTV2Wm9RU0ttLXk4aWhZdWtsd0Y1UFlMYUJsN003QUlMcGNMbmZHbTFyb0J1YWZwa0dGdnpFTGRXRjVVdlp2V0FKeHM2SkFfN1Vqalc2SEh2VlNLcDNISzVhag?oc=5",
       "featured": false
     },
     {
@@ -735,6 +711,18 @@
       "featured": false
     },
     {
+      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 09, 2026",
+      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
+      "featured": false
+    },
+    {
       "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -768,30 +756,6 @@
       "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUdReG5sWF9nM1Zzckd4R09jb1cyQ3p5TTNDX3hac2draGZzWDJmTU0yZHJmZUxRQlh3d0Q1NW11QU5EWW5yOEktWHlPMm91QWJrQnZETkhhXzVDNEI0S25qRDVmSHNOZk9sZnZySE1yalRCSHE5UDNjRm1oWUQ5eU5GWVEtanlsa05TSE42enRqTnZfRXkyStIBngFBVV95cUxPdmo1WGMwMURjT1Y4T1JFVXV5ZC10elJnTnI3QjFDd04yQ0gydUYwb1d1cllyOWVld1JwSUxjdm1HOUFtMTJ6cEtpVkg1RVRMekcxaW5CRUpoQ19DYW9UWnZPMDJidWxIZEJwNXQ4OEpvcXFHMUZ2bmNxVlI1YnlVQnZqZjNqdG9IMFlJWVBBRTIzMnlmNUx0aXh4VzFUQQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Dave & Buster’s Celebrates Grand Opening in Davenport - Franchising.com",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jan 15, 2026",
-      "summary": "Dave & Buster’s Celebrates Grand Opening in Davenport Franchising.com",
-      "source": "Franchising.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0Fnay1wN05tQ2w2MC15WHgxNm1aUnl6RENSZUltUVRUSy1YbGxSR0FRc0NTdUpJSm54NUlCWUpjS0ZCeU5EbVZkTzY5UjVwTVo1NTBjdVJIUkY1eHl3azUyME5MVTBBaTVGSlp2eGx2OVhnSWR2aXJmNFRNVHRFT0E4NmNtN0t3b3pMcTV3SVpweHUtQ2tpYWVDQ0V1LW_SAaQBQVVfeXFMTWEwU1ZDbjB4VXYwUW50VEd5eEdfbGhsckF3bmllZXR5U0loeEczWnVYLTVLZDdGWV9zUjQ0WGRjbHJueXl1Z1BnRGtkdUhpNkVQLUNmRzJnWTNWQ3l6bUY3MWVPWWgyWEhFX3VROGNSbWhjNDE1MVlpajVpWTZadnlsamR0SWNmc1JzaHNUeGNtSGVaMnB4Zkh0SFBoU3U5RnN5OTY?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - PR.com",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "May 15, 2026",
-      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location PR.com",
-      "source": "PR.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VjBsQkFONFRsb05oZmxPWTFTNmotOWpoZmNKbjlRLXB0Wmp6RFRzYmhJTW05OFlzZkcwbml0ZXd1MHd2YkhQSHNxQmJFNUpM?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1044,42 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1B5emY0enlFSGhGTkoweHUzV0QtOXBEMG1xLU81UHdtVzA0Z2NHTU1xYk4yOHFYb2EyNjA1aVZTendZdXZFUnlUbVdDRmNzOHJZblA5d19vXzNCVDZnZTNwSlI2OWJZOGc1Y0NxQVdldlpXUDM0eFRzRFZXN1h3dkhmMzlCVTQwWi1mYmpR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 18, 2023",
+      "summary": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUURpenh4TkczQWh2ZFNBb01zNVAxRHBoa20zZm5TUFNMU1Jpc2JxWU1kdGJGVVNEQnlWOUpoV2FtSkExUFVIZElDTGIwSEwzLUpmY3lmZGZaV3NYeEtENHEtZ29NYU8yMU9FS2JRamxmY1VmTHByYWYybDVQTDI2eUNmUlNRMHM1NkZVbFJHaVFFeTlMRjVvYWg3X01rVTdT?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Development Momentum Generating Interest in Lakeland’s Redevelopment Districts - LkldNow",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Apr 27, 2022",
+      "summary": "Development Momentum Generating Interest in Lakeland’s Redevelopment Districts LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWVtNXBBZElwemhmSkQtV0k4NThYVTNXLXlPZ0Fpa3J2SzVQQ3pWQ2VySS1GOExPal9QV3R1Y1NKR3dFR1E0cGdTdENVU1FjcWRpUFA0eElYX3luVG4wRzVTYXl6Snhldm5YWUpEMV9YVTczV1V3YVVsQVNuMkhQYnZ1bmJaREp2cTA2aHhZVUFybGNHY0d4cjdWOE5pUW5SYndQWA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Seminole Tribe Planning Rural Housing Near Lakeland - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Aug 06, 2019",
+      "summary": "Seminole Tribe Planning Rural Housing Near Lakeland LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0tHUFotMDVSakNuTkJGWlB0YU5qMmlBWkFraVJVT0xHQmlMX1VwM3hZQzNRQldiV3RYNVRGM2NUdTBleG55UWkxLVRISlZCakJaWjFncTd1dHoxU21qS294bDQ4aU5vZy04QTJxTFhZOW9iYlRsR19jZjZVd1NZNUFB?oc=5",
       "featured": false
     }
   ]
