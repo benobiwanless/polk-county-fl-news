@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 04:01 UTC",
+  "last_updated": "2026-08-23 04:49 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -51,18 +51,6 @@
       "featured": false
     },
     {
-      "title": "Eight Juveniles From Philadelphia Busted In Polk County Florida For Retail Theft - Delaware Valley News",
-      "city": "Polk County",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Dec 10, 2025",
-      "summary": "Eight Juveniles From Philadelphia Busted In Polk County Florida For Retail Theft Delaware Valley News",
-      "source": "Delaware Valley News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG5uYUFvSlhKUE9oMnV6MXlGcHZLdUpjeGNJZXhZUnJvYnpKcVRKeUNEQ1VmM0xPRExoemhpUWctcThEd0hvbkpBRGZVRmNJeDNQS3pQM2pvUXc2Q1lIRFY4OXVySWdhbEVrSkcyR1lFY3J4RHViTW10Rk5VU2hnbjRJemdURTJjQnFzSHV3dG5KenBlZE9lc1YwY21MM0xuRmNSUEdjOVhHUmJEcHZpYjYwNjNlUHVSNDhyME4xbl_SAcYBQVVfeXFMTnVnS0NlWklvQ1p0OFl1YzU2US1xbTBWNUR4LTM1VUJUUWRNcVc0N1dhdS1nQWd4X3BvYUl5X0YySG1MRFFsZERaY1dYdVoyc1o4TkhoZ3dNeDUxbjFoYTJldlh1blJWWTN6aDY2OXVqVjlDc2Q1MmM1b3lCVlpXZ1BvX3F6SGxQaER5MWdidURGMFl4ZXZnTFlhdUEwQ1NaU3hDUGJWaUJYcjgxUUtXS1pUSWZ0NWRKdU84V3dxdmROY0tTNGJR?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County approves 747-home development south of Lakeland - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -72,6 +60,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Eight Juveniles From Philadelphia Busted In Polk County Florida For Retail Theft - Delaware Valley News",
+      "city": "Polk County",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Dec 10, 2025",
+      "summary": "Eight Juveniles From Philadelphia Busted In Polk County Florida For Retail Theft Delaware Valley News",
+      "source": "Delaware Valley News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG5uYUFvSlhKUE9oMnV6MXlGcHZLdUpjeGNJZXhZUnJvYnpKcVRKeUNEQ1VmM0xPRExoemhpUWctcThEd0hvbkpBRGZVRmNJeDNQS3pQM2pvUXc2Q1lIRFY4OXVySWdhbEVrSkcyR1lFY3J4RHViTW10Rk5VU2hnbjRJemdURTJjQnFzSHV3dG5KenBlZE9lc1YwY21MM0xuRmNSUEdjOVhHUmJEcHZpYjYwNjNlUHVSNDhyME4xbl_SAcYBQVVfeXFMTnVnS0NlWklvQ1p0OFl1YzU2US1xbTBWNUR4LTM1VUJUUWRNcVc0N1dhdS1nQWd4X3BvYUl5X0YySG1MRFFsZERaY1dYdVoyc1o4TkhoZ3dNeDUxbjFoYTJldlh1blJWWTN6aDY2OXVqVjlDc2Q1MmM1b3lCVlpXZ1BvX3F6SGxQaER5MWdidURGMFl4ZXZnTFlhdUEwQ1NaU3hDUGJWaUJYcjgxUUtXS1pUSWZ0NWRKdU84V3dxdmROY0tTNGJR?oc=5",
       "featured": false
     },
     {
@@ -195,6 +195,18 @@
       "featured": false
     },
     {
+      "title": "City looks at future developments - City of Davenport",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 08, 2026",
+      "summary": "City looks at future developments City of Davenport",
+      "source": "City of Davenport",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1RqMXhPUUhPSVFBejRFZTZIT01HVl9DaGk1a2JBdU1WZnk2RENHWWNvTFJvaWtEU0hpM2JaX1lDUk5xNjNzWllkdnpiLU9HRW9PWXNNaFNNcU9iZ25FSVVhRFFmNXA5LTJEQXdYV2pIMW13NXlqd1NIcGV1OE5MUy1Ub0JVYUkyT2xiOXNkOU4yMjNUWGp5aFZnTF9SNlNUVy00QjdR?oc=5",
+      "featured": false
+    },
+    {
       "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
       "city": "Davenport",
       "category": "Restaurant",
@@ -243,18 +255,6 @@
       "featured": false
     },
     {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire",
-      "source": "DrydenWire",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Bay News 9",
       "city": "Polk County",
       "category": "Community",
@@ -264,6 +264,18 @@
       "source": "Bay News 9",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 27, 2026",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire",
+      "source": "DrydenWire",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
     },
     {
@@ -315,6 +327,18 @@
       "featured": false
     },
     {
+      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 12, 2025",
+      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
+      "source": "wtsp.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
       "city": "Polk County",
       "category": "Community",
@@ -339,27 +363,15 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
-      "city": "Polk County",
+      "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
+      "city": "Lakeland",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
-      "source": "wtsp.com",
+      "date": "Aug 20, 2025",
+      "summary": "Polk County high school rezoning plan: See all the current and proposed zones Lakeland Ledger",
+      "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Some Polk County parents express worry as high school rezoning plans take shape - Tampa Bay 28",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 28, 2025",
-      "summary": "Some Polk County parents express worry as high school rezoning plans take shape Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkxyODNuSm5Ja3pXQW9kOVFOU1NHZnBjUVpQeGZsNzItTTM1bnBWTFVVWXphZUNUUWtzbUFqVjBqeUZIUFMyclg1azVvczJUTS1UaVN6S3FpMU1vTVhGMVJoZXdQNVJBeFBGY2dhdDcwN1JyZ1NKVUc0c2J6QjdkaG9WVGU3Z0I0dGlYemN5aU53MjVfSF9oa3NqT0lIYUFOOVBtbXRac0pVc1NpQlJvbnZwQzhBMTdqendrTzhIZU4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
       "featured": false
     },
     {
@@ -372,6 +384,18 @@
       "source": "Bay News 9",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYllSRWExX2QwOUZkdFNMZEFGU0lhckhGMEtSVHh1aWxCRlM1TV9YSGpIWWtpNXhrMHNxX0RHaXlMVEwyeXhuZDd5eHhUb1kwT0dhSGR4MXBxX0JFZ21iQ2xHM0NQZ25zZUJUMXFRSzhDQ0tYaGN3S0pobWxfR2pTbWxxY1VHRUJUanFxSXh0bVJVbVZMNWtHejFjS2wyV3FhcVE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Some Polk County parents express worry as high school rezoning plans take shape - Tampa Bay 28",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 28, 2025",
+      "summary": "Some Polk County parents express worry as high school rezoning plans take shape Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkxyODNuSm5Ja3pXQW9kOVFOU1NHZnBjUVpQeGZsNzItTTM1bnBWTFVVWXphZUNUUWtzbUFqVjBqeUZIUFMyclg1azVvczJUTS1UaVN6S3FpMU1vTVhGMVJoZXdQNVJBeFBGY2dhdDcwN1JyZ1NKVUc0c2J6QjdkaG9WVGU3Z0I0dGlYemN5aU53MjVfSF9oa3NqT0lIYUFOOVBtbXRac0pVc1NpQlJvbnZwQzhBMTdqendrTzhIZU4?oc=5",
       "featured": false
     },
     {
@@ -1056,30 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWVtNXBBZElwemhmSkQtV0k4NThYVTNXLXlPZ0Fpa3J2SzVQQ3pWQ2VySS1GOExPal9QV3R1Y1NKR3dFR1E0cGdTdENVU1FjcWRpUFA0eElYX3luVG4wRzVTYXl6Snhldm5YWUpEMV9YVTczV1V3YVVsQVNuMkhQYnZ1bmJaREp2cTA2aHhZVUFybGNHY0d4cjdWOE5pUW5SYndQWA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Seminole Tribe Planning Rural Housing Near Lakeland - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Aug 06, 2019",
-      "summary": "Seminole Tribe Planning Rural Housing Near Lakeland LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0tHUFotMDVSakNuTkJGWlB0YU5qMmlBWkFraVJVT0xHQmlMX1VwM3hZQzNRQldiV3RYNVRGM2NUdTBleG55UWkxLVRISlZCakJaWjFncTd1dHoxU21qS294bDQ4aU5vZy04QTJxTFhZOW9iYlRsR19jZjZVd1NZNUFB?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland to Sell Former JCPenney Building and Orange Street Garage to Publix for $10 Each - LkldNow",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Under Construction",
-      "date": "Oct 17, 2025",
-      "summary": "Lakeland to Sell Former JCPenney Building and Orange Street Garage to Publix for $10 Each LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16QjBxWE5Kc1oyYjUzYm00ZVpCNmhDWTdRaDR5dDNmRDRHRHZSeWlQNjdQREpRcXJXMXZyUjJKWVIwMktkd2dZUHIwTnAyazFNbzh0Q3hWSU8xREVpSHJ4TjFlTzh4LWVjQldKTlQyUnozYmxtZUlj?oc=5",
       "featured": false
     }
   ]
