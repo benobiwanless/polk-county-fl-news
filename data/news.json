@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-08-23 03:14 UTC",
+  "last_updated": "2026-08-23 04:01 UTC",
   "feed_mode": "live-expanded",
   "items": [
-    {
-      "title": "In Polk, DeSantis touts Florida as leader in 'flying-car' development - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 10, 2026",
-      "summary": "In Polk, DeSantis touts Florida as leader in 'flying-car' development Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGFvOXVXZ2Vtd29qamtuZlNVaXVKOW1qc1lyU2JBVHVINUtJWmhjdFBHUDRrWU0tWnBOWXA0bmo5S0t4N0hSc2F4bkEzM0xqeERDaGZnTFFkYXl6Y3RaZmhVWmM2X2tKb0h6LTRFdjJhdy1PYzV1MS05X1pnTFJZNGQ2VjFsbFN6VGJDbkdGd2VIYmQtWlJhZnIySnZHaFBTb3MyU1RFR0kwdk9rOG9hOEV0amlOaTNnUDQ2WGs1TFluR3Rwc2hSYkJYTmxNOGh5N0tiX3FSano3dkNrRWc?oc=5",
-      "featured": false
-    },
     {
       "title": "Why a Polk County town is excited about a new Culver's opening Aug. 3 - Lakeland Ledger",
       "city": "Lakeland",
@@ -24,6 +12,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcl9Oa3RFU0hvVEsyS3VtNlVzdTlzVDhYSjlhTDBjU19FU05pT0tOS18xVmMwNnBKNmU4WEs5ek43anptZmtual81dkZ5RVdhQmc2ekQxWVp3T0RzSS1qLTNtZEZVRHlaWXhubEl2UTdDcUdBb2Fhc3dSVFNlQVl6RXFOaldwZkFrQXh2M0ZjRGh1bUJkeDVKUmFITFN0dVI3M2x3T3pFVk9HcXZWZ1p3elRpcWhLQ01aOFZYaU5SRzRtVk5DU1BIN0NTcnlaa1l5RmduRXZkbXhJVEtMZjdn?oc=5",
+      "featured": false
+    },
+    {
+      "title": "In Polk, DeSantis touts Florida as leader in 'flying-car' development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 10, 2026",
+      "summary": "In Polk, DeSantis touts Florida as leader in 'flying-car' development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGFvOXVXZ2Vtd29qamtuZlNVaXVKOW1qc1lyU2JBVHVINUtJWmhjdFBHUDRrWU0tWnBOWXA0bmo5S0t4N0hSc2F4bkEzM0xqeERDaGZnTFFkYXl6Y3RaZmhVWmM2X2tKb0h6LTRFdjJhdy1PYzV1MS05X1pnTFJZNGQ2VjFsbFN6VGJDbkdGd2VIYmQtWlJhZnIySnZHaFBTb3MyU1RFR0kwdk9rOG9hOEV0amlOaTNnUDQ2WGs1TFluR3Rwc2hSYkJYTmxNOGh5N0tiX3FSano3dkNrRWc?oc=5",
       "featured": false
     },
     {
@@ -243,18 +243,6 @@
       "featured": false
     },
     {
-      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Bay News 9",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Jan 27, 2026",
-      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Bay News 9",
-      "source": "Bay News 9",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
-      "featured": false
-    },
-    {
       "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire",
       "city": "Polk County",
       "category": "Development",
@@ -264,6 +252,18 @@
       "source": "DrydenWire",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Bay News 9",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Jan 27, 2026",
+      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Bay News 9",
+      "source": "Bay News 9",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
       "featured": false
     },
     {
@@ -315,18 +315,6 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
-      "source": "wtsp.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
       "city": "Polk County",
       "category": "Community",
@@ -351,27 +339,15 @@
       "featured": false
     },
     {
-      "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 20, 2025",
-      "summary": "Polk County high school rezoning plan: See all the current and proposed zones Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County schedules public forums on school rezoning - Bay News 9",
+      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Aug 26, 2025",
-      "summary": "Polk County schedules public forums on school rezoning Bay News 9",
-      "source": "Bay News 9",
+      "date": "Aug 12, 2025",
+      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
+      "source": "wtsp.com",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYllSRWExX2QwOUZkdFNMZEFGU0lhckhGMEtSVHh1aWxCRlM1TV9YSGpIWWtpNXhrMHNxX0RHaXlMVEwyeXhuZDd5eHhUb1kwT0dhSGR4MXBxX0JFZ21iQ2xHM0NQZ25zZUJUMXFRSzhDQ0tYaGN3S0pobWxfR2pTbWxxY1VHRUJUanFxSXh0bVJVbVZMNWtHejFjS2wyV3FhcVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
       "featured": false
     },
     {
@@ -384,6 +360,18 @@
       "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkxyODNuSm5Ja3pXQW9kOVFOU1NHZnBjUVpQeGZsNzItTTM1bnBWTFVVWXphZUNUUWtzbUFqVjBqeUZIUFMyclg1azVvczJUTS1UaVN6S3FpMU1vTVhGMVJoZXdQNVJBeFBGY2dhdDcwN1JyZ1NKVUc0c2J6QjdkaG9WVGU3Z0I0dGlYemN5aU53MjVfSF9oa3NqT0lIYUFOOVBtbXRac0pVc1NpQlJvbnZwQzhBMTdqendrTzhIZU4?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County schedules public forums on school rezoning - Bay News 9",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 26, 2025",
+      "summary": "Polk County schedules public forums on school rezoning Bay News 9",
+      "source": "Bay News 9",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYllSRWExX2QwOUZkdFNMZEFGU0lhckhGMEtSVHh1aWxCRlM1TV9YSGpIWWtpNXhrMHNxX0RHaXlMVEwyeXhuZDd5eHhUb1kwT0dhSGR4MXBxX0JFZ21iQ2xHM0NQZ25zZUJUMXFRSzhDQ0tYaGN3S0pobWxfR2pTbWxxY1VHRUJUanFxSXh0bVJVbVZMNWtHejFjS2wyV3FhcVE?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1068,18 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0tHUFotMDVSakNuTkJGWlB0YU5qMmlBWkFraVJVT0xHQmlMX1VwM3hZQzNRQldiV3RYNVRGM2NUdTBleG55UWkxLVRISlZCakJaWjFncTd1dHoxU21qS294bDQ4aU5vZy04QTJxTFhZOW9iYlRsR19jZjZVd1NZNUFB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland to Sell Former JCPenney Building and Orange Street Garage to Publix for $10 Each - LkldNow",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Under Construction",
+      "date": "Oct 17, 2025",
+      "summary": "Lakeland to Sell Former JCPenney Building and Orange Street Garage to Publix for $10 Each LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16QjBxWE5Kc1oyYjUzYm00ZVpCNmhDWTdRaDR5dDNmRDRHRHZSeWlQNjdQREpRcXJXMXZyUjJKWVIwMktkd2dZUHIwTnAyazFNbzh0Q3hWSU8xREVpSHJ4TjFlTzh4LWVjQldKTlQyUnozYmxtZUlj?oc=5",
       "featured": false
     }
   ]
