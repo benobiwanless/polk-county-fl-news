@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 15:34 UTC",
+  "last_updated": "2026-08-24 16:14 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -96,6 +96,18 @@
       "source": "The Spokesman-Review",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - Dispatch Argus",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Grand Opening",
+      "date": "Aug 05, 2026",
+      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport Dispatch Argus",
+      "source": "Dispatch Argus",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckxacnR1TGg3VmVicndraWhUZTFwaDhNRzJMYmlkRS01TGFLQ2ZyZjB2NXU3VUVaTTE2UzM0cDZPaVROV2ZwV1NDaWYyeXYwV0RuVzVWUDh3SGFCYVYtTnc2ZnVmRmZYRXVCSFh1ZEViaEV6NWJ3UE1BWlFQLXI2OHpZdjBLRGZCS2ZZR1RRckVDU1ktbDJPY3FkLVFTbXN5dXYxY1NNWmk0UQ?oc=5",
       "featured": false
     },
     {
@@ -204,18 +216,6 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel - Bay News 9",
-      "city": "Lake Wales",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Lake Wales reaches new deal to redevelop historic Walesbilt Hotel Bay News 9",
-      "source": "Bay News 9",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFiaE5nVzY3RnMxUUpEZjluODhULTNQTUhQWWZJV2V4VV9ZRmVfVGNkLUExMG5QYVpOZ01yX3dONmVzSWdoMV9yMmJWNVZoT0ozeEFnV3BoY0pwRFZBX1l2R3RGZEMyRGo4R0dyNTdLQjAxYy1KeENhSjdTNE1hQzh3QlpEYXp4VW1CTkxJOGJqeENCZnhBdVFCM0ZSWTNBcXhqZFZqRDM5WUp3NXRQbw?oc=5",
       "featured": false
     },
     {
@@ -771,6 +771,18 @@
       "featured": false
     },
     {
+      "title": "Against an uproar from residents, Polk commissioners OK 1,876-home Creek Ranch development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Sep 21, 2023",
+      "summary": "Against an uproar from residents, Polk commissioners OK 1,876-home Creek Ranch development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGJ5YW5WZGEyUDJfdVZ6SzVVcW5IWS1KQ1YyWUZwOFcweW9pQkxhWWZ1cHdiOWtpd0FkQXZHQnk3d1QyY3ZSd1lMSkNuRVczMm5TMnAwUU1OajFrRDRncVNsWmFtOFZzN25CMkJoNEVHeS1XQjFnV2VBU2N5UmxpbDNYNjRjNHV4bTRrdE9haWMxeGx6N0VTWEZQYVk0dFVFUWxXMXlRdE1RVnhqd0xWd0kwaHA5enJMOUVjVm1pVEZnUmtqT3hDcjJkODVIMWM?oc=5",
+      "featured": false
+    },
+    {
       "title": "National big-box store will anchor massive new shopping center under construction in Haines City - Lakeland Ledger",
       "city": "Haines City",
       "category": "Retail",
@@ -855,6 +867,18 @@
       "featured": false
     },
     {
+      "title": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Nov 10, 2021",
+      "summary": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0txMnJ6MXoydVlxeTlYV3RVTWdnWXBnanduWTZFX0hiQzFlZy1EZXhaWG5POEdSSHNJVk5iNWtDZkVWTDVaM00tRDg4ZkxNS2xuc20tV3NEMmQxYlI2QmJPZmg5cHNTWGNFQnd0THhpTWpYVDlkZWNNcDU4NGFkSmJsU1hfV1lzbzQtVTAzMDU2NzBsMU9jWm5oYTRjdGtwbUxVYTFXRExhUzdtWEUzNzVjUFF2MDJwQzRDbS1ZU3FHVzE2WkNEemRnWkFUUWVzMnRNMUdaMm1KMG9vb1I0?oc=5",
+      "featured": false
+    },
+    {
       "title": "Lakeland Commission approves land use changes related to shipping containers, mobile home parks - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -876,18 +900,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGFMaGZmaEVjVDVoNW5WRW9TaTdYdm15LUJtV0NPN3FZcXM0X0JYN2lRaldlQXozUXY3dmVnVHlYNXg1bG9TcDRINTcyTlp6emFHcXJFRzJOMXMwM21RMFo2N1A3cno5ZkZHbUM4R0tnb051UFhHVU9fd3lPRFZTc3VfRVFrRVFMam14RFZpX1NlNjA2VmVlU0dkcGZJMTZHX2gzQ2cxVTk4V3FnWFFYLQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Update",
-      "date": "Nov 10, 2021",
-      "summary": "Lakeland's Airport Road has major development in the pipeline. Can it handle the growth? Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0txMnJ6MXoydVlxeTlYV3RVTWdnWXBnanduWTZFX0hiQzFlZy1EZXhaWG5POEdSSHNJVk5iNWtDZkVWTDVaM00tRDg4ZkxNS2xuc20tV3NEMmQxYlI2QmJPZmg5cHNTWGNFQnd0THhpTWpYVDlkZWNNcDU4NGFkSmJsU1hfV1lzbzQtVTAzMDU2NzBsMU9jWm5oYTRjdGtwbUxVYTFXRExhUzdtWEUzNzVjUFF2MDJwQzRDbS1ZU3FHVzE2WkNEemRnWkFUUWVzMnRNMUdaMm1KMG9vb1I0?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWVtNXBBZElwemhmSkQtV0k4NThYVTNXLXlPZ0Fpa3J2SzVQQ3pWQ2VySS1GOExPal9QV3R1Y1NKR3dFR1E0cGdTdENVU1FjcWRpUFA0eElYX3luVG4wRzVTYXl6Snhldm5YWUpEMV9YVTczV1V3YVVsQVNuMkhQYnZ1bmJaREp2cTA2aHhZVUFybGNHY0d4cjdWOE5pUW5SYndQWA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Seminole Tribe Planning Rural Housing Near Lakeland - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Aug 06, 2019",
-      "summary": "Seminole Tribe Planning Rural Housing Near Lakeland LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0tHUFotMDVSakNuTkJGWlB0YU5qMmlBWkFraVJVT0xHQmlMX1VwM3hZQzNRQldiV3RYNVRGM2NUdTBleG55UWkxLVRISlZCakJaWjFncTd1dHoxU21qS294bDQ4aU5vZy04QTJxTFhZOW9iYlRsR19jZjZVd1NZNUFB?oc=5",
       "featured": false
     }
   ]
