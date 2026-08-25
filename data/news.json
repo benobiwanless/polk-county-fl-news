@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 15:02 UTC",
+  "last_updated": "2026-08-25 15:56 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -75,18 +75,6 @@
       "featured": false
     },
     {
-      "title": "New housing development aims to help homeless people in Davenport - KWQC",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 15, 2026",
-      "summary": "New housing development aims to help homeless people in Davenport KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
-      "featured": false
-    },
-    {
       "title": "2026 Construction Season - City of Davenport",
       "city": "Davenport",
       "category": "Development",
@@ -120,6 +108,18 @@
       "source": "The Spokesman-Review",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New housing development aims to help homeless people in Davenport - KWQC",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 15, 2026",
+      "summary": "New housing development aims to help homeless people in Davenport KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
       "featured": false
     },
     {
@@ -216,18 +216,6 @@
       "source": "VCU News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
       "featured": false
     },
     {
@@ -927,18 +915,6 @@
       "featured": false
     },
     {
-      "title": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Coming Soon",
-      "date": "Mar 16, 2005",
-      "summary": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3Y1ekpicHp0ZWh6U25FcW5QVkdPdWtWc0YxY0VvaXp2aXd4M1FhT1U5VjFaemVjUGxpVTh3Rk9ib09LR2liMTB4dWlkS2xiS1NYeWIwUXB2ejliVWt1UUNLaTNpNG1mTnZQZVVlaWFzeTQ3ejRvVWdGbmItNWxpZ0lDcUFvdkE4blFlTDZDNWQtQ1hPNkpXNnFmVzU5WTI4RDE0N3d3Y0tzSGJDVkdZRkIxZWtnOHVhR0JQREFQLVptcFBLZnNUU0xEQ1VmWEMyMUE?oc=5",
-      "featured": false
-    },
-    {
       "title": "Large, 57,008-square-foot Publix is coming to U.S. 27 in Davenport - Lakeland Ledger",
       "city": "Davenport",
       "category": "Retail",
@@ -1080,6 +1056,30 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1B5emY0enlFSGhGTkoweHUzV0QtOXBEMG1xLU81UHdtVzA0Z2NHTU1xYk4yOHFYb2EyNjA1aVZTendZdXZFUnlUbVdDRmNzOHJZblA5d19vXzNCVDZnZTNwSlI2OWJZOGc1Y0NxQVdldlpXUDM0eFRzRFZXN1h3dkhmMzlCVTQwWi1mYmpR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 18, 2023",
+      "summary": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUURpenh4TkczQWh2ZFNBb01zNVAxRHBoa20zZm5TUFNMU1Jpc2JxWU1kdGJGVVNEQnlWOUpoV2FtSkExUFVIZElDTGIwSEwzLUpmY3lmZGZaV3NYeEtENHEtZ29NYU8yMU9FS2JRamxmY1VmTHByYWYybDVQTDI2eUNmUlNRMHM1NkZVbFJHaVFFeTlMRjVvYWg3X01rVTdT?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Development Momentum Generating Interest in Lakeland’s Redevelopment Districts - LkldNow",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Apr 27, 2022",
+      "summary": "Development Momentum Generating Interest in Lakeland’s Redevelopment Districts LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWVtNXBBZElwemhmSkQtV0k4NThYVTNXLXlPZ0Fpa3J2SzVQQ3pWQ2VySS1GOExPal9QV3R1Y1NKR3dFR1E0cGdTdENVU1FjcWRpUFA0eElYX3luVG4wRzVTYXl6Snhldm5YWUpEMV9YVTczV1V3YVVsQVNuMkhQYnZ1bmJaREp2cTA2aHhZVUFybGNHY0d4cjdWOE5pUW5SYndQWA?oc=5",
       "featured": false
     }
   ]
