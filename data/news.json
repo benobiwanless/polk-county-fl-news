@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 08:06 UTC",
+  "last_updated": "2026-08-26 08:59 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -135,18 +135,6 @@
       "featured": false
     },
     {
-      "title": "New housing development aims to help homeless people in Davenport - KWQC",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 15, 2026",
-      "summary": "New housing development aims to help homeless people in Davenport KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
-      "featured": false
-    },
-    {
       "title": "New construction partially collapses in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -156,6 +144,18 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New housing development aims to help homeless people in Davenport - KWQC",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 15, 2026",
+      "summary": "New housing development aims to help homeless people in Davenport KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
       "featured": false
     },
     {
@@ -219,15 +219,15 @@
       "featured": false
     },
     {
-      "title": "City looks at future developments - City of Davenport",
+      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
-      "date": "May 08, 2026",
-      "summary": "City looks at future developments City of Davenport",
-      "source": "City of Davenport",
+      "date": "Jan 09, 2026",
+      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
+      "source": "VCU News",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1RqMXhPUUhPSVFBejRFZTZIT01HVl9DaGk1a2JBdU1WZnk2RENHWWNvTFJvaWtEU0hpM2JaX1lDUk5xNjNzWllkdnpiLU9HRW9PWXNNaFNNcU9iZ25FSVVhRFFmNXA5LTJEQXdYV2pIMW13NXlqd1NIcGV1OE5MUy1Ub0JVYUkyT2xiOXNkOU4yMjNUWGp5aFZnTF9SNlNUVy00QjdR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
       "featured": false
     },
     {
@@ -531,6 +531,18 @@
       "featured": false
     },
     {
+      "title": "'There's an expectation': Governments realize broadband isn't just a private-sector issue - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Jun 11, 2021",
+      "summary": "'There's an expectation': Governments realize broadband isn't just a private-sector issue Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON3VLZHVrd19tbWJlYk5mYl9rX0FTNTRRc05ic21wRkhsVU00NmhwR0dXdmVvR0I3Mk5zWmRBTGY1ajN6TV9KQW92UlZYNjNlZnlTTks0WllnV3FuSWc0eGJXSHo3SlBoS3BMQ2VYa2x6bmtTRWpZODdzdHBuRHRwOUh0U1ZwZHJOSjBxQ1BIMkZueGE0cGhneVVvYUJ1aDhQMVJVQjFfT2FpY1lYeHpQWUpfaGxpZ0M1V0NheHJQUnlHaDJvQWNGcDA3bGVHSnF1ak9LSXZhR0lnRzN2X0FoQjZleUlPRU9FWlE?oc=5",
+      "featured": false
+    },
+    {
       "title": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -576,18 +588,6 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
-      "featured": false
-    },
-    {
-      "title": "2 Polk County Restaurants Planning to Open This May - Business Debut",
-      "city": "Polk County",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "May 06, 2026",
-      "summary": "2 Polk County Restaurants Planning to Open This May Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1JIMS1GZTJQTW9uV2JIaF9tLUNWbFFSQ2xsZ244NnlsMDBhVGQ2R0x2R0loUFk4Wmo5V3pNdGFsVUVvc3FqSjVWQ0llRkxjaHJPWmtIU0Y4RXpLajZVSlF2Vy0zTldEWFZLQl9wTlZ6T2o2cjJCSHNMVWVGR0FiYjRDazJZb200RXc?oc=5",
       "featured": false
     },
     {
