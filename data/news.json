@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28 12:46 UTC",
+  "last_updated": "2026-08-28 22:47 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -192,30 +192,6 @@
       "source": "VCU News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support - WQAD",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix restaurant in downtown Davenport says it's at risk of closing without community support WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
-      "featured": false
-    },
-    {
-      "title": "City looks at future developments - City of Davenport",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 08, 2026",
-      "summary": "City looks at future developments City of Davenport",
-      "source": "City of Davenport",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1RqMXhPUUhPSVFBejRFZTZIT01HVl9DaGk1a2JBdU1WZnk2RENHWWNvTFJvaWtEU0hpM2JaX1lDUk5xNjNzWllkdnpiLU9HRW9PWXNNaFNNcU9iZ25FSVVhRFFmNXA5LTJEQXdYV2pIMW13NXlqd1NIcGV1OE5MUy1Ub0JVYUkyT2xiOXNkOU4yMjNUWGp5aFZnTF9SNlNUVy00QjdR?oc=5",
       "featured": false
     },
     {
@@ -591,6 +567,18 @@
       "featured": false
     },
     {
+      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 18, 2026",
+      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event QuadCities.com",
+      "source": "QuadCities.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUc0QS1EVnBHSGpGRGJPVXpaYlRUX1Y3YjctX1d3WVBYSzduM2ZhWlZqRlJkWkJqU1JFMFRXQVJwS0xETUl4ZlRwdnF5QWFYTGE0ZG9rQm03dDU1VUVoV2F2eTV2Wm9RU0ttLXk4aWhZdWtsd0Y1UFlMYUJsN003QUlMcGNMbmZHbTFyb0J1YWZwa0dGdnpFTGRXRjVVdlp2V0FKeHM2SkFfN1Vqalc2SEh2VlNLcDNISzVhag?oc=5",
+      "featured": false
+    },
+    {
       "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
@@ -612,18 +600,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jul 18, 2026",
-      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event QuadCities.com",
-      "source": "QuadCities.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUc0QS1EVnBHSGpGRGJPVXpaYlRUX1Y3YjctX1d3WVBYSzduM2ZhWlZqRlJkWkJqU1JFMFRXQVJwS0xETUl4ZlRwdnF5QWFYTGE0ZG9rQm03dDU1VUVoV2F2eTV2Wm9RU0ttLXk4aWhZdWtsd0Y1UFlMYUJsN003QUlMcGNMbmZHbTFyb0J1YWZwa0dGdnpFTGRXRjVVdlp2V0FKeHM2SkFfN1Vqalc2SEh2VlNLcDNISzVhag?oc=5",
       "featured": false
     },
     {
@@ -855,18 +831,6 @@
       "featured": false
     },
     {
-      "title": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 - Lakeland Ledger",
-      "city": "Haines City",
-      "category": "Development",
-      "status": "Update",
-      "date": "Apr 18, 2024",
-      "summary": "Haines City officials celebrate as Miller's Ale House begins construction off US 27 Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUTVtRzNFcXp2R1pxNi1xRlRybDhHeFFqVVBUNkZ0TVdxdDU2N2NKVElRUkVwOGVsNWlnVWtvQ2RGTml2WElfNUVOZTJFX3dKSi1Jd0FHSG94S2F0MDhwbjhLUzFMXzRSOFphVEhod3JGOWlwVGJTZDc3blk2RlRrTU9PUWxWYWRXWjFpTXNvN0V0NEU0dDl1UTJRWEJyb3dVWXBFbkN1bG1LRDRPTU10YmFvMk4tNDFRQzJYMmNORTQ0YWFxSm1iaGczaURLZw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Denied at first, Morgan Creek gets another chance at expansion - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -888,18 +852,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN2dVQ3Utcm8wQVdkdC0wREo1YkRHVF9XenBJWEM0ZkFDbTdhRlhoM1Y2elBCTHgtNzZmc09WdzhBcmRQMjgydFNHMWlxRmlucWwwdEtmeFJacUJzRlZqbFBMb3pwd0lPSVRod1lsOHhUN0w5b0NQdzRNcVVaZ2J0ZGlwUzdRWndIdXZ0R1cwTndBWFFEXzVFMGxTVEtkMjNISU9LbmdtWU5kd3JMNm9CdDJwVmw1ZVh6RW9xUG9BZUtpLWhpalFpQm9URnZMWERQaFZtdA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "18,000-Acre Development Near Bartow Awaits Approval - Lakeland Ledger",
-      "city": "Bartow",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 05, 2007",
-      "summary": "18,000-Acre Development Near Bartow Awaits Approval Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGFMaGZmaEVjVDVoNW5WRW9TaTdYdm15LUJtV0NPN3FZcXM0X0JYN2lRaldlQXozUXY3dmVnVHlYNXg1bG9TcDRINTcyTlp6emFHcXJFRzJOMXMwM21RMFo2N1A3cno5ZkZHbUM4R0tnb051UFhHVU9fd3lPRFZTc3VfRVFrRVFMam14RFZpX1NlNjA2VmVlU0dkcGZJMTZHX2gzQ2cxVTk4V3FnWFFYLQ?oc=5",
       "featured": false
     },
     {
@@ -975,18 +927,6 @@
       "featured": false
     },
     {
-      "title": "3 Bank Branches Among Latest Developments At Berry Town Center - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jun 01, 2006",
-      "summary": "3 Bank Branches Among Latest Developments At Berry Town Center Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDMwX0lLMlNXTzhKOEdfODMwRFdxZF9hZDNMTGMzdVlDUU1lWHdYOWk0V21ucHl3cTM1M3ctVjE1empkRTg3Zm9RT0ZKaU1MaTJlWnJyQldFb2F6NjBWekhlVzJzLTdPVGNUdE5ldUgtSy1kOVZBOENwVTYzYTFLVnRobmFCb3phWVFTSUlSNXFCZFJ0RU5SSlBRdVFObDdtMTlxQzV2eFBfOVJUN0xkX0FFRi00VDZ6ODBOQ0o0WTk?oc=5",
-      "featured": false
-    },
-    {
       "title": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents - Lakeland Ledger",
       "city": "Auburndale",
       "category": "Retail",
@@ -1020,6 +960,30 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRjZWbk5ob3ZIaVZmUDRRUmY3QjZ6VTVqTVJjWUUwLWFJSlZfQVI0SzZnZ0NuWUZpVU9VNnJDZTdTYmJRY2I3M1hUd2FTa3ZEMTQ4cU9ETUR4MjYzTzY4TGFITWt3aHRFRjdxUGtaNlVHcWdNYi1DMVhnNzRLTXNFU1RxMlhDZlEwMkJ3UFhsTlpGUmlreDVzaWxfLW9FVXFxSFJEOXBVQ0w2SnNSaHlBQkFXM1JBOExQREFPNzZOdUlmMFVuRGFtdEdoYUNpOUFuZE9CYlI1SVNMTHoxZFlpM0RUS3gxVUEzS2Q4?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "May 19, 2025",
+      "summary": "Lake Wales Commission will hear developer's plan to annex 1,202 acres, build 2,950 homes Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRtZ2VhbVBIMDAwU1pvdFMwcWpOQW9nVUhsZlBpcUtRSlBMMFRBT1dSMkY3OUVSYzNPSFlFclFaRXQ3UDBfQWY0LVdQdVY0c2c1OHlQeHFOZW8xTVBxVGlzSnpZWWJzaTllcVlwUUsxRGV1Z25DbWdkT0U0a0JnZEFDMEk1eWl3U1JsS3psQUNPZmtLZEdnMUJIVEpIeXh3eGh3d0RhMTRwNnhvV3hoaGtGem1UVW0yUy1ucG5vMUllemtwYi1maE1xOA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Publix navigates patchwork of county, city liquor store codes for new Havendale Boulevard site - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Jan 27, 2023",
+      "summary": "Publix navigates patchwork of county, city liquor store codes for new Havendale Boulevard site Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFI0V01PQjRWOS10M0dTSDZ3U1hEREkzZGprV1VaUTB1S3BMb0lwenJ3SUNuOGhfX2p5czNrWmhhaDU3NVAta2xLTDU0eEgzWEk0S3JPVFRzMWtHaEduX0s3UXhaMl9mNld4b1kzZjNBSkVXU0w5RjkyOWhEUlVua0ZRRGZyUm5hZlJmY25PV1RjRjczTUFWcm1uY2RiQ1EtQ1o0MklycEFqR1ZkTE1NZi1hZ0t2OHpLdktQU2dndDI4UmZtdVpCRFE2b0lNS0J6OGw5dGpWUXlJejVWMktkQ1UtNkU0Y0Y5UGsxcDBFazZyS3M?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1044,42 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUURpenh4TkczQWh2ZFNBb01zNVAxRHBoa20zZm5TUFNMU1Jpc2JxWU1kdGJGVVNEQnlWOUpoV2FtSkExUFVIZElDTGIwSEwzLUpmY3lmZGZaV3NYeEtENHEtZ29NYU8yMU9FS2JRamxmY1VmTHByYWYybDVQTDI2eUNmUlNRMHM1NkZVbFJHaVFFeTlMRjVvYWg3X01rVTdT?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Seminole Tribe Planning Rural Housing Near Lakeland - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Aug 06, 2019",
+      "summary": "Seminole Tribe Planning Rural Housing Near Lakeland LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0tHUFotMDVSakNuTkJGWlB0YU5qMmlBWkFraVJVT0xHQmlMX1VwM3hZQzNRQldiV3RYNVRGM2NUdTBleG55UWkxLVRISlZCakJaWjFncTd1dHoxU21qS294bDQ4aU5vZy04QTJxTFhZOW9iYlRsR19jZjZVd1NZNUFB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland to Sell Former JCPenney Building and Orange Street Garage to Publix for $10 Each - LkldNow",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Under Construction",
+      "date": "Oct 17, 2025",
+      "summary": "Lakeland to Sell Former JCPenney Building and Orange Street Garage to Publix for $10 Each LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16QjBxWE5Kc1oyYjUzYm00ZVpCNmhDWTdRaDR5dDNmRDRHRHZSeWlQNjdQREpRcXJXMXZyUjJKWVIwMktkd2dZUHIwTnAyazFNbzh0Q3hWSU8xREVpSHJ4TjFlTzh4LWVjQldKTlQyUnozYmxtZUlj?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Clash of Visions: Lakeland and Auburndale at Odds Over Proposed Warehouse Near Florida Poly - LkldNow",
+      "city": "Auburndale",
+      "category": "Commercial",
+      "status": "Coming Soon",
+      "date": "Dec 07, 2023",
+      "summary": "Clash of Visions: Lakeland and Auburndale at Odds Over Proposed Warehouse Near Florida Poly LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2dFQzhKNkNsNjd5Q3IybXdSVF9fd2w2dmVvZzRfMU9QRVlmX2hfNVcwVV9zTk5tUW05MmNhc25MSVdRaEl6NEl0VmJRa1JWR2tlMTUtaWZWMU1BMEtVN3FaM2NkZFdzOEY5QlpVQ2dpdGh3Q2wzZzJvbEV3VUdsZkl0TnpZTGROMVBQSERVLTlfR05zMU9MdV83SWJZUlVvY29kQ1g5T1k4WnZYTjlYaXJreV9idw?oc=5",
       "featured": false
     }
   ]
