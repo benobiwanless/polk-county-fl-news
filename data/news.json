@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 17:08 UTC",
+  "last_updated": "2026-09-02 19:46 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -135,6 +135,18 @@
       "featured": false
     },
     {
+      "title": "Humility Homes announces 11-unit supportive housing project in Davenport - The Quad-City Times",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 08, 2026",
+      "summary": "Humility Homes announces 11-unit supportive housing project in Davenport The Quad-City Times",
+      "source": "The Quad-City Times",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFhRTHdRRTBFaEZyaWJoTEVIQWRmVlQ1VlYweGlyanU5YlV3Ti04d3pmSFZRMzB3dUg0Y1JzVHZMY1BFLURzUTQxMzI5SjdvM3RwaTh0X0dCZXJadzVsTl8xZjd1bjlWamdvbS1meXlBOVREUlpIcjNfalV2WnVFMlU0MzBSdnV4UkJiYUlEeTBtU1NKcGwydjktMjdGYUdGbWc?oc=5",
+      "featured": false
+    },
+    {
       "title": "New construction partially collapses in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -144,30 +156,6 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors - inlander.com",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 25, 2026",
-      "summary": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors inlander.com",
-      "source": "inlander.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYkM0S1NtSURlV1NXM1FuRzdnWWxOcmZiS2l3eFhvZzVHRnBXOVRwOFRqVDhobnc2Y05fb0pqS2NWU0VWNm8ydTBIVzJxdERmM1pFUklkQWo3Q2hCc0lEYTFvc0daWkdRblZrR2hQS2thd240c19ybHpEbEVvd1MtZ21PR2FLbmVGaDRxZU93Z2NaYzdLMlJGS2NxRXB1dU9JYm5qUjZKVzJ1WjB4eXJXZmlKWjl4TFlWWkR3WmN6WDNWT3Jtd1p3ckc2Ul94VGxmRm14S19KS3NhdUd3MHZ1c2xINlJLS3VRNWMxSHNiWENPamc5VFZzVEpn?oc=5",
       "featured": false
     },
     {
@@ -183,27 +171,15 @@
       "featured": false
     },
     {
-      "title": "City looks at future developments - davenportiowa.com",
+      "title": "City looks at future developments - City of Davenport",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "May 08, 2026",
-      "summary": "City looks at future developments davenportiowa.com",
-      "source": "davenportiowa.com",
+      "summary": "City looks at future developments City of Davenport",
+      "source": "City of Davenport",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1RqMXhPUUhPSVFBejRFZTZIT01HVl9DaGk1a2JBdU1WZnk2RENHWWNvTFJvaWtEU0hpM2JaX1lDUk5xNjNzWllkdnpiLU9HRW9PWXNNaFNNcU9iZ25FSVVhRFFmNXA5LTJEQXdYV2pIMW13NXlqd1NIcGV1OE5MUy1Ub0JVYUkyT2xiOXNkOU4yMjNUWGp5aFZnTF9SNlNUVy00QjdR?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Humility Homes announces 11-unit supportive housing project in Davenport - The Quad-City Times",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 08, 2026",
-      "summary": "Humility Homes announces 11-unit supportive housing project in Davenport The Quad-City Times",
-      "source": "The Quad-City Times",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFhRTHdRRTBFaEZyaWJoTEVIQWRmVlQ1VlYweGlyanU5YlV3Ti04d3pmSFZRMzB3dUg0Y1JzVHZMY1BFLURzUTQxMzI5SjdvM3RwaTh0X0dCZXJadzVsTl8xZjd1bjlWamdvbS1meXlBOVREUlpIcjNfalV2WnVFMlU0MzBSdnV4UkJiYUlEeTBtU1NKcGwydjktMjdGYUdGbWc?oc=5",
       "featured": false
     },
     {
@@ -216,6 +192,30 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMzliVEI1cDZjMmY3bG81YnN1V192U3lQZGFfbTNxTnNJWE44RURaWDJScUxVMlN2alZBY0Q1S3VtV1dzTHp1SUpkblVaTmRHbzFhUkpiOHVaLVVIRV9xLXhfazhUV0ItUTNHMWlocGRWbDFoNnBLZmd4RUZwajR2STV1TGpOcXRETDFnU2ZETDFNWFdvNHdQNTh2VGJkbllmdlkxdjliM2xQRHZmc2oyZWE4UHF6b2J5OHlNakloNWxReVR2bFJwT1ZJZlN3Zm12TjhWejlZT1Q1cDRB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport restaurant at risk of closing without community support - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "Davenport restaurant at risk of closing without community support WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New affordable housing in Lake Wales - FOX 13 Tampa Bay",
+      "city": "Lake Wales",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Apr 28, 2026",
+      "summary": "New affordable housing in Lake Wales FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2dvRmh3WFNEWXpSYjc1blFLaF9kb3N0aXpuZEtMM1NxYmp2SzEzaHVSTXZjelpROEd5UE5jbEctS2Z4THlCX3J3Q3ppSGQ5anl6NF9lXzIybTZhTFlYOFZad3FsR0xNeDFZRDhFNWJ3XzY0QmIzNS03R1pPNEhuWHFXQnNoTE0ycVY1aXVadDBxM0tqRU5yc09qaFFUdl9GVnNLazAxLXRqU0psSWpnR3Y4NVDSAboBQVVfeXFMTWhqbnBnWVpyRW5VNlNLWGxLaUhBQW9yVFM0NEh4Q3lMVnMzcFdNcmlpSmpNcFFIOWYxaENXbTBzLVFtSi1JUlFOSjZCSWNuVGpjcEpxbGNPUGVndjdYSlg2OU1YS1g5SHhjVUVPVjgzMUZJenZETjE2SGJOYThvcElyLVhlZ2Vobk9LcWZQeVJxVmpxODV6WmdMdmZiTk5QMFlJZjJSSlR1NndkekxocW5IWG5mV29KZVNR?oc=5",
       "featured": false
     },
     {
@@ -291,13 +291,13 @@
       "featured": false
     },
     {
-      "title": "Polk County schools plan comprehensive rezoning for 2026-27 school year - WFLA",
+      "title": "Polk County schools plan comprehensive rezoning for 2026-27 school year - wfla.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 02, 2025",
-      "summary": "Polk County schools plan comprehensive rezoning for 2026-27 school year WFLA",
-      "source": "WFLA",
+      "summary": "Polk County schools plan comprehensive rezoning for 2026-27 school year wfla.com",
+      "source": "wfla.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtaV21Pck1WRWd6V3V4UWpBUzYxa3hxbC1YWll6ajNOQ1RMRS01TUQyR0JZRzJxMTNTUDdGNXZ6THMtdkNYaDRzZEVTdHlUVm4teWtlRXJjVlRmVXltRGo3SmdxWXo4TjdtSWpXYTM5a2FYdlQtb2V0Y0NnWUl2OUx0dVQ2Y1BPeHJrM2w0eE8tWVI0VVZHY0piMktpMXZrdUxSUS0wR294Zk5ubU9v0gG0AUFVX3lxTE9SUEFrejZBT3V3RDlpZzl4OXZXbEdVUEs1S3hWMFQ4Y0s4ZjEwMjVCa2QyOGU4aS1BMnh4T2VHQ3FkUHdCR0VoU252UkcyMVdLcFB3OERneFNlRjZfY3diWklid3FfTXJNeFdUMVpobTBmd0hMWnhOamtmdTFsZW03NXdpLUZtYzZlTzZwNU5SRDVrUlhoa1UtSnRVc1dxY1dlXzd5MlNfamU2YkV4WDlfSEZ4Mw?oc=5",
       "featured": false
@@ -315,13 +315,13 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
+      "title": "Polk County Public Schools considering high school rezoning due to population changes - wfla.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 05, 2025",
-      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
-      "source": "WFLA",
+      "summary": "Polk County Public Schools considering high school rezoning due to population changes wfla.com",
+      "source": "wfla.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
       "featured": false
@@ -339,15 +339,27 @@
       "featured": false
     },
     {
-      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
+      "title": "Polk County Schools is looking at high school rezoning options - tampabay28.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 04, 2025",
-      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
-      "source": "Tampa Bay 28",
+      "summary": "Polk County Schools is looking at high school rezoning options tampabay28.com",
+      "source": "tampabay28.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Town hall Sept. 18 on rezoning of eastern Polk high schools changed to Haines City High - Lakeland Ledger",
+      "city": "Haines City",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Sep 16, 2025",
+      "summary": "Town hall Sept. 18 on rezoning of eastern Polk high schools changed to Haines City High Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDJSUWFBMkhabVYyajI3YzQyRkFUUUNGVVJyRnZ5ME1fX2x1a01FbWpDbnh3WnpnX203M2FyaDJSUGJ6OWdMSEhfLXpKWUlfYy12V1ZyYUtNSUR6TWVQTzJ3aXNJeHl0eW95UDNtNGw2d2hwYXhoU0dfNXIxcjltaWpZUi1PandZVlJRYW9wM1RyQTZSNDJRWmpqcHRGeERSS082emMzcVVJS3NtWmNEQnpKdE9Kazh2cllmTUE4UDNiZw?oc=5",
       "featured": false
     },
     {
@@ -483,27 +495,15 @@
       "featured": false
     },
     {
-      "title": "New and improved Redstone Room now open at Common Chord, Davenport - WVIK, Quad Cities NPR",
+      "title": "New and improved Redstone Room now open at Common Chord, Davenport - wvik.org",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Aug 31, 2026",
-      "summary": "New and improved Redstone Room now open at Common Chord, Davenport WVIK, Quad Cities NPR",
-      "source": "WVIK, Quad Cities NPR",
+      "summary": "New and improved Redstone Room now open at Common Chord, Davenport wvik.org",
+      "source": "wvik.org",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTnI0RUl1c1JmNFRoZEVNaWpxV1pmMk5KYWRpY2pHVG5lX2J2UFNyQ3N4Z3JLSUZnZzViZWlNTmFZaXV4NkhveHNiM082bTBHMFo2M0E5Zld3ZHljSEYzWmpET1JCTDE0SFZsOXB1bGtoX19Dc1NLYlpSSTE2Sl9zSGF1TFllRVkzQmNWYWduVGVwaFdIUVNtem1OTWZORzZKX0pUWnlCOVFqSGVhNm5sRmZ0OFk?oc=5",
-      "featured": false
-    },
-    {
-      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God (USA)",
-      "city": "Winter Haven",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "May 01, 2026",
-      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God (USA)",
-      "source": "Assemblies of God (USA)",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
       "featured": false
     },
     {
@@ -567,6 +567,18 @@
       "featured": false
     },
     {
+      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 09, 2026",
+      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
+      "featured": false
+    },
+    {
       "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -627,6 +639,18 @@
       "featured": false
     },
     {
+      "title": "Lakeland's Depot Arts District set for grand opening - FOX 13 Tampa Bay",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Oct 30, 2025",
+      "summary": "Lakeland's Depot Arts District set for grand opening FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUdReG5sWF9nM1Zzckd4R09jb1cyQ3p5TTNDX3hac2draGZzWDJmTU0yZHJmZUxRQlh3d0Q1NW11QU5EWW5yOEktWHlPMm91QWJrQnZETkhhXzVDNEI0S25qRDVmSHNOZk9sZnZySE1yalRCSHE5UDNjRm1oWUQ5eU5GWVEtanlsa05TSE42enRqTnZfRXkyStIBngFBVV95cUxPdmo1WGMwMURjT1Y4T1JFVXV5ZC10elJnTnI3QjFDd04yQ0gydUYwb1d1cllyOWVld1JwSUxjdm1HOUFtMTJ6cEtpVkg1RVRMekcxaW5CRUpoQ19DYW9UWnZPMDJidWxIZEJwNXQ4OEpvcXFHMUZ2bmNxVlI1YnlVQnZqZjNqdG9IMFlJWVBBRTIzMnlmNUx0aXh4VzFUQQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
       "city": "Davenport",
       "category": "Development",
@@ -636,30 +660,6 @@
       "source": "OurQuadCities",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jul 09, 2026",
-      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Burn Boot Camp East Davenport Grand Opening - WVIK, Quad Cities NPR",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jul 23, 2026",
-      "summary": "Burn Boot Camp East Davenport Grand Opening WVIK, Quad Cities NPR",
-      "source": "WVIK, Quad Cities NPR",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjdLZUtfX3VrWWhvY052bTlxeDZnWUdQVXBfcVZOWjJwY1Fnd2l5YkpIWWNscVJZVTJUSG84MTR5NEFBenYySjZjby1aQmdfTEtJa0E0LW8xckVTWS1UdGw4dTNaSlN4RU5EWE1jb2p4TFp3UFhiQk5rc05wVGlEbF9CWkFuQTBXRWdQSlBIajNmeDZoc0lGUmJJTlVWUEVuLVJZaVBscmJKV3hjd3c?oc=5",
       "featured": false
     },
     {
@@ -687,15 +687,15 @@
       "featured": false
     },
     {
-      "title": "Lakeland's Depot Arts District set for grand opening - FOX 13 Tampa Bay",
-      "city": "Lakeland",
+      "title": "Burn Boot Camp East Davenport Grand Opening - wvik.org",
+      "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
-      "date": "Oct 30, 2025",
-      "summary": "Lakeland's Depot Arts District set for grand opening FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
+      "date": "Jul 23, 2026",
+      "summary": "Burn Boot Camp East Davenport Grand Opening wvik.org",
+      "source": "wvik.org",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUdReG5sWF9nM1Zzckd4R09jb1cyQ3p5TTNDX3hac2draGZzWDJmTU0yZHJmZUxRQlh3d0Q1NW11QU5EWW5yOEktWHlPMm91QWJrQnZETkhhXzVDNEI0S25qRDVmSHNOZk9sZnZySE1yalRCSHE5UDNjRm1oWUQ5eU5GWVEtanlsa05TSE42enRqTnZfRXkyStIBngFBVV95cUxPdmo1WGMwMURjT1Y4T1JFVXV5ZC10elJnTnI3QjFDd04yQ0gydUYwb1d1cllyOWVld1JwSUxjdm1HOUFtMTJ6cEtpVkg1RVRMekcxaW5CRUpoQ19DYW9UWnZPMDJidWxIZEJwNXQ4OEpvcXFHMUZ2bmNxVlI1YnlVQnZqZjNqdG9IMFlJWVBBRTIzMnlmNUx0aXh4VzFUQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjdLZUtfX3VrWWhvY052bTlxeDZnWUdQVXBfcVZOWjJwY1Fnd2l5YkpIWWNscVJZVTJUSG84MTR5NEFBenYySjZjby1aQmdfTEtJa0E0LW8xckVTWS1UdGw4dTNaSlN4RU5EWE1jb2p4TFp3UFhiQk5rc05wVGlEbF9CWkFuQTBXRWdQSlBIajNmeDZoc0lGUmJJTlVWUEVuLVJZaVBscmJKV3hjd3c?oc=5",
       "featured": false
     },
     {
@@ -720,6 +720,42 @@
       "source": "Lakeland Gazette",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQV94MUoxVE5vX2hLc0d3a2tmc2xnR0FWY3lvSzdCYlBuNTZ2VGY2RGktR1FXRHJteFdlQ3ZDTC1BekR2dnpSMWdlYzRaUFhPR3ZrU1A1bFpzR1dYWmVLNWMzYm1ZT0ZJY0lMM0VHQ09zb2FEbUdVbjVFQklwWkhJZjRnSTFjemE1by1CeUJpWGR4V0U1M1g0U2U3Mnp0N1E?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Fourth Aldi opens in Lakeland amid company's record store-opening pace - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Grand Opening",
+      "date": "Dec 09, 2025",
+      "summary": "Fourth Aldi opens in Lakeland amid company's record store-opening pace Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWTQ4UFJjVjZvQWxCSVZrR005aXAtc3lERFVBRnpzU3N5cWZpMExKVmEwNWxWWHFrTzBQR0wzUVlUMkFiRWgtWDItRGRKQzRTUWN1T0wxUHV4ZGtGS0JySzJaU3duRmR5N3d4MGFmVG9saXZCV2E1VWxOZlg2SnRlczdSSWgzWnBNdS1PQWhNUHpQUEpIMElKNWpDSUZXZV9xSXJ0bXp6SlVOakI4YkxxVnVRV21SYnd3SU15OFBHbXNzNFNQRDRsQXRRVE1jYm9TTTc4WHRiVmV6aFJMOWlyRlRicTRPUQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Coming Soon: Main Street Landing - City of Davenport",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Coming Soon",
+      "date": "Mar 04, 2025",
+      "summary": "Coming Soon: Main Street Landing City of Davenport",
+      "source": "City of Davenport",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44V1NaTjRjNkxlanc1dWpKWUtqYTNzRXRYREVHNzRyckJEQUl0d0pWa3BueUZ6WDZjRmhOWG5kZkhUblg0bGhldWlPNjltT3plYVVOVWt6a2ZiM19xb2VTVWlWemJOU2ktMHRSM25kWDByd1RHaDVva3RCSFNWejA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Congressman Soto to host Grand Opening of his Winter Haven Office - soto.house.gov",
+      "city": "Winter Haven",
+      "category": "Commercial",
+      "status": "Grand Opening",
+      "date": "Jun 16, 2017",
+      "summary": "Congressman Soto to host Grand Opening of his Winter Haven Office soto.house.gov",
+      "source": "soto.house.gov",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnY4aWNDc1NxQ3drWDBrbDNZYS1mcnFxUkpjM2ttWmx6Y0JjakU1c19iMFdqU0dqVm9LbmxrekllMUtWQUNpazBrSG11eERHUi1KbFFhbWVhRTZVWk16SHFlT3JVYktPaFM1NWN6cUdUa2R5REhxajNSRDZHUHp1c2F3X0haTDNaSzktbVFNUmRDQWppTlRrMGNNNXJsR05XdWVoaQ?oc=5",
       "featured": false
     },
     {
@@ -1044,42 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16QjBxWE5Kc1oyYjUzYm00ZVpCNmhDWTdRaDR5dDNmRDRHRHZSeWlQNjdQREpRcXJXMXZyUjJKWVIwMktkd2dZUHIwTnAyazFNbzh0Q3hWSU8xREVpSHJ4TjFlTzh4LWVjQldKTlQyUnozYmxtZUlj?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Clash of Visions: Lakeland and Auburndale at Odds Over Proposed Warehouse Near Florida Poly - LkldNow",
-      "city": "Auburndale",
-      "category": "Commercial",
-      "status": "Coming Soon",
-      "date": "Dec 07, 2023",
-      "summary": "Clash of Visions: Lakeland and Auburndale at Odds Over Proposed Warehouse Near Florida Poly LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2dFQzhKNkNsNjd5Q3IybXdSVF9fd2w2dmVvZzRfMU9QRVlmX2hfNVcwVV9zTk5tUW05MmNhc25MSVdRaEl6NEl0VmJRa1JWR2tlMTUtaWZWMU1BMEtVN3FaM2NkZFdzOEY5QlpVQ2dpdGh3Q2wzZzJvbEV3VUdsZkl0TnpZTGROMVBQSERVLTlfR05zMU9MdV83SWJZUlVvY29kQ1g5T1k4WnZYTjlYaXJreV9idw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "City OKs 252 Apartments, the First of Several Complexes Proposed for Southwest Lakeland - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Coming Soon",
-      "date": "Mar 21, 2022",
-      "summary": "City OKs 252 Apartments, the First of Several Complexes Proposed for Southwest Lakeland LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTIxdWYxckdQNFdIbXdPNmp2U1hRWUx2T0diSmdvUGdqbnZSUUNseFlkVndtckJ2TDdsYUtjcmp4V3BkVU9wWC1mRWJ4NUdXeEhjamdMNzNjNmJaYy1HTFFFYmM1dExlVEFZWE9qODlteTBNeGZ3V0lnUW5OVV9QOF9BVXdheFVVamsxZF9GM2QzdlktWHpYVGc1Yi1oWFZQYmVDQndqaUN6enpFM21Ccw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland OKs 64 Townhomes — with Conditions - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 22, 2025",
-      "summary": "Lakeland OKs 64 Townhomes — with Conditions LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVVObmJBRDdxSXc5QTRmRTNKTUhZNDA3NHFwdGxESXlBeGtkR3pELVM2RzRsZEtlc2NlTS10UnZXN0NyWVpYV1NQSGQ0RzRxYWl5cUdxUmtmVEJkLVlUM0pMTWtjQWcyNUJvRWtkSHZaRWN4VVFCRVdVNnFhWW9pc3JzdTJXbUdRUDNRVWJmLVp0ZHhVV0t2N1RMLWt3Nlpa?oc=5",
       "featured": false
     }
   ]
