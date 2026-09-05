@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 21:12 UTC",
+  "last_updated": "2026-09-05 22:53 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -39,18 +39,6 @@
       "featured": false
     },
     {
-      "title": "Downtown Pizza leading a Wave of New Restaurants in Lake Wales HIstoric District - LakeWalesNews.net",
-      "city": "Lake Wales",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Sep 04, 2026",
-      "summary": "Downtown Pizza leading a Wave of New Restaurants in Lake Wales HIstoric District LakeWalesNews.net",
-      "source": "LakeWalesNews.net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEF1RzIzQ2NoalM5aWhkaDlrUmNmSHVWM1o3eDNGSzdUZjNZY0g1b0dQS0lzWnRVaWFxaDB6SUY5NGduUjZ4Ym1fTm94dU8ydW5nUG5aRVBHNGZ2MlhzSFpVSjZQREVJVXNLejlxY0c1ZVlLTUQxUnIyTWhybmp6YWJyQVhDR2JiLVBiSVZCSmR6a3dEYjNEUkEzZEc0MUJQSS1QM0ZVMDZ4T0VfcmpuNmF2SDVHM1h0czY4RWtlN3pxaXF5eW5YM2V2QmhyVmE2OEtqOU01amd6U0oxN05v?oc=5",
-      "featured": false
-    },
-    {
       "title": "New Rochelle due to hold hearing on zoning changes for future Davenport Neck development - Westfair Communications",
       "city": "Davenport",
       "category": "Development",
@@ -60,6 +48,18 @@
       "source": "Westfair Communications",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkptZVVSMXJLUElIbFV5S01BTm55NVR5X3QwWlY0TGtCeFdNVXRoS1g2ZkFVWUxpVzctRk9NVE5iLTl0VlRic0xDTXBuVHBUX2pfakkyU1M1amN3Zm1XNTNYSU9kc0hZSW9fdkh5Xy1GeVFZeGdzRl9uUHg0WWhJa3FPNXBvZnJtU2NfcDJEek9lS1h1WWlMUzNnZ1FOQ2hlcG9pcjlwbFJsSThhdEhLbm11SU04SkRCZ3RkSlJCbUV0cVo5eGc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Downtown Pizza leading a Wave of New Restaurants in Lake Wales HIstoric District - LakeWalesNews.net",
+      "city": "Lake Wales",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Sep 04, 2026",
+      "summary": "Downtown Pizza leading a Wave of New Restaurants in Lake Wales HIstoric District LakeWalesNews.net",
+      "source": "LakeWalesNews.net",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEF1RzIzQ2NoalM5aWhkaDlrUmNmSHVWM1o3eDNGSzdUZjNZY0g1b0dQS0lzWnRVaWFxaDB6SUY5NGduUjZ4Ym1fTm94dU8ydW5nUG5aRVBHNGZ2MlhzSFpVSjZQREVJVXNLejlxY0c1ZVlLTUQxUnIyTWhybmp6YWJyQVhDR2JiLVBiSVZCSmR6a3dEYjNEUkEzZEc0MUJQSS1QM0ZVMDZ4T0VfcmpuNmF2SDVHM1h0czY4RWtlN3pxaXF5eW5YM2V2QmhyVmE2OEtqOU01amd6U0oxN05v?oc=5",
       "featured": false
     },
     {
@@ -75,18 +75,6 @@
       "featured": false
     },
     {
-      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
-      "city": "Auburndale",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 27, 2026",
-      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
-      "source": "AdventHealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
-      "featured": false
-    },
-    {
       "title": "2026 Construction Season - City of Davenport",
       "city": "Davenport",
       "category": "Development",
@@ -96,30 +84,6 @@
       "source": "City of Davenport",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
-      "featured": false
-    },
-    {
-      "title": "A&M Family Restaurant opens in Davenport - Quad Cities Business Journal",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Aug 10, 2026",
-      "summary": "A&M Family Restaurant opens in Davenport Quad Cities Business Journal",
-      "source": "Quad Cities Business Journal",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDZHQtc3BpVFA2RkNDUDJxZVk0aTFwZ3RQS3MyRVJGQWJhaWJUV1dmRzFQTzg5dUZfZXNTM19ZYktrbnFZQ1hBTDNKbE1mRW1val9yS0V2YndZd0FBcjFfcWpMR2Z2V2xRZFlHcHV0bDloa0RTaFBjNmttTQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New housing development aims to help homeless people in Davenport - KWQC",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 15, 2026",
-      "summary": "New housing development aims to help homeless people in Davenport KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
       "featured": false
     },
     {
@@ -135,6 +99,30 @@
       "featured": false
     },
     {
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - adventhealth.com",
+      "city": "Auburndale",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 27, 2026",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale adventhealth.com",
+      "source": "adventhealth.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "A&M Family Restaurant opens in Davenport - quadcitiesbusiness.com",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Aug 10, 2026",
+      "summary": "A&M Family Restaurant opens in Davenport quadcitiesbusiness.com",
+      "source": "quadcitiesbusiness.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDZHQtc3BpVFA2RkNDUDJxZVk0aTFwZ3RQS3MyRVJGQWJhaWJUV1dmRzFQTzg5dUZfZXNTM19ZYktrbnFZQ1hBTDNKbE1mRW1val9yS0V2YndZd0FBcjFfcWpMR2Z2V2xRZFlHcHV0bDloa0RTaFBjNmttTQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "New construction partially collapses in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -144,6 +132,18 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New housing development aims to help homeless people in Davenport - KWQC",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 15, 2026",
+      "summary": "New housing development aims to help homeless people in Davenport KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
       "featured": false
     },
     {
@@ -171,6 +171,18 @@
       "featured": false
     },
     {
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 24, 2026",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "The Davenport Grand’s new lobby-level restaurant Lilac & Pine showcases regional flavors - inlander.com",
       "city": "Davenport",
       "category": "Restaurant",
@@ -183,15 +195,15 @@
       "featured": false
     },
     {
-      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
+      "title": "Davenport restaurant to close its doors - KWQC",
       "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jul 20, 2026",
-      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting The Quad-City Times",
-      "source": "The Quad-City Times",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 12, 2026",
+      "summary": "Davenport restaurant to close its doors KWQC",
+      "source": "KWQC",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenZIX0tBUDhFVmczYmM1NkgyVl9GTVVNUEFOU05FTjVEcEh1YVV5YWZSaHNudkZZaFFaTk9qNDA3NW5BMmgwU21CaTExZi1nRDJ6WUItUUo3aHVndml5SlgzR0ZrNGFTZllreklqOWtIQlU3YTQ4TGtNeU5jTGlPVEZhSXk4T1NFV3JPNWdMdkRiR2poZml0Z3Z2RGJTNGttb2plWmJHNkY?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
       "featured": false
     },
     {
@@ -219,13 +231,13 @@
       "featured": false
     },
     {
-      "title": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments - anniedance.substack.com",
+      "title": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments - Substack",
       "city": "Polk County",
       "category": "Development",
       "status": "Approved",
       "date": "Jun 14, 2026",
-      "summary": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments anniedance.substack.com",
-      "source": "anniedance.substack.com",
+      "summary": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments Substack",
+      "source": "Substack",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3NMZ3d4LVoxYlRvSlpibU9oZFBKcFJPODc4RUZUTi11V2NxMDQwM2FnbHZyS3NiOGo5Ynk0cXNTUzhTQWFkeXpORkNyd093dGFOVV9jeXpfMlppeHZuMUUyT1praDRpSWJkR183Xzg5SnF1bmlUc0NxMUxkXy1PTGhvNzlBVC1GODJZQ2xLd2lLekVjb2Q0b056amdxMWh1aTNVU2dJV1RkRnpLWldYOWVpU3BiRVU?oc=5",
       "featured": false
@@ -243,13 +255,13 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - tbbwmag.com",
       "city": "Polk City",
       "category": "Development",
       "status": "Update",
       "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
-      "source": "Tampa Bay Business and Wealth",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp tbbwmag.com",
+      "source": "tbbwmag.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
@@ -291,13 +303,13 @@
       "featured": false
     },
     {
-      "title": "School rezoning plan for Polk County - fox13news.com",
+      "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 28, 2025",
-      "summary": "School rezoning plan for Polk County fox13news.com",
-      "source": "fox13news.com",
+      "summary": "School rezoning plan for Polk County FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
       "featured": false
@@ -375,13 +387,13 @@
       "featured": false
     },
     {
-      "title": "New $170 million Davenport-area resort community expected to boost economy - fox13news.com",
+      "title": "New $170 million Davenport-area resort community expected to boost economy - FOX 13 Tampa Bay",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Update",
       "date": "Nov 15, 2023",
-      "summary": "New $170 million Davenport-area resort community expected to boost economy fox13news.com",
-      "source": "fox13news.com",
+      "summary": "New $170 million Davenport-area resort community expected to boost economy FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFxSzBiZHZ6ZmFGQ2xPeEc5RUxTNWhhVVV4MG9oZFltdzM4eWxVeExFQjhLb1hrSktpSGpkWTV4YVBuLTdNOFFSb3k0WDE1bkNpM2xRSS1UY1BoOV9leWt0V3l1aHBrMkRHM19ObVJ4U3RCdmo0ZEVjalUtbWZtbXlUdTk4N1lxNC0xSDRheUM0aDlhOWpQWDMxcUVvUklEU3kzWFBGRQ?oc=5",
       "featured": false
@@ -411,25 +423,25 @@
       "featured": false
     },
     {
-      "title": "3 Coming Soon Polk County Restaurants - Business Debut",
+      "title": "3 Coming Soon Polk County Restaurants - businessdebut.com",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Coming Soon",
       "date": "Aug 25, 2026",
-      "summary": "3 Coming Soon Polk County Restaurants Business Debut",
-      "source": "Business Debut",
+      "summary": "3 Coming Soon Polk County Restaurants businessdebut.com",
+      "source": "businessdebut.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03UnBTc2NRZzIzcVAzS1c0VXNOX18tbFpfaTZsU0psbmlaTnRVaUo3MmZjSGowd214Y2pBTEFmWnBPTFJkVUhqRzBXYmRNdVVPU2pDSzM0WHRUbm5YOUxXOE1RT2Q1bEZObDdjcGhid2lRRjBUWUxF?oc=5",
       "featured": false
     },
     {
-      "title": "6 Coming Soon Polk County Restaurants [April 10, 2026] - Business Debut",
+      "title": "6 Coming Soon Polk County Restaurants [April 10, 2026] - businessdebut.com",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Coming Soon",
       "date": "Apr 10, 2026",
-      "summary": "6 Coming Soon Polk County Restaurants [April 10, 2026] Business Debut",
-      "source": "Business Debut",
+      "summary": "6 Coming Soon Polk County Restaurants [April 10, 2026] businessdebut.com",
+      "source": "businessdebut.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcG41OHhja0JUQXYyRDdHVExTd0ExTkVrUjB0WDI0a1Q1VTJEemxtNEtEcGlvT2o3ZlZDcjRITlhXZTJCazBQS3U0RU1qZ1lIQzJhY2hVLTVVYVRMam5OVmZzSnBGVjR5MDk2RHdzNFJDUXlRTEJUZlJsM1lvZTVVNnhLVktscVlPcVE?oc=5",
       "featured": false
@@ -447,49 +459,49 @@
       "featured": false
     },
     {
-      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
+      "title": "A Look at 3 Restaurants Coming Soon in Polk County - businessdebut.com",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Coming Soon",
       "date": "May 30, 2026",
-      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
-      "source": "Business Debut",
+      "summary": "A Look at 3 Restaurants Coming Soon in Polk County businessdebut.com",
+      "source": "businessdebut.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
       "featured": false
     },
     {
-      "title": "2 Polk County Restaurants Planning to Open This May - Business Debut",
+      "title": "2 Polk County Restaurants Planning to Open This May - businessdebut.com",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Update",
       "date": "May 06, 2026",
-      "summary": "2 Polk County Restaurants Planning to Open This May Business Debut",
-      "source": "Business Debut",
+      "summary": "2 Polk County Restaurants Planning to Open This May businessdebut.com",
+      "source": "businessdebut.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1JIMS1GZTJQTW9uV2JIaF9tLUNWbFFSQ2xsZ244NnlsMDBhVGQ2R0x2R0loUFk4Wmo5V3pNdGFsVUVvc3FqSjVWQ0llRkxjaHJPWmtIU0Y4RXpLajZVSlF2Vy0zTldEWFZLQl9wTlZ6T2o2cjJCSHNMVWVGR0FiYjRDazJZb200RXc?oc=5",
       "featured": false
     },
     {
-      "title": "4 Polk County Restaurants Get Perfect Inspection Scores Ahead of Opening - Business Debut",
+      "title": "4 Polk County Restaurants Get Perfect Inspection Scores Ahead of Opening - businessdebut.com",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Jun 25, 2026",
-      "summary": "4 Polk County Restaurants Get Perfect Inspection Scores Ahead of Opening Business Debut",
-      "source": "Business Debut",
+      "summary": "4 Polk County Restaurants Get Perfect Inspection Scores Ahead of Opening businessdebut.com",
+      "source": "businessdebut.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWExZUxUaXJSdWd6NHkwSXRuaEdGVGRpd1VBRUlKMmdPVGhvN0ZpX1N6a3BYQWh3MDB4RUphR29nd1JkSHlZbk5rQ2dINTRQSEk1ZllzZHAzMXZrb3lXYkxZM1NZaU9IX2JvQVFKYXRNbk9zRU56T0gzSTNPNkJnNnFiWVJlVXpuckRyVlNHczRqR1FoM3JXWUo2SDNWczQxRm5MWTdCYUI?oc=5",
       "featured": false
     },
     {
-      "title": "5 Coming Soon Polk County Restaurants - Business Debut",
+      "title": "5 Coming Soon Polk County Restaurants - businessdebut.com",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Coming Soon",
       "date": "Nov 26, 2025",
-      "summary": "5 Coming Soon Polk County Restaurants Business Debut",
-      "source": "Business Debut",
+      "summary": "5 Coming Soon Polk County Restaurants businessdebut.com",
+      "source": "businessdebut.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KX1BOdno3MnhwNENJVlBfRlBRWUpKYnBrQ3loVUFWb3J0X0JxSE9pVnRUSEdEcllkTmMzZDJaeFU4bkE2dGxVc21LbURCOFcwWFhJUHM1NWJvTUpFWVBadFlza0RaVlpOTmpvR215Wmk4ZHFiMzBr?oc=5",
       "featured": false
@@ -519,13 +531,13 @@
       "featured": false
     },
     {
-      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - news.ag.org",
+      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God (USA)",
       "city": "Winter Haven",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 01, 2026",
-      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus news.ag.org",
-      "source": "news.ag.org",
+      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God (USA)",
+      "source": "Assemblies of God (USA)",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
       "featured": false
@@ -555,13 +567,13 @@
       "featured": false
     },
     {
-      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - QuadCities.com",
+      "title": "Bubbas 33 In Davenport Holding Grand Opening Event - quadcities.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 18, 2026",
-      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event QuadCities.com",
-      "source": "QuadCities.com",
+      "summary": "Bubbas 33 In Davenport Holding Grand Opening Event quadcities.com",
+      "source": "quadcities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUc0QS1EVnBHSGpGRGJPVXpaYlRUX1Y3YjctX1d3WVBYSzduM2ZhWlZqRlJkWkJqU1JFMFRXQVJwS0xETUl4ZlRwdnF5QWFYTGE0ZG9rQm03dDU1VUVoV2F2eTV2Wm9RU0ttLXk4aWhZdWtsd0Y1UFlMYUJsN003QUlMcGNMbmZHbTFyb0J1YWZwa0dGdnpFTGRXRjVVdlp2V0FKeHM2SkFfN1Vqalc2SEh2VlNLcDNISzVhag?oc=5",
       "featured": false
@@ -576,6 +588,18 @@
       "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 20, 2026",
+      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting The Quad-City Times",
+      "source": "The Quad-City Times",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenZIX0tBUDhFVmczYmM1NkgyVl9GTVVNUEFOU05FTjVEcEh1YVV5YWZSaHNudkZZaFFaTk9qNDA3NW5BMmgwU21CaTExZi1nRDJ6WUItUUo3aHVndml5SlgzR0ZrNGFTZllreklqOWtIQlU3YTQ4TGtNeU5jTGlPVEZhSXk4T1NFV3JPNWdMdkRiR2poZml0Z3Z2RGJTNGttb2plWmJHNkY?oc=5",
       "featured": false
     },
     {
@@ -603,13 +627,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
+      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
+      "source": "news-herald.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
@@ -639,13 +663,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland's Depot Arts District set for grand opening - fox13news.com",
+      "title": "Lakeland's Depot Arts District set for grand opening - FOX 13 Tampa Bay",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Oct 30, 2025",
-      "summary": "Lakeland's Depot Arts District set for grand opening fox13news.com",
-      "source": "fox13news.com",
+      "summary": "Lakeland's Depot Arts District set for grand opening FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUdReG5sWF9nM1Zzckd4R09jb1cyQ3p5TTNDX3hac2draGZzWDJmTU0yZHJmZUxRQlh3d0Q1NW11QU5EWW5yOEktWHlPMm91QWJrQnZETkhhXzVDNEI0S25qRDVmSHNOZk9sZnZySE1yalRCSHE5UDNjRm1oWUQ5eU5GWVEtanlsa05TSE42enRqTnZfRXkyStIBngFBVV95cUxPdmo1WGMwMURjT1Y4T1JFVXV5ZC10elJnTnI3QjFDd04yQ0gydUYwb1d1cllyOWVld1JwSUxjdm1HOUFtMTJ6cEtpVkg1RVRMekcxaW5CRUpoQ19DYW9UWnZPMDJidWxIZEJwNXQ4OEpvcXFHMUZ2bmNxVlI1YnlVQnZqZjNqdG9IMFlJWVBBRTIzMnlmNUx0aXh4VzFUQQ?oc=5",
       "featured": false
@@ -1056,30 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2dFQzhKNkNsNjd5Q3IybXdSVF9fd2w2dmVvZzRfMU9QRVlmX2hfNVcwVV9zTk5tUW05MmNhc25MSVdRaEl6NEl0VmJRa1JWR2tlMTUtaWZWMU1BMEtVN3FaM2NkZFdzOEY5QlpVQ2dpdGh3Q2wzZzJvbEV3VUdsZkl0TnpZTGROMVBQSERVLTlfR05zMU9MdV83SWJZUlVvY29kQ1g5T1k4WnZYTjlYaXJreV9idw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Upcoming 120 Acre Development – Crossroads Village Center Will House Proposed New Target, Restaurants, Hotel, Retail & Housing — Haines City - dailyridge.com",
-      "city": "Haines City",
-      "category": "Housing",
-      "status": "Coming Soon",
-      "date": "Feb 18, 2025",
-      "summary": "Upcoming 120 Acre Development – Crossroads Village Center Will House Proposed New Target, Restaurants, Hotel, Retail & Housing — Haines City dailyridge.com",
-      "source": "dailyridge.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWGJ4cU9HRUVJS2ZRaGRzWWRPeFRjWjY1VEF0NnNWSFFrcEtuZGNuUWdMSHJDU0JpV3hEc0dTc1NGSFhWNktYLVVNaWk4U2xhbndzYmhzSC10eDNEc0w5azBHbjJhY0pIRS12RDFfaEh0dzQ3TVVUelpobU5hcmZDMmNORjE3S2o2SUNtWE16RnFTUlVfTnYxU0lHZW41UlR0TDIteFlyX01XNmgwUnZkMmhhNzduOGZlVW4zNzhqR1hUUERzZkVRT3pDdkxsakFycnhsTkx4R2xmZHBKOWc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Haines City Economic Development Council Spurs Major Business Growth - dailyridge.com",
-      "city": "Haines City",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 11, 2025",
-      "summary": "Haines City Economic Development Council Spurs Major Business Growth dailyridge.com",
-      "source": "dailyridge.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZvXzJxaThJVWoyUVJmZnpBQ0tUbURTMEJhY0ZZb1BrdlVPaktib2pwWllYYjZKbk9MQ194cGkyVWJ2VElJYS1uT18zZWZTcGdUSU80cld4Q3BJNXhKcTdsSEhMbnV1blp3Slh0OHZxZWs2WFhWMDRGd2swZmkzcmFUbVBMSnBTSVVBeFFGME1jMHl6SGRYYV9DYXhwc2FDVUNGcVpB?oc=5",
       "featured": false
     }
   ]
