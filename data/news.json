@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 12:03 UTC",
+  "last_updated": "2026-09-05 15:09 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -39,18 +39,6 @@
       "featured": false
     },
     {
-      "title": "Downtown Pizza leading a Wave of New Restaurants in Lake Wales HIstoric District - LakeWalesNews.net",
-      "city": "Lake Wales",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Sep 04, 2026",
-      "summary": "Downtown Pizza leading a Wave of New Restaurants in Lake Wales HIstoric District LakeWalesNews.net",
-      "source": "LakeWalesNews.net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEF1RzIzQ2NoalM5aWhkaDlrUmNmSHVWM1o3eDNGSzdUZjNZY0g1b0dQS0lzWnRVaWFxaDB6SUY5NGduUjZ4Ym1fTm94dU8ydW5nUG5aRVBHNGZ2MlhzSFpVSjZQREVJVXNLejlxY0c1ZVlLTUQxUnIyTWhybmp6YWJyQVhDR2JiLVBiSVZCSmR6a3dEYjNEUkEzZEc0MUJQSS1QM0ZVMDZ4T0VfcmpuNmF2SDVHM1h0czY4RWtlN3pxaXF5eW5YM2V2QmhyVmE2OEtqOU01amd6U0oxN05v?oc=5",
-      "featured": false
-    },
-    {
       "title": "New Rochelle due to hold hearing on zoning changes for future Davenport Neck development - Westfair Communications",
       "city": "Davenport",
       "category": "Development",
@@ -60,6 +48,18 @@
       "source": "Westfair Communications",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkptZVVSMXJLUElIbFV5S01BTm55NVR5X3QwWlY0TGtCeFdNVXRoS1g2ZkFVWUxpVzctRk9NVE5iLTl0VlRic0xDTXBuVHBUX2pfakkyU1M1amN3Zm1XNTNYSU9kc0hZSW9fdkh5Xy1GeVFZeGdzRl9uUHg0WWhJa3FPNXBvZnJtU2NfcDJEek9lS1h1WWlMUzNnZ1FOQ2hlcG9pcjlwbFJsSThhdEhLbm11SU04SkRCZ3RkSlJCbUV0cVo5eGc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Downtown Pizza leading a Wave of New Restaurants in Lake Wales HIstoric District - LakeWalesNews.net",
+      "city": "Lake Wales",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Sep 04, 2026",
+      "summary": "Downtown Pizza leading a Wave of New Restaurants in Lake Wales HIstoric District LakeWalesNews.net",
+      "source": "LakeWalesNews.net",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEF1RzIzQ2NoalM5aWhkaDlrUmNmSHVWM1o3eDNGSzdUZjNZY0g1b0dQS0lzWnRVaWFxaDB6SUY5NGduUjZ4Ym1fTm94dU8ydW5nUG5aRVBHNGZ2MlhzSFpVSjZQREVJVXNLejlxY0c1ZVlLTUQxUnIyTWhybmp6YWJyQVhDR2JiLVBiSVZCSmR6a3dEYjNEUkEzZEc0MUJQSS1QM0ZVMDZ4T0VfcmpuNmF2SDVHM1h0czY4RWtlN3pxaXF5eW5YM2V2QmhyVmE2OEtqOU01amd6U0oxN05v?oc=5",
       "featured": false
     },
     {
@@ -87,13 +87,13 @@
       "featured": false
     },
     {
-      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - adventhealth.com",
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
       "city": "Auburndale",
       "category": "Development",
       "status": "Update",
       "date": "Jul 27, 2026",
-      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale adventhealth.com",
-      "source": "adventhealth.com",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
+      "source": "AdventHealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
       "featured": false
@@ -123,15 +123,15 @@
       "featured": false
     },
     {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
+      "title": "New construction partially collapses in Davenport - WQAD",
       "city": "Davenport",
-      "category": "Housing",
+      "category": "Development",
       "status": "Update",
-      "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
-      "source": "OurQuadCities",
+      "date": "Aug 04, 2026",
+      "summary": "New construction partially collapses in Davenport WQAD",
+      "source": "WQAD",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
       "featured": false
     },
     {
@@ -147,18 +147,6 @@
       "featured": false
     },
     {
-      "title": "New construction partially collapses in Davenport - WQAD",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 04, 2026",
-      "summary": "New construction partially collapses in Davenport WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
-      "featured": false
-    },
-    {
       "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -171,6 +159,30 @@
       "featured": false
     },
     {
+      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "May 20, 2026",
+      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
+      "source": "LODGING Magazine",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 09, 2026",
+      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
+      "featured": false
+    },
+    {
       "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - qctimes.com",
       "city": "Davenport",
       "category": "Restaurant",
@@ -180,18 +192,6 @@
       "source": "qctimes.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ19hVU8yUEhIV0ZzQXptSmJTUTRXbFdrRExmWEEzdXdpSVNiWmVjTG1idTBmY1lrY0RjX2hLREZvQkhndFpqalctSjdFdWtiZFFrczZBNktGMHpFUzgweHh2SFZZSDYyMUhOTHJ5RE04bWd1Zmo2SldBRmwxRzhaVmpsckljWW1WU3VQQWJPZjNwanhMWDRwRjdxVVg3WERyd3BrdDBWSmc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 09, 2026",
-      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
-      "source": "VCU News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
       "featured": false
     },
     {
@@ -243,25 +243,25 @@
       "featured": false
     },
     {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - drydenwire.com",
       "city": "Polk County",
       "category": "Development",
       "status": "Update",
       "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
-      "source": "DrydenWire.com",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes drydenwire.com",
+      "source": "drydenwire.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - tbbwmag.com",
       "city": "Polk City",
       "category": "Development",
       "status": "Update",
       "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
-      "source": "Tampa Bay Business and Wealth",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp tbbwmag.com",
+      "source": "tbbwmag.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
@@ -276,30 +276,6 @@
       "source": "wtsp.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Sep 04, 2025",
-      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
-      "featured": false
-    },
-    {
-      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 01, 2025",
-      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -579,13 +555,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
+      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
+      "source": "news-herald.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
@@ -807,6 +783,18 @@
       "featured": false
     },
     {
+      "title": "Denied at first, Morgan Creek gets another chance at expansion - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Nov 17, 2021",
+      "summary": "Denied at first, Morgan Creek gets another chance at expansion Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHphVjdJbmlFZkxDNG4xNmpveW9jTHhYWnZ4cWxLbmhUNmxYbGpOc05IelZSRG9vWjBMR1J2WHRMdE9uYlRrNWFsejhGWHNaVW9lVHRqeDlZUTVzcXNsamI2c0R4bkRETmM1MG1qMlh6b1NRaS1ra0p6YUoxY2IxeG1KWVlUbi1lblkycEszNnpxaDRlZHVMM1dXSjFnNktZNEtFcC04UGtmX05BRHNYUFc5Y0xXUDRPX3k4NFdINms5QjJHeDhZQVJqWk8tdmRRQ1RqWUJMdDVJR1ozbVE?oc=5",
+      "featured": false
+    },
+    {
       "title": "Lake Wales approves development that could double its population - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -816,6 +804,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUlpTGpJYWtLUDdDZTN5aWQyRmo4bS1CUmtzbkZXd3ZsUkYxQjlvWk5jNWRaU1BhaDNpQVJ0bmpFOE9kc01LOFltQ3k5ay1aZ29lNjUzbmtteThHcU1tVFQyY3hBQWNRY3p0X2hyYjN3aHNVUDdCa21OdHFGTnFyd0pXYWtEbXNwZ21qcTdfckxSQUYwaHFGamptR1dxQ1R0b0dqZlVpT0Z2WDU3ZlZuS0hNSjc4QmNxY1FqZGduZEFFQXdtWjdnZmg2RlhOOVphdDU3YjRzRUpBTUFSR3p3WA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Coming Soon",
+      "date": "Mar 16, 2005",
+      "summary": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3Y1ekpicHp0ZWh6U25FcW5QVkdPdWtWc0YxY0VvaXp2aXd4M1FhT1U5VjFaemVjUGxpVTh3Rk9ib09LR2liMTB4dWlkS2xiS1NYeWIwUXB2ejliVWt1UUNLaTNpNG1mTnZQZVVlaWFzeTQ3ejRvVWdGbmItNWxpZ0lDcUFvdkE4blFlTDZDNWQtQ1hPNkpXNnFmVzU5WTI4RDE0N3d3Y0tzSGJDVkdZRkIxZWtnOHVhR0JQREFQLVptcFBLZnNUU0xEQ1VmWEMyMUE?oc=5",
       "featured": false
     },
     {
@@ -936,18 +936,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRtZ2VhbVBIMDAwU1pvdFMwcWpOQW9nVUhsZlBpcUtRSlBMMFRBT1dSMkY3OUVSYzNPSFlFclFaRXQ3UDBfQWY0LVdQdVY0c2c1OHlQeHFOZW8xTVBxVGlzSnpZWWJzaTllcVlwUUsxRGV1Z25DbWdkT0U0a0JnZEFDMEk1eWl3U1JsS3psQUNPZmtLZEdnMUJIVEpIeXh3eGh3d0RhMTRwNnhvV3hoaGtGem1UVW0yUy1ucG5vMUllemtwYi1maE1xOA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lack of sewer capacity could delay 30 developments in Auburndale - Lakeland Ledger",
-      "city": "Auburndale",
-      "category": "Development",
-      "status": "Update",
-      "date": "Sep 02, 2024",
-      "summary": "Lack of sewer capacity could delay 30 developments in Auburndale Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3FLd21FTEhYLV84Tld3V1ZQQy1CTTUxVHJGTzB2Y2R0S3NyNHUtYzVNUFZSWTBQa0V2YVhfVjBvMWxqdVRNSENRdnhFTEI4THpKTkpTR0hGWlFGYXo1SE1XOFgzNnBLWk1Tc21kajFsMFN1UUZRU3ZHTFljdEtYbXpEbEQxTU1uZmVSd19QbVdqLWN6ZmEwdGRNU293cjQxd0p3bGtfWkVGTGQ3eHRXUlZzcWcwX05VU2ZfNGxhSlZZUjAt?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1068,18 @@
       "source": "dailyridge.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWGJ4cU9HRUVJS2ZRaGRzWWRPeFRjWjY1VEF0NnNWSFFrcEtuZGNuUWdMSHJDU0JpV3hEc0dTc1NGSFhWNktYLVVNaWk4U2xhbndzYmhzSC10eDNEc0w5azBHbjJhY0pIRS12RDFfaEh0dzQ3TVVUelpobU5hcmZDMmNORjE3S2o2SUNtWE16RnFTUlVfTnYxU0lHZW41UlR0TDIteFlyX01XNmgwUnZkMmhhNzduOGZlVW4zNzhqR1hUUERzZkVRT3pDdkxsakFycnhsTkx4R2xmZHBKOWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Haines City Economic Development Council Spurs Major Business Growth - dailyridge.com",
+      "city": "Haines City",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 11, 2025",
+      "summary": "Haines City Economic Development Council Spurs Major Business Growth dailyridge.com",
+      "source": "dailyridge.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZvXzJxaThJVWoyUVJmZnpBQ0tUbURTMEJhY0ZZb1BrdlVPaktib2pwWllYYjZKbk9MQ194cGkyVWJ2VElJYS1uT18zZWZTcGdUSU80cld4Q3BJNXhKcTdsSEhMbnV1blp3Slh0OHZxZWs2WFhWMDRGd2swZmkzcmFUbVBMSnBTSVVBeFFGME1jMHl6SGRYYV9DYXhwc2FDVUNGcVpB?oc=5",
       "featured": false
     }
   ]
