@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17 17:22 UTC",
+  "last_updated": "2026-09-17 20:25 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -51,18 +51,6 @@
       "featured": false
     },
     {
-      "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
-      "city": "Bartow",
-      "category": "Housing",
-      "status": "Approved",
-      "date": "Nov 11, 2025",
-      "summary": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVpwZS1OTHkyR25NUGdvTlJINTZ6bUh0VXJ5dk5mcWwwd1RLQ1JRbEMzS2dXNGpDSUNfRWUxZktFQnlHcXRMSGhZZ1A4dVVlWXYxZnBRbWdQcFRwVzZQaERFMWpEUjhnd1VYdUlpYUJnOHFSZm9ZRndxT1dPNmU0M2t3RXpya0NuNHdfV2E3X1VsOTBGN0tXZllCejZGVlJ5UC1QSjFqb0pHSm5NS29KekdacnoxVXBIUGtHT2dIakZPcDFiMGZUTUw5WlA5MlNvd0ZmTFNoVjRESVFxOXNkdkQzbTVMNW8?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County approves 747-home Highlands Club development - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -72,6 +60,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
+      "city": "Bartow",
+      "category": "Housing",
+      "status": "Approved",
+      "date": "Nov 11, 2025",
+      "summary": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVpwZS1OTHkyR25NUGdvTlJINTZ6bUh0VXJ5dk5mcWwwd1RLQ1JRbEMzS2dXNGpDSUNfRWUxZktFQnlHcXRMSGhZZ1A4dVVlWXYxZnBRbWdQcFRwVzZQaERFMWpEUjhnd1VYdUlpYUJnOHFSZm9ZRndxT1dPNmU0M2t3RXpya0NuNHdfV2E3X1VsOTBGN0tXZllCejZGVlJ5UC1QSjFqb0pHSm5NS29KekdacnoxVXBIUGtHT2dIakZPcDFiMGZUTUw5WlA5MlNvd0ZmTFNoVjRESVFxOXNkdkQzbTVMNW8?oc=5",
       "featured": false
     },
     {
@@ -123,13 +123,13 @@
       "featured": false
     },
     {
-      "title": "2026 Construction Season - davenportiowa.com",
+      "title": "2026 Construction Season - City of Davenport",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "May 15, 2026",
-      "summary": "2026 Construction Season davenportiowa.com",
-      "source": "davenportiowa.com",
+      "summary": "2026 Construction Season City of Davenport",
+      "source": "City of Davenport",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
       "featured": false
@@ -291,39 +291,15 @@
       "featured": false
     },
     {
-      "title": "Davenport University and The Employers’ Association sign talent development partnership - post.davenport.edu",
+      "title": "Davenport University and The Employers’ Association sign talent development partnership - Davenport University",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "May 06, 2026",
-      "summary": "Davenport University and The Employers’ Association sign talent development partnership post.davenport.edu",
-      "source": "post.davenport.edu",
+      "summary": "Davenport University and The Employers’ Association sign talent development partnership Davenport University",
+      "source": "Davenport University",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORk5tX2gxMHdtOFJEeHBXSkpBcGZIc2NKS2xBbVYzSGZUS1pxYUdHaWFjcWhka3dBUmhyWFlqZWtYaV8ybERRZTJDRktlLVBfMjIzU0Y1SGR5T1E2RlhpcEdGa0l5THZiNjFhVzdNdGdTY3hmNGpEOTJfaUR4ekRPRWE0YTBKQm41bHJqcXUyOUNWMExEdGw0NFZwMjVfYnhSbG1BSjl4OXVRVHNNcDBKYXZaMXlwVldQOThCZno1NHpldw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Bay News 9",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Jan 27, 2026",
-      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Bay News 9",
-      "source": "Bay News 9",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
-      "source": "DrydenWire.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
     },
     {
@@ -351,6 +327,30 @@
       "featured": false
     },
     {
+      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Bay News 9",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Jan 27, 2026",
+      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Bay News 9",
+      "source": "Bay News 9",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 27, 2026",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
+      "source": "DrydenWire.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
       "city": "Polk County",
       "category": "Community",
@@ -375,18 +375,6 @@
       "featured": false
     },
     {
-      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Sep 04, 2025",
-      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County high school rezoning plan: See all the current and proposed zones - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Community",
@@ -396,6 +384,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Sep 04, 2025",
+      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
       "featured": false
     },
     {
@@ -483,13 +483,13 @@
       "featured": false
     },
     {
-      "title": "$170 million Davenport resort breaks ground - FOX 13 Tampa Bay",
+      "title": "$170 million Davenport resort breaks ground - fox13news.com",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Under Construction",
       "date": "Nov 15, 2023",
-      "summary": "$170 million Davenport resort breaks ground FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
+      "summary": "$170 million Davenport resort breaks ground fox13news.com",
+      "source": "fox13news.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFxSzBiZHZ6ZmFGQ2xPeEc5RUxTNWhhVVV4MG9oZFltdzM4eWxVeExFQjhLb1hrSktpSGpkWTV4YVBuLTdNOFFSb3k0WDE1bkNpM2xRSS1UY1BoOV9leWt0V3l1aHBrMkRHM19ObVJ4U3RCdmo0ZEVjalUtbWZtbXlUdTk4N1lxNC0xSDRheUM0aDlhOWpQWDMxcUVvUklEU3kzWFBGRdIBrAFBVV95cUxNSndvTlN0NzgyMl9FSnI2aEF1QU9Rb0l1NFo4TUZFN0JpMlllaHNfZzB2ZGVCcURrNkFjUTBFaEtJY2N2UlQ4ZTd0cF9FODVIOEtzLU9HWUt2WFdKZzJfUEkyaU5NLUQ0VTJIUk85THhKTTFDWktGTHMyd3RtVWM4aWd5eHVoNzZ0dWltZjAwRlg1VnJ0QTRjY2owa1RMU3ZPQTRnc1ZkT2U5Q0Fp?oc=5",
       "featured": false
@@ -504,6 +504,18 @@
       "source": "WhatNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
+      "city": "Lake Wales",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jan 04, 2023",
+      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
       "featured": false
     },
     {
@@ -543,39 +555,27 @@
       "featured": false
     },
     {
-      "title": "A Look at 3 Restaurants Coming Soon in Polk County - businessdebut.com",
+      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Coming Soon",
       "date": "May 30, 2026",
-      "summary": "A Look at 3 Restaurants Coming Soon in Polk County businessdebut.com",
-      "source": "businessdebut.com",
+      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
+      "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
       "featured": false
     },
     {
-      "title": "4 Polk County Restaurants Get Perfect Inspection Scores Ahead of Opening - businessdebut.com",
+      "title": "4 Polk County Restaurants Get Perfect Inspection Scores Ahead of Opening - Business Debut",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Jun 25, 2026",
-      "summary": "4 Polk County Restaurants Get Perfect Inspection Scores Ahead of Opening businessdebut.com",
-      "source": "businessdebut.com",
+      "summary": "4 Polk County Restaurants Get Perfect Inspection Scores Ahead of Opening Business Debut",
+      "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWExZUxUaXJSdWd6NHkwSXRuaEdGVGRpd1VBRUlKMmdPVGhvN0ZpX1N6a3BYQWh3MDB4RUphR29nd1JkSHlZbk5rQ2dINTRQSEk1ZllzZHAzMXZrb3lXYkxZM1NZaU9IX2JvQVFKYXRNbk9zRU56T0gzSTNPNkJnNnFiWVJlVXpuckRyVlNHczRqR1FoM3JXWUo2SDNWczQxRm5MWTdCYUI?oc=5",
-      "featured": false
-    },
-    {
-      "title": "6 Coming Soon Polk County Restaurants [April 10, 2026] - businessdebut.com",
-      "city": "Polk County",
-      "category": "Restaurant",
-      "status": "Coming Soon",
-      "date": "Apr 10, 2026",
-      "summary": "6 Coming Soon Polk County Restaurants [April 10, 2026] businessdebut.com",
-      "source": "businessdebut.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcG41OHhja0JUQXYyRDdHVExTd0ExTkVrUjB0WDI0a1Q1VTJEemxtNEtEcGlvT2o3ZlZDcjRITlhXZTJCazBQS3U0RU1qZ1lIQzJhY2hVLTVVYVRMam5OVmZzSnBGVjR5MDk2RHdzNFJDUXlRTEJUZlJsM1lvZTVVNnhLVktscVlPcVE?oc=5",
       "featured": false
     },
     {
@@ -591,39 +591,39 @@
       "featured": false
     },
     {
-      "title": "5 Coming Soon Polk County Restaurants - businessdebut.com",
+      "title": "6 Coming Soon Polk County Restaurants [April 10, 2026] - Business Debut",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Coming Soon",
+      "date": "Apr 10, 2026",
+      "summary": "6 Coming Soon Polk County Restaurants [April 10, 2026] Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcG41OHhja0JUQXYyRDdHVExTd0ExTkVrUjB0WDI0a1Q1VTJEemxtNEtEcGlvT2o3ZlZDcjRITlhXZTJCazBQS3U0RU1qZ1lIQzJhY2hVLTVVYVRMam5OVmZzSnBGVjR5MDk2RHdzNFJDUXlRTEJUZlJsM1lvZTVVNnhLVktscVlPcVE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "5 Coming Soon Polk County Restaurants - Business Debut",
       "city": "Polk County",
       "category": "Restaurant",
       "status": "Coming Soon",
       "date": "Nov 26, 2025",
-      "summary": "5 Coming Soon Polk County Restaurants businessdebut.com",
-      "source": "businessdebut.com",
+      "summary": "5 Coming Soon Polk County Restaurants Business Debut",
+      "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KX1BOdno3MnhwNENJVlBfRlBRWUpKYnBrQ3loVUFWb3J0X0JxSE9pVnRUSEdEcllkTmMzZDJaeFU4bkE2dGxVc21LbURCOFcwWFhJUHM1NWJvTUpFWVBadFlza0RaVlpOTmpvR215Wmk4ZHFiMzBr?oc=5",
       "featured": false
     },
     {
-      "title": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) - businessdebut.com",
+      "title": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) - Business Debut",
       "city": "Auburndale",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Jul 15, 2026",
-      "summary": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) businessdebut.com",
-      "source": "businessdebut.com",
+      "summary": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) Business Debut",
+      "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXFrdVlZaHltUEpicTMyYnJHU0hiYWQ5UWtEVUx3MkVLdDZDTE1yWmRTX0Y2S28welE5ZHVmVWJrbDd4dzkwLWplZkUxVUMzVE42c0J4Nl9EWWZ3Q1hyY183TmxjT3FHOGFLX2RQM1ZNRDFWZjlLUXZwOEtrZi13ZF9kOTN4ZE1oWmlYRlhfQjQtc1RXVHZLa0VxRQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Downtown Winter Haven Restaurant Relocating After 26 Years - businessdebut.com",
-      "city": "Winter Haven",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Feb 23, 2026",
-      "summary": "Downtown Winter Haven Restaurant Relocating After 26 Years businessdebut.com",
-      "source": "businessdebut.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjUxbVN6V3EybU11U1ZLX181LWR3Ykh1QUpaVE4wdnpvY3UzUU45UzE2WjZTaUNfdW5nWnM1aFowVmVPWFF2aWMyajFoVXhIYTZWZzhQQWFpMjlRbmRNaWplNDdtMUFaQXRMWmVfVXJpR29vSUx6X3hOVll4Sk1Rc3ZvdG5hRnFSZlVkcUNHcDVRYkk?oc=5",
       "featured": false
     },
     {
@@ -639,13 +639,13 @@
       "featured": false
     },
     {
-      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God (USA)",
+      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - news.ag.org",
       "city": "Winter Haven",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 01, 2026",
-      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God (USA)",
-      "source": "Assemblies of God (USA)",
+      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus news.ag.org",
+      "source": "news.ag.org",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
       "featured": false
@@ -843,13 +843,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland's Depot Arts District set for grand opening - FOX 13 Tampa Bay",
+      "title": "Lakeland's Depot Arts District set for grand opening - fox13news.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Oct 30, 2025",
-      "summary": "Lakeland's Depot Arts District set for grand opening FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
+      "summary": "Lakeland's Depot Arts District set for grand opening fox13news.com",
+      "source": "fox13news.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUdReG5sWF9nM1Zzckd4R09jb1cyQ3p5TTNDX3hac2draGZzWDJmTU0yZHJmZUxRQlh3d0Q1NW11QU5EWW5yOEktWHlPMm91QWJrQnZETkhhXzVDNEI0S25qRDVmSHNOZk9sZnZySE1yalRCSHE5UDNjRm1oWUQ5eU5GWVEtanlsa05TSE42enRqTnZfRXkyStIBngFBVV95cUxPdmo1WGMwMURjT1Y4T1JFVXV5ZC10elJnTnI3QjFDd04yQ0gydUYwb1d1cllyOWVld1JwSUxjdm1HOUFtMTJ6cEtpVkg1RVRMekcxaW5CRUpoQ19DYW9UWnZPMDJidWxIZEJwNXQ4OEpvcXFHMUZ2bmNxVlI1YnlVQnZqZjNqdG9IMFlJWVBBRTIzMnlmNUx0aXh4VzFUQQ?oc=5",
       "featured": false
