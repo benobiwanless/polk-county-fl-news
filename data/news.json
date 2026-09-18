@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17 22:57 UTC",
+  "last_updated": "2026-09-18 00:57 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -15,13 +15,13 @@
       "featured": false
     },
     {
-      "title": "Planning for Our Future: Polk County Land Development - polkfl.gov",
+      "title": "Planning for Our Future: Polk County Land Development - Polk County Government (.gov)",
       "city": "Polk County",
       "category": "Development",
       "status": "Update",
       "date": "Dec 12, 2023",
-      "summary": "Planning for Our Future: Polk County Land Development polkfl.gov",
-      "source": "polkfl.gov",
+      "summary": "Planning for Our Future: Polk County Land Development Polk County Government (.gov)",
+      "source": "Polk County Government (.gov)",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWxRc2NtMEFNYXFDcUhhVk9XbndINS1uSU5UdmxHTVBlX2V2N2RhaTc1TnZZV2pDUmRoRFJtT21tdkdKWmhKNmNybmVsbHRBS0xiM0Y1c1lIQ2g1ZXFROVdHcGtYeWpMU0g3S2NDRkpUZWZaMDd5cDZRY2c4V1puR0xsVmU3b1A4VnFadlpIZw?oc=5",
       "featured": false
@@ -147,13 +147,13 @@
       "featured": false
     },
     {
-      "title": "Public invited to see renovated Rejuvenate Housing home in Davenport - OurQuadCities",
+      "title": "Public invited to see renovated Rejuvenate Housing home in Davenport - ourquadcities.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Sep 06, 2026",
-      "summary": "Public invited to see renovated Rejuvenate Housing home in Davenport OurQuadCities",
-      "source": "OurQuadCities",
+      "summary": "Public invited to see renovated Rejuvenate Housing home in Davenport ourquadcities.com",
+      "source": "ourquadcities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUhTZ2ZFZXlHQjNOWEpHTEtTY0h6N1Jwd2tJNVRKVGNHamJ2UlNGNndqTDY3SEdRT1J1NFdBcUF1bFkzOXhhSy1OdzVTT2VUbllUSkFUQXA2SGR3ekM4RldvZ2plQzNtUlJPSUltQ0QybTk4QWYyX1p5YVpNSTh5cUZUdVBZSXJNaE8xVkU3QldONU5INUFtY09XTG13NDUwMEotbmE3VXdXYW41QlhsckxuX0p0d9IBuwFBVV95cUxPMzlyTXVsb1VPa3NRMVZUajNhS042RlpfWWQwX0NMdEJONmVDNlEwTkltdlR0ZUc0OGpUMHN0c3V5cldQZ21TVEJ4NVlfcjRjN013RUdRZWFrZVNtR1lNaWpFZGxnS09XN09qSXhoc2ZYdmhKUXY3OC1kMTE3ajI2cmttNWM3NjFiRzFla2hrQzRUSmlNS1gxTjRZcElBVElRZ1UxOFVZam1GazdDN3RYNXZBa0U0NFNyU2Vv?oc=5",
       "featured": false
@@ -243,13 +243,13 @@
       "featured": false
     },
     {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
+      "title": "Humility Homes to break ground on new supportive housing project in Davenport - ourquadcities.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
-      "source": "OurQuadCities",
+      "summary": "Humility Homes to break ground on new supportive housing project in Davenport ourquadcities.com",
+      "source": "ourquadcities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
       "featured": false
@@ -291,15 +291,39 @@
       "featured": false
     },
     {
-      "title": "Davenport University and The Employers’ Association sign talent development partnership - post.davenport.edu",
+      "title": "Davenport University and The Employers’ Association sign talent development partnership - Davenport University",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "May 06, 2026",
-      "summary": "Davenport University and The Employers’ Association sign talent development partnership post.davenport.edu",
-      "source": "post.davenport.edu",
+      "summary": "Davenport University and The Employers’ Association sign talent development partnership Davenport University",
+      "source": "Davenport University",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORk5tX2gxMHdtOFJEeHBXSkpBcGZIc2NKS2xBbVYzSGZUS1pxYUdHaWFjcWhka3dBUmhyWFlqZWtYaV8ybERRZTJDRktlLVBfMjIzU0Y1SGR5T1E2RlhpcEdGa0l5THZiNjFhVzdNdGdTY3hmNGpEOTJfaUR4ekRPRWE0YTBKQm41bHJqcXUyOUNWMExEdGw0NFZwMjVfYnhSbG1BSjl4OXVRVHNNcDBKYXZaMXlwVldQOThCZno1NHpldw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - baynews9.com",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Jan 27, 2026",
+      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools baynews9.com",
+      "source": "baynews9.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 27, 2026",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
+      "source": "DrydenWire.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
     },
     {
@@ -327,30 +351,6 @@
       "featured": false
     },
     {
-      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Bay News 9",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Jan 27, 2026",
-      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Bay News 9",
-      "source": "Bay News 9",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
-      "source": "DrydenWire.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
       "city": "Polk County",
       "category": "Community",
@@ -360,6 +360,18 @@
       "source": "wtsp.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Sep 04, 2025",
+      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
       "featured": false
     },
     {
@@ -384,18 +396,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Sep 04, 2025",
-      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
       "featured": false
     },
     {
@@ -507,6 +507,18 @@
       "featured": false
     },
     {
+      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
+      "city": "Lake Wales",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jan 04, 2023",
+      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
+      "featured": false
+    },
+    {
       "title": "National Recycling Day coming soon to Polk County - The Rome News-Tribune",
       "city": "Polk County",
       "category": "Development",
@@ -567,18 +579,6 @@
       "featured": false
     },
     {
-      "title": "6 Coming Soon Polk County Restaurants [April 10, 2026] - Business Debut",
-      "city": "Polk County",
-      "category": "Restaurant",
-      "status": "Coming Soon",
-      "date": "Apr 10, 2026",
-      "summary": "6 Coming Soon Polk County Restaurants [April 10, 2026] Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcG41OHhja0JUQXYyRDdHVExTd0ExTkVrUjB0WDI0a1Q1VTJEemxtNEtEcGlvT2o3ZlZDcjRITlhXZTJCazBQS3U0RU1qZ1lIQzJhY2hVLTVVYVRMam5OVmZzSnBGVjR5MDk2RHdzNFJDUXlRTEJUZlJsM1lvZTVVNnhLVktscVlPcVE?oc=5",
-      "featured": false
-    },
-    {
       "title": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -588,6 +588,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3Y1ekpicHp0ZWh6U25FcW5QVkdPdWtWc0YxY0VvaXp2aXd4M1FhT1U5VjFaemVjUGxpVTh3Rk9ib09LR2liMTB4dWlkS2xiS1NYeWIwUXB2ejliVWt1UUNLaTNpNG1mTnZQZVVlaWFzeTQ3ejRvVWdGbmItNWxpZ0lDcUFvdkE4blFlTDZDNWQtQ1hPNkpXNnFmVzU5WTI4RDE0N3d3Y0tzSGJDVkdZRkIxZWtnOHVhR0JQREFQLVptcFBLZnNUU0xEQ1VmWEMyMUE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "6 Coming Soon Polk County Restaurants [April 10, 2026] - Business Debut",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Coming Soon",
+      "date": "Apr 10, 2026",
+      "summary": "6 Coming Soon Polk County Restaurants [April 10, 2026] Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcG41OHhja0JUQXYyRDdHVExTd0ExTkVrUjB0WDI0a1Q1VTJEemxtNEtEcGlvT2o3ZlZDcjRITlhXZTJCazBQS3U0RU1qZ1lIQzJhY2hVLTVVYVRMam5OVmZzSnBGVjR5MDk2RHdzNFJDUXlRTEJUZlJsM1lvZTVVNnhLVktscVlPcVE?oc=5",
       "featured": false
     },
     {
@@ -612,18 +624,6 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXFrdVlZaHltUEpicTMyYnJHU0hiYWQ5UWtEVUx3MkVLdDZDTE1yWmRTX0Y2S28welE5ZHVmVWJrbDd4dzkwLWplZkUxVUMzVE42c0J4Nl9EWWZ3Q1hyY183TmxjT3FHOGFLX2RQM1ZNRDFWZjlLUXZwOEtrZi13ZF9kOTN4ZE1oWmlYRlhfQjQtc1RXVHZLa0VxRQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Downtown Winter Haven Restaurant Relocating After 26 Years - Business Debut",
-      "city": "Winter Haven",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Feb 23, 2026",
-      "summary": "Downtown Winter Haven Restaurant Relocating After 26 Years Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjUxbVN6V3EybU11U1ZLX181LWR3Ykh1QUpaVE4wdnpvY3UzUU45UzE2WjZTaUNfdW5nWnM1aFowVmVPWFF2aWMyajFoVXhIYTZWZzhQQWFpMjlRbmRNaWplNDdtMUFaQXRMWmVfVXJpR29vSUx6X3hOVll4Sk1Rc3ZvdG5hRnFSZlVkcUNHcDVRYkk?oc=5",
       "featured": false
     },
     {
@@ -663,13 +663,13 @@
       "featured": false
     },
     {
-      "title": "Bubba’s 33 has grand opening in Davenport - OurQuadCities",
+      "title": "Bubba’s 33 has grand opening in Davenport - ourquadcities.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 27, 2026",
-      "summary": "Bubba’s 33 has grand opening in Davenport OurQuadCities",
-      "source": "OurQuadCities",
+      "summary": "Bubba’s 33 has grand opening in Davenport ourquadcities.com",
+      "source": "ourquadcities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeF84V2F0WWRMWXpITlRKTVFlZktDQmwzaG44TDBYMTNOZFVQbkxXcFRVRERuU0g0T0NMSkl4U196ZnhaZ0pVWFYzZXRmZnl4WW9feXJLdHg1dEZpQVFzaFprMEM0bGRNeUJQS2xxbGh3clp3MGtQMEdnMkFyTjVwYmtrNElQa3NZbFctRVJucURyWEJmY2c3WlVrellqSERCeDV5ZEpra9IBrAFBVV95cUxNZzM3ZkNIdUM4VVJZNGJZOG9ZY0dTMUhYbzMtN05KYlc2QzNYcG9STnV3NzJEcEZpb0NiRzQ2Y3k3azdWREExZ1pJdmhvLTFhSHhIMXNPN05XQ0tsajYwdjl0dUR2djVGM0tjcWQza3dQOHhxZUM2Q1BMZlNLbVRKMEpDN1ZNTlFWYzRiVmFfekVzTmFpNmxYX0xKMVBDdmhPTWhhdjZqMXdmSGRa?oc=5",
       "featured": false
@@ -687,13 +687,13 @@
       "featured": false
     },
     {
-      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - lakelandcurrents.com",
+      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 13, 2026",
-      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location lakelandcurrents.com",
-      "source": "lakelandcurrents.com",
+      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location Lakeland Currents",
+      "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
       "featured": false
@@ -735,13 +735,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
+      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
+      "source": "news-herald.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
@@ -795,13 +795,13 @@
       "featured": false
     },
     {
-      "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
+      "title": "Dave & Buster’s announces Davenport grand opening - ourquadcities.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Dec 17, 2025",
-      "summary": "Dave & Buster’s announces Davenport grand opening OurQuadCities",
-      "source": "OurQuadCities",
+      "summary": "Dave & Buster’s announces Davenport grand opening ourquadcities.com",
+      "source": "ourquadcities.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
       "featured": false
@@ -819,13 +819,13 @@
       "featured": false
     },
     {
-      "title": "New Lakeland Animal Hospital Now Open - lakelandcurrents.com",
+      "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Feb 17, 2026",
-      "summary": "New Lakeland Animal Hospital Now Open lakelandcurrents.com",
-      "source": "lakelandcurrents.com",
+      "summary": "New Lakeland Animal Hospital Now Open Lakeland Currents",
+      "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
       "featured": false
@@ -855,13 +855,13 @@
       "featured": false
     },
     {
-      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - pr.com",
+      "title": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location - PR.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 15, 2026",
-      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location pr.com",
-      "source": "pr.com",
+      "summary": "The Country Squire Announces Grand Opening Celebration Week at New Lakeland Drive Location PR.com",
+      "source": "PR.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VjBsQkFONFRsb05oZmxPWTFTNmotOWpoZmNKbjlRLXB0Wmp6RFRzYmhJTW05OFlzZkcwbml0ZXd1MHd2YkhQSHNxQmJFNUpM?oc=5",
       "featured": false
