@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26 01:58 UTC",
+  "last_updated": "2026-09-26 07:03 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -39,6 +39,18 @@
       "featured": false
     },
     {
+      "title": "What's you're favorite romantic restaurant in Polk County? Here are 7 favorites - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jan 31, 2026",
+      "summary": "What's you're favorite romantic restaurant in Polk County? Here are 7 favorites Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM21YZ2VFeEhLSVh3OVF0ZXdMRXhOYVJaQ3ZJNERDWTk1MGxCbFhrcEM4b0U0eExIZk5LYjN1OG9DTW9UX1BCU1h5cFFxWERLWUs2ZERMOVVtajBLbUI5VVllNVZnbTA1TmJqNm1DYmJ3S1NCM3kyVzZyeEUwNm9seldmc3ROd2VfZ0dnRXpwRVoxSEY0UkxCanJNYUZDU0ZQV1c0ZUs3NUJCTTMwRzBOX011WC1zTWdyYUZ3cHIwdFZ5ZjJ6Vi1Gbl80VUd4dWZQa3lDTUNfMjBZNXI0cW9ORkNYRjh2V19CTGp3?oc=5",
+      "featured": false
+    },
+    {
       "title": "More details emerge on East Polk toll road, including interchanges - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -60,18 +72,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnJ6N3BSNTdoOE40aXBwYzBmM1BmZ2dzNmVYRFVpeXV2dXFOWlNKMlpkNnZCY3FoZE4tM0dTSDhwVXRTUW5Gd2FOMGNlM2dkSU5oeF9FTWpGZVo1X2FrVUpPZlp5RmVSS0RmVFF3TjlnUm9UQ0RvckVMV0hDYTh1bDQ1TV9jTkZDVHdDU2haR0VtQzFTeEpfcU1zOTlhQlJncW9iTkhvLVBqVGpUVE9rNEtsb2U2U1lHcWsydUNIdE5yNF9IRXdZdHdvc3VWOWtmSHJIMWc0czZWUDNSN3lF?oc=5",
-      "featured": false
-    },
-    {
-      "title": "What's you're favorite romantic restaurant in Polk County? Here are 7 favorites - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jan 31, 2026",
-      "summary": "What's you're favorite romantic restaurant in Polk County? Here are 7 favorites Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM21YZ2VFeEhLSVh3OVF0ZXdMRXhOYVJaQ3ZJNERDWTk1MGxCbFhrcEM4b0U0eExIZk5LYjN1OG9DTW9UX1BCU1h5cFFxWERLWUs2ZERMOVVtajBLbUI5VVllNVZnbTA1TmJqNm1DYmJ3S1NCM3kyVzZyeEUwNm9seldmc3ROd2VfZ0dnRXpwRVoxSEY0UkxCanJNYUZDU0ZQV1c0ZUs3NUJCTTMwRzBOX011WC1zTWdyYUZ3cHIwdFZ5ZjJ6Vi1Gbl80VUd4dWZQa3lDTUNfMjBZNXI0cW9ORkNYRjh2V19CTGp3?oc=5",
       "featured": false
     },
     {
@@ -123,13 +123,13 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - khq.com",
+      "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - NonStop Local KHQ",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Update",
       "date": "Aug 30, 2026",
-      "summary": "Davenport Hotel hiring for over 100 positions across five Spokane locations khq.com",
-      "source": "khq.com",
+      "summary": "Davenport Hotel hiring for over 100 positions across five Spokane locations NonStop Local KHQ",
+      "source": "NonStop Local KHQ",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTg3RTFVWHFmLU9kUmNzdEc1SkxkUWZyOEdQUVdFRVhKdl9NY0VEMGpuWjhoOFNGOG5CeVpoU2JzMTZGal9VRzd1Q1hoRExuS0hmYk1PdHp2WVJIQXl3TjNleko0eElyU0ExZERPc0FtVTVhX3huZGxORWpVZnhVdUpnNkNVQ0ZqMGdrVHloRTAwWUItOFJxbDRzVFU4djVxbEhVMmVaNkpreTFUX0J1SEI4eU5sVXg5NEV6UXJhcVRhdHhfQUM2dko5TkJKSVJXeFRUMFhzX0pXYlFDUnc?oc=5",
       "featured": false
@@ -156,18 +156,6 @@
       "source": "LakeWalesNews.net",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcktZek1XUjY3SEVBcE1qaGFmWW1vTFR2M3BVTWRRTXM3bkFEblMxdzFrTEJyRzYxMko3eDBhWThFTm1NWHE0THBrU1otLXFQZzJqZDAxZWh2UnJWV1JUM05sQ0o4ajhtZWFOZnFlcTRqSTJfSlZTYXNONy0zM0JXSXZPb21udHpIWkNieFA4TTNMVkNQYXNOcXBPSnRqVlE0MC1MTExTODBaMFA1a2JmVnhXOW8?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Rejuvenate Housing celebrates restored Davenport home, and new $1-million grant - WVIK, Quad Cities NPR",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 09, 2026",
-      "summary": "Rejuvenate Housing celebrates restored Davenport home, and new $1-million grant WVIK, Quad Cities NPR",
-      "source": "WVIK, Quad Cities NPR",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ3E3dUtNWlBXYTVqX2dNRjE0U3V6cDR4dWRSNlVtSFBfMm0yM1p0MG9PbmVmRU1JRzRkZlpUczk1YktxLTRzcWUzM0RNTWNKclRWX09qU1hwbF9kSjQxNG1TNEVkSUpFemFqclBFTmNfVHEzUjl3dUdQeWJCRF9aMDRMM1NDRERLY28wcDhtcGlaTzAxV0g0UWI0Yzl6NGdVNk5HVl96QU9rNHFQRUx6VjlqdUp2RDN1UzA4aENiMnZGYUti?oc=5",
       "featured": false
     },
     {
@@ -279,27 +267,15 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
       "city": "Davenport",
-      "category": "Hotel",
+      "category": "Restaurant",
       "status": "Update",
-      "date": "May 20, 2026",
-      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
-      "source": "LODGING Magazine",
+      "date": "Jun 24, 2026",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
+      "source": "The Spokesman-Review",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 14, 2026",
-      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
-      "source": "Coosa Valley News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
       "featured": false
     },
     {
@@ -312,6 +288,18 @@
       "source": "Tampa Bay Business and Wealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 14, 2026",
+      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
+      "source": "Coosa Valley News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
       "featured": false
     },
     {
@@ -363,6 +351,18 @@
       "featured": false
     },
     {
+      "title": "Town Halls Scheduled on High School Rezoning Plans - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Sep 04, 2025",
+      "summary": "Town Halls Scheduled on High School Rezoning Plans Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
+      "featured": false
+    },
+    {
       "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
@@ -384,6 +384,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 01, 2025",
+      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -471,13 +483,13 @@
       "featured": false
     },
     {
-      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
+      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - livabl.com",
       "city": "Lake Wales",
       "category": "Housing",
       "status": "Update",
       "date": "Jan 04, 2023",
-      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
-      "source": "Livabl",
+      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL livabl.com",
+      "source": "livabl.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
       "featured": false
@@ -603,25 +615,25 @@
       "featured": false
     },
     {
-      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - Dispatch Argus",
+      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - qconline.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Sep 18, 2026",
-      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport Dispatch Argus",
-      "source": "Dispatch Argus",
+      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport qconline.com",
+      "source": "qconline.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXy1EaUdUWExhdDAwM3FSYlQyN0pRZVZfa1NmdU94bzM4d2lUUTI2bktPYXl1RzlsTW9RcF9zMk5wczFpMHhyRTcyNGdraERKbGZDek5ONFBieDVHRVRMb20xZjZtYmp6MEh4akZUUjlSSUNDaG9EWElBVHVTQUgwNHZ0X1h4MXlITEFnV1ZSY1c1NzRVdlNJdmZWQlhENUZmYjVRZlJoOA?oc=5",
       "featured": false
     },
     {
-      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - The Quad-City Times",
+      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - qctimes.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Sep 18, 2026",
-      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport The Quad-City Times",
-      "source": "The Quad-City Times",
+      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport qctimes.com",
+      "source": "qctimes.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9VTWVXUjFPdE9welNCNzhUQ1dVTzI0T0l6OWhGV0p3aWlsTU5DVGhJRFFYOWZlMEhUWlNWMnNfb0liQzI3elU1Ni0tSnVKWEpVXzJrSnRhdUVXR0dXVU5iOGVwenYwenctcHMtYUdVUW5YZmJqM2xQTThYYXRRb0xSaWcyakFPTUVIYTVOYWNJcTNITGxrakc4ZEF2SU56Q2NNMnpB?oc=5",
       "featured": false
@@ -639,13 +651,13 @@
       "featured": false
     },
     {
-      "title": "New and improved Redstone Room now open at Common Chord, Davenport - WVIK, Quad Cities NPR",
+      "title": "New and improved Redstone Room now open at Common Chord, Davenport - wvik.org",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Aug 31, 2026",
-      "summary": "New and improved Redstone Room now open at Common Chord, Davenport WVIK, Quad Cities NPR",
-      "source": "WVIK, Quad Cities NPR",
+      "summary": "New and improved Redstone Room now open at Common Chord, Davenport wvik.org",
+      "source": "wvik.org",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTnI0RUl1c1JmNFRoZEVNaWpxV1pmMk5KYWRpY2pHVG5lX2J2UFNyQ3N4Z3JLSUZnZzViZWlNTmFZaXV4NkhveHNiM082bTBHMFo2M0E5Zld3ZHljSEYzWmpET1JCTDE0SFZsOXB1bGtoX19Dc1NLYlpSSTE2Sl9zSGF1TFllRVkzQmNWYWduVGVwaFdIUVNtem1OTWZORzZKX0pUWnlCOVFqSGVhNm5sRmZ0OFk?oc=5",
       "featured": false
@@ -723,13 +735,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
+      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
-      "source": "news-herald.com",
+      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
+      "source": "News-Herald",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
@@ -759,25 +771,25 @@
       "featured": false
     },
     {
-      "title": "China Cafe Davenport now open on Tuesdays - The Quad-City Times",
+      "title": "China Cafe Davenport now open on Tuesdays - qctimes.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Grand Opening",
       "date": "Jul 12, 2026",
-      "summary": "China Cafe Davenport now open on Tuesdays The Quad-City Times",
-      "source": "The Quad-City Times",
+      "summary": "China Cafe Davenport now open on Tuesdays qctimes.com",
+      "source": "qctimes.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTdmNFdaMlRVU1FEbTZjNWRLc3Y4dVIwUERQU2U2NHYzQ2RPRFczQzFCeHBBZXFYZHBOekxkbERTcmpSQnJSNVlpVTlJdzAtaExTVlZXbVdadi1pc2lkSVkwNTU4Y1VDZXZZb2xHNk95Q3hhLXJLVGxMUWlBVnhIUmF4YnBaSDdHZTNaclZlT1hmRUhQT1RaZzMxMFZ4SVJWRUxDSF9EMXE?oc=5",
       "featured": false
     },
     {
-      "title": "Burn Boot Camp East Davenport Grand Opening - WVIK, Quad Cities NPR",
+      "title": "Burn Boot Camp East Davenport Grand Opening - wvik.org",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 23, 2026",
-      "summary": "Burn Boot Camp East Davenport Grand Opening WVIK, Quad Cities NPR",
-      "source": "WVIK, Quad Cities NPR",
+      "summary": "Burn Boot Camp East Davenport Grand Opening wvik.org",
+      "source": "wvik.org",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjdLZUtfX3VrWWhvY052bTlxeDZnWUdQVXBfcVZOWjJwY1Fnd2l5YkpIWWNscVJZVTJUSG84MTR5NEFBenYySjZjby1aQmdfTEtJa0E0LW8xckVTWS1UdGw4dTNaSlN4RU5EWE1jb2p4TFp3UFhiQk5rc05wVGlEbF9CWkFuQTBXRWdQSlBIajNmeDZoc0lGUmJJTlVWUEVuLVJZaVBscmJKV3hjd3c?oc=5",
       "featured": false
@@ -1068,18 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNzlwS0F6X25yR2R6cVpyeTFmekxpY1k5dUg1aURRQXdrYnRjY3Atdkw5SnktVFg4ZHU1bjBBOWU5U1VJSXB1eERpYzZKU1Vsd2V6Y01YejMtWi0xVm84bmx5dFl4WlBQRWdwZUNLano1cDlySFdhTUZNbTBLN3h5U3Fn?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Oct 18, 2021",
-      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
       "featured": false
     }
   ]
