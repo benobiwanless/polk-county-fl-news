@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-02 19:39 UTC",
+  "last_updated": "2026-10-02 23:14 UTC",
   "feed_mode": "live-expanded",
   "items": [
+    {
+      "title": "Spectrum Launches High-Speed Internet to More Than 10,000 Homes and Small Businesses in Polk County, Florida - corporate.charter.com",
+      "city": "Polk County",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 28, 2026",
+      "summary": "Spectrum Launches High-Speed Internet to More Than 10,000 Homes and Small Businesses in Polk County, Florida corporate.charter.com",
+      "source": "corporate.charter.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUN0d3NZOXJjSkxBVDhvU1A3SXZFYXVfdEEyNVl3VEdfVWRicTNtby1ZYlBYbk0tUkRkM3JIdFg0TlIyUHpfMmdUNE1DcHVCelFMWDg3aWxwaUpNUkVkS2ctV1ZtWmxGNGpmQl80bzhyODRqdnU2Y21xZXY2Zzdnb0ZwYkp6Mm1Nd0RhZzlkWUlDZ3ZwRnpFTjFRcEp4dTl2S3RQOA?oc=5",
+      "featured": false
+    },
     {
       "title": "Polk site once approved for large development might now be preserved - Lakeland Ledger",
       "city": "Lakeland",
@@ -111,18 +123,6 @@
       "featured": false
     },
     {
-      "title": "Eight Juveniles From Philadelphia Busted In Polk County Florida For Retail Theft - Delaware Valley News",
-      "city": "Polk County",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Dec 10, 2025",
-      "summary": "Eight Juveniles From Philadelphia Busted In Polk County Florida For Retail Theft Delaware Valley News",
-      "source": "Delaware Valley News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG5uYUFvSlhKUE9oMnV6MXlGcHZLdUpjeGNJZXhZUnJvYnpKcVRKeUNEQ1VmM0xPRExoemhpUWctcThEd0hvbkpBRGZVRmNJeDNQS3pQM2pvUXc2Q1lIRFY4OXVySWdhbEVrSkcyR1lFY3J4RHViTW10Rk5VU2hnbjRJemdURTJjQnFzSHV3dG5KenBlZE9lc1YwY21MM0xuRmNSUEdjOVhHUmJEcHZpYjYwNjNlUHVSNDhyME4xbl_SAcYBQVVfeXFMTnVnS0NlWklvQ1p0OFl1YzU2US1xbTBWNUR4LTM1VUJUUWRNcVc0N1dhdS1nQWd4X3BvYUl5X0YySG1MRFFsZERaY1dYdVoyc1o4TkhoZ3dNeDUxbjFoYTJldlh1blJWWTN6aDY2OXVqVjlDc2Q1MmM1b3lCVlpXZ1BvX3F6SGxQaER5MWdidURGMFl4ZXZnTFlhdUEwQ1NaU3hDUGJWaUJYcjgxUUtXS1pUSWZ0NWRKdU84V3dxdmROY0tTNGJR?oc=5",
-      "featured": false
-    },
-    {
       "title": "Davenport Grocery & Liquor Plans Morgan Street Store - WhatNow",
       "city": "Davenport",
       "category": "Retail",
@@ -135,25 +135,13 @@
       "featured": false
     },
     {
-      "title": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer - Retail Technology Innovation Hub",
-      "city": "Davenport",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Oct 02, 2026",
-      "summary": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer Retail Technology Innovation Hub",
-      "source": "Retail Technology Innovation Hub",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1V1ZTZsOUpaaXdIcDRDZVJGczJTNWJlc01JX2YxNFpHVEVXUmx4T1dHNWU5NlpzVVFGZWp2aUp1Qk93N2FFS2k0UUlGdEtzSUdmTDUwNGZTMm8yN19yQW9Ud3FSYUxRN3IyNWR5UnNLaFdFWjZ4ZjhfMUJ2M0J4UGZCLVNIM05Qa1FmODhoMkFXeTZjbXMtUG04RFl5R0ZKV3VXQS1hVzZRVTg5d1JoR3QxS0lmQ1JFcEF5RHdKdHNKRjdzS3ljN2wxYUxlLXdNVkYxYm1aUzZCUTVHaGs0Mw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New housing development aims to help homeless people in Davenport - KWQC",
+      "title": "New housing development aims to help homeless people in Davenport - kwqc.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Jul 15, 2026",
-      "summary": "New housing development aims to help homeless people in Davenport KWQC",
-      "source": "KWQC",
+      "summary": "New housing development aims to help homeless people in Davenport kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
       "featured": false
@@ -168,6 +156,18 @@
       "source": "The City of Davenport, Iowa",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
+      "featured": false
+    },
+    {
+      "title": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer - Retail Technology Innovation Hub",
+      "city": "Davenport",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Oct 02, 2026",
+      "summary": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer Retail Technology Innovation Hub",
+      "source": "Retail Technology Innovation Hub",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1V1ZTZsOUpaaXdIcDRDZVJGczJTNWJlc01JX2YxNFpHVEVXUmx4T1dHNWU5NlpzVVFGZWp2aUp1Qk93N2FFS2k0UUlGdEtzSUdmTDUwNGZTMm8yN19yQW9Ud3FSYUxRN3IyNWR5UnNLaFdFWjZ4ZjhfMUJ2M0J4UGZCLVNIM05Qa1FmODhoMkFXeTZjbXMtUG04RFl5R0ZKV3VXQS1hVzZRVTg5d1JoR3QxS0lmQ1JFcEF5RHdKdHNKRjdzS3ljN2wxYUxlLXdNVkYxYm1aUzZCUTVHaGs0Mw?oc=5",
       "featured": false
     },
     {
@@ -207,13 +207,13 @@
       "featured": false
     },
     {
-      "title": "Battery and retail theft at Davenport 7-ELEVEn - Polk County Sheriff's Office",
+      "title": "Battery and retail theft at Davenport 7-ELEVEn - polksheriff.org",
       "city": "Davenport",
       "category": "Retail",
       "status": "Update",
       "date": "Jul 20, 2026",
-      "summary": "Battery and retail theft at Davenport 7-ELEVEn Polk County Sheriff's Office",
-      "source": "Polk County Sheriff's Office",
+      "summary": "Battery and retail theft at Davenport 7-ELEVEn polksheriff.org",
+      "source": "polksheriff.org",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGE5RU9fT0czV1V5V3JGTUhFeDBTbXE1bTQ2VFd3N0JzdHotTVJDQTBNNmMyTzVsNmhPcnhKcllMc2FROEN2Yjl6M0NZV21EVDh1eWlIb0dnMGVOTmk2RUIweGJfWVpfT2ZUb213bE1lYXpsOWl0T1p1Vkt0ZnJLX01JMnNoZm1yeGtBdmNpUTlzS0FXTlg0MU9hdEU1RVRiSjBBRlZLN0liNFBFeFN6NDhXLWR5ZUZiMUZDc1RfOHAyUQ?oc=5",
       "featured": false
@@ -255,13 +255,25 @@
       "featured": false
     },
     {
-      "title": "Rejuvenate Housing showcases renovated Davenport home and announces major grant - KWQC",
+      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 09, 2026",
+      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Rejuvenate Housing showcases renovated Davenport home and announces major grant - kwqc.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Sep 07, 2026",
-      "summary": "Rejuvenate Housing showcases renovated Davenport home and announces major grant KWQC",
-      "source": "KWQC",
+      "summary": "Rejuvenate Housing showcases renovated Davenport home and announces major grant kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmRSYTlKaVJwYlZuaGZLSWZDR3haREM3NjJsdWRkUmp3TjdJc3ZSZXZFQWhLdHczTTBBTGhmejl5NFBnQVVneUVrbEdTTEZGUVUtX2dxYzVVcUpnbFp2MzRfSnJCeEk5MVg0dUdnYWppTGtId1U2ZkU1SE9CNnk2Y1JaVUVJa2Z4NVdOSVByZGZFM2tWQ3ZOUFRXWmhYUTJOR1B4Wld1MVZ4Z0pX?oc=5",
       "featured": false
@@ -291,37 +303,25 @@
       "featured": false
     },
     {
-      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
+      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - kwqc.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 20, 2026",
-      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
-      "source": "KWQC",
+      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
       "featured": false
     },
     {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
+      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - kwqc.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Jun 08, 2026",
-      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport KWQC",
-      "source": "KWQC",
+      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
       "featured": false
@@ -339,15 +339,15 @@
       "featured": false
     },
     {
-      "title": "Davenport restaurant to close its doors - KWQC",
+      "title": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand - The Spokesman-Review",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Davenport restaurant to close its doors KWQC",
-      "source": "KWQC",
+      "date": "Jun 24, 2026",
+      "summary": "Pacific Northwest-inspired restaurant Lilac & Pine opens at Davenport Grand The Spokesman-Review",
+      "source": "The Spokesman-Review",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
       "featured": false
     },
     {
@@ -360,30 +360,6 @@
       "source": "wtsp.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdlVEMVFQM1F1OU9fbDFKck9VQWtZamc0UTc1aFd2bXNPQng0ZzhlSG84clEyeDlPb1pjcmllV2MyMDNGVENHai1hTVFQRVJ2TkU5NldJYV9xZy1CVXlTQnVyNXdFeEFYQmxYb2xvODZXX1N1OGduMm9BN2VVMFhGcmhkS2xzeXRPZDBnT1Z2MmFlV2lzT0Z4WnVIdHdEQlZfUkZQcWt2eW5BeXdtbVl6R0JrNnY4T19STzNNVUgwSGRscjVGY2x5eEU2d0tZcUllZjRVUTJNRlE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 14, 2026",
-      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
-      "source": "Coosa Valley News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
-      "city": "Polk City",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
-      "source": "Tampa Bay Business and Wealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
     },
     {
@@ -423,6 +399,42 @@
       "featured": false
     },
     {
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - tbbwmag.com",
+      "city": "Polk City",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp tbbwmag.com",
+      "source": "tbbwmag.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 14, 2026",
+      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
+      "source": "Coosa Valley News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 01, 2025",
+      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
+      "source": "Polk County Public Schools",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
       "city": "Polk County",
       "category": "Community",
@@ -435,13 +447,13 @@
       "featured": false
     },
     {
-      "title": "School rezoning plan for Polk County - fox13news.com",
+      "title": "School rezoning plan for Polk County - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 28, 2025",
-      "summary": "School rezoning plan for Polk County fox13news.com",
-      "source": "fox13news.com",
+      "summary": "School rezoning plan for Polk County FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B0gGoAUFVX3lxTFB5OTc4X0RfUkNDMHFjYWlaWXVtNENSTlhDQzFndzR6MGNXYVYtdUJkcUx5V09PdTl3TndDOEVYQXNacGdwMUVSdzBvRHVvSV90bVp6MnVGWGE2WjU4QlBIeUVrU1RqVjRVX1RGUWg2QlFVWERqQ1dNcVRwNDJuT2QzazZ3WGtJQkM2aXRaRWJWSV91d3RYR0Mzb3AycTdubW4xei1VOHE1Vw?oc=5",
       "featured": false
@@ -507,13 +519,13 @@
       "featured": false
     },
     {
-      "title": "$170 million Davenport resort breaks ground - fox13news.com",
+      "title": "$170 million Davenport resort breaks ground - FOX 13 Tampa Bay",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Under Construction",
       "date": "Nov 15, 2023",
-      "summary": "$170 million Davenport resort breaks ground fox13news.com",
-      "source": "fox13news.com",
+      "summary": "$170 million Davenport resort breaks ground FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFxSzBiZHZ6ZmFGQ2xPeEc5RUxTNWhhVVV4MG9oZFltdzM4eWxVeExFQjhLb1hrSktpSGpkWTV4YVBuLTdNOFFSb3k0WDE1bkNpM2xRSS1UY1BoOV9leWt0V3l1aHBrMkRHM19ObVJ4U3RCdmo0ZEVjalUtbWZtbXlUdTk4N1lxNC0xSDRheUM0aDlhOWpQWDMxcUVvUklEU3kzWFBGRdIBrAFBVV95cUxNSndvTlN0NzgyMl9FSnI2aEF1QU9Rb0l1NFo4TUZFN0JpMlllaHNfZzB2ZGVCcURrNkFjUTBFaEtJY2N2UlQ4ZTd0cF9FODVIOEtzLU9HWUt2WFdKZzJfUEkyaU5NLUQ0VTJIUk85THhKTTFDWktGTHMyd3RtVWM4aWd5eHVoNzZ0dWltZjAwRlg1VnJ0QTRjY2owa1RMU3ZPQTRnc1ZkT2U5Q0Fp?oc=5",
       "featured": false
@@ -555,18 +567,6 @@
       "featured": false
     },
     {
-      "title": "10 years of Legoland: How the theme park helped save the Polk County tourism industry - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Update",
-      "date": "Oct 11, 2021",
-      "summary": "10 years of Legoland: How the theme park helped save the Polk County tourism industry Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOENtR05YUXhvTTNvbWxVUVFOY0VhcnFGWGRWbHk3b1p1Q0ZWR2JNM2Y0N3lZanlJSVBUdVE1YlNndGFYeU9Jb1JCRXYtUHZjbnNTSHZKbWhzOU5SMmVrX0k5alhWV3VCbVFmZVN3MkJrUGpudVlKMjdxdFdTT0FSczZOUnRDRGYtaG5sNkxKTkdBVi1ZbC1vc2VRcC1xOWpTLWZSMFJXdUowYk5ZdjJ2a1FNTlVJZXJUb29UemtqNkdVU1htRTk3bFZPMTJXVi1GZzJOTmJBcVM3NVRSenpQZXBMUnZOZUJEOHN4Y2dxYUNpTXdaV0pyYjZR?oc=5",
-      "featured": false
-    },
-    {
       "title": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -576,6 +576,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTduLUlHQWlZWk9zQ1ZOZzZoSXVUY2NuQVBXMC1SUjB2bEpHdWlkei1lcHlzYVJFNXUxTm55dG1pcV9JWERQYU80WWp0NHJlMzdHZDlLa3ktOUZJcW41LWdWMG1ZR2RuTjIzTi1PaFo1VkNjUFpsV1VkcFc5X082dGpuZFlSY1F5RnI5eFRKRmF6RmltYjh5UGIxdHRpeEtjOHpyWWFYajhtSTlEZDQ3cUNPYWkza1B4bHNlckFHNldDT2p1eUtKUU1OakpZeUp6dmJjd3Jqdl9qbVpT?oc=5",
+      "featured": false
+    },
+    {
+      "title": "10 years of Legoland: How the theme park helped save the Polk County tourism industry - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Community",
+      "status": "Update",
+      "date": "Oct 11, 2021",
+      "summary": "10 years of Legoland: How the theme park helped save the Polk County tourism industry Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOENtR05YUXhvTTNvbWxVUVFOY0VhcnFGWGRWbHk3b1p1Q0ZWR2JNM2Y0N3lZanlJSVBUdVE1YlNndGFYeU9Jb1JCRXYtUHZjbnNTSHZKbWhzOU5SMmVrX0k5alhWV3VCbVFmZVN3MkJrUGpudVlKMjdxdFdTT0FSczZOUnRDRGYtaG5sNkxKTkdBVi1ZbC1vc2VRcC1xOWpTLWZSMFJXdUowYk5ZdjJ2a1FNTlVJZXJUb29UemtqNkdVU1htRTk3bFZPMTJXVi1GZzJOTmJBcVM3NVRSenpQZXBMUnZOZUJEOHN4Y2dxYUNpTXdaV0pyYjZR?oc=5",
       "featured": false
     },
     {
@@ -615,18 +627,6 @@
       "featured": false
     },
     {
-      "title": "Lakeland Film Lab Opens St. Pete Gallery With Grand Opening and Community Darkroom Launch - myq105.com",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Sep 30, 2026",
-      "summary": "Lakeland Film Lab Opens St. Pete Gallery With Grand Opening and Community Darkroom Launch myq105.com",
-      "source": "myq105.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb3pHZEZNTDBUemNtMXRUR3Fod2tzOGtsaHJ1bnF4dGNndk5UYzYtLWZhdldzQmh4aTJ5STdNSVBXdUphUC1pTTRVc2tJalV6QXdWczdsdW82SE84dUJkek9icDdlTkFwQ3B6MV9lS1hJVUYwTExEQlQyQTY1QTlRWjJZMjdiM1RDLTk2MkxjaVY2bWV0ajkycWdYa2FKTWdSbUlERXNsaVhCNkpiaGZfdDlLQURLUVdFVENj?oc=5",
-      "featured": false
-    },
-    {
       "title": "New Smart Auto dealerships coming soon to Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -636,6 +636,18 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHNDM3d1RGFLNHVFSVJsbTZfeDl0NTZtMVF6QjZhZWZ3cFRvdm84TWdHMzE1dExBSjFvMVloR1VvaWRwdm5faVBGN0dUUGs3ZHZvUmUxODNleDVjNGlFTVpkSkF6MFVxVUFIdXVxWTRLNUY5VjlPS2N0eFM5TVdNZEVuZU9ubVFfNjhRU3JtOG1uN01SQ0dhYWt1R2ZqaEVxUFJ6T1RJTjZZek42TmQ1Nll0TS1zSUlPNmRfRmhiQ1BEUFhkeTEyb0FR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland Film Lab Opens St. Pete Gallery With Grand Opening and Community Darkroom Launch - Q105 | Listen Live",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Sep 30, 2026",
+      "summary": "Lakeland Film Lab Opens St. Pete Gallery With Grand Opening and Community Darkroom Launch Q105 | Listen Live",
+      "source": "Q105 | Listen Live",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb3pHZEZNTDBUemNtMXRUR3Fod2tzOGtsaHJ1bnF4dGNndk5UYzYtLWZhdldzQmh4aTJ5STdNSVBXdUphUC1pTTRVc2tJalV6QXdWczdsdW82SE84dUJkek9icDdlTkFwQ3B6MV9lS1hJVUYwTExEQlQyQTY1QTlRWjJZMjdiM1RDLTk2MkxjaVY2bWV0ajkycWdYa2FKTWdSbUlERXNsaVhCNkpiaGZfdDlLQURLUVdFVENj?oc=5",
       "featured": false
     },
     {
@@ -687,13 +699,13 @@
       "featured": false
     },
     {
-      "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - KWQC",
+      "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - kwqc.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 15, 2026",
-      "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
-      "source": "KWQC",
+      "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday kwqc.com",
+      "source": "kwqc.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFRsZ0wtenl6QldPOHVMR053TnB5YTBmMEUzN0U1TUhTUXdrYUhlNThnZHQydFEzSGhUeHlyVFk4OW1aX0RDVklkSjlMSmR3TUc2TlpCS1JPZ191ZENTLTNTOE5YbE1SeGZFcENOblc2bmhHUG5JTURFaGNWSTB5NjktR2tKckZqSUVXODRYSTFhQ0I1aE80SGR4R2xFZ1l2WnhmYkMxVdIBuwFBVV95cUxPZ1g3MTVZdlZjTEhKcThqcDNJUjYyU0RBelluRmlVd2J4TXVIdTc2OWNhOWlkU3ROOWVLak55NFhoZ1F5TXc5ZE9QRlZqRFZ1Y0J0Y2x1UU1MMDNxRENuYWNLdS1zejM1VHB6dF84M0Q4TDcxVkdDYkhKb00wWWRyT0c4WnNaUGVVUTFfNGVROEFhLWtVV3Ewb1JaQ0pzUUJBTktDTU82U1BpcTZwcExvejBIb0lOSlhoNkNN?oc=5",
       "featured": false
@@ -855,13 +867,13 @@
       "featured": false
     },
     {
-      "title": "Dave & Buster’s Celebrates Grand Opening in Davenport - franchising.com",
+      "title": "Dave & Buster’s Celebrates Grand Opening in Davenport - Franchising.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jan 15, 2026",
-      "summary": "Dave & Buster’s Celebrates Grand Opening in Davenport franchising.com",
-      "source": "franchising.com",
+      "summary": "Dave & Buster’s Celebrates Grand Opening in Davenport Franchising.com",
+      "source": "Franchising.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0Fnay1wN05tQ2w2MC15WHgxNm1aUnl6RENSZUltUVRUSy1YbGxSR0FRc0NTdUpJSm54NUlCWUpjS0ZCeU5EbVZkTzY5UjVwTVo1NTBjdVJIUkY1eHl3azUyME5MVTBBaTVGSlp2eGx2OVhnSWR2aXJmNFRNVHRFT0E4NmNtN0t3b3pMcTV3SVpweHUtQ2tpYWVDQ0V1LW_SAaQBQVVfeXFMTWEwU1ZDbjB4VXYwUW50VEd5eEdfbGhsckF3bmllZXR5U0loeEczWnVYLTVLZDdGWV9zUjQ0WGRjbHJueXl1Z1BnRGtkdUhpNkVQLUNmRzJnWTNWQ3l6bUY3MWVPWWgyWEhFX3VROGNSbWhjNDE1MVlpajVpWTZadnlsamR0SWNmc1JzaHNUeGNtSGVaMnB4Zkh0SFBoU3U5RnN5OTY?oc=5",
       "featured": false
@@ -1068,18 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFI0V01PQjRWOS10M0dTSDZ3U1hEREkzZGprV1VaUTB1S3BMb0lwenJ3SUNuOGhfX2p5czNrWmhhaDU3NVAta2xLTDU0eEgzWEk0S3JPVFRzMWtHaEduX0s3UXhaMl9mNld4b1kzZjNBSkVXU0w5RjkyOWhEUlVua0ZRRGZyUm5hZlJmY25PV1RjRjczTUFWcm1uY2RiQ1EtQ1o0MklycEFqR1ZkTE1NZi1hZ0t2OHpLdktQU2dndDI4UmZtdVpCRFE2b0lNS0J6OGw5dGpWUXlJejVWMktkQ1UtNkU0Y0Y5UGsxcDBFazZyS3M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Residents Eager for Details on New Posner Park - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Update",
-      "date": "Jul 20, 2007",
-      "summary": "Residents Eager for Details on New Posner Park Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWdDMVFXUGJkcFZETlpoSy1Vd1otTnpiVGlGVnFuaThrX1ZPSWxVcGJnYmIxWkRjRW1jOHlkWkFub2VWY3loamQxTHYxcnYxMkVmNWV4MTlUalYtU1ZLLUhheVZYbG1HcE5JTzBmcXRRTUR5anE2RDNDTmprNkdmLTZoU1NjemRCNVFiYTZBazZQbVhXZGIzMWJ6dzhiaFJ3MnFLa1NhR1hMaG8?oc=5",
       "featured": false
     }
   ]
