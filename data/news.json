@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03 01:57 UTC",
+  "last_updated": "2026-10-03 07:32 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -27,13 +27,13 @@
       "featured": false
     },
     {
-      "title": "Planning for Our Future: Polk County Land Development - polkfl.gov",
+      "title": "Planning for Our Future: Polk County Land Development - Polk County Government (.gov)",
       "city": "Polk County",
       "category": "Development",
       "status": "Update",
       "date": "Dec 12, 2023",
-      "summary": "Planning for Our Future: Polk County Land Development polkfl.gov",
-      "source": "polkfl.gov",
+      "summary": "Planning for Our Future: Polk County Land Development Polk County Government (.gov)",
+      "source": "Polk County Government (.gov)",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWxRc2NtMEFNYXFDcUhhVk9XbndINS1uSU5UdmxHTVBlX2V2N2RhaTc1TnZZV2pDUmRoRFJtT21tdkdKWmhKNmNybmVsbHRBS0xiM0Y1c1lIQ2g1ZXFROVdHcGtYeWpMU0g3S2NDRkpUZWZaMDd5cDZRY2c4V1puR0xsVmU3b1A4VnFadlpIZw?oc=5",
       "featured": false
@@ -111,6 +111,18 @@
       "featured": false
     },
     {
+      "title": "Two new Publix stores are opening in Polk County one week apart - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Grand Opening",
+      "date": "Jun 17, 2026",
+      "summary": "Two new Publix stores are opening in Polk County one week apart Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcWkwLWJqV3dXVkNQWk9QdGQ5VW1TYkQ3cnE5QkFFSWVxdGtPMmVNOUlEenZtLUJBWk5hb2xLNVhDazVTaml1Zkt0XzJaa3VJVThFYnZoUTRGVk1JQTk0SGxfNTdlT04tT3FuVFhOUjZ4UGF1d2dBLUVDLURLUjA2bVUxNU1FVGpBU2FvTHBlSHAwc2dTMDIxbGZuekxSSG81U2pEbUJyYjBiR1N3LXhDcG1oZnVkZlNaQUI5dWxLRHhkY09MaFZmZFNOUlRXcmtETlVVTi13RTI?oc=5",
+      "featured": false
+    },
+    {
       "title": "Davenport Grocery & Liquor Plans Morgan Street Store - WhatNow",
       "city": "Davenport",
       "category": "Retail",
@@ -147,13 +159,13 @@
       "featured": false
     },
     {
-      "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
+      "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - deere.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Sep 08, 2026",
-      "summary": "John Deere Foundation Commits $1 Million to Housing in Davenport John Deere",
-      "source": "John Deere",
+      "summary": "John Deere Foundation Commits $1 Million to Housing in Davenport deere.com",
+      "source": "deere.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NSTJ5WGFDMGNHS3FyRU0yVy1hVmRjSVg4Z1JOWjlUcHB0dzgza1Zlb1lhQmtZZzkyamNTMGFNcnVSSElSNWpUSTdjM3k5Ukl6bTluS1hhbHVpa2w3YkhwYmVteG0yLTRSeW9KOEV1eENIRHFSbWlFajc1bXU?oc=5",
       "featured": false
@@ -168,18 +180,6 @@
       "source": "CoStar",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGFxOXJzWE0yeDBCRXpCNGZlcTNmaUhQdXB3YWdONVNKSllwbExxeWtuRTVWUGplRHZHVVJ1TTZqcWQtekxWa21DaURhSkd4dUw1S0I5M1ZzbjluMF9PcmNPRXlVT1gyRjdORE5Sb3FjUXplbm9xTzVac3Y2Y2taMGg0QVk3eFc3TVpiZGtndDFfRHNtNF92Q3BOV1FhYzNTa09jVHRuSUl5cW1xMGc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer - Retail Technology Innovation Hub",
-      "city": "Davenport",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Oct 02, 2026",
-      "summary": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer Retail Technology Innovation Hub",
-      "source": "Retail Technology Innovation Hub",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1V1ZTZsOUpaaXdIcDRDZVJGczJTNWJlc01JX2YxNFpHVEVXUmx4T1dHNWU5NlpzVVFGZWp2aUp1Qk93N2FFS2k0UUlGdEtzSUdmTDUwNGZTMm8yN19yQW9Ud3FSYUxRN3IyNWR5UnNLaFdFWjZ4ZjhfMUJ2M0J4UGZCLVNIM05Qa1FmODhoMkFXeTZjbXMtUG04RFl5R0ZKV3VXQS1hVzZRVTg5d1JoR3QxS0lmQ1JFcEF5RHdKdHNKRjdzS3ljN2wxYUxlLXdNVkYxYm1aUzZCUTVHaGs0Mw?oc=5",
       "featured": false
     },
     {
@@ -219,13 +219,13 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - NonStop Local KHQ",
+      "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - khq.com",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Update",
       "date": "Aug 30, 2026",
-      "summary": "Davenport Hotel hiring for over 100 positions across five Spokane locations NonStop Local KHQ",
-      "source": "NonStop Local KHQ",
+      "summary": "Davenport Hotel hiring for over 100 positions across five Spokane locations khq.com",
+      "source": "khq.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTg3RTFVWHFmLU9kUmNzdEc1SkxkUWZyOEdQUVdFRVhKdl9NY0VEMGpuWjhoOFNGOG5CeVpoU2JzMTZGal9VRzd1Q1hoRExuS0hmYk1PdHp2WVJIQXl3TjNleko0eElyU0ExZERPc0FtVTVhX3huZGxORWpVZnhVdUpnNkNVQ0ZqMGdrVHloRTAwWUItOFJxbDRzVFU4djVxbEhVMmVaNkpreTFUX0J1SEI4eU5sVXg5NEV6UXJhcVRhdHhfQUM2dko5TkJKSVJXeFRUMFhzX0pXYlFDUnc?oc=5",
       "featured": false
@@ -240,6 +240,18 @@
       "source": "LakeWalesNews.net",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcktZek1XUjY3SEVBcE1qaGFmWW1vTFR2M3BVTWRRTXM3bkFEblMxdzFrTEJyRzYxMko3eDBhWThFTm1NWHE0THBrU1otLXFQZzJqZDAxZWh2UnJWV1JUM05sQ0o4ajhtZWFOZnFlcTRqSTJfSlZTYXNONy0zM0JXSXZPb21udHpIWkNieFA4TTNMVkNQYXNOcXBPSnRqVlE0MC1MTExTODBaMFA1a2JmVnhXOW8?oc=5",
+      "featured": false
+    },
+    {
+      "title": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer - Retail Technology Innovation Hub",
+      "city": "Davenport",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Oct 02, 2026",
+      "summary": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer Retail Technology Innovation Hub",
+      "source": "Retail Technology Innovation Hub",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1V1ZTZsOUpaaXdIcDRDZVJGczJTNWJlc01JX2YxNFpHVEVXUmx4T1dHNWU5NlpzVVFGZWp2aUp1Qk93N2FFS2k0UUlGdEtzSUdmTDUwNGZTMm8yN19yQW9Ud3FSYUxRN3IyNWR5UnNLaFdFWjZ4ZjhfMUJ2M0J4UGZCLVNIM05Qa1FmODhoMkFXeTZjbXMtUG04RFl5R0ZKV3VXQS1hVzZRVTg5d1JoR3QxS0lmQ1JFcEF5RHdKdHNKRjdzS3ljN2wxYUxlLXdNVkYxYm1aUzZCUTVHaGs0Mw?oc=5",
       "featured": false
     },
     {
@@ -387,13 +399,13 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - tbbwmag.com",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
       "city": "Polk City",
       "category": "Development",
       "status": "Update",
       "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp tbbwmag.com",
-      "source": "tbbwmag.com",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
+      "source": "Tampa Bay Business and Wealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
@@ -603,18 +615,6 @@
       "featured": false
     },
     {
-      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
-      "city": "Lake Wales",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jan 04, 2023",
-      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
-      "source": "Livabl",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
-      "featured": false
-    },
-    {
       "title": "New Smart Auto dealerships coming soon to Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -651,13 +651,13 @@
       "featured": false
     },
     {
-      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - qctimes.com",
+      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 20, 2026",
-      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting qctimes.com",
-      "source": "qctimes.com",
+      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting The Quad-City Times",
+      "source": "The Quad-City Times",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenZIX0tBUDhFVmczYmM1NkgyVl9GTVVNUEFOU05FTjVEcEh1YVV5YWZSaHNudkZZaFFaTk9qNDA3NW5BMmgwU21CaTExZi1nRDJ6WUItUUo3aHVndml5SlgzR0ZrNGFTZllreklqOWtIQlU3YTQ4TGtNeU5jTGlPVEZhSXk4T1NFV3JPNWdMdkRiR2poZml0Z3Z2RGJTNGttb2plWmJHNkY?oc=5",
       "featured": false
@@ -771,25 +771,25 @@
       "featured": false
     },
     {
-      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - The National Law Review",
+      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - natlawreview.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 17, 2026",
-      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th The National Law Review",
-      "source": "The National Law Review",
+      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th natlawreview.com",
+      "source": "natlawreview.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
       "featured": false
     },
     {
-      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - qctimes.com",
+      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Sep 18, 2026",
-      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport qctimes.com",
-      "source": "qctimes.com",
+      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport The Quad-City Times",
+      "source": "The Quad-City Times",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9VTWVXUjFPdE9welNCNzhUQ1dVTzI0T0l6OWhGV0p3aWlsTU5DVGhJRFFYOWZlMEhUWlNWMnNfb0liQzI3elU1Ni0tSnVKWEpVXzJrSnRhdUVXR0dXVU5iOGVwenYwenctcHMtYUdVUW5YZmJqM2xQTThYYXRRb0xSaWcyakFPTUVIYTVOYWNJcTNITGxrakc4ZEF2SU56Q2NNMnpB?oc=5",
       "featured": false
