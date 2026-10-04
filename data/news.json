@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04 17:42 UTC",
+  "last_updated": "2026-10-04 20:28 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -123,13 +123,13 @@
       "featured": false
     },
     {
-      "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
+      "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - deere.com",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
       "date": "Sep 08, 2026",
-      "summary": "John Deere Foundation Commits $1 Million to Housing in Davenport John Deere",
-      "source": "John Deere",
+      "summary": "John Deere Foundation Commits $1 Million to Housing in Davenport deere.com",
+      "source": "deere.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NSTJ5WGFDMGNHS3FyRU0yVy1hVmRjSVg4Z1JOWjlUcHB0dzgza1Zlb1lhQmtZZzkyamNTMGFNcnVSSElSNWpUSTdjM3k5Ukl6bTluS1hhbHVpa2w3YkhwYmVteG0yLTRSeW9KOEV1eENIRHFSbWlFajc1bXU?oc=5",
       "featured": false
@@ -171,13 +171,13 @@
       "featured": false
     },
     {
-      "title": "New construction partially collapses in Davenport - wqad.com",
+      "title": "New construction partially collapses in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "Aug 04, 2026",
-      "summary": "New construction partially collapses in Davenport wqad.com",
-      "source": "wqad.com",
+      "summary": "New construction partially collapses in Davenport WQAD",
+      "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
       "featured": false
@@ -195,13 +195,13 @@
       "featured": false
     },
     {
-      "title": "New Downtown Apartments Rising Rapidly in Lake Wales - LakeWalesNews.net",
+      "title": "New Downtown Apartments Rising Rapidly in Lake Wales - lakewalesnews.net",
       "city": "Lake Wales",
       "category": "Housing",
       "status": "Update",
       "date": "Sep 12, 2026",
-      "summary": "New Downtown Apartments Rising Rapidly in Lake Wales LakeWalesNews.net",
-      "source": "LakeWalesNews.net",
+      "summary": "New Downtown Apartments Rising Rapidly in Lake Wales lakewalesnews.net",
+      "source": "lakewalesnews.net",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcktZek1XUjY3SEVBcE1qaGFmWW1vTFR2M3BVTWRRTXM3bkFEblMxdzFrTEJyRzYxMko3eDBhWThFTm1NWHE0THBrU1otLXFQZzJqZDAxZWh2UnJWV1JUM05sQ0o4ajhtZWFOZnFlcTRqSTJfSlZTYXNONy0zM0JXSXZPb21udHpIWkNieFA4TTNMVkNQYXNOcXBPSnRqVlE0MC1MTExTODBaMFA1a2JmVnhXOW8?oc=5",
       "featured": false
@@ -219,6 +219,18 @@
       "featured": false
     },
     {
+      "title": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer - Retail Technology Innovation Hub",
+      "city": "Davenport",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Oct 02, 2026",
+      "summary": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer Retail Technology Innovation Hub",
+      "source": "Retail Technology Innovation Hub",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1V1ZTZsOUpaaXdIcDRDZVJGczJTNWJlc01JX2YxNFpHVEVXUmx4T1dHNWU5NlpzVVFGZWp2aUp1Qk93N2FFS2k0UUlGdEtzSUdmTDUwNGZTMm8yN19yQW9Ud3FSYUxRN3IyNWR5UnNLaFdFWjZ4ZjhfMUJ2M0J4UGZCLVNIM05Qa1FmODhoMkFXeTZjbXMtUG04RFl5R0ZKV3VXQS1hVzZRVTg5d1JoR3QxS0lmQ1JFcEF5RHdKdHNKRjdzS3ljN2wxYUxlLXdNVkYxYm1aUzZCUTVHaGs0Mw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Rejuvenate Housing showcases renovated Davenport home and announces major grant - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -228,18 +240,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmRSYTlKaVJwYlZuaGZLSWZDR3haREM3NjJsdWRkUmp3TjdJc3ZSZXZFQWhLdHczTTBBTGhmejl5NFBnQVVneUVrbEdTTEZGUVUtX2dxYzVVcUpnbFp2MzRfSnJCeEk5MVg0dUdnYWppTGtId1U2ZkU1SE9CNnk2Y1JaVUVJa2Z4NVdOSVByZGZFM2tWQ3ZOUFRXWmhYUTJOR1B4Wld1MVZ4Z0pX?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Century-old Davenport homes saved from demolition to house refugee families - wqad.com",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 21, 2026",
-      "summary": "Century-old Davenport homes saved from demolition to house refugee families wqad.com",
-      "source": "wqad.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQczNMNWJVaE12NDMxd3ZnSGY2eW9WX0FQY0xjVWNZNVVDbjFtejFPZGFCbEUxV09xUEsxNk1IeEtIcnZRTkZxOTRVZURfSktIaXlCZmF5NG1zMFRwdjRmNFY4UWtlSjk5a053M2JMUk1zM3RScGdBSmtHRW1VaGtWYWR6cVZFQTV5R2hRakZIQmZSOWlrT0ZzdFFsdGNjc21hbmRDYlhvcFpvZGdvT2lxbERTakgwR3NWMTloQ29DdUU4TGYyWnZURm5nZVFEaUNzbHhMZU4wZXpEanVhaF9UNkVpLU5CdkVqRjdCcURuTjF4TkJZVmRRdDh3Vmc3Q1JsTjZFbg?oc=5",
       "featured": false
     },
     {
@@ -264,18 +264,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer - Retail Technology Innovation Hub",
-      "city": "Davenport",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Oct 02, 2026",
-      "summary": "LeMieux raids Neal’s Yard Remedies to bring in James Davenport as its new Chief Financial Officer Retail Technology Innovation Hub",
-      "source": "Retail Technology Innovation Hub",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1V1ZTZsOUpaaXdIcDRDZVJGczJTNWJlc01JX2YxNFpHVEVXUmx4T1dHNWU5NlpzVVFGZWp2aUp1Qk93N2FFS2k0UUlGdEtzSUdmTDUwNGZTMm8yN19yQW9Ud3FSYUxRN3IyNWR5UnNLaFdFWjZ4ZjhfMUJ2M0J4UGZCLVNIM05Qa1FmODhoMkFXeTZjbXMtUG04RFl5R0ZKV3VXQS1hVzZRVTg5d1JoR3QxS0lmQ1JFcEF5RHdKdHNKRjdzS3ljN2wxYUxlLXdNVkYxYm1aUzZCUTVHaGs0Mw?oc=5",
       "featured": false
     },
     {
@@ -327,13 +315,13 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools Approves High School Rezoning - lkldnow.com",
+      "title": "Polk County Public Schools Approves High School Rezoning - LkldNow",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Jan 28, 2026",
-      "summary": "Polk County Public Schools Approves High School Rezoning lkldnow.com",
-      "source": "lkldnow.com",
+      "summary": "Polk County Public Schools Approves High School Rezoning LkldNow",
+      "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0lwMTJ5SVFWWXc4N2hfeVJ2S3ZlUFJjbTZydk5USmxJQTlkTW5qMkx4VThhX3JhY2o1cGdXX3ZreFBCY2diM1duN01GbzlfQkZrNC1QM2NNZ2U0eUJDWjNFUzFoWWVHeENwcTI4X284QWgyeXBSdVM3Ql9pRVBnaG9sc0JaZzhE?oc=5",
       "featured": false
@@ -351,13 +339,13 @@
       "featured": false
     },
     {
-      "title": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments - Substack",
+      "title": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments - anniedance.substack.com",
       "city": "Polk County",
       "category": "Development",
       "status": "Approved",
       "date": "Jun 14, 2026",
-      "summary": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments Substack",
-      "source": "Substack",
+      "summary": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments anniedance.substack.com",
+      "source": "anniedance.substack.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3NMZ3d4LVoxYlRvSlpibU9oZFBKcFJPODc4RUZUTi11V2NxMDQwM2FnbHZyS3NiOGo5Ynk0cXNTUzhTQWFkeXpORkNyd093dGFOVV9jeXpfMlppeHZuMUUyT1praDRpSWJkR183Xzg5SnF1bmlUc0NxMUxkXy1PTGhvNzlBVC1GODJZQ2xLd2lLekVjb2Q0b056amdxMWh1aTNVU2dJV1RkRnpLWldYOWVpU3BiRVU?oc=5",
       "featured": false
@@ -603,13 +591,13 @@
       "featured": false
     },
     {
-      "title": "New Smart Auto dealerships coming soon to Davenport - wqad.com",
+      "title": "New Smart Auto dealerships coming soon to Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
       "status": "Coming Soon",
       "date": "Sep 29, 2026",
-      "summary": "New Smart Auto dealerships coming soon to Davenport wqad.com",
-      "source": "wqad.com",
+      "summary": "New Smart Auto dealerships coming soon to Davenport WQAD",
+      "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHNDM3d1RGFLNHVFSVJsbTZfeDl0NTZtMVF6QjZhZWZ3cFRvdm84TWdHMzE1dExBSjFvMVloR1VvaWRwdm5faVBGN0dUUGs3ZHZvUmUxODNleDVjNGlFTVpkSkF6MFVxVUFIdXVxWTRLNUY5VjlPS2N0eFM5TVdNZEVuZU9ubVFfNjhRU3JtOG1uN01SQ0dhYWt1R2ZqaEVxUFJ6T1RJTjZZek42TmQ1Nll0TS1zSUlPNmRfRmhiQ1BEUFhkeTEyb0FR?oc=5",
       "featured": false
@@ -627,27 +615,39 @@
       "featured": false
     },
     {
-      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
+      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - qctimes.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 20, 2026",
-      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting The Quad-City Times",
-      "source": "The Quad-City Times",
+      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting qctimes.com",
+      "source": "qctimes.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenZIX0tBUDhFVmczYmM1NkgyVl9GTVVNUEFOU05FTjVEcEh1YVV5YWZSaHNudkZZaFFaTk9qNDA3NW5BMmgwU21CaTExZi1nRDJ6WUItUUo3aHVndml5SlgzR0ZrNGFTZllreklqOWtIQlU3YTQ4TGtNeU5jTGlPVEZhSXk4T1NFV3JPNWdMdkRiR2poZml0Z3Z2RGJTNGttb2plWmJHNkY?oc=5",
       "featured": false
     },
     {
-      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - news.ag.org",
+      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God (USA)",
       "city": "Winter Haven",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 01, 2026",
-      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus news.ag.org",
-      "source": "news.ag.org",
+      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God (USA)",
+      "source": "Assemblies of God (USA)",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - KWQC",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "May 15, 2026",
+      "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFRsZ0wtenl6QldPOHVMR053TnB5YTBmMEUzN0U1TUhTUXdrYUhlNThnZHQydFEzSGhUeHlyVFk4OW1aX0RDVklkSjlMSmR3TUc2TlpCS1JPZ191ZENTLTNTOE5YbE1SeGZFcENOblc2bmhHUG5JTURFaGNWSTB5NjktR2tKckZqSUVXODRYSTFhQ0I1aE80SGR4R2xFZ1l2WnhmYkMxVdIBuwFBVV95cUxPZ1g3MTVZdlZjTEhKcThqcDNJUjYyU0RBelluRmlVd2J4TXVIdTc2OWNhOWlkU3ROOWVLak55NFhoZ1F5TXc5ZE9QRlZqRFZ1Y0J0Y2x1UU1MMDNxRENuYWNLdS1zejM1VHB6dF84M0Q4TDcxVkdDYkhKb00wWWRyT0c4WnNaUGVVUTFfNGVROEFhLWtVV3Ewb1JaQ0pzUUJBTktDTU82U1BpcTZwcExvejBIb0lOSlhoNkNN?oc=5",
       "featured": false
     },
     {
@@ -660,18 +660,6 @@
       "source": "wvik.org",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTnI0RUl1c1JmNFRoZEVNaWpxV1pmMk5KYWRpY2pHVG5lX2J2UFNyQ3N4Z3JLSUZnZzViZWlNTmFZaXV4NkhveHNiM082bTBHMFo2M0E5Zld3ZHljSEYzWmpET1JCTDE0SFZsOXB1bGtoX19Dc1NLYlpSSTE2Sl9zSGF1TFllRVkzQmNWYWduVGVwaFdIUVNtem1OTWZORzZKX0pUWnlCOVFqSGVhNm5sRmZ0OFk?oc=5",
-      "featured": false
-    },
-    {
-      "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - KWQC",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "May 15, 2026",
-      "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0ttSVMxaXIzTnZXVGJNNERET3F5cWpwRmlOOTVsQjlXdktCZGV4bDFGRURoNEZaMjY1ZUphVFk0NUxEaUpaeXdvVWF2RDNxNy1HT1FRc3Rzem4tcGRibmNHcklRTC1lWlpDZ1JiWkJzcW5CRFo5R3JHNU9Vc2VpUWRrS1Y0VXl3U0h0NHpGdkdOM2NVRmI2LWZ4b19oeTk1Q0t0UGpIcmVERWpBTVF3?oc=5",
       "featured": false
     },
     {
@@ -759,13 +747,13 @@
       "featured": false
     },
     {
-      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - The Quad-City Times",
+      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - qctimes.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Sep 18, 2026",
-      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport The Quad-City Times",
-      "source": "The Quad-City Times",
+      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport qctimes.com",
+      "source": "qctimes.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9VTWVXUjFPdE9welNCNzhUQ1dVTzI0T0l6OWhGV0p3aWlsTU5DVGhJRFFYOWZlMEhUWlNWMnNfb0liQzI3elU1Ni0tSnVKWEpVXzJrSnRhdUVXR0dXVU5iOGVwenYwenctcHMtYUdVUW5YZmJqM2xQTThYYXRRb0xSaWcyakFPTUVIYTVOYWNJcTNITGxrakc4ZEF2SU56Q2NNMnpB?oc=5",
       "featured": false
@@ -783,25 +771,25 @@
       "featured": false
     },
     {
-      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - wqad.com",
+      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 09, 2026",
-      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport wqad.com",
-      "source": "wqad.com",
+      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport WQAD",
+      "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
       "featured": false
     },
     {
-      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - wqad.com",
+      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jan 13, 2026",
-      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport wqad.com",
-      "source": "wqad.com",
+      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport WQAD",
+      "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckNUMF85VF8xYU5ybjk2a1hRTUJjRFNUSTQ0blRaV19nbjR6RWFSWldOb1VoWVZRUDNOZFJlUTBxYWdiclRiclFaaDhINWg2c011Q2tCalY3eDlUbXZNZVdsOVN5SUZIRjcwSHFSemtBeXp5eFZUUzZrTW5KcGFrOVdfOTkzYXZBWW9LSGhJSXl4Y1VaNnUzV1N5Z0lVMWlpM29nZGExNTFUTWVXTjE1OEdVVDUxalpMSF93S3Y0VVJKZllWRG1vOGlKUEllMEs5WU5qSF9SSXBPM1luYXJLdGVfaHJCZ0hz?oc=5",
       "featured": false
@@ -1071,15 +1059,27 @@
       "featured": false
     },
     {
-      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - lkldnow.com",
+      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - LkldNow",
       "city": "Lakeland",
       "category": "Housing",
       "status": "Update",
       "date": "Oct 18, 2021",
-      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses lkldnow.com",
-      "source": "lkldnow.com",
+      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses LkldNow",
+      "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jun 24, 2023",
+      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
