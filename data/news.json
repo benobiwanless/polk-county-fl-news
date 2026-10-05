@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04 23:25 UTC",
+  "last_updated": "2026-10-05 02:10 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -99,18 +99,6 @@
       "featured": false
     },
     {
-      "title": "Two new Publix stores are opening in Polk County one week apart - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Grand Opening",
-      "date": "Jun 17, 2026",
-      "summary": "Two new Publix stores are opening in Polk County one week apart Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcWkwLWJqV3dXVkNQWk9QdGQ5VW1TYkQ3cnE5QkFFSWVxdGtPMmVNOUlEenZtLUJBWk5hb2xLNVhDazVTaml1Zkt0XzJaa3VJVThFYnZoUTRGVk1JQTk0SGxfNTdlT04tT3FuVFhOUjZ4UGF1d2dBLUVDLURLUjA2bVUxNU1FVGpBU2FvTHBlSHAwc2dTMDIxbGZuekxSSG81U2pEbUJyYjBiR1N3LXhDcG1oZnVkZlNaQUI5dWxLRHhkY09MaFZmZFNOUlRXcmtETlVVTi13RTI?oc=5",
-      "featured": false
-    },
-    {
       "title": "New housing development aims to help homeless people in Davenport - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -183,13 +171,13 @@
       "featured": false
     },
     {
-      "title": "New construction partially collapses in Davenport - WQAD",
+      "title": "New construction partially collapses in Davenport - wqad.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "Aug 04, 2026",
-      "summary": "New construction partially collapses in Davenport WQAD",
-      "source": "WQAD",
+      "summary": "New construction partially collapses in Davenport wqad.com",
+      "source": "wqad.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
       "featured": false
@@ -591,13 +579,25 @@
       "featured": false
     },
     {
-      "title": "New Smart Auto dealerships coming soon to Davenport - WQAD",
+      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
+      "city": "Lake Wales",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jan 04, 2023",
+      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New Smart Auto dealerships coming soon to Davenport - wqad.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Coming Soon",
       "date": "Sep 29, 2026",
-      "summary": "New Smart Auto dealerships coming soon to Davenport WQAD",
-      "source": "WQAD",
+      "summary": "New Smart Auto dealerships coming soon to Davenport wqad.com",
+      "source": "wqad.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHNDM3d1RGFLNHVFSVJsbTZfeDl0NTZtMVF6QjZhZWZ3cFRvdm84TWdHMzE1dExBSjFvMVloR1VvaWRwdm5faVBGN0dUUGs3ZHZvUmUxODNleDVjNGlFTVpkSkF6MFVxVUFIdXVxWTRLNUY5VjlPS2N0eFM5TVdNZEVuZU9ubVFfNjhRU3JtOG1uN01SQ0dhYWt1R2ZqaEVxUFJ6T1RJTjZZek42TmQ1Nll0TS1zSUlPNmRfRmhiQ1BEUFhkeTEyb0FR?oc=5",
       "featured": false
@@ -639,6 +639,18 @@
       "featured": false
     },
     {
+      "title": "Bubba’s 33 has grand opening in Davenport - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 27, 2026",
+      "summary": "Bubba’s 33 has grand opening in Davenport OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeF84V2F0WWRMWXpITlRKTVFlZktDQmwzaG44TDBYMTNOZFVQbkxXcFRVRERuU0g0T0NMSkl4U196ZnhaZ0pVWFYzZXRmZnl4WW9feXJLdHg1dEZpQVFzaFprMEM0bGRNeUJQS2xxbGh3clp3MGtQMEdnMkFyTjVwYmtrNElQa3NZbFctRVJucURyWEJmY2c3WlVrellqSERCeDV5ZEpra9IBrAFBVV95cUxNZzM3ZkNIdUM4VVJZNGJZOG9ZY0dTMUhYbzMtN05KYlc2QzNYcG9STnV3NzJEcEZpb0NiRzQ2Y3k3azdWREExZ1pJdmhvLTFhSHhIMXNPN05XQ0tsajYwdjl0dUR2djVGM0tjcWQza3dQOHhxZUM2Q1BMZlNLbVRKMEpDN1ZNTlFWYzRiVmFfekVzTmFpNmxYX0xKMVBDdmhPTWhhdjZqMXdmSGRa?oc=5",
+      "featured": false
+    },
+    {
       "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - KWQC",
       "city": "Davenport",
       "category": "Development",
@@ -647,7 +659,7 @@
       "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
       "source": "KWQC",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFRsZ0wtenl6QldPOHVMR053TnB5YTBmMEUzN0U1TUhTUXdrYUhlNThnZHQydFEzSGhUeHlyVFk4OW1aX0RDVklkSjlMSmR3TUc2TlpCS1JPZ191ZENTLTNTOE5YbE1SeGZFcENOblc2bmhHUG5JTURFaGNWSTB5NjktR2tKckZqSUVXODRYSTFhQ0I1aE80SGR4R2xFZ1l2WnhmYkMxVdIBuwFBVV95cUxPZ1g3MTVZdlZjTEhKcThqcDNJUjYyU0RBelluRmlVd2J4TXVIdTc2OWNhOWlkU3ROOWVLak55NFhoZ1F5TXc5ZE9QRlZqRFZ1Y0J0Y2x1UU1MMDNxRENuYWNLdS1zejM1VHB6dF84M0Q4TDcxVkdDYkhKb00wWWRyT0c4WnNaUGVVUTFfNGVROEFhLWtVV3Ewb1JaQ0pzUUJBTktDTU82U1BpcTZwcExvejBIb0lOSlhoNkNN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0ttSVMxaXIzTnZXVGJNNERET3F5cWpwRmlOOTVsQjlXdktCZGV4bDFGRURoNEZaMjY1ZUphVFk0NUxEaUpaeXdvVWF2RDNxNy1HT1FRc3Rzem4tcGRibmNHcklRTC1lWlpDZ1JiWkJzcW5CRFo5R3JHNU9Vc2VpUWRrS1Y0VXl3U0h0NHpGdkdOM2NVRmI2LWZ4b19oeTk1Q0t0UGpIcmVERWpBTVF3?oc=5",
       "featured": false
     },
     {
@@ -723,13 +735,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
+      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
-      "source": "news-herald.com",
+      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
+      "source": "News-Herald",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
@@ -759,39 +771,27 @@
       "featured": false
     },
     {
-      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
+      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - wqad.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 09, 2026",
-      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport WQAD",
-      "source": "WQAD",
+      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport wqad.com",
+      "source": "wqad.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
       "featured": false
     },
     {
-      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - WQAD",
+      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - wqad.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jan 13, 2026",
-      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport WQAD",
-      "source": "WQAD",
+      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport wqad.com",
+      "source": "wqad.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckNUMF85VF8xYU5ybjk2a1hRTUJjRFNUSTQ0blRaV19nbjR6RWFSWldOb1VoWVZRUDNOZFJlUTBxYWdiclRiclFaaDhINWg2c011Q2tCalY3eDlUbXZNZVdsOVN5SUZIRjcwSHFSemtBeXp5eFZUUzZrTW5KcGFrOVdfOTkzYXZBWW9LSGhJSXl4Y1VaNnUzV1N5Z0lVMWlpM29nZGExNTFUTWVXTjE1OEdVVDUxalpMSF93S3Y0VVJKZllWRG1vOGlKUEllMEs5WU5qSF9SSXBPM1luYXJLdGVfaHJCZ0hz?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Bubba’s 33 plans ribbon cutting, grand opening in Davenport - Yahoo",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jul 20, 2026",
-      "summary": "Bubba’s 33 plans ribbon cutting, grand opening in Davenport Yahoo",
-      "source": "Yahoo",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDZoOHY1dkdvcThpdkM5NkpjMS11YjB4YzNRRkYzUk91b1JQV0xXWlBYV1M1ZHdTUC1iMDNZN3g5VTFTUkRyQjB2ZURzb21JWHBCQm1KUUdEUzVGU2E4cmpRdUNLS0dZd1QzcVI0dHdlSVJ5TFRuaFJaa3VPcHBRSHN5MnF0NVhQUGt1Tnhn?oc=5",
       "featured": false
     },
     {
@@ -819,18 +819,6 @@
       "featured": false
     },
     {
-      "title": "New Publix opening soon amid a plethora of East Polk housing developments - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Grand Opening",
-      "date": "Feb 27, 2025",
-      "summary": "New Publix opening soon amid a plethora of East Polk housing developments Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDR1Nlpoc3gtQm03R0FvTkZTdVQzeHgyVVhkREphYl9idTg3Q0tKdkMwbmxXMjA3Z0lveEp2OU1KV2FRbXRZZmQ4TnlGdHZzZ0ZKbUY1dTBzZV9TSmY5b1hiN0ltLVlKaDB2TVpCSlJEb2todnM2dnp6ZUpvd0hsVFZmMC03VXpCRE41RUx4dVV1TWNBVUNCTDFnTUpvdzF3QVI1RjVMaUs5bDMzXzZDODhjMDJlNXdrdnNuaU1ubXZ4ODJOUl9JVlpKby1SVWlxS0Rz?oc=5",
-      "featured": false
-    },
-    {
       "title": "Against an uproar from residents, Polk commissioners OK 1,876-home Creek Ranch development - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -840,6 +828,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGJ5YW5WZGEyUDJfdVZ6SzVVcW5IWS1KQ1YyWUZwOFcweW9pQkxhWWZ1cHdiOWtpd0FkQXZHQnk3d1QyY3ZSd1lMSkNuRVczMm5TMnAwUU1OajFrRDRncVNsWmFtOFZzN25CMkJoNEVHeS1XQjFnV2VBU2N5UmxpbDNYNjRjNHV4bTRrdE9haWMxeGx6N0VTWEZQYVk0dFVFUWxXMXlRdE1RVnhqd0xWd0kwaHA5enJMOUVjVm1pVEZnUmtqT3hDcjJkODVIMWM?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New Publix opening soon amid a plethora of East Polk housing developments - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Grand Opening",
+      "date": "Feb 27, 2025",
+      "summary": "New Publix opening soon amid a plethora of East Polk housing developments Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDR1Nlpoc3gtQm03R0FvTkZTdVQzeHgyVVhkREphYl9idTg3Q0tKdkMwbmxXMjA3Z0lveEp2OU1KV2FRbXRZZmQ4TnlGdHZzZ0ZKbUY1dTBzZV9TSmY5b1hiN0ltLVlKaDB2TVpCSlJEb2todnM2dnp6ZUpvd0hsVFZmMC03VXpCRE41RUx4dVV1TWNBVUNCTDFnTUpvdzF3QVI1RjVMaUs5bDMzXzZDODhjMDJlNXdrdnNuaU1ubXZ4ODJOUl9JVlpKby1SVWlxS0Rz?oc=5",
       "featured": false
     },
     {
