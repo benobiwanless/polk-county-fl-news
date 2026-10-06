@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05 23:21 UTC",
+  "last_updated": "2026-10-06 03:09 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -99,6 +99,18 @@
       "featured": false
     },
     {
+      "title": "Two new Publix stores are opening in Polk County one week apart - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Grand Opening",
+      "date": "Jun 17, 2026",
+      "summary": "Two new Publix stores are opening in Polk County one week apart Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcWkwLWJqV3dXVkNQWk9QdGQ5VW1TYkQ3cnE5QkFFSWVxdGtPMmVNOUlEenZtLUJBWk5hb2xLNVhDazVTaml1Zkt0XzJaa3VJVThFYnZoUTRGVk1JQTk0SGxfNTdlT04tT3FuVFhOUjZ4UGF1d2dBLUVDLURLUjA2bVUxNU1FVGpBU2FvTHBlSHAwc2dTMDIxbGZuekxSSG81U2pEbUJyYjBiR1N3LXhDcG1oZnVkZlNaQUI5dWxLRHhkY09MaFZmZFNOUlRXcmtETlVVTi13RTI?oc=5",
+      "featured": false
+    },
+    {
       "title": "New housing development aims to help homeless people in Davenport - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -171,13 +183,13 @@
       "featured": false
     },
     {
-      "title": "New construction partially collapses in Davenport - WQAD",
+      "title": "New construction partially collapses in Davenport - wqad.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Update",
       "date": "Aug 04, 2026",
-      "summary": "New construction partially collapses in Davenport WQAD",
-      "source": "WQAD",
+      "summary": "New construction partially collapses in Davenport wqad.com",
+      "source": "wqad.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
       "featured": false
@@ -315,13 +327,13 @@
       "featured": false
     },
     {
-      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - Bay News 9",
+      "title": "Polk County school leaders vote to move forward on rezoning 16 high schools - baynews9.com",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Jan 27, 2026",
-      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools Bay News 9",
-      "source": "Bay News 9",
+      "summary": "Polk County school leaders vote to move forward on rezoning 16 high schools baynews9.com",
+      "source": "baynews9.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUERXNktEWFh4TjNIT1BlSTVkZFNuLUVGUXU4MkxXSmNVeW9qYVhkQ1FLY18yelF4WTItbW14YVlleWdlVUdPWlYwaVZzYnNFVG8xRjlsSjNIWHdMTkVEcFg2YlZ3OFU1aHNJSktiaGZDblJsZDRNeUhsZ1g4cXZsOVRXcVdnS0ZNSFpFVGgzaG1RU1Utcy1jSVRRQy0tck1kOVNqVGFvV2dFU2RUS01ybDlRTmFTdFE?oc=5",
       "featured": false
@@ -351,27 +363,15 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - tbbwmag.com",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
       "city": "Polk City",
       "category": "Development",
       "status": "Update",
       "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp tbbwmag.com",
-      "source": "tbbwmag.com",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
+      "source": "Tampa Bay Business and Wealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
-      "featured": false
-    },
-    {
-      "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 01, 2025",
-      "summary": "PCPS Preparing for High School Rezoning Polk County Public Schools",
-      "source": "Polk County Public Schools",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
       "featured": false
     },
     {
@@ -411,13 +411,13 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools considering high school rezoning due to population changes - wfla.com",
+      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
       "date": "Aug 05, 2025",
-      "summary": "Polk County Public Schools considering high school rezoning due to population changes wfla.com",
-      "source": "wfla.com",
+      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
+      "source": "WFLA",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
       "featured": false
@@ -567,27 +567,15 @@
       "featured": false
     },
     {
-      "title": "New Smart Auto dealerships coming soon to Davenport - WQAD",
+      "title": "New Smart Auto dealerships coming soon to Davenport - wqad.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Coming Soon",
       "date": "Sep 29, 2026",
-      "summary": "New Smart Auto dealerships coming soon to Davenport WQAD",
-      "source": "WQAD",
+      "summary": "New Smart Auto dealerships coming soon to Davenport wqad.com",
+      "source": "wqad.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHNDM3d1RGFLNHVFSVJsbTZfeDl0NTZtMVF6QjZhZWZ3cFRvdm84TWdHMzE1dExBSjFvMVloR1VvaWRwdm5faVBGN0dUUGs3ZHZvUmUxODNleDVjNGlFTVpkSkF6MFVxVUFIdXVxWTRLNUY5VjlPS2N0eFM5TVdNZEVuZU9ubVFfNjhRU3JtOG1uN01SQ0dhYWt1R2ZqaEVxUFJ6T1RJTjZZek42TmQ1Nll0TS1zSUlPNmRfRmhiQ1BEUFhkeTEyb0FR?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New Smart Auto dealerships coming soon to Davenport - Yahoo",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Coming Soon",
-      "date": "Sep 29, 2026",
-      "summary": "New Smart Auto dealerships coming soon to Davenport Yahoo",
-      "source": "Yahoo",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXY2ZGNJSEU4N1VZMDJ3M2ZlRW5QTjRqRXFFUi11RWVYS0dlRGkxbDFCMlk4Zkg1MG1FMDFWQTZFYXR6cW4xcFFDVG4xb2VFTW43bnEwSkxxbGlVTW82VjNRcEgyc3FPZFVxbnBhRktNbEtrell1MWRGMkxTb0xTVG9xajhBZFV2ZUU4?oc=5",
       "featured": false
     },
     {
@@ -603,13 +591,25 @@
       "featured": false
     },
     {
-      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God (USA)",
+      "title": "New Smart Auto dealerships coming soon to Davenport - Yahoo",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Coming Soon",
+      "date": "Sep 29, 2026",
+      "summary": "New Smart Auto dealerships coming soon to Davenport Yahoo",
+      "source": "Yahoo",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXY2ZGNJSEU4N1VZMDJ3M2ZlRW5QTjRqRXFFUi11RWVYS0dlRGkxbDFCMlk4Zkg1MG1FMDFWQTZFYXR6cW4xcFFDVG4xb2VFTW43bnEwSkxxbGlVTW82VjNRcEgyc3FPZFVxbnBhRktNbEtrell1MWRGMkxTb0xTVG9xajhBZFV2ZUU4?oc=5",
+      "featured": false
+    },
+    {
+      "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - news.ag.org",
       "city": "Winter Haven",
       "category": "Development",
       "status": "Grand Opening",
       "date": "May 01, 2026",
-      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus Assemblies of God (USA)",
-      "source": "Assemblies of God (USA)",
+      "summary": "SEU Celebrates Grand Opening of New Winter Haven Campus news.ag.org",
+      "source": "news.ag.org",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
       "featured": false
@@ -635,29 +635,29 @@
       "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
       "source": "KWQC",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0ttSVMxaXIzTnZXVGJNNERET3F5cWpwRmlOOTVsQjlXdktCZGV4bDFGRURoNEZaMjY1ZUphVFk0NUxEaUpaeXdvVWF2RDNxNy1HT1FRc3Rzem4tcGRibmNHcklRTC1lWlpDZ1JiWkJzcW5CRFo5R3JHNU9Vc2VpUWRrS1Y0VXl3U0h0NHpGdkdOM2NVRmI2LWZ4b19oeTk1Q0t0UGpIcmVERWpBTVF3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFRsZ0wtenl6QldPOHVMR053TnB5YTBmMEUzN0U1TUhTUXdrYUhlNThnZHQydFEzSGhUeHlyVFk4OW1aX0RDVklkSjlMSmR3TUc2TlpCS1JPZ191ZENTLTNTOE5YbE1SeGZFcENOblc2bmhHUG5JTURFaGNWSTB5NjktR2tKckZqSUVXODRYSTFhQ0I1aE80SGR4R2xFZ1l2WnhmYkMxVdIBuwFBVV95cUxPZ1g3MTVZdlZjTEhKcThqcDNJUjYyU0RBelluRmlVd2J4TXVIdTc2OWNhOWlkU3ROOWVLak55NFhoZ1F5TXc5ZE9QRlZqRFZ1Y0J0Y2x1UU1MMDNxRENuYWNLdS1zejM1VHB6dF84M0Q4TDcxVkdDYkhKb00wWWRyT0c4WnNaUGVVUTFfNGVROEFhLWtVV3Ewb1JaQ0pzUUJBTktDTU82U1BpcTZwcExvejBIb0lOSlhoNkNN?oc=5",
       "featured": false
     },
     {
-      "title": "Burn Boot Camp East Davenport Grand Opening - wvik.org",
+      "title": "Burn Boot Camp East Davenport Grand Opening - WVIK, Quad Cities NPR",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 23, 2026",
-      "summary": "Burn Boot Camp East Davenport Grand Opening wvik.org",
-      "source": "wvik.org",
+      "summary": "Burn Boot Camp East Davenport Grand Opening WVIK, Quad Cities NPR",
+      "source": "WVIK, Quad Cities NPR",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjdLZUtfX3VrWWhvY052bTlxeDZnWUdQVXBfcVZOWjJwY1Fnd2l5YkpIWWNscVJZVTJUSG84MTR5NEFBenYySjZjby1aQmdfTEtJa0E0LW8xckVTWS1UdGw4dTNaSlN4RU5EWE1jb2p4TFp3UFhiQk5rc05wVGlEbF9CWkFuQTBXRWdQSlBIajNmeDZoc0lGUmJJTlVWUEVuLVJZaVBscmJKV3hjd3c?oc=5",
       "featured": false
     },
     {
-      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - Lakeland Currents",
+      "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - lakelandcurrents.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 13, 2026",
-      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location Lakeland Currents",
-      "source": "Lakeland Currents",
+      "summary": "Salon 387 Celebrates Grand Opening of New Lakeland Location lakelandcurrents.com",
+      "source": "lakelandcurrents.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
       "featured": false
@@ -711,13 +711,13 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "title": "Lakeland Community College to host grand opening of WAVE center - news-herald.com",
       "city": "Lakeland",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
+      "summary": "Lakeland Community College to host grand opening of WAVE center news-herald.com",
+      "source": "news-herald.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
@@ -747,13 +747,13 @@
       "featured": false
     },
     {
-      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
+      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - wqad.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jul 09, 2026",
-      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport WQAD",
-      "source": "WQAD",
+      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport wqad.com",
+      "source": "wqad.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
       "featured": false
@@ -771,25 +771,25 @@
       "featured": false
     },
     {
-      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - WQAD",
+      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - wqad.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jan 13, 2026",
-      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport WQAD",
-      "source": "WQAD",
+      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport wqad.com",
+      "source": "wqad.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckNUMF85VF8xYU5ybjk2a1hRTUJjRFNUSTQ0blRaV19nbjR6RWFSWldOb1VoWVZRUDNOZFJlUTBxYWdiclRiclFaaDhINWg2c011Q2tCalY3eDlUbXZNZVdsOVN5SUZIRjcwSHFSemtBeXp5eFZUUzZrTW5KcGFrOVdfOTkzYXZBWW9LSGhJSXl4Y1VaNnUzV1N5Z0lVMWlpM29nZGExNTFUTWVXTjE1OEdVVDUxalpMSF93S3Y0VVJKZllWRG1vOGlKUEllMEs5WU5qSF9SSXBPM1luYXJLdGVfaHJCZ0hz?oc=5",
       "featured": false
     },
     {
-      "title": "Dave & Buster’s Celebrates Grand Opening in Davenport - franchising.com",
+      "title": "Dave & Buster’s Celebrates Grand Opening in Davenport - Franchising.com",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
       "date": "Jan 15, 2026",
-      "summary": "Dave & Buster’s Celebrates Grand Opening in Davenport franchising.com",
-      "source": "franchising.com",
+      "summary": "Dave & Buster’s Celebrates Grand Opening in Davenport Franchising.com",
+      "source": "Franchising.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0Fnay1wN05tQ2w2MC15WHgxNm1aUnl6RENSZUltUVRUSy1YbGxSR0FRc0NTdUpJSm54NUlCWUpjS0ZCeU5EbVZkTzY5UjVwTVo1NTBjdVJIUkY1eHl3azUyME5MVTBBaTVGSlp2eGx2OVhnSWR2aXJmNFRNVHRFT0E4NmNtN0t3b3pMcTV3SVpweHUtQ2tpYWVDQ0V1LW_SAaQBQVVfeXFMTWEwU1ZDbjB4VXYwUW50VEd5eEdfbGhsckF3bmllZXR5U0loeEczWnVYLTVLZDdGWV9zUjQ0WGRjbHJueXl1Z1BnRGtkdUhpNkVQLUNmRzJnWTNWQ3l6bUY3MWVPWWgyWEhFX3VROGNSbWhjNDE1MVlpajVpWTZadnlsamR0SWNmc1JzaHNUeGNtSGVaMnB4Zkh0SFBoU3U5RnN5OTY?oc=5",
       "featured": false
@@ -951,6 +951,18 @@
       "featured": false
     },
     {
+      "title": "Denied at first, Morgan Creek gets another chance at expansion - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Nov 17, 2021",
+      "summary": "Denied at first, Morgan Creek gets another chance at expansion Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHphVjdJbmlFZkxDNG4xNmpveW9jTHhYWnZ4cWxLbmhUNmxYbGpOc05IelZSRG9vWjBMR1J2WHRMdE9uYlRrNWFsejhGWHNaVW9lVHRqeDlZUTVzcXNsamI2c0R4bkRETmM1MG1qMlh6b1NRaS1ra0p6YUoxY2IxeG1KWVlUbi1lblkycEszNnpxaDRlZHVMM1dXSjFnNktZNEtFcC04UGtmX05BRHNYUFc5Y0xXUDRPX3k4NFdINms5QjJHeDhZQVJqWk8tdmRRQ1RqWUJMdDVJR1ozbVE?oc=5",
+      "featured": false
+    },
+    {
       "title": "Starbucks to add another South Lakeland store - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Restaurant",
@@ -1020,18 +1032,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWdDMVFXUGJkcFZETlpoSy1Vd1otTnpiVGlGVnFuaThrX1ZPSWxVcGJnYmIxWkRjRW1jOHlkWkFub2VWY3loamQxTHYxcnYxMkVmNWV4MTlUalYtU1ZLLUhheVZYbG1HcE5JTzBmcXRRTUR5anE2RDNDTmprNkdmLTZoU1NjemRCNVFiYTZBazZQbVhXZGIzMWJ6dzhiaFJ3MnFLa1NhR1hMaG8?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Bartow rejects massive 2,245-home Emilie development - Lakeland Ledger",
-      "city": "Bartow",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 03, 2026",
-      "summary": "Bartow rejects massive 2,245-home Emilie development Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdlVSS25ka2ZlZXo1YlhwSloyR3NPOUlUZ1h3ck1XenVkZUx3ZHZWX0x3TWp6MU1GOWNwX09zazFfMFA1T1BDSUJRa3dYdkFuLUtYeXhfelAwSVNLUXlxakEzc3RGZmRuWVJjV1VpbnJ3S2RnWmJOM2d6eTUtaFNEYWJuWXV4V1cwU0ZxQjE2NjBsS1ZjMUdnMkpjQlBMV3pwVnFMMEZjUTh2Wjh6YnhuZDA2c0Zvd1FRejltTVN4OUpjR0luRzkwUEJ6ODh5cEJqcEFfZ2J1c1FjZmhlX0thLXFBYUlPNlMzd1lXRDMtZw?oc=5",
       "featured": false
     },
     {
