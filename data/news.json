@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07 06:41 UTC",
+  "last_updated": "2026-10-07 13:54 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -219,18 +219,6 @@
       "featured": false
     },
     {
-      "title": "Lakeland, FL, Has a Shortage of Homes for Middle-Income Earners - Realtor.com",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 02, 2026",
-      "summary": "Lakeland, FL, Has a Shortage of Homes for Middle-Income Earners Realtor.com",
-      "source": "Realtor.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHE5LTRsdF9YTDdPNFlqQ1NxUVBtamJxSDNWbDAydGZqQmRpZDhoLVI4aVRYdVJIYUhadFZPZXV3LWRoUk5uYWN1SDhEVzVaSWVhNzBYY2ZtTm9qd2V4QmxBNzdweXVFRDZwaFhWOWJDNzRMamlXQlc0STQ2OEpXQkh2NlpUZHAteGVjdkE5NGpsdw?oc=5",
-      "featured": false
-    },
-    {
       "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -267,6 +255,18 @@
       "featured": false
     },
     {
+      "title": "Lakeland, FL, Has a Shortage of Homes for Middle-Income Earners - Realtor.com",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 02, 2026",
+      "summary": "Lakeland, FL, Has a Shortage of Homes for Middle-Income Earners Realtor.com",
+      "source": "Realtor.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHE5LTRsdF9YTDdPNFlqQ1NxUVBtamJxSDNWbDAydGZqQmRpZDhoLVI4aVRYdVJIYUhadFZPZXV3LWRoUk5uYWN1SDhEVzVaSWVhNzBYY2ZtTm9qd2V4QmxBNzdweXVFRDZwaFhWOWJDNzRMamlXQlc0STQ2OEpXQkh2NlpUZHAteGVjdkE5NGpsdw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Davenport restaurant to close its doors - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -288,18 +288,6 @@
       "source": "The Spokesman-Review",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWFpa3ZlOEVKVDExSzFqaWFzaTBoM1pPT0lXZlhUbnFaSlF6bW1FejRkdlpRV3RJZy02d0FoWTNwenc2d1RLR1lCYXZwVnVGbklyUzBzRzZwTHJGOVhjeGZoYUozQ2o3TEsyQlotTUxhWWp0c3hfbXhIVmg3NlliUHRXYUVxaUpXemhYQ2RJVFpSU1FJWXdJdG5JYVVrUQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation - LODGING Magazine",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "May 20, 2026",
-      "summary": "Davenport Hotel, Autograph Collection, Completes Guestroom Renovation LODGING Magazine",
-      "source": "LODGING Magazine",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTl9lcFZPa0FmbF9ENnNwSnNMUDlHQ0RlejAzaFVlMjdGbDFmWWhMZUhCWURKZ0ZUalVBeXZxdzkzZC1qYkloaWNrNUEzeUJIdjFicklhX0s0eURJOUlPUFZnaG51QnlHMy0zQzBCOVNROG42RWpKMUJJRzlYTUdxNw?oc=5",
       "featured": false
     },
     {
@@ -483,6 +471,18 @@
       "featured": false
     },
     {
+      "title": "Greenfield Village by Landsea Homes in Davenport FL - Livabl",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 24, 2024",
+      "summary": "Greenfield Village by Landsea Homes in Davenport FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUVJ1SUg3a2ZTSVpQSTU2eDQyY2FaTkdkZVJ0YkZNSmNDQzNJbkxRY2tVMllNd21VMzRUSHdvTXAzSHpOWjlzQzZiWGR5YUNhQ25TcV9FLXJwMERtVzJmc0Z3Sjk?oc=5",
+      "featured": false
+    },
+    {
       "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
       "city": "Davenport",
       "category": "Restaurant",
@@ -564,30 +564,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTFRQUJreHdfWGk5UWtZa1R3QTZOeVc5OGZhRzFMalNCY1ZmSkxfSGFKVE9BT1FrdjZuTDNmWTNKdEltRllrUjdaNTVHX3JqNkxoYkU1dkNLdXV5bnowMjQzclBhV2hxOERRVHY3QmNXeDJCNHd0MFdvVElmcUNpb0NacFdvZXE2TzA4OGVrckJNT2JJR1dXVWFzQ0Z1NUZ0WTREcGhGVGg4OVliTVlwUXRUVWdSZmg2UkJQclhtdTFoNFFmU3hsRkhpNTROV3c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "National Recycling Day coming soon to Polk County - The Rome News-Tribune",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Coming Soon",
-      "date": "Nov 05, 2019",
-      "summary": "National Recycling Day coming soon to Polk County The Rome News-Tribune",
-      "source": "The Rome News-Tribune",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcFMwUHEtZGRGd3lRRF9YYWZCeHFGVmg0bDFvYVlhalBrcGo1RVY5Rm02dGt6OGNYS1MtVDQ3Q0Z5d0EwcG1yRkwyanp4bk5UcVdfUUJTb0FUWGJaRHl6MElqTGR3bHVpa2N5MS0zY0FwdGZvdWtBd3ZoQWk5ZF8yR2xzR2RzSUJ5cmFwN3RDZmJmVXM3V0ZQLUE0Q0hpdmVjQ0QyWlEtbGFld0NqbkZfR3FCY1ZVUmdYSS1aUWlFdjhCeU1Ja3Q0ZG81a19ud3g1a0tfejNveElxSnVvT2s4Uk1weGhpeUtwQzI5dnFyMkJWeUEtaVlzZ3lVMlhBUQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Grand Opening",
-      "date": "May 29, 2025",
-      "summary": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHBUVnFSNUEwODY1MG83enJmbkVpZ1k4V1ZvYzh5dEowbHEtSWh3RktvVWxmR3AzSW5WbUpKSlExclBCQ1F5NWRiclJOalZLTjFUTjYzby10V09pVGdzYk5adTBrUDlGSjVoM3BETXZ0NXdpUHV6MHpVTFZ2cVJ1WXF2N203ODFZOU5udXJIRjI0TEZyaFV1c09EdWQ?oc=5",
       "featured": false
     },
     {
@@ -687,18 +663,6 @@
       "featured": false
     },
     {
-      "title": "North Lakeland Discovery Center holds grand opening for new Northwoods Forest History Museum - wjfw.com",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jun 13, 2026",
-      "summary": "North Lakeland Discovery Center holds grand opening for new Northwoods Forest History Museum wjfw.com",
-      "source": "wjfw.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaUVPd29qUFR2VktUREFCXzR3Qmdsb3FsOG9LZU5EY2xKa1U0MzdiaWRNeUdGaWZnU1BqUkhOc2xzTmNVaU9JS0QtMlFGdGxmUFQwVXU0eEZNelZfS20zSjkzeWxYRUFrb3JEUUMxaEVYbmJsNjdyclBHWUh2Q0Y1NHRDOWUxYV9pUnFFbzA0R1FvQVZ6a3Q3M2xqUEY3MlB4aTJtVnhyekItb05Db2lpYXhPMS02d1FCNVlhOHJwcTF3UTlYWUdwcW5hdlN2bDByXzQ1SG9tS2VVZWNFSll2M1pJQ2hXZDhXME1ENnUwdDhpMkhSYVZ6WTlySXU?oc=5",
-      "featured": false
-    },
-    {
       "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Retail",
@@ -747,6 +711,18 @@
       "featured": false
     },
     {
+      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - The National Law Review",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Apr 17, 2026",
+      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th The National Law Review",
+      "source": "The National Law Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
+      "featured": false
+    },
+    {
       "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
@@ -783,18 +759,6 @@
       "featured": false
     },
     {
-      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - The National Law Review",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Apr 17, 2026",
-      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th The National Law Review",
-      "source": "The National Law Review",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
-      "featured": false
-    },
-    {
       "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -816,6 +780,18 @@
       "source": "Franchising.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0Fnay1wN05tQ2w2MC15WHgxNm1aUnl6RENSZUltUVRUSy1YbGxSR0FRc0NTdUpJSm54NUlCWUpjS0ZCeU5EbVZkTzY5UjVwTVo1NTBjdVJIUkY1eHl3azUyME5MVTBBaTVGSlp2eGx2OVhnSWR2aXJmNFRNVHRFT0E4NmNtN0t3b3pMcTV3SVpweHUtQ2tpYWVDQ0V1LW_SAaQBQVVfeXFMTWEwU1ZDbjB4VXYwUW50VEd5eEdfbGhsckF3bmllZXR5U0loeEczWnVYLTVLZDdGWV9zUjQ0WGRjbHJueXl1Z1BnRGtkdUhpNkVQLUNmRzJnWTNWQ3l6bUY3MWVPWWgyWEhFX3VROGNSbWhjNDE1MVlpajVpWTZadnlsamR0SWNmc1JzaHNUeGNtSGVaMnB4Zkh0SFBoU3U5RnN5OTY?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 09, 2026",
+      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
+      "source": "Douglas Now",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1056,30 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Three Projects Propose 1,000 Apartments in Southwest Lakeland - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Mar 17, 2022",
+      "summary": "Three Projects Propose 1,000 Apartments in Southwest Lakeland LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOElLdWxfUFFqYl80bTlvbE9pbUpDSm9pSDJBYnFLNU9MOWtXZS1fVW1uTTlWTTZLY2prZWJaTU9xWGJJMmJSSzk4aVlzUnZqbGlPajBCellEaWxFRUdPdWIzRWZNeThYdWJaMHE4dWdYa2lpQ1ZNMWQ1S0ZSRG1uVFZOMmVLa2J3S3hhQnpB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 18, 2023",
+      "summary": "Lakeland Invests in Affordable Housing, But New Units are ‘Not Nearly Enough’ LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUURpenh4TkczQWh2ZFNBb01zNVAxRHBoa20zZm5TUFNMU1Jpc2JxWU1kdGJGVVNEQnlWOUpoV2FtSkExUFVIZElDTGIwSEwzLUpmY3lmZGZaV3NYeEtENHEtZ29NYU8yMU9FS2JRamxmY1VmTHByYWYybDVQTDI2eUNmUlNRMHM1NkZVbFJHaVFFeTlMRjVvYWg3X01rVTdT?oc=5",
       "featured": false
     }
   ]
