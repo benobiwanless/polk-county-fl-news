@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08 10:50 UTC",
+  "last_updated": "2026-10-08 17:39 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -111,15 +111,15 @@
       "featured": false
     },
     {
-      "title": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow - Lakeland Ledger",
-      "city": "Bartow",
-      "category": "Housing",
-      "status": "Approved",
-      "date": "Nov 11, 2025",
-      "summary": "Polk planning board recommends approval of 747 homes between Lakeland and Bartow Lakeland Ledger",
+      "title": "In Polk, DeSantis touts Florida as leader in 'flying-car' development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 10, 2026",
+      "summary": "In Polk, DeSantis touts Florida as leader in 'flying-car' development Lakeland Ledger",
       "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVpwZS1OTHkyR25NUGdvTlJINTZ6bUh0VXJ5dk5mcWwwd1RLQ1JRbEMzS2dXNGpDSUNfRWUxZktFQnlHcXRMSGhZZ1A4dVVlWXYxZnBRbWdQcFRwVzZQaERFMWpEUjhnd1VYdUlpYUJnOHFSZm9ZRndxT1dPNmU0M2t3RXpya0NuNHdfV2E3X1VsOTBGN0tXZllCejZGVlJ5UC1QSjFqb0pHSm5NS29KekdacnoxVXBIUGtHT2dIakZPcDFiMGZUTUw5WlA5MlNvd0ZmTFNoVjRESVFxOXNkdkQzbTVMNW8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGFvOXVXZ2Vtd29qamtuZlNVaXVKOW1qc1lyU2JBVHVINUtJWmhjdFBHUDRrWU0tWnBOWXA0bmo5S0t4N0hSc2F4bkEzM0xqeERDaGZnTFFkYXl6Y3RaZmhVWmM2X2tKb0h6LTRFdjJhdy1PYzV1MS05X1pnTFJZNGQ2VjFsbFN6VGJDbkdGd2VIYmQtWlJhZnIySnZHaFBTb3MyU1RFR0kwdk9rOG9hOEV0amlOaTNnUDQ2WGs1TFluR3Rwc2hSYkJYTmxNOGh5N0tiX3FSano3dkNrRWc?oc=5",
       "featured": false
     },
     {
@@ -207,18 +207,6 @@
       "featured": false
     },
     {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
-      "featured": false
-    },
-    {
       "title": "New housing development aims to help homeless people in Davenport - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -255,6 +243,18 @@
       "featured": false
     },
     {
+      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 09, 2026",
+      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
+      "featured": false
+    },
+    {
       "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -264,18 +264,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New Downtown Apartments Rising Rapidly in Lake Wales - LakeWalesNews.net",
-      "city": "Lake Wales",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 12, 2026",
-      "summary": "New Downtown Apartments Rising Rapidly in Lake Wales LakeWalesNews.net",
-      "source": "LakeWalesNews.net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcktZek1XUjY3SEVBcE1qaGFmWW1vTFR2M3BVTWRRTXM3bkFEblMxdzFrTEJyRzYxMko3eDBhWThFTm1NWHE0THBrU1otLXFQZzJqZDAxZWh2UnJWV1JUM05sQ0o4ajhtZWFOZnFlcTRqSTJfSlZTYXNONy0zM0JXSXZPb21udHpIWkNieFA4TTNMVkNQYXNOcXBPSnRqVlE0MC1MTExTODBaMFA1a2JmVnhXOW8?oc=5",
       "featured": false
     },
     {
@@ -291,15 +279,15 @@
       "featured": false
     },
     {
-      "title": "Lakeland, FL, Has a Shortage of Homes for Middle-Income Earners - Realtor.com",
-      "city": "Lakeland",
+      "title": "New Downtown Apartments Rising Rapidly in Lake Wales - LakeWalesNews.net",
+      "city": "Lake Wales",
       "category": "Housing",
       "status": "Update",
-      "date": "Jul 02, 2026",
-      "summary": "Lakeland, FL, Has a Shortage of Homes for Middle-Income Earners Realtor.com",
-      "source": "Realtor.com",
+      "date": "Sep 12, 2026",
+      "summary": "New Downtown Apartments Rising Rapidly in Lake Wales LakeWalesNews.net",
+      "source": "LakeWalesNews.net",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHE5LTRsdF9YTDdPNFlqQ1NxUVBtamJxSDNWbDAydGZqQmRpZDhoLVI4aVRYdVJIYUhadFZPZXV3LWRoUk5uYWN1SDhEVzVaSWVhNzBYY2ZtTm9qd2V4QmxBNzdweXVFRDZwaFhWOWJDNzRMamlXQlc0STQ2OEpXQkh2NlpUZHAteGVjdkE5NGpsdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcktZek1XUjY3SEVBcE1qaGFmWW1vTFR2M3BVTWRRTXM3bkFEblMxdzFrTEJyRzYxMko3eDBhWThFTm1NWHE0THBrU1otLXFQZzJqZDAxZWh2UnJWV1JUM05sQ0o4ajhtZWFOZnFlcTRqSTJfSlZTYXNONy0zM0JXSXZPb21udHpIWkNieFA4TTNMVkNQYXNOcXBPSnRqVlE0MC1MTExTODBaMFA1a2JmVnhXOW8?oc=5",
       "featured": false
     },
     {
@@ -312,42 +300,6 @@
       "source": "wtsp.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdlVEMVFQM1F1OU9fbDFKck9VQWtZamc0UTc1aFd2bXNPQng0ZzhlSG84clEyeDlPb1pjcmllV2MyMDNGVENHai1hTVFQRVJ2TkU5NldJYV9xZy1CVXlTQnVyNXdFeEFYQmxYb2xvODZXX1N1OGduMm9BN2VVMFhGcmhkS2xzeXRPZDBnT1Z2MmFlV2lzT0Z4WnVIdHdEQlZfUkZQcWt2eW5BeXdtbVl6R0JrNnY4T19STzNNVUgwSGRscjVGY2x5eEU2d0tZcUllZjRVUTJNRlE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments - Substack",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Approved",
-      "date": "Jun 14, 2026",
-      "summary": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments Substack",
-      "source": "Substack",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3NMZ3d4LVoxYlRvSlpibU9oZFBKcFJPODc4RUZUTi11V2NxMDQwM2FnbHZyS3NiOGo5Ynk0cXNTUzhTQWFkeXpORkNyd093dGFOVV9jeXpfMlppeHZuMUUyT1praDRpSWJkR183Xzg5SnF1bmlUc0NxMUxkXy1PTGhvNzlBVC1GODJZQ2xLd2lLekVjb2Q0b056amdxMWh1aTNVU2dJV1RkRnpLWldYOWVpU3BiRVU?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
-      "city": "Polk City",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
-      "source": "Tampa Bay Business and Wealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 14, 2026",
-      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
-      "source": "Coosa Valley News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
       "featured": false
     },
     {
@@ -375,6 +327,18 @@
       "featured": false
     },
     {
+      "title": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments - Substack",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Approved",
+      "date": "Jun 14, 2026",
+      "summary": "Polk County Planning Board Rejects Vacation Rental Proposal Despite Property Rights Arguments Substack",
+      "source": "Substack",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3NMZ3d4LVoxYlRvSlpibU9oZFBKcFJPODc4RUZUTi11V2NxMDQwM2FnbHZyS3NiOGo5Ynk0cXNTUzhTQWFkeXpORkNyd093dGFOVV9jeXpfMlppeHZuMUUyT1praDRpSWJkR183Xzg5SnF1bmlUc0NxMUxkXy1PTGhvNzlBVC1GODJZQ2xLd2lLekVjb2Q0b056amdxMWh1aTNVU2dJV1RkRnpLWldYOWVpU3BiRVU?oc=5",
+      "featured": false
+    },
+    {
       "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
       "city": "Polk County",
       "category": "Development",
@@ -384,6 +348,30 @@
       "source": "DrydenWire.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - Tampa Bay Business and Wealth",
+      "city": "Polk City",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp Tampa Bay Business and Wealth",
+      "source": "Tampa Bay Business and Wealth",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 14, 2026",
+      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
+      "source": "Coosa Valley News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
       "featured": false
     },
     {
@@ -447,18 +435,6 @@
       "featured": false
     },
     {
-      "title": "Polk County School Board discusses rezoning certain - wtsp.com",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County School Board discusses rezoning certain wtsp.com",
-      "source": "wtsp.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1pKR3k1UjhrMVV4VnVIZ3o5Nk00SndUUzlqYm11RXZPVVJkNWpDRzFXMzVmU1pUNmpxZWlYcWphNjZtSUVWSy1oYWsxX2ZVX2tDOTNLVjI3T0paTE9GRU1HazUyYkxEWnZodUlfTWNLQ3ROa0tkbVhSdTRyX0pIQmtGdS1DNHFuaHFILUJ5TFN1UDZMR2huWHNVOUZnYUJ5TnFOaF9KeGtVSElBS0VsTk1oZHBkWUYzRUFyQ1R3RQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
       "city": "Lakeland",
       "category": "Restaurant",
@@ -495,6 +471,18 @@
       "featured": false
     },
     {
+      "title": "Greenfield Village by Landsea Homes in Davenport FL - Livabl",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 24, 2024",
+      "summary": "Greenfield Village by Landsea Homes in Davenport FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUVJ1SUg3a2ZTSVpQSTU2eDQyY2FaTkdkZVJ0YkZNSmNDQzNJbkxRY2tVMllNd21VMzRUSHdvTXAzSHpOWjlzQzZiWGR5YUNhQ25TcV9FLXJwMERtVzJmc0Z3Sjk?oc=5",
+      "featured": false
+    },
+    {
       "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
       "city": "Davenport",
       "category": "Restaurant",
@@ -507,18 +495,6 @@
       "featured": false
     },
     {
-      "title": "Pock! Indoor Pickleball Wins at Lakeland Zoning Board - LkldNow",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Feb 18, 2025",
-      "summary": "Pock! Indoor Pickleball Wins at Lakeland Zoning Board LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2xMa1hTa1hBc08wZ0J2MEdENHFJMWNiVXRhcXZxb0phUTdUZlVjeHl2VHhkeVhGOEsxa1RwanJsTlFVbFV5Y2pkSWduWEZ4bXZSbkNJN3U3eUIxLUxQbE5kLTl4djVxYUhRMlg2VmVobW9lRzZHVUJ2Q3BJeDVYQkJnZw?oc=5",
-      "featured": false
-    },
-    {
       "title": "'Shouldn't they fit in?' Polk commissioners deny 242-unit subdivision in rural Kathleen - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Housing",
@@ -528,18 +504,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWs0eGhoOHF2YlpFWTFaSW5JaVNfWFM3OU5CNzlNNV9qTDBFVnJ5Q25SUHRoWS0zLTRwMkViSmI2YWJsYWtNWEl0M2w2SklxeDNQS0tHc3R2NnloSi1jcjdJaGdZTmhsNFlKM2VsQXhoODJHWk9YWkxFQ0JhZzRSSGwtenUzUnY2Y01lVWREeWIzdmNzdXg3YmdTTGR3Rm1pcEJ3OGN6QTZsNTlCalkzVHZURVFMejlPVHZpTkVpc0Nnb0ZPRWhv?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Greenfield Village by Landsea Homes in Davenport FL - Livabl",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 24, 2024",
-      "summary": "Greenfield Village by Landsea Homes in Davenport FL Livabl",
-      "source": "Livabl",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUVJ1SUg3a2ZTSVpQSTU2eDQyY2FaTkdkZVJ0YkZNSmNDQzNJbkxRY2tVMllNd21VMzRUSHdvTXAzSHpOWjlzQzZiWGR5YUNhQ25TcV9FLXJwMERtVzJmc0Z3Sjk?oc=5",
       "featured": false
     },
     {
@@ -579,15 +543,27 @@
       "featured": false
     },
     {
-      "title": "'This is going to put Auburndale on the map.' Camp Margaritaville to take over Cabana Club RV Resort - Lakeland Ledger",
-      "city": "Auburndale",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "Sep 23, 2021",
-      "summary": "'This is going to put Auburndale on the map.' Camp Margaritaville to take over Cabana Club RV Resort Lakeland Ledger",
+      "title": "National Recycling Day coming soon to Polk County - The Rome News-Tribune",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Coming Soon",
+      "date": "Nov 05, 2019",
+      "summary": "National Recycling Day coming soon to Polk County The Rome News-Tribune",
+      "source": "The Rome News-Tribune",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcFMwUHEtZGRGd3lRRF9YYWZCeHFGVmg0bDFvYVlhalBrcGo1RVY5Rm02dGt6OGNYS1MtVDQ3Q0Z5d0EwcG1yRkwyanp4bk5UcVdfUUJTb0FUWGJaRHl6MElqTGR3bHVpa2N5MS0zY0FwdGZvdWtBd3ZoQWk5ZF8yR2xzR2RzSUJ5cmFwN3RDZmJmVXM3V0ZQLUE0Q0hpdmVjQ0QyWlEtbGFld0NqbkZfR3FCY1ZVUmdYSS1aUWlFdjhCeU1Ja3Q0ZG81a19ud3g1a0tfejNveElxSnVvT2s4Uk1weGhpeUtwQzI5dnFyMkJWeUEtaVlzZ3lVMlhBUQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Retail",
+      "status": "Grand Opening",
+      "date": "May 29, 2025",
+      "summary": "Aldi opening 18 new Florida stores soon, including this one in Polk County. Here's the list Lakeland Ledger",
       "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTFRQUJreHdfWGk5UWtZa1R3QTZOeVc5OGZhRzFMalNCY1ZmSkxfSGFKVE9BT1FrdjZuTDNmWTNKdEltRllrUjdaNTVHX3JqNkxoYkU1dkNLdXV5bnowMjQzclBhV2hxOERRVHY3QmNXeDJCNHd0MFdvVElmcUNpb0NacFdvZXE2TzA4OGVrckJNT2JJR1dXVWFzQ0Z1NUZ0WTREcGhGVGg4OVliTVlwUXRUVWdSZmg2UkJQclhtdTFoNFFmU3hsRkhpNTROV3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHBUVnFSNUEwODY1MG83enJmbkVpZ1k4V1ZvYzh5dEowbHEtSWh3RktvVWxmR3AzSW5WbUpKSlExclBCQ1F5NWRiclJOalZLTjFUTjYzby10V09pVGdzYk5adTBrUDlGSjVoM3BETXZ0NXdpUHV6MHpVTFZ2cVJ1WXF2N203ODFZOU5udXJIRjI0TEZyaFV1c09EdWQ?oc=5",
       "featured": false
     },
     {
@@ -1023,18 +999,6 @@
       "featured": false
     },
     {
-      "title": "Starbucks to add another South Lakeland store - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jan 08, 2020",
-      "summary": "Starbucks to add another South Lakeland store Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2RJVC1QcTdaTV81OUFtS05zcy1xRTA2dnVnbVRIS1cxN21qSklObk4xMVQxR1JBRFhnX3N1Y3dMTU5aV0E0dldNVWRDZUprY2hPNW1ndGhxSGE4UlpkNWIzX2ZHSGFYeG9BbHJPcUd3ZE52bEctLW03dUpPOHpVSW5VeE9IaEh1U0tlbTZZZEZpVGRCeFhZclgzRW9mTlVwQ0hYVjZMREVLc1NkdEFZdjBTbV9TVVZuSGtkYXhR?oc=5",
-      "featured": false
-    },
-    {
       "title": "Maya Lora: Polk County planning approvals could add more than 400 apartments in Lakeland - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Housing",
@@ -1080,6 +1044,42 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Residents Eager for Details on New Posner Park - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Community",
+      "status": "Update",
+      "date": "Jul 20, 2007",
+      "summary": "Residents Eager for Details on New Posner Park Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWdDMVFXUGJkcFZETlpoSy1Vd1otTnpiVGlGVnFuaThrX1ZPSWxVcGJnYmIxWkRjRW1jOHlkWkFub2VWY3loamQxTHYxcnYxMkVmNWV4MTlUalYtU1ZLLUhheVZYbG1HcE5JTzBmcXRRTUR5anE2RDNDTmprNkdmLTZoU1NjemRCNVFiYTZBazZQbVhXZGIzMWJ6dzhiaFJ3MnFLa1NhR1hMaG8?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Oct 18, 2021",
+      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jun 24, 2023",
+      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
