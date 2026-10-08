@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07 23:48 UTC",
+  "last_updated": "2026-10-08 03:29 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -171,18 +171,6 @@
       "featured": false
     },
     {
-      "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 08, 2026",
-      "summary": "John Deere Foundation Commits $1 Million to Housing in Davenport John Deere",
-      "source": "John Deere",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NSTJ5WGFDMGNHS3FyRU0yVy1hVmRjSVg4Z1JOWjlUcHB0dzgza1Zlb1lhQmtZZzkyamNTMGFNcnVSSElSNWpUSTdjM3k5Ukl6bTluS1hhbHVpa2w3YkhwYmVteG0yLTRSeW9KOEV1eENIRHFSbWlFajc1bXU?oc=5",
-      "featured": false
-    },
-    {
       "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
       "city": "Auburndale",
       "category": "Development",
@@ -192,6 +180,18 @@
       "source": "AdventHealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 08, 2026",
+      "summary": "John Deere Foundation Commits $1 Million to Housing in Davenport John Deere",
+      "source": "John Deere",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NSTJ5WGFDMGNHS3FyRU0yVy1hVmRjSVg4Z1JOWjlUcHB0dzgza1Zlb1lhQmtZZzkyamNTMGFNcnVSSElSNWpUSTdjM3k5Ukl6bTluS1hhbHVpa2w3YkhwYmVteG0yLTRSeW9KOEV1eENIRHFSbWlFajc1bXU?oc=5",
       "featured": false
     },
     {
@@ -588,6 +588,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTduLUlHQWlZWk9zQ1ZOZzZoSXVUY2NuQVBXMC1SUjB2bEpHdWlkei1lcHlzYVJFNXUxTm55dG1pcV9JWERQYU80WWp0NHJlMzdHZDlLa3ktOUZJcW41LWdWMG1ZR2RuTjIzTi1PaFo1VkNjUFpsV1VkcFc5X082dGpuZFlSY1F5RnI5eFRKRmF6RmltYjh5UGIxdHRpeEtjOHpyWWFYajhtSTlEZDQ3cUNPYWkza1B4bHNlckFHNldDT2p1eUtKUU1OakpZeUp6dmJjd3Jqdl9qbVpT?oc=5",
+      "featured": false
+    },
+    {
+      "title": "'This is going to put Auburndale on the map.' Camp Margaritaville to take over Cabana Club RV Resort - Lakeland Ledger",
+      "city": "Auburndale",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Sep 23, 2021",
+      "summary": "'This is going to put Auburndale on the map.' Camp Margaritaville to take over Cabana Club RV Resort Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTFRQUJreHdfWGk5UWtZa1R3QTZOeVc5OGZhRzFMalNCY1ZmSkxfSGFKVE9BT1FrdjZuTDNmWTNKdEltRllrUjdaNTVHX3JqNkxoYkU1dkNLdXV5bnowMjQzclBhV2hxOERRVHY3QmNXeDJCNHd0MFdvVElmcUNpb0NacFdvZXE2TzA4OGVrckJNT2JJR1dXVWFzQ0Z1NUZ0WTREcGhGVGg4OVliTVlwUXRUVWdSZmg2UkJQclhtdTFoNFFmU3hsRkhpNTROV3c?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments - LkldNow",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jun 24, 2023",
-      "summary": "Developer Plans to Convert Former Sears at Lakeland Square Mall Into 320 Apartments LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBUk4xTTF2WVdYcjVvc0tZQm1uT3kxbUpkN0E2cmVxRnBabURIbkN1VnhoMjZHUXNkNHZBdWhmU0w1WEFsVFpSeFZ5YVNTQXVibllGTUNWQklsVmd6emE4NjAyb2ljdi1rSXBwTWNJRXNkWU9OdWxsOG9oOVRqWWdSOWZUZnB0SUx0ci0wUnpESWpVVWJxSFpXeFR5S0VHX2FWcXZXZmctc252?oc=5",
       "featured": false
     }
   ]
