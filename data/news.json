@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13 16:26 UTC",
+  "last_updated": "2026-10-13 21:23 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -147,6 +147,18 @@
       "featured": false
     },
     {
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
+      "city": "Auburndale",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 27, 2026",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
+      "source": "AdventHealth",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
+      "featured": false
+    },
+    {
       "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - NonStop Local KHQ",
       "city": "Davenport",
       "category": "Hotel",
@@ -207,18 +219,6 @@
       "featured": false
     },
     {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
-      "featured": false
-    },
-    {
       "title": "New housing development aims to help homeless people in Davenport - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -228,6 +228,18 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport district tours construction of new $55M Smart Middle School - KWQC",
+      "city": "Davenport",
+      "category": "Community",
+      "status": "Update",
+      "date": "Aug 04, 2026",
+      "summary": "Davenport district tours construction of new $55M Smart Middle School KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjVFMkVwcGJKcS1IQU9aYkFLa1hrMTlPTlVXeXJVcXlUWkxjaWUyQU9XUTlQQ0gtWDlYdGg2YlQ5VVp4SGZjbzNkZUZYSDNPZ2NQcWJhS3Z6ZnlFazRmQk1IVFljcmQxVlZ0blBzRDZ6QjF5VGUxMlNuMVRNQm1QUVdMSXB4R1NDenNaUWNzWHZRdE5jTWc3TGFuckNlNnpRX2NCNnFFSkVwOW10NG1IREF30gHGAUFVX3lxTE9ZMXRKaEtCaVZoWFJMZk1NSk1jMm5GSVpVQVhsZXRnSWZaUUJValpHNFZhenAwdEVIbFJudGc5MHpqLXJHSnBKblM2N3JZVzlVVEpOZ0xHME1RRlVNVDRwNnZ2RUJkMU5pelBDWjdyNHZwdldpcnBuWWhFcm1jcWdOUXppRXBtUmZkRzR1QmtHdHpQSXg3U21sSUltVk0xM2dwbHV1UEtiN0VYMElsbk10dXFzMmQxcTV0b0c5U0gzLWJrdVBxZw?oc=5",
       "featured": false
     },
     {
@@ -255,6 +267,18 @@
       "featured": false
     },
     {
+      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 09, 2026",
+      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
+      "featured": false
+    },
+    {
       "title": "Rejuvenate Housing showcases renovated Davenport home and announces major grant - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -279,18 +303,6 @@
       "featured": false
     },
     {
-      "title": "Construction at Second and Gaines, Davenport, snarls traffic - OurQuadCities",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 27, 2026",
-      "summary": "Construction at Second and Gaines, Davenport, snarls traffic OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1JQejM0dElDWjFnZXFDbWV6VUp4c3oyYWNrRnNaVkI0aG5LVFduSzlNUFF5ZGpual9HSVdOeXRibFJTX09Ua3pfN2VtOFFDVDNZSjZCaUh6VVVaUG93VWpGZzVzOUZUQ0pzUERWWXZOdE1yZG1qNF9FaXlvOVdrbGZIeUIyR3JvNEdZdWlCSDhOYnRfWC13YmxJNHUxMVg4b1c2aDZTZVLSAa4BQVVfeXFMTk1QSW5QVllreWFXWVNIeTlNdjF6U2FYQ1BqUFRCTmlTWEhxbllzendObmFjaFA4dVZQSnBFdDl2NVI0dDFaZW1zU0YxcTNPWWNWT21xT1R3c3JDMHplNWZCWEwyd09QNUNmTGI0QmtUOUdDMm9paUlScU5qZWVOeG0wSU5RZE5hTGxfejhIbzh0ZVdWc0wwX2k1b2xqWnpEdWRZODN6VUNqcWlXRTV3?oc=5",
-      "featured": false
-    },
-    {
       "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - The Quad-City Times",
       "city": "Davenport",
       "category": "Restaurant",
@@ -300,6 +312,18 @@
       "source": "The Quad-City Times",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ19hVU8yUEhIV0ZzQXptSmJTUTRXbFdrRExmWEEzdXdpSVNiWmVjTG1idTBmY1lrY0RjX2hLREZvQkhndFpqalctSjdFdWtiZFFrczZBNktGMHpFUzgweHh2SFZZSDYyMUhOTHJ5RE04bWd1Zmo2SldBRmwxRzhaVmpsckljWW1WU3VQQWJPZjNwanhMWDRwRjdxVVg3WERyd3BrdDBWSmc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk school district plans meetings on rezoning of middle schools - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Oct 13, 2026",
+      "summary": "Polk school district plans meetings on rezoning of middle schools Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX1pzWEo3Q2tITlZBU0g0TEVISHZuLUVWYnp6MlV5UnBfdjNwdGx4OWpGTUUyN0JhYXc2UXN1eWdVU3RzN0hKWHlUSEVBRzAzd0JTZEVOYkl3SGJuSG1Xa0hjaEJLRkEzN0JfeUdyVDI0bk5SaWt4dFJxUHJpMzZYUmpCYlcxc1M4TjUybjZId0wxWkxBQk9sY0plQWxPMzBHc1dpY0FfWXNUNVB2WlJoQVg0TmVHeXIxY25BUmFxZE0xVW9sMElzNllndkx3SHB3ak5YQ1hoakNHV0U3bXVUSHFRTjBMLUFRVkNzWjVB?oc=5",
       "featured": false
     },
     {
@@ -411,18 +435,6 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
-      "source": "wtsp.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
       "city": "Polk County",
       "category": "Community",
@@ -432,6 +444,18 @@
       "source": "Polk County Public Schools",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZEZoUEw5LU0wc1RsVm5kLTNJWHIzOFpROHh0eFQ2OEJOQ1R4LVYwajB0U0NVYVB3UlM3QkVvcUI5TnphZi1UYjl2MW5Pdm1jY3JBUGhBb1BzWDg1TVV2RFRmdmpjRG1GajB5MVllZFRQMk1ERTliYmEtVjJ6QQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 12, 2025",
+      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
+      "source": "wtsp.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
       "featured": false
     },
     {
@@ -456,18 +480,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 05, 2025",
-      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
-      "source": "WFLA",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
       "featured": false
     },
     {
@@ -624,6 +636,18 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03UnBTc2NRZzIzcVAzS1c0VXNOX18tbFpfaTZsU0psbmlaTnRVaUo3MmZjSGowd214Y2pBTEFmWnBPTFJkVUhqRzBXYmRNdVVPU2pDSzM0WHRUbm5YOUxXOE1RT2Q1bEZObDdjcGhid2lRRjBUWUxF?oc=5",
+      "featured": false
+    },
+    {
+      "title": "6 Coming Soon Polk County Restaurants [April 10, 2026] - Business Debut",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Coming Soon",
+      "date": "Apr 10, 2026",
+      "summary": "6 Coming Soon Polk County Restaurants [April 10, 2026] Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcG41OHhja0JUQXYyRDdHVExTd0ExTkVrUjB0WDI0a1Q1VTJEemxtNEtEcGlvT2o3ZlZDcjRITlhXZTJCazBQS3U0RU1qZ1lIQzJhY2hVLTVVYVRMam5OVmZzSnBGVjR5MDk2RHdzNFJDUXlRTEJUZlJsM1lvZTVVNnhLVktscVlPcVE?oc=5",
       "featured": false
     },
     {
@@ -1056,30 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Publix navigates patchwork of county, city liquor store codes for new Havendale Boulevard site - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Jan 27, 2023",
-      "summary": "Publix navigates patchwork of county, city liquor store codes for new Havendale Boulevard site Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFI0V01PQjRWOS10M0dTSDZ3U1hEREkzZGprV1VaUTB1S3BMb0lwenJ3SUNuOGhfX2p5czNrWmhhaDU3NVAta2xLTDU0eEgzWEk0S3JPVFRzMWtHaEduX0s3UXhaMl9mNld4b1kzZjNBSkVXU0w5RjkyOWhEUlVua0ZRRGZyUm5hZlJmY25PV1RjRjczTUFWcm1uY2RiQ1EtQ1o0MklycEFqR1ZkTE1NZi1hZ0t2OHpLdktQU2dndDI4UmZtdVpCRFE2b0lNS0J6OGw5dGpWUXlJejVWMktkQ1UtNkU0Y0Y5UGsxcDBFazZyS3M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents - Lakeland Ledger",
-      "city": "Auburndale",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Feb 17, 2023",
-      "summary": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
       "featured": false
     }
   ]
