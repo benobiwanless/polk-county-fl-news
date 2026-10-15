@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15 14:32 UTC",
+  "last_updated": "2026-10-15 18:38 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -447,18 +447,6 @@
       "featured": false
     },
     {
-      "title": "What's new and coming soon to Lakeland - 6AM City",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Coming Soon",
-      "date": "Apr 13, 2026",
-      "summary": "What's new and coming soon to Lakeland 6AM City",
-      "source": "6AM City",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0YxSUEzYnRvX01ILWhLYnVzRE9xVTJKWVhlOFpyeGVfaTliNkFLdmNNdkV2eDNXWDQyQzF3ZGNGTGgtdFg1eHdTQ0pCVzNjQXp4N29hNXJBYWVsQjNNakUyYURRU1VEN0Q2ZGdwWHV0alVfUTM3WWhpT1RWRkVIekNOR2s?oc=5",
-      "featured": false
-    },
-    {
       "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
       "city": "Lakeland",
       "category": "Restaurant",
@@ -468,6 +456,18 @@
       "source": "6AM City",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
+      "featured": false
+    },
+    {
+      "title": "What's new and coming soon to Lakeland - 6AM City",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Coming Soon",
+      "date": "Apr 13, 2026",
+      "summary": "What's new and coming soon to Lakeland 6AM City",
+      "source": "6AM City",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0YxSUEzYnRvX01ILWhLYnVzRE9xVTJKWVhlOFpyeGVfaTliNkFLdmNNdkV2eDNXWDQyQzF3ZGNGTGgtdFg1eHdTQ0pCVzNjQXp4N29hNXJBYWVsQjNNakUyYURRU1VEN0Q2ZGdwWHV0alVfUTM3WWhpT1RWRkVIekNOR2s?oc=5",
       "featured": false
     },
     {
@@ -615,18 +615,6 @@
       "featured": false
     },
     {
-      "title": "New Smart Auto dealerships coming soon to Davenport - WQAD",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Coming Soon",
-      "date": "Sep 29, 2026",
-      "summary": "New Smart Auto dealerships coming soon to Davenport WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHNDM3d1RGFLNHVFSVJsbTZfeDl0NTZtMVF6QjZhZWZ3cFRvdm84TWdHMzE1dExBSjFvMVloR1VvaWRwdm5faVBGN0dUUGs3ZHZvUmUxODNleDVjNGlFTVpkSkF6MFVxVUFIdXVxWTRLNUY5VjlPS2N0eFM5TVdNZEVuZU9ubVFfNjhRU3JtOG1uN01SQ0dhYWt1R2ZqaEVxUFJ6T1RJTjZZek42TmQ1Nll0TS1zSUlPNmRfRmhiQ1BEUFhkeTEyb0FR?oc=5",
-      "featured": false
-    },
-    {
       "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
@@ -636,6 +624,18 @@
       "source": "The Quad-City Times",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenZIX0tBUDhFVmczYmM1NkgyVl9GTVVNUEFOU05FTjVEcEh1YVV5YWZSaHNudkZZaFFaTk9qNDA3NW5BMmgwU21CaTExZi1nRDJ6WUItUUo3aHVndml5SlgzR0ZrNGFTZllreklqOWtIQlU3YTQ4TGtNeU5jTGlPVEZhSXk4T1NFV3JPNWdMdkRiR2poZml0Z3Z2RGJTNGttb2plWmJHNkY?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New Smart Auto dealerships coming soon to Davenport - WQAD",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Coming Soon",
+      "date": "Sep 29, 2026",
+      "summary": "New Smart Auto dealerships coming soon to Davenport WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHNDM3d1RGFLNHVFSVJsbTZfeDl0NTZtMVF6QjZhZWZ3cFRvdm84TWdHMzE1dExBSjFvMVloR1VvaWRwdm5faVBGN0dUUGs3ZHZvUmUxODNleDVjNGlFTVpkSkF6MFVxVUFIdXVxWTRLNUY5VjlPS2N0eFM5TVdNZEVuZU9ubVFfNjhRU3JtOG1uN01SQ0dhYWt1R2ZqaEVxUFJ6T1RJTjZZek42TmQ1Nll0TS1zSUlPNmRfRmhiQ1BEUFhkeTEyb0FR?oc=5",
       "featured": false
     },
     {
@@ -771,15 +771,15 @@
       "featured": false
     },
     {
-      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - The Quad-City Times",
+      "title": "China Cafe Davenport now open on Tuesdays - The Quad-City Times",
       "city": "Davenport",
-      "category": "Development",
+      "category": "Restaurant",
       "status": "Grand Opening",
-      "date": "Sep 18, 2026",
-      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport The Quad-City Times",
+      "date": "Jul 12, 2026",
+      "summary": "China Cafe Davenport now open on Tuesdays The Quad-City Times",
       "source": "The Quad-City Times",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9VTWVXUjFPdE9welNCNzhUQ1dVTzI0T0l6OWhGV0p3aWlsTU5DVGhJRFFYOWZlMEhUWlNWMnNfb0liQzI3elU1Ni0tSnVKWEpVXzJrSnRhdUVXR0dXVU5iOGVwenYwenctcHMtYUdVUW5YZmJqM2xQTThYYXRRb0xSaWcyakFPTUVIYTVOYWNJcTNITGxrakc4ZEF2SU56Q2NNMnpB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTdmNFdaMlRVU1FEbTZjNWRLc3Y4dVIwUERQU2U2NHYzQ2RPRFczQzFCeHBBZXFYZHBOekxkbERTcmpSQnJSNVlpVTlJdzAtaExTVlZXbVdadi1pc2lkSVkwNTU4Y1VDZXZZb2xHNk95Q3hhLXJLVGxMUWlBVnhIUmF4YnBaSDdHZTNaclZlT1hmRUhQT1RaZzMxMFZ4SVJWRUxDSF9EMXE?oc=5",
       "featured": false
     },
     {
@@ -795,15 +795,15 @@
       "featured": false
     },
     {
-      "title": "China Cafe Davenport now open on Tuesdays - The Quad-City Times",
+      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - The Quad-City Times",
       "city": "Davenport",
-      "category": "Restaurant",
+      "category": "Development",
       "status": "Grand Opening",
-      "date": "Jul 12, 2026",
-      "summary": "China Cafe Davenport now open on Tuesdays The Quad-City Times",
+      "date": "Sep 18, 2026",
+      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport The Quad-City Times",
       "source": "The Quad-City Times",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTdmNFdaMlRVU1FEbTZjNWRLc3Y4dVIwUERQU2U2NHYzQ2RPRFczQzFCeHBBZXFYZHBOekxkbERTcmpSQnJSNVlpVTlJdzAtaExTVlZXbVdadi1pc2lkSVkwNTU4Y1VDZXZZb2xHNk95Q3hhLXJLVGxMUWlBVnhIUmF4YnBaSDdHZTNaclZlT1hmRUhQT1RaZzMxMFZ4SVJWRUxDSF9EMXE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9VTWVXUjFPdE9welNCNzhUQ1dVTzI0T0l6OWhGV0p3aWlsTU5DVGhJRFFYOWZlMEhUWlNWMnNfb0liQzI3elU1Ni0tSnVKWEpVXzJrSnRhdUVXR0dXVU5iOGVwenYwenctcHMtYUdVUW5YZmJqM2xQTThYYXRRb0xSaWcyakFPTUVIYTVOYWNJcTNITGxrakc4ZEF2SU56Q2NNMnpB?oc=5",
       "featured": false
     },
     {
