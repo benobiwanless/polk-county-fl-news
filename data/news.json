@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16 12:22 UTC",
+  "last_updated": "2026-10-16 16:49 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -87,75 +87,15 @@
       "featured": false
     },
     {
-      "title": "Lake Wales Focuses on Furthering Redevelopment with $144M Budget, Higher Property Taxes - Daily Ridge",
-      "city": "Lake Wales",
-      "category": "Development",
+      "title": "Whataburger to open first Polk County restaurant - The Business Journals",
+      "city": "Polk County",
+      "category": "Restaurant",
       "status": "Update",
-      "date": "Oct 13, 2026",
-      "summary": "Lake Wales Focuses on Furthering Redevelopment with $144M Budget, Higher Property Taxes Daily Ridge",
-      "source": "Daily Ridge",
+      "date": "Oct 16, 2026",
+      "summary": "Whataburger to open first Polk County restaurant The Business Journals",
+      "source": "The Business Journals",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ1VQcXV4X3pQR3paM3BTVks0VmVaWUQxTjFQQWtDYUYxWldFNnNfM2ItQU55VVlFblN4Q214dk5OVjNEYjFxWXd1Q09xYnNJaGtmcDVXSDZRUDBmZTh0d2dKMkc4NG9DZEt0ZG05VnE3Ql93WFVITjhDUUoybzdyX2xOUEQyUFp0MnYya0l1YlJBTURtajZwSGVobkdBM0VmdUc1NTZFNzVaYjNTSC1SNGM4N3lkVE85OTQ3VA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Century-old Davenport homes saved from demolition to house refugee families - WQAD",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 21, 2026",
-      "summary": "Century-old Davenport homes saved from demolition to house refugee families WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQczNMNWJVaE12NDMxd3ZnSGY2eW9WX0FQY0xjVWNZNVVDbjFtejFPZGFCbEUxV09xUEsxNk1IeEtIcnZRTkZxOTRVZURfSktIaXlCZmF5NG1zMFRwdjRmNFY4UWtlSjk5a053M2JMUk1zM3RScGdBSmtHRW1VaGtWYWR6cVZFQTV5R2hRakZIQmZSOWlrT0ZzdFFsdGNjc21hbmRDYlhvcFpvZGdvT2lxbERTakgwR3NWMTloQ29DdUU4TGYyWnZURm5nZVFEaUNzbHhMZU4wZXpEanVhaF9UNkVpLU5CdkVqRjdCcURuTjF4TkJZVmRRdDh3Vmc3Q1JsTjZFbg?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - NonStop Local KHQ",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "Aug 30, 2026",
-      "summary": "Davenport Hotel hiring for over 100 positions across five Spokane locations NonStop Local KHQ",
-      "source": "NonStop Local KHQ",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTg3RTFVWHFmLU9kUmNzdEc1SkxkUWZyOEdQUVdFRVhKdl9NY0VEMGpuWjhoOFNGOG5CeVpoU2JzMTZGal9VRzd1Q1hoRExuS0hmYk1PdHp2WVJIQXl3TjNleko0eElyU0ExZERPc0FtVTVhX3huZGxORWpVZnhVdUpnNkNVQ0ZqMGdrVHloRTAwWUItOFJxbDRzVFU4djVxbEhVMmVaNkpreTFUX0J1SEI4eU5sVXg5NEV6UXJhcVRhdHhfQUM2dko5TkJKSVJXeFRUMFhzX0pXYlFDUnc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 08, 2026",
-      "summary": "John Deere Foundation Commits $1 Million to Housing in Davenport John Deere",
-      "source": "John Deere",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NSTJ5WGFDMGNHS3FyRU0yVy1hVmRjSVg4Z1JOWjlUcHB0dzgza1Zlb1lhQmtZZzkyamNTMGFNcnVSSElSNWpUSTdjM3k5Ukl6bTluS1hhbHVpa2w3YkhwYmVteG0yLTRSeW9KOEV1eENIRHFSbWlFajc1bXU?oc=5",
-      "featured": false
-    },
-    {
-      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
-      "city": "Auburndale",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 27, 2026",
-      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
-      "source": "AdventHealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "News | Private investor buys fully leased retail center in Davenport, Florida - CoStar",
-      "city": "Davenport",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Sep 17, 2026",
-      "summary": "News | Private investor buys fully leased retail center in Davenport, Florida CoStar",
-      "source": "CoStar",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGFxOXJzWE0yeDBCRXpCNGZlcTNmaUhQdXB3YWdONVNKSllwbExxeWtuRTVWUGplRHZHVVJ1TTZqcWQtekxWa21DaURhSkd4dUw1S0I5M1ZzbjluMF9PcmNPRXlVT1gyRjdORE5Sb3FjUXplbm9xTzVac3Y2Y2taMGg0QVk3eFc3TVpiZGtndDFfRHNtNF92Q3BOV1FhYzNTa09jVHRuSUl5cW1xMGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2F3SWlCaGFJemtVMjNmeUxGUkp4b0JqRWVGMEY2QlM3SlJib1Rxc1l5ZXFzQndqLUdkbzZwWlZZUXNtX1BzSXBGUk1ERGw1WDdkUXRCcm9Sd1d3Q2xlSTBLRUtRTWZsNGl2bTFEUGpkaXNjY2NEVlhaRUxELVNjOU5ZbEVwSHgwODF5ZjJJb3pVTXJLSWc?oc=5",
       "featured": false
     },
     {
@@ -171,15 +111,27 @@
       "featured": false
     },
     {
-      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - The Quad-City Times",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Grand Opening",
-      "date": "Aug 08, 2026",
-      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport The Quad-City Times",
-      "source": "The Quad-City Times",
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
+      "city": "Auburndale",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 27, 2026",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
+      "source": "AdventHealth",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ19hVU8yUEhIV0ZzQXptSmJTUTRXbFdrRExmWEEzdXdpSVNiWmVjTG1idTBmY1lrY0RjX2hLREZvQkhndFpqalctSjdFdWtiZFFrczZBNktGMHpFUzgweHh2SFZZSDYyMUhOTHJ5RE04bWd1Zmo2SldBRmwxRzhaVmpsckljWW1WU3VQQWJPZjNwanhMWDRwRjdxVVg3WERyd3BrdDBWSmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - NonStop Local KHQ",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Aug 30, 2026",
+      "summary": "Davenport Hotel hiring for over 100 positions across five Spokane locations NonStop Local KHQ",
+      "source": "NonStop Local KHQ",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTg3RTFVWHFmLU9kUmNzdEc1SkxkUWZyOEdQUVdFRVhKdl9NY0VEMGpuWjhoOFNGOG5CeVpoU2JzMTZGal9VRzd1Q1hoRExuS0hmYk1PdHp2WVJIQXl3TjNleko0eElyU0ExZERPc0FtVTVhX3huZGxORWpVZnhVdUpnNkNVQ0ZqMGdrVHloRTAwWUItOFJxbDRzVFU4djVxbEhVMmVaNkpreTFUX0J1SEI4eU5sVXg5NEV6UXJhcVRhdHhfQUM2dko5TkJKSVJXeFRUMFhzX0pXYlFDUnc?oc=5",
       "featured": false
     },
     {
@@ -195,6 +147,42 @@
       "featured": false
     },
     {
+      "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 08, 2026",
+      "summary": "John Deere Foundation Commits $1 Million to Housing in Davenport John Deere",
+      "source": "John Deere",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NSTJ5WGFDMGNHS3FyRU0yVy1hVmRjSVg4Z1JOWjlUcHB0dzgza1Zlb1lhQmtZZzkyamNTMGFNcnVSSElSNWpUSTdjM3k5Ukl6bTluS1hhbHVpa2w3YkhwYmVteG0yLTRSeW9KOEV1eENIRHFSbWlFajc1bXU?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 - Iowa Department of Transportation (.gov)",
+      "city": "Davenport",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Feb 24, 2026",
+      "summary": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 Iowa Department of Transportation (.gov)",
+      "source": "Iowa Department of Transportation (.gov)",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTBWVmdpamN5bUY3aWI0X3I3MnEyUi1taDgxV3dsMDJlZXJDcEduQUhvUXpzaFNlOWU0aGxqanlhZ25JTmdWLTdVWDRaaVJhb0lLdVBHbFZJUjFjU1Q4d3hsNE5nUndaUUU0dFVoVjVzUXA2a05pdklyUUxKajZXRUFpOXk4YzZPdXJDZ3ZMX3pqV0xfelJCTzFGcFdjZDllUnFIOEo3M3FXVHBFdlFOb2J2cmdxMUc2SUtfLVFlSHVUMm1fOVhVZg?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lake Wales Focuses on Furthering Redevelopment with $144M Budget, Higher Property Taxes - Daily Ridge",
+      "city": "Lake Wales",
+      "category": "Development",
+      "status": "Update",
+      "date": "Oct 13, 2026",
+      "summary": "Lake Wales Focuses on Furthering Redevelopment with $144M Budget, Higher Property Taxes Daily Ridge",
+      "source": "Daily Ridge",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ1VQcXV4X3pQR3paM3BTVks0VmVaWUQxTjFQQWtDYUYxWldFNnNfM2ItQU55VVlFblN4Q214dk5OVjNEYjFxWXd1Q09xYnNJaGtmcDVXSDZRUDBmZTh0d2dKMkc4NG9DZEt0ZG05VnE3Ql93WFVITjhDUUoybzdyX2xOUEQyUFp0MnYya0l1YlJBTURtajZwSGVobkdBM0VmdUc1NTZFNzVaYjNTSC1SNGM4N3lkVE85OTQ3VA?oc=5",
+      "featured": false
+    },
+    {
       "title": "New housing development aims to help homeless people in Davenport - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -204,6 +192,18 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
       "featured": false
     },
     {
@@ -219,18 +219,6 @@
       "featured": false
     },
     {
-      "title": "Public invited to see renovated Rejuvenate Housing home in Davenport - OurQuadCities",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 06, 2026",
-      "summary": "Public invited to see renovated Rejuvenate Housing home in Davenport OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUhTZ2ZFZXlHQjNOWEpHTEtTY0h6N1Jwd2tJNVRKVGNHamJ2UlNGNndqTDY3SEdRT1J1NFdBcUF1bFkzOXhhSy1OdzVTT2VUbllUSkFUQXA2SGR3ekM4RldvZ2plQzNtUlJPSUltQ0QybTk4QWYyX1p5YVpNSTh5cUZUdVBZSXJNaE8xVkU3QldONU5INUFtY09XTG13NDUwMEotbmE3VXdXYW41QlhsckxuX0p0d9IBuwFBVV95cUxPMzlyTXVsb1VPa3NRMVZUajNhS042RlpfWWQwX0NMdEJONmVDNlEwTkltdlR0ZUc0OGpUMHN0c3V5cldQZ21TVEJ4NVlfcjRjN013RUdRZWFrZVNtR1lNaWpFZGxnS09XN09qSXhoc2ZYdmhKUXY3OC1kMTE3ajI2cmttNWM3NjFiRzFla2hrQzRUSmlNS1gxTjRZcElBVElRZ1UxOFVZam1GazdDN3RYNXZBa0U0NFNyU2Vv?oc=5",
-      "featured": false
-    },
-    {
       "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
       "city": "Davenport",
       "category": "Housing",
@@ -243,15 +231,27 @@
       "featured": false
     },
     {
-      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
+      "title": "Construction at Second and Gaines, Davenport, snarls traffic - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 27, 2026",
+      "summary": "Construction at Second and Gaines, Davenport, snarls traffic OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1JQejM0dElDWjFnZXFDbWV6VUp4c3oyYWNrRnNaVkI0aG5LVFduSzlNUFF5ZGpual9HSVdOeXRibFJTX09Ua3pfN2VtOFFDVDNZSjZCaUh6VVVaUG93VWpGZzVzOUZUQ0pzUERWWXZOdE1yZG1qNF9FaXlvOVdrbGZIeUIyR3JvNEdZdWlCSDhOYnRfWC13YmxJNHUxMVg4b1c2aDZTZVLSAa4BQVVfeXFMTk1QSW5QVllreWFXWVNIeTlNdjF6U2FYQ1BqUFRCTmlTWEhxbllzendObmFjaFA4dVZQSnBFdDl2NVI0dDFaZW1zU0YxcTNPWWNWT21xT1R3c3JDMHplNWZCWEwyd09QNUNmTGI0QmtUOUdDMm9paUlScU5qZWVOeG0wSU5RZE5hTGxfejhIbzh0ZVdWc0wwX2k1b2xqWnpEdWRZODN6VUNqcWlXRTV3?oc=5",
+      "featured": false
+    },
+    {
+      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - The Quad-City Times",
       "city": "Davenport",
       "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
-      "source": "KWQC",
+      "status": "Grand Opening",
+      "date": "Aug 08, 2026",
+      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport The Quad-City Times",
+      "source": "The Quad-City Times",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ19hVU8yUEhIV0ZzQXptSmJTUTRXbFdrRExmWEEzdXdpSVNiWmVjTG1idTBmY1lrY0RjX2hLREZvQkhndFpqalctSjdFdWtiZFFrczZBNktGMHpFUzgweHh2SFZZSDYyMUhOTHJ5RE04bWd1Zmo2SldBRmwxRzhaVmpsckljWW1WU3VQQWJPZjNwanhMWDRwRjdxVVg3WERyd3BrdDBWSmc?oc=5",
       "featured": false
     },
     {
@@ -435,18 +435,6 @@
       "featured": false
     },
     {
-      "title": "Polk County School Board discusses rezoning certain - wtsp.com",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County School Board discusses rezoning certain wtsp.com",
-      "source": "wtsp.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1pKR3k1UjhrMVV4VnVIZ3o5Nk00SndUUzlqYm11RXZPVVJkNWpDRzFXMzVmU1pUNmpxZWlYcWphNjZtSUVWSy1oYWsxX2ZVX2tDOTNLVjI3T0paTE9GRU1HazUyYkxEWnZodUlfTWNLQ3ROa0tkbVhSdTRyX0pIQmtGdS1DNHFuaHFILUJ5TFN1UDZMR2huWHNVOUZnYUJ5TnFOaF9KeGtVSElBS0VsTk1oZHBkWUYzRUFyQ1R3RQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "What's new and coming soon to Lakeland - 6AM City",
       "city": "Lakeland",
       "category": "Development",
@@ -483,18 +471,6 @@
       "featured": false
     },
     {
-      "title": "Greenfield Village by Landsea Homes in Davenport FL - Livabl",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 24, 2024",
-      "summary": "Greenfield Village by Landsea Homes in Davenport FL Livabl",
-      "source": "Livabl",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUVJ1SUg3a2ZTSVpQSTU2eDQyY2FaTkdkZVJ0YkZNSmNDQzNJbkxRY2tVMllNd21VMzRUSHdvTXAzSHpOWjlzQzZiWGR5YUNhQ25TcV9FLXJwMERtVzJmc0Z3Sjk?oc=5",
-      "featured": false
-    },
-    {
       "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
       "city": "Davenport",
       "category": "Restaurant",
@@ -504,6 +480,18 @@
       "source": "WhatNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Greenfield Village by Landsea Homes in Davenport FL - Livabl",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 24, 2024",
+      "summary": "Greenfield Village by Landsea Homes in Davenport FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUVJ1SUg3a2ZTSVpQSTU2eDQyY2FaTkdkZVJ0YkZNSmNDQzNJbkxRY2tVMllNd21VMzRUSHdvTXAzSHpOWjlzQzZiWGR5YUNhQ25TcV9FLXJwMERtVzJmc0Z3Sjk?oc=5",
       "featured": false
     },
     {
@@ -699,15 +687,15 @@
       "featured": false
     },
     {
-      "title": "North Lakeland Discovery Center holds grand opening for new Northwoods Forest History Museum - wjfw.com",
+      "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
       "city": "Lakeland",
-      "category": "Development",
+      "category": "Retail",
       "status": "Grand Opening",
-      "date": "Jun 13, 2026",
-      "summary": "North Lakeland Discovery Center holds grand opening for new Northwoods Forest History Museum wjfw.com",
-      "source": "wjfw.com",
+      "date": "Apr 29, 2026",
+      "summary": "Publix opening new Florida store with latest redesign. Here's where Lakeland Ledger",
+      "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaUVPd29qUFR2VktUREFCXzR3Qmdsb3FsOG9LZU5EY2xKa1U0MzdiaWRNeUdGaWZnU1BqUkhOc2xzTmNVaU9JS0QtMlFGdGxmUFQwVXU0eEZNelZfS20zSjkzeWxYRUFrb3JEUUMxaEVYbmJsNjdyclBHWUh2Q0Y1NHRDOWUxYV9pUnFFbzA0R1FvQVZ6a3Q3M2xqUEY3MlB4aTJtVnhyekItb05Db2lpYXhPMS02d1FCNVlhOHJwcTF3UTlYWUdwcW5hdlN2bDByXzQ1SG9tS2VVZWNFSll2M1pJQ2hXZDhXME1ENnUwdDhpMkhSYVZ6WTlySXU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
       "featured": false
     },
     {
@@ -732,18 +720,6 @@
       "source": "KSBW",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0RjTndyb1FwZjR3ejdEVEtVQzBEWWJOMVEwNU14MWNVWnBnV1p4OVlLSjhNaWxhMlFZcDVtR3FSakM1X3ZHXzVKNDJwQXA0R2pUUnA5LV9GNkVZMTNOTl9Zc2g5d19MQ09wRGFLZk5XQ3dGZXRUakRSZDVkSzU2QnRHbw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Publix opening new Florida store with latest redesign. Here's where - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Grand Opening",
-      "date": "Apr 29, 2026",
-      "summary": "Publix opening new Florida store with latest redesign. Here's where Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
       "featured": false
     },
     {
@@ -795,18 +771,6 @@
       "featured": false
     },
     {
-      "title": "NEEKO boutique to celebrate grand opening with sip and shop Friday in Davenport - The Quad-City Times",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Sep 02, 2026",
-      "summary": "NEEKO boutique to celebrate grand opening with sip and shop Friday in Davenport The Quad-City Times",
-      "source": "The Quad-City Times",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTBHcEl6NFFTSF9RTVpISm8wdktYSGtGS0Q2YVIwdENaY2tzZG1FcGhnaWNpSmVtc3RJMWNTRXVhUGpxUC1CS1B3bmM2dHR4eXhBWjV0T1ZOcW1fUGE2S3VfV3gxRHplY00yVzBYeFBOR0pUSHZZMVZscmhsSGV4ODRGRThUdEZfWm1XYm5GUFV6cUU?oc=5",
-      "featured": false
-    },
-    {
       "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -816,6 +780,18 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
+      "featured": false
+    },
+    {
+      "title": "NEEKO boutique to celebrate grand opening with sip and shop Friday in Davenport - The Quad-City Times",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Sep 02, 2026",
+      "summary": "NEEKO boutique to celebrate grand opening with sip and shop Friday in Davenport The Quad-City Times",
+      "source": "The Quad-City Times",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTBHcEl6NFFTSF9RTVpISm8wdktYSGtGS0Q2YVIwdENaY2tzZG1FcGhnaWNpSmVtc3RJMWNTRXVhUGpxUC1CS1B3bmM2dHR4eXhBWjV0T1ZOcW1fUGE2S3VfV3gxRHplY00yVzBYeFBOR0pUSHZZMVZscmhsSGV4ODRGRThUdEZfWm1XYm5GUFV6cUU?oc=5",
       "featured": false
     },
     {
@@ -852,6 +828,18 @@
       "source": "WFTV",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th - The National Law Review",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Apr 17, 2026",
+      "summary": "ModWash Brings the Clean to Davenport, Florida, Grand Opening April 17th The National Law Review",
+      "source": "The National Law Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ05uSTVXMnU4RW9SR1lCS19fei1qYUxnTFplVnJSUmotVjhWTERpQ1RTamdiU1JPQjlzSy1JZlZSbFc4b2NEYm1jMXFWWVV5d1l4T3Jkci16S3Rlczd3VG4tSXdJUW1qN2pVNm02YkVrUVVXOUJPN3RLYV9iVlBwblE0dzlQUGJVZWhCN0tJRWJlMDh4bnhQWDJaUmJXblo5WFZaVndB?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1068,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFI0V01PQjRWOS10M0dTSDZ3U1hEREkzZGprV1VaUTB1S3BMb0lwenJ3SUNuOGhfX2p5czNrWmhhaDU3NVAta2xLTDU0eEgzWEk0S3JPVFRzMWtHaEduX0s3UXhaMl9mNld4b1kzZjNBSkVXU0w5RjkyOWhEUlVua0ZRRGZyUm5hZlJmY25PV1RjRjczTUFWcm1uY2RiQ1EtQ1o0MklycEFqR1ZkTE1NZi1hZ0t2OHpLdktQU2dndDI4UmZtdVpCRFE2b0lNS0J6OGw5dGpWUXlJejVWMktkQ1UtNkU0Y0Y5UGsxcDBFazZyS3M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents - Lakeland Ledger",
+      "city": "Auburndale",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Feb 17, 2023",
+      "summary": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
       "featured": false
     }
   ]
