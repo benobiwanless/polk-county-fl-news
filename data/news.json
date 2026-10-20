@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19 22:57 UTC",
+  "last_updated": "2026-10-20 01:29 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -123,15 +123,27 @@
       "featured": false
     },
     {
-      "title": "2026 Construction Season - City of Davenport",
+      "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
       "city": "Davenport",
-      "category": "Development",
+      "category": "Housing",
       "status": "Update",
-      "date": "May 15, 2026",
-      "summary": "2026 Construction Season City of Davenport",
-      "source": "City of Davenport",
+      "date": "Sep 08, 2026",
+      "summary": "John Deere Foundation Commits $1 Million to Housing in Davenport John Deere",
+      "source": "John Deere",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NSTJ5WGFDMGNHS3FyRU0yVy1hVmRjSVg4Z1JOWjlUcHB0dzgza1Zlb1lhQmtZZzkyamNTMGFNcnVSSElSNWpUSTdjM3k5Ukl6bTluS1hhbHVpa2w3YkhwYmVteG0yLTRSeW9KOEV1eENIRHFSbWlFajc1bXU?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - NonStop Local KHQ",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Aug 30, 2026",
+      "summary": "Davenport Hotel hiring for over 100 positions across five Spokane locations NonStop Local KHQ",
+      "source": "NonStop Local KHQ",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTg3RTFVWHFmLU9kUmNzdEc1SkxkUWZyOEdQUVdFRVhKdl9NY0VEMGpuWjhoOFNGOG5CeVpoU2JzMTZGal9VRzd1Q1hoRExuS0hmYk1PdHp2WVJIQXl3TjNleko0eElyU0ExZERPc0FtVTVhX3huZGxORWpVZnhVdUpnNkNVQ0ZqMGdrVHloRTAwWUItOFJxbDRzVFU4djVxbEhVMmVaNkpreTFUX0J1SEI4eU5sVXg5NEV6UXJhcVRhdHhfQUM2dko5TkJKSVJXeFRUMFhzX0pXYlFDUnc?oc=5",
       "featured": false
     },
     {
@@ -159,39 +171,27 @@
       "featured": false
     },
     {
-      "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
+      "title": "News | Private investor buys fully leased retail center in Davenport, Florida - CoStar",
+      "city": "Davenport",
+      "category": "Retail",
+      "status": "Update",
+      "date": "Sep 17, 2026",
+      "summary": "News | Private investor buys fully leased retail center in Davenport, Florida CoStar",
+      "source": "CoStar",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGFxOXJzWE0yeDBCRXpCNGZlcTNmaUhQdXB3YWdONVNKSllwbExxeWtuRTVWUGplRHZHVVJ1TTZqcWQtekxWa21DaURhSkd4dUw1S0I5M1ZzbjluMF9PcmNPRXlVT1gyRjdORE5Sb3FjUXplbm9xTzVac3Y2Y2taMGg0QVk3eFc3TVpiZGtndDFfRHNtNF92Q3BOV1FhYzNTa09jVHRuSUl5cW1xMGc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Century-old Davenport homes saved from demolition to house refugee families - WQAD",
       "city": "Davenport",
       "category": "Housing",
       "status": "Update",
-      "date": "Sep 08, 2026",
-      "summary": "John Deere Foundation Commits $1 Million to Housing in Davenport John Deere",
-      "source": "John Deere",
+      "date": "Sep 21, 2026",
+      "summary": "Century-old Davenport homes saved from demolition to house refugee families WQAD",
+      "source": "WQAD",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NSTJ5WGFDMGNHS3FyRU0yVy1hVmRjSVg4Z1JOWjlUcHB0dzgza1Zlb1lhQmtZZzkyamNTMGFNcnVSSElSNWpUSTdjM3k5Ukl6bTluS1hhbHVpa2w3YkhwYmVteG0yLTRSeW9KOEV1eENIRHFSbWlFajc1bXU?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - NonStop Local KHQ",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "Aug 30, 2026",
-      "summary": "Davenport Hotel hiring for over 100 positions across five Spokane locations NonStop Local KHQ",
-      "source": "NonStop Local KHQ",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTg3RTFVWHFmLU9kUmNzdEc1SkxkUWZyOEdQUVdFRVhKdl9NY0VEMGpuWjhoOFNGOG5CeVpoU2JzMTZGal9VRzd1Q1hoRExuS0hmYk1PdHp2WVJIQXl3TjNleko0eElyU0ExZERPc0FtVTVhX3huZGxORWpVZnhVdUpnNkNVQ0ZqMGdrVHloRTAwWUItOFJxbDRzVFU4djVxbEhVMmVaNkpreTFUX0J1SEI4eU5sVXg5NEV6UXJhcVRhdHhfQUM2dko5TkJKSVJXeFRUMFhzX0pXYlFDUnc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 - Iowa Department of Transportation (.gov)",
-      "city": "Davenport",
-      "category": "Infrastructure",
-      "status": "Update",
-      "date": "Feb 24, 2026",
-      "summary": "Scott County Road F-55 at U.S. 61 in Davenport Will Be Closed in Both Directions Starting on Monday, March 2 Iowa Department of Transportation (.gov)",
-      "source": "Iowa Department of Transportation (.gov)",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTBWVmdpamN5bUY3aWI0X3I3MnEyUi1taDgxV3dsMDJlZXJDcEduQUhvUXpzaFNlOWU0aGxqanlhZ25JTmdWLTdVWDRaaVJhb0lLdVBHbFZJUjFjU1Q4d3hsNE5nUndaUUU0dFVoVjVzUXA2a05pdklyUUxKajZXRUFpOXk4YzZPdXJDZ3ZMX3pqV0xfelJCTzFGcFdjZDllUnFIOEo3M3FXVHBFdlFOb2J2cmdxMUc2SUtfLVFlSHVUMm1fOVhVZg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQczNMNWJVaE12NDMxd3ZnSGY2eW9WX0FQY0xjVWNZNVVDbjFtejFPZGFCbEUxV09xUEsxNk1IeEtIcnZRTkZxOTRVZURfSktIaXlCZmF5NG1zMFRwdjRmNFY4UWtlSjk5a053M2JMUk1zM3RScGdBSmtHRW1VaGtWYWR6cVZFQTV5R2hRakZIQmZSOWlrT0ZzdFFsdGNjc21hbmRDYlhvcFpvZGdvT2lxbERTakgwR3NWMTloQ29DdUU4TGYyWnZURm5nZVFEaUNzbHhMZU4wZXpEanVhaF9UNkVpLU5CdkVqRjdCcURuTjF4TkJZVmRRdDh3Vmc3Q1JsTjZFbg?oc=5",
       "featured": false
     },
     {
@@ -207,39 +207,51 @@
       "featured": false
     },
     {
-      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
+      "title": "Rejuvenate Housing showcases renovated Davenport home and announces major grant - KWQC",
       "city": "Davenport",
-      "category": "Restaurant",
+      "category": "Housing",
       "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
+      "date": "Sep 07, 2026",
+      "summary": "Rejuvenate Housing showcases renovated Davenport home and announces major grant KWQC",
       "source": "KWQC",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmRSYTlKaVJwYlZuaGZLSWZDR3haREM3NjJsdWRkUmp3TjdJc3ZSZXZFQWhLdHczTTBBTGhmejl5NFBnQVVneUVrbEdTTEZGUVUtX2dxYzVVcUpnbFp2MzRfSnJCeEk5MVg0dUdnYWppTGtId1U2ZkU1SE9CNnk2Y1JaVUVJa2Z4NVdOSVByZGZFM2tWQ3ZOUFRXWmhYUTJOR1B4Wld1MVZ4Z0pX?oc=5",
       "featured": false
     },
     {
-      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
+      "title": "2026 Construction Season - City of Davenport",
       "city": "Davenport",
-      "category": "Restaurant",
+      "category": "Development",
       "status": "Update",
-      "date": "Jun 08, 2026",
-      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport KWQC",
-      "source": "KWQC",
+      "date": "May 15, 2026",
+      "summary": "2026 Construction Season City of Davenport",
+      "source": "City of Davenport",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
       "featured": false
     },
     {
-      "title": "Davenport restaurant to close its doors - KWQC",
+      "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - The Quad-City Times",
       "city": "Davenport",
       "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Davenport restaurant to close its doors KWQC",
-      "source": "KWQC",
+      "status": "Grand Opening",
+      "date": "Aug 08, 2026",
+      "summary": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport The Quad-City Times",
+      "source": "The Quad-City Times",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3NYaDRWUVRSb2l3ekZ2Umh3N1RKS0JvTVRXdXpRNUdtdWhwSXdqZkdCajc1S1NVRE8xV24xZlJianp5NFNPUDNVNnNzaG5ldUk5T1FiZFZPWGF4VkdOQ0tEME9Da1Q0ZFFlWHJDbjh0Q1g5Z2p3UzZ5YjYzUUk2VQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ19hVU8yUEhIV0ZzQXptSmJTUTRXbFdrRExmWEEzdXdpSVNiWmVjTG1idTBmY1lrY0RjX2hLREZvQkhndFpqalctSjdFdWtiZFFrczZBNktGMHpFUzgweHh2SFZZSDYyMUhOTHJ5RE04bWd1Zmo2SldBRmwxRzhaVmpsckljWW1WU3VQQWJPZjNwanhMWDRwRjdxVVg3WERyd3BrdDBWSmc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Public invited to see renovated Rejuvenate Housing home in Davenport - OurQuadCities",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 06, 2026",
+      "summary": "Public invited to see renovated Rejuvenate Housing home in Davenport OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUhTZ2ZFZXlHQjNOWEpHTEtTY0h6N1Jwd2tJNVRKVGNHamJ2UlNGNndqTDY3SEdRT1J1NFdBcUF1bFkzOXhhSy1OdzVTT2VUbllUSkFUQXA2SGR3ekM4RldvZ2plQzNtUlJPSUltQ0QybTk4QWYyX1p5YVpNSTh5cUZUdVBZSXJNaE8xVkU3QldONU5INUFtY09XTG13NDUwMEotbmE3VXdXYW41QlhsckxuX0p0d9IBuwFBVV95cUxPMzlyTXVsb1VPa3NRMVZUajNhS042RlpfWWQwX0NMdEJONmVDNlEwTkltdlR0ZUc0OGpUMHN0c3V5cldQZ21TVEJ4NVlfcjRjN013RUdRZWFrZVNtR1lNaWpFZGxnS09XN09qSXhoc2ZYdmhKUXY3OC1kMTE3ajI2cmttNWM3NjFiRzFla2hrQzRUSmlNS1gxTjRZcElBVElRZ1UxOFVZam1GazdDN3RYNXZBa0U0NFNyU2Vv?oc=5",
       "featured": false
     },
     {
@@ -252,18 +264,6 @@
       "source": "OurQuadCities",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Rejuvenate Housing showcases renovated Davenport home and announces major grant - KWQC",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 07, 2026",
-      "summary": "Rejuvenate Housing showcases renovated Davenport home and announces major grant KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmRSYTlKaVJwYlZuaGZLSWZDR3haREM3NjJsdWRkUmp3TjdJc3ZSZXZFQWhLdHczTTBBTGhmejl5NFBnQVVneUVrbEdTTEZGUVUtX2dxYzVVcUpnbFp2MzRfSnJCeEk5MVg0dUdnYWppTGtId1U2ZkU1SE9CNnk2Y1JaVUVJa2Z4NVdOSVByZGZFM2tWQ3ZOUFRXWmhYUTJOR1B4Wld1MVZ4Z0pX?oc=5",
       "featured": false
     },
     {
@@ -651,6 +651,18 @@
       "featured": false
     },
     {
+      "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - KWQC",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "May 15, 2026",
+      "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFRsZ0wtenl6QldPOHVMR053TnB5YTBmMEUzN0U1TUhTUXdrYUhlNThnZHQydFEzSGhUeHlyVFk4OW1aX0RDVklkSjlMSmR3TUc2TlpCS1JPZ191ZENTLTNTOE5YbE1SeGZFcENOblc2bmhHUG5JTURFaGNWSTB5NjktR2tKckZqSUVXODRYSTFhQ0I1aE80SGR4R2xFZ1l2WnhmYkMxVdIBuwFBVV95cUxPZ1g3MTVZdlZjTEhKcThqcDNJUjYyU0RBelluRmlVd2J4TXVIdTc2OWNhOWlkU3ROOWVLak55NFhoZ1F5TXc5ZE9QRlZqRFZ1Y0J0Y2x1UU1MMDNxRENuYWNLdS1zejM1VHB6dF84M0Q4TDcxVkdDYkhKb00wWWRyT0c4WnNaUGVVUTFfNGVROEFhLWtVV3Ewb1JaQ0pzUUJBTktDTU82U1BpcTZwcExvejBIb0lOSlhoNkNN?oc=5",
+      "featured": false
+    },
+    {
       "title": "Texas Roadhouse in Winter Haven Announces Grand Opening - Daily Ridge",
       "city": "Winter Haven",
       "category": "Infrastructure",
@@ -675,18 +687,6 @@
       "featured": false
     },
     {
-      "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - KWQC",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "May 15, 2026",
-      "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0ttSVMxaXIzTnZXVGJNNERET3F5cWpwRmlOOTVsQjlXdktCZGV4bDFGRURoNEZaMjY1ZUphVFk0NUxEaUpaeXdvVWF2RDNxNy1HT1FRc3Rzem4tcGRibmNHcklRTC1lWlpDZ1JiWkJzcW5CRFo5R3JHNU9Vc2VpUWRrS1Y0VXl3U0h0NHpGdkdOM2NVRmI2LWZ4b19oeTk1Q0t0UGpIcmVERWpBTVF3?oc=5",
-      "featured": false
-    },
-    {
       "title": "Salon 387 Celebrates Grand Opening of New Lakeland Location - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
@@ -696,6 +696,18 @@
       "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport sheriff's office substation to hold grand opening - KSBW",
+      "city": "Davenport",
+      "category": "Commercial",
+      "status": "Grand Opening",
+      "date": "Feb 09, 2026",
+      "summary": "Davenport sheriff's office substation to hold grand opening KSBW",
+      "source": "KSBW",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0RjTndyb1FwZjR3ejdEVEtVQzBEWWJOMVEwNU14MWNVWnBnV1p4OVlLSjhNaWxhMlFZcDVtR3FSakM1X3ZHXzVKNDJwQXA0R2pUUnA5LV9GNkVZMTNOTl9Zc2g5d19MQ09wRGFLZk5XQ3dGZXRUakRSZDVkSzU2QnRHbw?oc=5",
       "featured": false
     },
     {
@@ -720,18 +732,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
     },
     {
@@ -795,6 +795,18 @@
       "featured": false
     },
     {
+      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Apr 03, 2026",
+      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
+      "source": "News-Herald",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
+      "featured": false
+    },
+    {
       "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
       "city": "Davenport",
       "category": "Restaurant",
@@ -828,18 +840,6 @@
       "source": "OurQuadCities",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - Dispatch Argus",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Sep 18, 2026",
-      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport Dispatch Argus",
-      "source": "Dispatch Argus",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXy1EaUdUWExhdDAwM3FSYlQyN0pRZVZfa1NmdU94bzM4d2lUUTI2bktPYXl1RzlsTW9RcF9zMk5wczFpMHhyRTcyNGdraERKbGZDek5ONFBieDVHRVRMb20xZjZtYmp6MEh4akZUUjlSSUNDaG9EWElBVHVTQUgwNHZ0X1h4MXlITEFnV1ZSY1c1NzRVdlNJdmZWQlhENUZmYjVRZlJoOA?oc=5",
       "featured": false
     },
     {
