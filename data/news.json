@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20 06:20 UTC",
+  "last_updated": "2026-10-20 11:54 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -99,13 +99,13 @@
       "featured": false
     },
     {
-      "title": "Davenport's Phoenix Restaurant to close - WQAD",
+      "title": "Davenport's Phoenix Restaurant to close - wqad.com",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
       "date": "Oct 20, 2026",
-      "summary": "Davenport's Phoenix Restaurant to close WQAD",
-      "source": "WQAD",
+      "summary": "Davenport's Phoenix Restaurant to close wqad.com",
+      "source": "wqad.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXZTQ0t1aUd0NjBWZFdZNkN1a2tISjc5SmQxNXlrX01OWmV0UXhYUVhmN01NcFI4ZG9rVkNBdW40VWpyZ0Z6ekR2WFpYMC1ubWdrZ1hfSTBPQ2gtaHlSeWM1cFlWOXdqX0ZTb1B2eWRicHFRQmZ1a3VDYzdMbDZsdU5jbmlzMmRpM2kwa2hFZy1iWWJ2UHd1VFVZSURnQmI5VnV3NThHZFlZVWJFbFZHeHJuR2pTdXlN?oc=5",
       "featured": false
@@ -219,18 +219,6 @@
       "featured": false
     },
     {
-      "title": "Century-old Davenport homes saved from demolition to house refugee families - WQAD",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 21, 2026",
-      "summary": "Century-old Davenport homes saved from demolition to house refugee families WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQczNMNWJVaE12NDMxd3ZnSGY2eW9WX0FQY0xjVWNZNVVDbjFtejFPZGFCbEUxV09xUEsxNk1IeEtIcnZRTkZxOTRVZURfSktIaXlCZmF5NG1zMFRwdjRmNFY4UWtlSjk5a053M2JMUk1zM3RScGdBSmtHRW1VaGtWYWR6cVZFQTV5R2hRakZIQmZSOWlrT0ZzdFFsdGNjc21hbmRDYlhvcFpvZGdvT2lxbERTakgwR3NWMTloQ29DdUU4TGYyWnZURm5nZVFEaUNzbHhMZU4wZXpEanVhaF9UNkVpLU5CdkVqRjdCcURuTjF4TkJZVmRRdDh3Vmc3Q1JsTjZFbg?oc=5",
-      "featured": false
-    },
-    {
       "title": "A&M Family Restaurant ribbon cutting to be held Saturday in Davenport - The Quad-City Times",
       "city": "Davenport",
       "category": "Restaurant",
@@ -264,6 +252,18 @@
       "source": "OurQuadCities",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUhTZ2ZFZXlHQjNOWEpHTEtTY0h6N1Jwd2tJNVRKVGNHamJ2UlNGNndqTDY3SEdRT1J1NFdBcUF1bFkzOXhhSy1OdzVTT2VUbllUSkFUQXA2SGR3ekM4RldvZ2plQzNtUlJPSUltQ0QybTk4QWYyX1p5YVpNSTh5cUZUdVBZSXJNaE8xVkU3QldONU5INUFtY09XTG13NDUwMEotbmE3VXdXYW41QlhsckxuX0p0d9IBuwFBVV95cUxPMzlyTXVsb1VPa3NRMVZUajNhS042RlpfWWQwX0NMdEJONmVDNlEwTkltdlR0ZUc0OGpUMHN0c3V5cldQZ21TVEJ4NVlfcjRjN013RUdRZWFrZVNtR1lNaWpFZGxnS09XN09qSXhoc2ZYdmhKUXY3OC1kMTE3ajI2cmttNWM3NjFiRzFla2hrQzRUSmlNS1gxTjRZcElBVElRZ1UxOFVZam1GazdDN3RYNXZBa0U0NFNyU2Vv?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Century-old Davenport homes saved from demolition to house refugee families - WQAD",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 21, 2026",
+      "summary": "Century-old Davenport homes saved from demolition to house refugee families WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQczNMNWJVaE12NDMxd3ZnSGY2eW9WX0FQY0xjVWNZNVVDbjFtejFPZGFCbEUxV09xUEsxNk1IeEtIcnZRTkZxOTRVZURfSktIaXlCZmF5NG1zMFRwdjRmNFY4UWtlSjk5a053M2JMUk1zM3RScGdBSmtHRW1VaGtWYWR6cVZFQTV5R2hRakZIQmZSOWlrT0ZzdFFsdGNjc21hbmRDYlhvcFpvZGdvT2lxbERTakgwR3NWMTloQ29DdUU4TGYyWnZURm5nZVFEaUNzbHhMZU4wZXpEanVhaF9UNkVpLU5CdkVqRjdCcURuTjF4TkJZVmRRdDh3Vmc3Q1JsTjZFbg?oc=5",
       "featured": false
     },
     {
@@ -495,6 +495,18 @@
       "featured": false
     },
     {
+      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
+      "city": "Lake Wales",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jan 04, 2023",
+      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
+      "source": "Livabl",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
+      "featured": false
+    },
+    {
       "title": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Development",
@@ -519,15 +531,15 @@
       "featured": false
     },
     {
-      "title": "Scenic Bluff by Highland Homes in Lake Wales FL - Livabl",
-      "city": "Lake Wales",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jan 04, 2023",
-      "summary": "Scenic Bluff by Highland Homes in Lake Wales FL Livabl",
-      "source": "Livabl",
+      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Coming Soon",
+      "date": "May 30, 2026",
+      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
+      "source": "Business Debut",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLXdWYVIzbWFVak5kQkEzdlFzSUxwMkR2ekl2RVBhUndSMUhZMnlTSHVkTEhwaHJNRGFodDhncG9md3VyOE1ick50UWdKSVdDZzBhWWVLVGthRzZqbEE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
       "featured": false
     },
     {
@@ -540,18 +552,6 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03UnBTc2NRZzIzcVAzS1c0VXNOX18tbFpfaTZsU0psbmlaTnRVaUo3MmZjSGowd214Y2pBTEFmWnBPTFJkVUhqRzBXYmRNdVVPU2pDSzM0WHRUbm5YOUxXOE1RT2Q1bEZObDdjcGhid2lRRjBUWUxF?oc=5",
-      "featured": false
-    },
-    {
-      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
-      "city": "Polk County",
-      "category": "Restaurant",
-      "status": "Coming Soon",
-      "date": "May 30, 2026",
-      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
       "featured": false
     },
     {
@@ -603,18 +603,6 @@
       "featured": false
     },
     {
-      "title": "Lac La Biche residents attend grand opening for IPC Aquatics Centre - LakelandToday.ca",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Oct 19, 2026",
-      "summary": "Lac La Biche residents attend grand opening for IPC Aquatics Centre LakelandToday.ca",
-      "source": "LakelandToday.ca",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkNnOTN1X09nbVh2QlFrcDdwaG9NSjNlWGtUTXZFYjBYSGxMOUk2QUdZb2RzNlpBNEJMVnZDd21FTmJGVjBva3cwdlpNOXl4YUhJVGt0NEhDY0ljUHlEeWpmVFZQX3hfUVpvZEZuZ2k3aFZpc0R1dTdHcGlTdjM1MVVsOURDekZXWF93MkhsdXVSX294YVg1N21RRGF5NXNZbUhPbEdJczF5Q1pnU2NMcHNNLVNQWW91NVJUYXk1RzE?oc=5",
-      "featured": false
-    },
-    {
       "title": "SEU Celebrates Grand Opening of New Winter Haven Campus - Assemblies of God (USA)",
       "city": "Winter Haven",
       "category": "Development",
@@ -624,6 +612,18 @@
       "source": "Assemblies of God (USA)",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmZKak96OHpiXzM4eVppZTQwWlhoT1JBRWVBenN0RG9QbUxjVGdxdzFISlRqQkxCSHg1WHVmUG1CNm4wNF9kOUg1dmlQb0VkbEFaVmJyMDJvdG5nTHo2ZXNqblRPSHFIM3VlVGhxTkdRZm5xUGVCak5KLUlnT1Z1NUtVZmdIbndnV0RVOVZXdFZfNkJWb056eUF3NF94VE1hLWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lac La Biche residents attend grand opening for IPC Aquatics Centre - LakelandToday.ca",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Oct 19, 2026",
+      "summary": "Lac La Biche residents attend grand opening for IPC Aquatics Centre LakelandToday.ca",
+      "source": "LakelandToday.ca",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkNnOTN1X09nbVh2QlFrcDdwaG9NSjNlWGtUTXZFYjBYSGxMOUk2QUdZb2RzNlpBNEJMVnZDd21FTmJGVjBva3cwdlpNOXl4YUhJVGt0NEhDY0ljUHlEeWpmVFZQX3hfUVpvZEZuZ2k3aFZpc0R1dTdHcGlTdjM1MVVsOURDekZXWF93MkhsdXVSX294YVg1N21RRGF5NXNZbUhPbEdJczF5Q1pnU2NMcHNNLVNQWW91NVJUYXk1RzE?oc=5",
       "featured": false
     },
     {
@@ -723,6 +723,18 @@
       "featured": false
     },
     {
+      "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 21, 2026",
+      "summary": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay WFTV",
+      "source": "WFTV",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
+      "featured": false
+    },
+    {
       "title": "China Cafe Davenport now open on Tuesdays - The Quad-City Times",
       "city": "Davenport",
       "category": "Restaurant",
@@ -747,18 +759,6 @@
       "featured": false
     },
     {
-      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - The Quad-City Times",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Sep 18, 2026",
-      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport The Quad-City Times",
-      "source": "The Quad-City Times",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9VTWVXUjFPdE9welNCNzhUQ1dVTzI0T0l6OWhGV0p3aWlsTU5DVGhJRFFYOWZlMEhUWlNWMnNfb0liQzI3elU1Ni0tSnVKWEpVXzJrSnRhdUVXR0dXVU5iOGVwenYwenctcHMtYUdVUW5YZmJqM2xQTThYYXRRb0xSaWcyakFPTUVIYTVOYWNJcTNITGxrakc4ZEF2SU56Q2NNMnpB?oc=5",
-      "featured": false
-    },
-    {
       "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -771,6 +771,18 @@
       "featured": false
     },
     {
+      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - The Quad-City Times",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Sep 18, 2026",
+      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport The Quad-City Times",
+      "source": "The Quad-City Times",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9VTWVXUjFPdE9welNCNzhUQ1dVTzI0T0l6OWhGV0p3aWlsTU5DVGhJRFFYOWZlMEhUWlNWMnNfb0liQzI3elU1Ni0tSnVKWEpVXzJrSnRhdUVXR0dXVU5iOGVwenYwenctcHMtYUdVUW5YZmJqM2xQTThYYXRRb0xSaWcyakFPTUVIYTVOYWNJcTNITGxrakc4ZEF2SU56Q2NNMnpB?oc=5",
+      "featured": false
+    },
+    {
       "title": "NEEKO boutique to celebrate grand opening with sip and shop Friday in Davenport - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
@@ -780,18 +792,6 @@
       "source": "The Quad-City Times",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTBHcEl6NFFTSF9RTVpISm8wdktYSGtGS0Q2YVIwdENaY2tzZG1FcGhnaWNpSmVtc3RJMWNTRXVhUGpxUC1CS1B3bmM2dHR4eXhBWjV0T1ZOcW1fUGE2S3VfV3gxRHplY00yVzBYeFBOR0pUSHZZMVZscmhsSGV4ODRGRThUdEZfWm1XYm5GUFV6cUU?oc=5",
-      "featured": false
-    },
-    {
-      "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 21, 2026",
-      "summary": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay WFTV",
-      "source": "WFTV",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
       "featured": false
     },
     {
