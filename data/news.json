@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20 01:29 UTC",
+  "last_updated": "2026-10-20 06:20 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -99,6 +99,18 @@
       "featured": false
     },
     {
+      "title": "Davenport's Phoenix Restaurant to close - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Oct 20, 2026",
+      "summary": "Davenport's Phoenix Restaurant to close WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXZTQ0t1aUd0NjBWZFdZNkN1a2tISjc5SmQxNXlrX01OWmV0UXhYUVhmN01NcFI4ZG9rVkNBdW40VWpyZ0Z6ekR2WFpYMC1ubWdrZ1hfSTBPQ2gtaHlSeWM1cFlWOXdqX0ZTb1B2eWRicHFRQmZ1a3VDYzdMbDZsdU5jbmlzMmRpM2kwa2hFZy1iWWJ2UHd1VFVZSURnQmI5VnV3NThHZFlZVWJFbFZHeHJuR2pTdXlN?oc=5",
+      "featured": false
+    },
+    {
       "title": "Lake Wales plans groundbreaking for multiuse trail around Crystal Lake - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -159,18 +171,6 @@
       "featured": false
     },
     {
-      "title": "New construction partially collapses in Davenport - WQAD",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Aug 04, 2026",
-      "summary": "New construction partially collapses in Davenport WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
-      "featured": false
-    },
-    {
       "title": "News | Private investor buys fully leased retail center in Davenport, Florida - CoStar",
       "city": "Davenport",
       "category": "Retail",
@@ -183,15 +183,15 @@
       "featured": false
     },
     {
-      "title": "Century-old Davenport homes saved from demolition to house refugee families - WQAD",
+      "title": "New construction partially collapses in Davenport - WQAD",
       "city": "Davenport",
-      "category": "Housing",
+      "category": "Development",
       "status": "Update",
-      "date": "Sep 21, 2026",
-      "summary": "Century-old Davenport homes saved from demolition to house refugee families WQAD",
+      "date": "Aug 04, 2026",
+      "summary": "New construction partially collapses in Davenport WQAD",
       "source": "WQAD",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQczNMNWJVaE12NDMxd3ZnSGY2eW9WX0FQY0xjVWNZNVVDbjFtejFPZGFCbEUxV09xUEsxNk1IeEtIcnZRTkZxOTRVZURfSktIaXlCZmF5NG1zMFRwdjRmNFY4UWtlSjk5a053M2JMUk1zM3RScGdBSmtHRW1VaGtWYWR6cVZFQTV5R2hRakZIQmZSOWlrT0ZzdFFsdGNjc21hbmRDYlhvcFpvZGdvT2lxbERTakgwR3NWMTloQ29DdUU4TGYyWnZURm5nZVFEaUNzbHhMZU4wZXpEanVhaF9UNkVpLU5CdkVqRjdCcURuTjF4TkJZVmRRdDh3Vmc3Q1JsTjZFbg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEdoN3htNmYzUjJuRERkZklQNWNZMGhrOTlXdUlxY0VMby1ONjJZY1lWZEJDUlFqWlF4aTR0cWlUS2xkS1lvQWxvRlpKdUR6TGRVaUc1Rkx6OUZld0RTZjFSeTFIZEF6cXVsMC1HbGZCYkxSd3lIZzVybFB5NXdkUXhLTEFuUTdSZ1BXQ2JjWEd6ZlZJRklwTktUdEZIVk9idGhwR01KUGhGU1JTV0VyZmVlMU1XbjUwQ1p0X1FEeTlrNFBsU05SMjJBUVA?oc=5",
       "featured": false
     },
     {
@@ -219,15 +219,15 @@
       "featured": false
     },
     {
-      "title": "2026 Construction Season - City of Davenport",
+      "title": "Century-old Davenport homes saved from demolition to house refugee families - WQAD",
       "city": "Davenport",
-      "category": "Development",
+      "category": "Housing",
       "status": "Update",
-      "date": "May 15, 2026",
-      "summary": "2026 Construction Season City of Davenport",
-      "source": "City of Davenport",
+      "date": "Sep 21, 2026",
+      "summary": "Century-old Davenport homes saved from demolition to house refugee families WQAD",
+      "source": "WQAD",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQczNMNWJVaE12NDMxd3ZnSGY2eW9WX0FQY0xjVWNZNVVDbjFtejFPZGFCbEUxV09xUEsxNk1IeEtIcnZRTkZxOTRVZURfSktIaXlCZmF5NG1zMFRwdjRmNFY4UWtlSjk5a053M2JMUk1zM3RScGdBSmtHRW1VaGtWYWR6cVZFQTV5R2hRakZIQmZSOWlrT0ZzdFFsdGNjc21hbmRDYlhvcFpvZGdvT2lxbERTakgwR3NWMTloQ29DdUU4TGYyWnZURm5nZVFEaUNzbHhMZU4wZXpEanVhaF9UNkVpLU5CdkVqRjdCcURuTjF4TkJZVmRRdDh3Vmc3Q1JsTjZFbg?oc=5",
       "featured": false
     },
     {
@@ -243,6 +243,18 @@
       "featured": false
     },
     {
+      "title": "2026 Construction Season - City of Davenport",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 15, 2026",
+      "summary": "2026 Construction Season City of Davenport",
+      "source": "City of Davenport",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXJHa2tNcEREVjhiNnBIZXBkWHJJTXRPcjROTzRhR3lmQnRRUnpkbUZKRnZUcFotSmhhVjgtZlVYWV8tenJYOTUzallVc0JDNzRESDVidjhFUUZkZEpCb3kzQWh3XzBtaHp2a213STc1aDBwdDZJX1paSkxjU1ZoTTk5ZmRUMlY0VV9NVXlxYjI0YzFNdERTN2NUUzVrOEZhRW9RTTRxM0lrWFRQTlQxVDRGeDhLYW9wR0prV3UxNkJQandx?oc=5",
+      "featured": false
+    },
+    {
       "title": "Public invited to see renovated Rejuvenate Housing home in Davenport - OurQuadCities",
       "city": "Davenport",
       "category": "Housing",
@@ -252,18 +264,6 @@
       "source": "OurQuadCities",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUhTZ2ZFZXlHQjNOWEpHTEtTY0h6N1Jwd2tJNVRKVGNHamJ2UlNGNndqTDY3SEdRT1J1NFdBcUF1bFkzOXhhSy1OdzVTT2VUbllUSkFUQXA2SGR3ekM4RldvZ2plQzNtUlJPSUltQ0QybTk4QWYyX1p5YVpNSTh5cUZUdVBZSXJNaE8xVkU3QldONU5INUFtY09XTG13NDUwMEotbmE3VXdXYW41QlhsckxuX0p0d9IBuwFBVV95cUxPMzlyTXVsb1VPa3NRMVZUajNhS042RlpfWWQwX0NMdEJONmVDNlEwTkltdlR0ZUc0OGpUMHN0c3V5cldQZ21TVEJ4NVlfcjRjN013RUdRZWFrZVNtR1lNaWpFZGxnS09XN09qSXhoc2ZYdmhKUXY3OC1kMTE3ajI2cmttNWM3NjFiRzFla2hrQzRUSmlNS1gxTjRZcElBVElRZ1UxOFVZam1GazdDN3RYNXZBa0U0NFNyU2Vv?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Humility Homes to break ground on new supportive housing project in Davenport - OurQuadCities",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 09, 2026",
-      "summary": "Humility Homes to break ground on new supportive housing project in Davenport OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzNvRzgtZUR3MldCYmpKN0hkaDlVMlh6OTBGdVdvT3k2aW9lZUtqYlpuSEhRNWthZ2E4RXVxRUt1dmJZcjJhRHpaQVdCcXRrVzN3YlowN09RdlJCVnJxaWVhQ0lBVEwtY3kyRVB2ODRpbVBVQWhoYTV3WDY1Y1VCNEFkVUhzVHdISm1vUTA3aWNzTmJOOEwzd2ZUV1h5c3hqSjB3ZHRBRm1qcDZ5ZnY3OU15Mk82dEowVVNIaWYtRTJhd9IBxwFBVV95cUxNdUt0MU84akxXd29QazMwaUphcGgxR3IwRmRPbG1jTkJNQUNFMHM1S0NxSFRoM2VLOEhMdE5mdFg4MEdWTjJLd21NQTZzTnA1bDltVW9uckhhZWctcmtyVFlKdlVRSTdUQUxzMzJNOENaMzJMWk1hRGFhSFJhaDRjck9ycjVsY3ZKTHBZVTFTM1lRV1FzdGl5dzhIaWdKVmJVWk5iN29kZnpJbkJZWm40MlgtWHJjQ1FucHc2RU42WlFabEE2ay04?oc=5",
       "featured": false
     },
     {
@@ -420,18 +420,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 05, 2025",
-      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
-      "source": "WFLA",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
       "featured": false
     },
     {
@@ -603,18 +591,6 @@
       "featured": false
     },
     {
-      "title": "Lac La Biche residents attend grand opening for IPC Aquatics Centre - LakelandToday.ca",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Oct 19, 2026",
-      "summary": "Lac La Biche residents attend grand opening for IPC Aquatics Centre LakelandToday.ca",
-      "source": "LakelandToday.ca",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkNnOTN1X09nbVh2QlFrcDdwaG9NSjNlWGtUTXZFYjBYSGxMOUk2QUdZb2RzNlpBNEJMVnZDd21FTmJGVjBva3cwdlpNOXl4YUhJVGt0NEhDY0ljUHlEeWpmVFZQX3hfUVpvZEZuZ2k3aFZpc0R1dTdHcGlTdjM1MVVsOURDekZXWF93MkhsdXVSX294YVg1N21RRGF5NXNZbUhPbEdJczF5Q1pnU2NMcHNNLVNQWW91NVJUYXk1RzE?oc=5",
-      "featured": false
-    },
-    {
       "title": "New Smart Auto dealerships coming soon to Davenport - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -624,6 +600,18 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHNDM3d1RGFLNHVFSVJsbTZfeDl0NTZtMVF6QjZhZWZ3cFRvdm84TWdHMzE1dExBSjFvMVloR1VvaWRwdm5faVBGN0dUUGs3ZHZvUmUxODNleDVjNGlFTVpkSkF6MFVxVUFIdXVxWTRLNUY5VjlPS2N0eFM5TVdNZEVuZU9ubVFfNjhRU3JtOG1uN01SQ0dhYWt1R2ZqaEVxUFJ6T1RJTjZZek42TmQ1Nll0TS1zSUlPNmRfRmhiQ1BEUFhkeTEyb0FR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lac La Biche residents attend grand opening for IPC Aquatics Centre - LakelandToday.ca",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Oct 19, 2026",
+      "summary": "Lac La Biche residents attend grand opening for IPC Aquatics Centre LakelandToday.ca",
+      "source": "LakelandToday.ca",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkNnOTN1X09nbVh2QlFrcDdwaG9NSjNlWGtUTXZFYjBYSGxMOUk2QUdZb2RzNlpBNEJMVnZDd21FTmJGVjBva3cwdlpNOXl4YUhJVGt0NEhDY0ljUHlEeWpmVFZQX3hfUVpvZEZuZ2k3aFZpc0R1dTdHcGlTdjM1MVVsOURDekZXWF93MkhsdXVSX294YVg1N21RRGF5NXNZbUhPbEdJczF5Q1pnU2NMcHNNLVNQWW91NVJUYXk1RzE?oc=5",
       "featured": false
     },
     {
@@ -699,18 +687,6 @@
       "featured": false
     },
     {
-      "title": "Davenport sheriff's office substation to hold grand opening - KSBW",
-      "city": "Davenport",
-      "category": "Commercial",
-      "status": "Grand Opening",
-      "date": "Feb 09, 2026",
-      "summary": "Davenport sheriff's office substation to hold grand opening KSBW",
-      "source": "KSBW",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0RjTndyb1FwZjR3ejdEVEtVQzBEWWJOMVEwNU14MWNVWnBnV1p4OVlLSjhNaWxhMlFZcDVtR3FSakM1X3ZHXzVKNDJwQXA0R2pUUnA5LV9GNkVZMTNOTl9Zc2g5d19MQ09wRGFLZk5XQ3dGZXRUakRSZDVkSzU2QnRHbw?oc=5",
-      "featured": false
-    },
-    {
       "title": "New Bix Museum Location to Hold Grand Opening Friday in Davenport - QuadCities.com",
       "city": "Davenport",
       "category": "Development",
@@ -732,6 +708,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEdlTjFOUnJSaXAwUFVnRnZfNFU5dXpMTi1RQkR2TVVHenBMaVVBQzJBMzB3SktycnFXX2l2T3kyX2Zmc0duQ0p2bWVVWXdmaHVMaWMxNzZUdnI5cVdQWm1NZHYzY0djYVJBd2dsenN3NEJRamVBTHZaN0FORkxTaXV4dmNieGVIekVPWkNXNGJOanhzY2cyV01qRDVlVHFpNUMyUA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Apr 03, 2026",
+      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
+      "source": "News-Herald",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
       "featured": false
     },
     {
@@ -795,18 +783,6 @@
       "featured": false
     },
     {
-      "title": "Lakeland Community College to host grand opening of WAVE center - News-Herald",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Apr 03, 2026",
-      "summary": "Lakeland Community College to host grand opening of WAVE center News-Herald",
-      "source": "News-Herald",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdER3WEo2R1hQUmJIM3ZPQjBUM2s4VVROMVNGVzVVMjh5MEpyRS1JZHotYWhkd0ZCZDRfQVR4Q2x4U0pHOTJYeUV2TXR6b3ZpS21GTGg4dlgtbDlOaFNDNUJNLWVRVkpycm1MT0Y4dnhQUmREZWhEeEVXRGc1UkRhblUyYVU5VFJDcXp6REtlTjVDZUVCNUJINjRlUkZfcFVYUW43SUxR?oc=5",
-      "featured": false
-    },
-    {
       "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
       "city": "Davenport",
       "category": "Restaurant",
@@ -840,6 +816,18 @@
       "source": "OurQuadCities",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport - Dispatch Argus",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Sep 18, 2026",
+      "summary": "Ignite Pilates & Wellness Studio grand opening Saturday in Davenport Dispatch Argus",
+      "source": "Dispatch Argus",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXy1EaUdUWExhdDAwM3FSYlQyN0pRZVZfa1NmdU94bzM4d2lUUTI2bktPYXl1RzlsTW9RcF9zMk5wczFpMHhyRTcyNGdraERKbGZDek5ONFBieDVHRVRMb20xZjZtYmp6MEh4akZUUjlSSUNDaG9EWElBVHVTQUgwNHZ0X1h4MXlITEFnV1ZSY1c1NzRVdlNJdmZWQlhENUZmYjVRZlJoOA?oc=5",
       "featured": false
     },
     {
@@ -1035,18 +1023,6 @@
       "featured": false
     },
     {
-      "title": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Coming Soon",
-      "date": "Mar 16, 2005",
-      "summary": "Developer Details Retail Outlets, Road Improvements Coming Soon to Poinciana Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3Y1ekpicHp0ZWh6U25FcW5QVkdPdWtWc0YxY0VvaXp2aXd4M1FhT1U5VjFaemVjUGxpVTh3Rk9ib09LR2liMTB4dWlkS2xiS1NYeWIwUXB2ejliVWt1UUNLaTNpNG1mTnZQZVVlaWFzeTQ3ejRvVWdGbmItNWxpZ0lDcUFvdkE4blFlTDZDNWQtQ1hPNkpXNnFmVzU5WTI4RDE0N3d3Y0tzSGJDVkdZRkIxZWtnOHVhR0JQREFQLVptcFBLZnNUU0xEQ1VmWEMyMUE?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County commissioners to consider 242-home subdivision in rural Kathleen - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Housing",
@@ -1080,6 +1056,30 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFI0V01PQjRWOS10M0dTSDZ3U1hEREkzZGprV1VaUTB1S3BMb0lwenJ3SUNuOGhfX2p5czNrWmhhaDU3NVAta2xLTDU0eEgzWEk0S3JPVFRzMWtHaEduX0s3UXhaMl9mNld4b1kzZjNBSkVXU0w5RjkyOWhEUlVua0ZRRGZyUm5hZlJmY25PV1RjRjczTUFWcm1uY2RiQ1EtQ1o0MklycEFqR1ZkTE1NZi1hZ0t2OHpLdktQU2dndDI4UmZtdVpCRFE2b0lNS0J6OGw5dGpWUXlJejVWMktkQ1UtNkU0Y0Y5UGsxcDBFazZyS3M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Mar 10, 2004",
+      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Lakeland Approves Shipping Containers for Housing, Small Businesses - LkldNow",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Oct 18, 2021",
+      "summary": "Lakeland Approves Shipping Containers for Housing, Small Businesses LkldNow",
+      "source": "LkldNow",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmstMkhYR0dOUXpqRjU0YUt0T0gwOS1ubTRsMGxibFRGNGtkRE1jaTZmQTZIc2FLQ09UTGVCRURiT01IX2k5d0gta3Q0MjNQU1JseTZHQzFUdnVvclZHVF9QOFA4WEpvVWZjdnNSMGpKX2dObzZya2J1Nk02Y0R3Q25XZE1mMmplQ2I1RkRWbVB0WWdkM3c?oc=5",
       "featured": false
     }
   ]
