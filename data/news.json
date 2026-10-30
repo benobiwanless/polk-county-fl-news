@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-30 09:29 UTC",
+  "last_updated": "2026-10-30 16:08 UTC",
   "feed_mode": "live-expanded",
   "items": [
+    {
+      "title": "Spectrum Launches High-Speed Internet to More Than 10,000 Homes and Small Businesses in Polk County, Florida - Charter Communications",
+      "city": "Polk County",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Sep 28, 2026",
+      "summary": "Spectrum Launches High-Speed Internet to More Than 10,000 Homes and Small Businesses in Polk County, Florida Charter Communications",
+      "source": "Charter Communications",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUN0d3NZOXJjSkxBVDhvU1A3SXZFYXVfdEEyNVl3VEdfVWRicTNtby1ZYlBYbk0tUkRkM3JIdFg0TlIyUHpfMmdUNE1DcHVCelFMWDg3aWxwaUpNUkVkS2ctV1ZtWmxGNGpmQl80bzhyODRqdnU2Y21xZXY2Zzdnb0ZwYkp6Mm1Nd0RhZzlkWUlDZ3ZwRnpFTjFRcEp4dTl2S3RQOA?oc=5",
+      "featured": false
+    },
     {
       "title": "Developer appeals to get Kathleen subdivision approved | Exclusive - Lakeland Ledger",
       "city": "Lakeland",
@@ -12,6 +24,54 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVy1TMUs5MkdSb2k4Si1LVmo4VkhNYUJEeElMSWU4Vy1TaVYzeHFCbXlrRm1KdU82Y0tVbHA3NXVnOWw0UkY4TkNweTUtLUlXNklBZEtXS0pKSGh0Q2MzYmFBdmVnSHBzT1RyQ2lzRHZTS3g0SzBULW9BNVZ6N2ZFYUlDRHhqbzR1aEMxelR1Y0I0YWEybXV4bW1wcTBXVTJPdm1UYjZGMlF6WkdwOURNUW1Mckdqa0t2Ym5CN1psVkFRUlA3ZjI1U0ZXUDRuRE90Q1RMU0xlMEFlTkxDVUY2V3Vvc0tXY19VSF9neWN4Rnl3RDlESlE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk site once approved for large development might now be preserved - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Approved",
+      "date": "Sep 26, 2026",
+      "summary": "Polk site once approved for large development might now be preserved Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR3NGcnZqZTdLZnI2SnFqNmJiZFZjQkNtcXBTeEFOdW1PNnNSTVg5VDRvb2xoUkt4Nk1qXzZzajE1amtfbExrSmk1Ynk5RHFvRnEyX21hNHg4WlAzMUpFRGhRdlhDejlqdXpZdmJCd2x1eUY0ZDlpSzF4WTNEVGVnYWFmMVh1bDZyRTlONlBZWHJmdDMzNmREX1ZJNXhDYnFFemlyQmRZRTNTalU1ZnFrYTg4RXJ0MTZPdE5UdmRHU3JVcnlpRThpbVRXNDZYa1UtaE1yYXFUYnlZZUhUQ0dtQ3FOYWxjR0xkVDY0ek5nZG8?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County planning board denies 3rd bid for Deeson Road development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Approved",
+      "date": "Jun 04, 2026",
+      "summary": "Polk County planning board denies 3rd bid for Deeson Road development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNVM1ajhfR01tc29jYjUySEFkLW9TaV8waWFjLWpXRG54empib09QZm1YeXoxcFNlZ1J4cVhVcEg3TklETDlOcmJTQ3lONWExVml4TWM1ZnFtNFgzQUFGYjUxbnh2YlJxazdyWS1FX201NUFJbUZKV2JPWTV2MXp1NFZpVUhUSFFlei14YzIxaXU2SWNXRmljOTlSaENpSkZVTG83MzRTU3pUb3Zaa2VYOEp2aldpTEhZMXlRNmR0WkVDWVY5dzd2b0Rfc3dMbXozMndFUnUxRTlIMHpfeHFOVlF4bEJOcnZQS3Q0Yk9CeFo4bGVxNzk3UTR5Q2Vyb0RrQXBYWmtOaw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "More details emerge on East Polk toll road, including interchanges - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Update",
+      "date": "Aug 31, 2026",
+      "summary": "More details emerge on East Polk toll road, including interchanges Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWlZlTnR1QTVwOEViN2FJYi11U3ZGdExLRC1DNE0wQlFjeU1FOWRSQzFTZ3JWTHpISzFXU3Z4R2hLUzYtUUJORjVkSkxKZWhlbFhkTjQyaW1Jbl9TaW9idDkzdEZBQjZLZmhVS1h5TVZtWjE4d0w5TWloU3hKZV9OX2wwdm5aUFVmX1hDb2FydlcwMEtJLXlPTlljT0RRdWVaRFdfd0ZjcVE3SjdnNHZxMjlsTTN3aEdGSGljY0RlV0g3azYtbHNlYlJJLUR4bFJnLVhPMWhhTzEtRXZGa2t4QXE1TFVGQjA5UlVV?oc=5",
+      "featured": false
+    },
+    {
+      "title": "In Polk, DeSantis touts Florida as leader in 'flying-car' development - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Update",
+      "date": "Aug 10, 2026",
+      "summary": "In Polk, DeSantis touts Florida as leader in 'flying-car' development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGFvOXVXZ2Vtd29qamtuZlNVaXVKOW1qc1lyU2JBVHVINUtJWmhjdFBHUDRrWU0tWnBOWXA0bmo5S0t4N0hSc2F4bkEzM0xqeERDaGZnTFFkYXl6Y3RaZmhVWmM2X2tKb0h6LTRFdjJhdy1PYzV1MS05X1pnTFJZNGQ2VjFsbFN6VGJDbkdGd2VIYmQtWlJhZnIySnZHaFBTb3MyU1RFR0kwdk9rOG9hOEV0amlOaTNnUDQ2WGs1TFluR3Rwc2hSYkJYTmxNOGh5N0tiX3FSano3dkNrRWc?oc=5",
       "featured": false
     },
     {
@@ -27,51 +87,15 @@
       "featured": false
     },
     {
-      "title": "Clash of Visions: Lakeland and Auburndale at Odds Over Proposed Warehouse Near Florida Poly - LkldNow",
-      "city": "Auburndale",
-      "category": "Commercial",
-      "status": "Coming Soon",
-      "date": "Dec 07, 2023",
-      "summary": "Clash of Visions: Lakeland and Auburndale at Odds Over Proposed Warehouse Near Florida Poly LkldNow",
-      "source": "LkldNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2dFQzhKNkNsNjd5Q3IybXdSVF9fd2w2dmVvZzRfMU9QRVlmX2hfNVcwVV9zTk5tUW05MmNhc25MSVdRaEl6NEl0VmJRa1JWR2tlMTUtaWZWMU1BMEtVN3FaM2NkZFdzOEY5QlpVQ2dpdGh3Q2wzZzJvbEV3VUdsZkl0TnpZTGROMVBQSERVLTlfR05zMU9MdV83SWJZUlVvY29kQ1g5T1k4WnZYTjlYaXJreV9idw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "4.4 million sq ft data center campus gets zoning approval in Fort Meade, Florida - Data Center Dynamics",
-      "city": "Fort Meade",
+      "title": "Jersey Shore University Medical Center Foundation Names Keely Davenport as Executive Director of Development - Hackensack Meridian Health",
+      "city": "Davenport",
       "category": "Development",
       "status": "Update",
-      "date": "Jun 17, 2025",
-      "summary": "4.4 million sq ft data center campus gets zoning approval in Fort Meade, Florida Data Center Dynamics",
-      "source": "Data Center Dynamics",
+      "date": "Oct 27, 2026",
+      "summary": "Jersey Shore University Medical Center Foundation Names Keely Davenport as Executive Director of Development Hackensack Meridian Health",
+      "source": "Hackensack Meridian Health",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWlxaFJKeUI3ZTdxaE9Ld3BHNmEzRFFZS2RTQlZOSExqUXE1VUpUSEtIVm1FcXJOR25QdVliME9QaWRDbzdVcDEtMnFuYWFER3JPOVRyTFpWWTdxa01Sb1lHZUFpazR0MU1MbXZfWXkwMUdOdmpsT1FhUHB1OTZ5OS1BYjZmaC1rMHZiVUo5cmdlLXlVSjVwSHF3VVE0aktMclJZOE9mb3RDb2ZMUGgyLVBRQVp0TlpjN3AzUGp1Zw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Maya Lora: Mobile homes in Polk County are affordable yet controversial - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Sep 17, 2021",
-      "summary": "Maya Lora: Mobile homes in Polk County are affordable yet controversial Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZVR4S2JmYTV0emhrLXZQUXNnVExnMmw2WEdERDNTaUl3S1lSUEdQdk41Uk5KY3J3QVVZbDU3OWl2SVA2d3ZjRjNMR1BXR1BSZUhRaDBxbzdSYWRCRjM3ckIxQ00tODlvRVJZVk5RM294WW9tc2dwbm4yZ2tVYm04Qll4RHZOLURIN0N4YUw3eU9MNE5RdGIyMlUtUjViTTEtODlqMmFDZEZRZ1NpcWl1VGpDOW1iUVpKUFVBQ0xnZVYwRGY0QjVoY3pZUWxGSkhrdEE2VFN4Yw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Report: Publix Buys 10-Acre Plot of Property in Polk County - Florida Daily",
-      "city": "Polk County",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Jun 02, 2025",
-      "summary": "Report: Publix Buys 10-Acre Plot of Property in Polk County Florida Daily",
-      "source": "Florida Daily",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTJUOENQb3JzVW9CZEhOUEtwSzBWVnFPRkVicXJfcU1qaGZZcU1GYktWdkZSa0Z2VmdIclRjTnZEMVVFZnhiaXFPYy1FTHNOZmFaSjNmZ19hdGl1cjBudWlKUTVXSHZVZTJvODdRXzJibkJESGdCTC1fUERVX1VoV05oWl9pdHFzZWlXVw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkRjR2k5bkdUYnBQWng3c19TUFp4SC1wMUZTWk5wQTV2eG1kcGhLOVF6dmJrMzgyQ0R2dG1YZTkxY2VhUVR2S0pwcFRYRTRTOG90OXJqSnF4ZXBGNWlFcDNfVFltWmdoV2hjX0t1bzI2TDFORTB6Ri1CdlRfanpaZDk2M3hGbl9ZeW9KYjNqMDR0S3drbE40LXBCTDNmRmNUSFVHd1hTYlM0dHFOOXhyWXRtMEtWWGZNSjVEYUNyV2hGem5wX3psX1pCWHJLeDNZ?oc=5",
       "featured": false
     },
     {
@@ -87,18 +111,6 @@
       "featured": false
     },
     {
-      "title": "Jersey Shore University Medical Center Foundation Names Keely Davenport as Executive Director of Development - Hackensack Meridian Health",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Update",
-      "date": "Oct 27, 2026",
-      "summary": "Jersey Shore University Medical Center Foundation Names Keely Davenport as Executive Director of Development Hackensack Meridian Health",
-      "source": "Hackensack Meridian Health",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkRjR2k5bkdUYnBQWng3c19TUFp4SC1wMUZTWk5wQTV2eG1kcGhLOVF6dmJrMzgyQ0R2dG1YZTkxY2VhUVR2S0pwcFRYRTRTOG90OXJqSnF4ZXBGNWlFcDNfVFltWmdoV2hjX0t1bzI2TDFORTB6Ri1CdlRfanpaZDk2M3hGbl9ZeW9KYjNqMDR0S3drbE40LXBCTDNmRmNUSFVHd1hTYlM0dHFOOXhyWXRtMEtWWGZNSjVEYUNyV2hGem5wX3psX1pCWHJLeDNZ?oc=5",
-      "featured": false
-    },
-    {
       "title": "New affordable senior housing complex Timber Ridge opens in Davenport - The Quad-City Times",
       "city": "Davenport",
       "category": "Housing",
@@ -108,18 +120,6 @@
       "source": "The Quad-City Times",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnpKSWN1d1NIbmhlbDMxdFJoQlp5UHVQeFNHWE1WYVVpR1pZRGNDSlh4MUUtT3V0S1NrMlA1Sng5X1g0LVpUaFdWd2I0dFE3NjZLMmVuWm5LYlhTbjFUc2lCQTRBeHdBaDFDa2RoSkxlNDRnd2hsbTFkZEprcXZkOXo0Z1lsRDZHTXpuSm96VVVCZk53X3lTNl9hYUk5LXNzNXc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Timber Ridge, first affordable housing development in Davenport, to open - Dispatch Argus",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Oct 29, 2026",
-      "summary": "Timber Ridge, first affordable housing development in Davenport, to open Dispatch Argus",
-      "source": "Dispatch Argus",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVM5Z3VEaUc0a0Y0Qi1ZNHQtTllTMnN6elcyLTdwaHgxQk81MkFJMnlZM2g0b2tXeEV0bUtINm9seGxDVUdPYkNrWVZpVDZYS0paSEd5bGpxSDc2aW9wODVmVEFXMzhsX0NsWU5LczU5SDZEeVpzajFteVdkSngwRHRoNDN6RzhWR3MteE9BTjdUVDlOZm9rSDE1RWc5bnRTb2VLMw?oc=5",
       "featured": false
     },
     {
@@ -147,18 +147,6 @@
       "featured": false
     },
     {
-      "title": "Timber Ridge Apartments senior housing dedicated in Davenport – WHBF - OurQuadCities",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Oct 28, 2026",
-      "summary": "Timber Ridge Apartments senior housing dedicated in Davenport – WHBF OurQuadCities",
-      "source": "OurQuadCities",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk5TVnYxWHljOGI3UnlCcXJrVXoyNUZpeWVKTFFtSGFieFRPZ3BhM0Rwems0UEw1LUhNbTBJYWpvY1VhVU1JSjRZeUxuQzh4MUUyLUJvbHRrYW1MTDJncWo4Ynp1TFBqX2tSelctRjZ4NTd0b01xa2hKNzgtcFh6WEd3RkpSbWVYOGZLMFBPTWNJcGMyN3VEVUJqZDlwdkk1UjU3QzVTWVRNc28?oc=5",
-      "featured": false
-    },
-    {
       "title": "Affordable housing for seniors opens in Davenport - WQAD",
       "city": "Davenport",
       "category": "Housing",
@@ -171,6 +159,30 @@
       "featured": false
     },
     {
+      "title": "Timber Ridge Apartments senior housing dedicated in Davenport – WHBF - OurQuadCities",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Oct 28, 2026",
+      "summary": "Timber Ridge Apartments senior housing dedicated in Davenport – WHBF OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk5TVnYxWHljOGI3UnlCcXJrVXoyNUZpeWVKTFFtSGFieFRPZ3BhM0Rwems0UEw1LUhNbTBJYWpvY1VhVU1JSjRZeUxuQzh4MUUyLUJvbHRrYW1MTDJncWo4Ynp1TFBqX2tSelctRjZ4NTd0b01xa2hKNzgtcFh6WEd3RkpSbWVYOGZLMFBPTWNJcGMyN3VEVUJqZDlwdkk1UjU3QzVTWVRNc28?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Timber Ridge, first affordable housing development in Davenport, to open - Dispatch Argus",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Oct 29, 2026",
+      "summary": "Timber Ridge, first affordable housing development in Davenport, to open Dispatch Argus",
+      "source": "Dispatch Argus",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVM5Z3VEaUc0a0Y0Qi1ZNHQtTllTMnN6elcyLTdwaHgxQk81MkFJMnlZM2g0b2tXeEV0bUtINm9seGxDVUdPYkNrWVZpVDZYS0paSEd5bGpxSDc2aW9wODVmVEFXMzhsX0NsWU5LczU5SDZEeVpzajFteVdkSngwRHRoNDN6RzhWR3MteE9BTjdUVDlOZm9rSDE1RWc5bnRTb2VLMw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Jersey Shore University Medical Center Foundation Names Keely Davenport as Executive Director of Development | Newswise - Newswise",
       "city": "Davenport",
       "category": "Development",
@@ -180,18 +192,6 @@
       "source": "Newswise",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSE9jSEpNelRLbHZReE1sWGxPZGR6MzJNaEFsMXBVTGNSZ0RaeXlLOTFsZTZMV01kRHN1Q0QyWXN3Ti0yNThEOHJUZFNyUVlTSDU1QWpPTnVQTWt5ZDk4ZExvRVVjOUJHMjQtUUJ1bGFqZlRVU25PTEFIUFNfQ3A5VC1aY05TeFpzY3hpYzF2bWo0cDh5WlBUSUZwZE5YNW9IU09kc3EteXFvODVlZnJjLWN0UURleDJETTYtNzNCWWNVSjNzYjNtVG13eTd2bUg4NW92eDJQckQ2UdIB2gFBVV95cUxPSE9jSEpNelRLbHZReE1sWGxPZGR6MzJNaEFsMXBVTGNSZ0RaeXlLOTFsZTZMV01kRHN1Q0QyWXN3Ti0yNThEOHJUZFNyUVlTSDU1QWpPTnVQTWt5ZDk4ZExvRVVjOUJHMjQtUUJ1bGFqZlRVU25PTEFIUFNfQ3A5VC1aY05TeFpzY3hpYzF2bWo0cDh5WlBUSUZwZE5YNW9IU09kc3EteXFvODVlZnJjLWN0UURleDJETTYtNzNCWWNVSjNzYjNtVG13eTd2bUg4NW92eDJQckQ2UQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Haines City’s $36 million affordable senior housing community nears completion - Bay News 9",
-      "city": "Haines City",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Oct 23, 2026",
-      "summary": "Haines City’s $36 million affordable senior housing community nears completion Bay News 9",
-      "source": "Bay News 9",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGVUdWo2YTA0Y2NlUnpIdE1JUWkxOWRLcFZzeHBMWWYxQ2xpSTl5NWlHTFhSNy1DTE1VdWtnRktGZXVNS004WkhwRmN3WUxPaW1JUnQ2X1VULVpYZjFqUjlnUEtGX00xTXJOWWZKa3d2WXN1X053QWw4RFVtWk1yRUZkOUkyaDc5NmlFT1g4N2NYdVRSem1yeXdoZFNnNEd0RlY4QXA0QmZDR21CU21WZ29PaUN2OGk4NDBwWA?oc=5",
       "featured": false
     },
     {
@@ -215,7 +215,19 @@
       "summary": "New affordable senior housing community opens in Davenport Yahoo",
       "source": "Yahoo",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0VKTVlJRFVpdFFYOXNQWUxra1hmX0lFa2RBMTRIeTZrRG5tQi1qQ010NEs2eVFtMU1GWGotME5zdVg1Ti10elYwOXBETThNa240blpWWEdRUDF0YjNiZENHTEhMekg0RXhBajg0aHRtcXdDUWd4MkdGWGh5aGc0U3JrZ0RhNkZLSWdadE5jVVd6NHcyUFd0NDBXbw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMW92YjJCMFhqWDAwR3lEX3BZY2Y5RWVOalBEMXgtQlI0NDJJZ3NuSURvanNObXZKZ0tBcXlzSFZDQWNPVUJxbjV4alZ5dE5IM19xV2N0MzhiRGlvVWJVVGdHdFlHcWlPek1fTGZWQzl6LU5wYmdWYnNaOEp5Y2ROYWlnUnVfWENFN1RTWjJVbmZ0NDB5UG9VMkxQRQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Haines City’s $36 million affordable senior housing community nears completion - Bay News 9",
+      "city": "Haines City",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Oct 23, 2026",
+      "summary": "Haines City’s $36 million affordable senior housing community nears completion Bay News 9",
+      "source": "Bay News 9",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGVUdWo2YTA0Y2NlUnpIdE1JUWkxOWRLcFZzeHBMWWYxQ2xpSTl5NWlHTFhSNy1DTE1VdWtnRktGZXVNS004WkhwRmN3WUxPaW1JUnQ2X1VULVpYZjFqUjlnUEtGX00xTXJOWWZKa3d2WXN1X053QWw4RFVtWk1yRUZkOUkyaDc5NmlFT1g4N2NYdVRSem1yeXdoZFNnNEd0RlY4QXA0QmZDR21CU21WZ29PaUN2OGk4NDBwWA?oc=5",
       "featured": false
     },
     {
@@ -243,18 +255,6 @@
       "featured": false
     },
     {
-      "title": "New affordable senior housing complex Timber Ridge opens in Davenport - Dispatch Argus",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Oct 29, 2026",
-      "summary": "New affordable senior housing complex Timber Ridge opens in Davenport Dispatch Argus",
-      "source": "Dispatch Argus",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUTl0TC1qRm81ODhlMnFkYzIxM2hSMkI2M2p3d2VvZzcwQXZQM3A0SjVWU241dVlRSF9sa3VoSkFGVmpmWVV6WnZGYkRYbUFEeUpiS2RjQlVqc1JaR1c4TGhtSEZ5RmFDSWFDY3ExVTB0ZGhfV0NyZ2xPNFFfUjlrQmJ0NU5uYXVCMmpYQmFZTXliRFIzWDlHaXRma2l6NElLOVBz?oc=5",
-      "featured": false
-    },
-    {
       "title": "Davenport Hotel's Peacock Lounge closes Oct. 26 for renovations - NonStop Local KHQ",
       "city": "Davenport",
       "category": "Hotel",
@@ -279,18 +279,6 @@
       "featured": false
     },
     {
-      "title": "Timber Ridge Apartments senior housing dedicated in Davenport - AOL.com",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Oct 28, 2026",
-      "summary": "Timber Ridge Apartments senior housing dedicated in Davenport AOL.com",
-      "source": "AOL.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDFOeEFzZ0tzUHBCbEQ3MDNHNVdHSEVQdTgxOHlDZEpZU0hGU21zaDFCbU8yRlQ3RkNOajRjZHp3MGRuWm1XenVldUJ6Z05aeUlEMUJ5UXhqTEp2djhibFA3a0VGWTRwU1hsXzVWbkJDbG12emlUQlY0NDZRNzBmVDhhN1VCNmpNR2c?oc=5",
-      "featured": false
-    },
-    {
       "title": "Health care, housing, wages: Josh Turek outlines campaign goals at Davenport rally - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -312,6 +300,18 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1NGTG5mbFk5SDRNNk1hUzhQTkg5dUJlS0lPUmhRYXRvX0J6VGxWZXk1N2UzVlB1ZUo1RU9Cdi1uaWFidzNzS0R4aDdmcWlEVDFZQnJnYkozZE4ta1BibkR0R0YxSktXU2dRV2QwRjFJV002M3RDRWJnRkJXNGY3dFBMLTBJZzBmMHNqSTBXSm1DeGlpSkx2emNWdkVRWnFleXp5MWJwSTl3Vkp0eGlpREV3ellJVW1M0gHMAUFVX3lxTE00OWlBR180ZHFiUEZvTGRKTTgwWkF2TGhKMkw3Vkdnb2xjdTROdEpxLU1CdDNBOEd1WjFEM3oxWEUyUUZ1YlJtcHo4UlZZakJjMlJKeEJEZ1g4d0liV3czTU5lNXRTeHptNlUzQ1hJblU1dE81UVAtQ1ZMRGNoZmdaX0NYclJZSlNBSVI0djhYNXdtWXpiR3NNVEJYRXdjaFlWNEpPUDZzTmVKYWtQd0J4dFBlcjZlSS1kXzJHal84UDFBRkN0WXZlcWZyNw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Timber Ridge Apartments senior housing dedicated in Davenport - AOL.com",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Oct 28, 2026",
+      "summary": "Timber Ridge Apartments senior housing dedicated in Davenport AOL.com",
+      "source": "AOL.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDFOeEFzZ0tzUHBCbEQ3MDNHNVdHSEVQdTgxOHlDZEpZU0hGU21zaDFCbU8yRlQ3RkNOajRjZHp3MGRuWm1XenVldUJ6Z05aeUlEMUJ5UXhqTEp2djhibFA3a0VGWTRwU1hsXzVWbkJDbG12emlUQlY0NDZRNzBmVDhhN1VCNmpNR2c?oc=5",
       "featured": false
     },
     {
@@ -399,18 +399,6 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 12, 2025",
-      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
-      "source": "wtsp.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
       "city": "Polk County",
       "category": "Development",
@@ -420,6 +408,18 @@
       "source": "DrydenWire.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 12, 2025",
+      "summary": "Polk County Public Schools begin planning for new high school rezoning wtsp.com",
+      "source": "wtsp.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdU5DWTNkVXVxR2s1ZTc4ZW1TRUE1ZDhqZHZxSWlGOFpOYUNzc0tSWENXbWZCb3ktVHZjSVZ3S0RsRld4TUhIdV90ZmFPQkxDUWZvNnlsR1pDUTBOYXFfNllSZWRBUnFNQ0c1RXpLX2YtdDRpaGszNjZQRUJseGQtWlpPU2VhUTRlZFhpNFRVTnhhWk9wTm0xR2diSi1WSWoySHJYQ2pFMzl6TE5yWDN6Q3dNM3dod2FrSjFiY3lKR1Y5TjZuR3J5OG9wUWxLZ09tekpQMXJ1aGhNcjQ?oc=5",
       "featured": false
     },
     {
@@ -507,30 +507,6 @@
       "featured": false
     },
     {
-      "title": "Polk County Supervisors approve rezoning request for The Family Leader's campus - KCCI",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Coming Soon",
-      "date": "Feb 07, 2023",
-      "summary": "Polk County Supervisors approve rezoning request for The Family Leader's campus KCCI",
-      "source": "KCCI",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDlZa28zMzllajROazN0YXpBQWNDOXc4dWQ4c1V2QjBZVkpJMFZXb3NzU1RsU2d1ajl2ZXoxQVBBWnk4cGtOaWdHT2JHUmZVNXRmUlNSVUJjTGg0MU5HODJ4VzgwdlNSb3JRaWhITndMRnNlNmhvWFFLYlBrRXFtTHl0VnJMRUhnUS1rX0dTM3RieDdkd0ZNQkR1N1NaTERSbFNFbi1HY3ZaQ28?oc=5",
-      "featured": false
-    },
-    {
-      "title": "ImperiaLakes Golf Course rezoned, eligible to be developed into nearly 200 homes - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Oct 05, 2021",
-      "summary": "ImperiaLakes Golf Course rezoned, eligible to be developed into nearly 200 homes Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMmdFYkdHQlhiQm5WR2dBMTlTUUVZc3pUUnl3Umg0ZmxZa1Z2S3NEd3ZBOWNJQlhHSDljSmtzdHk1Vm44dnRvVWJyRERZQ2FxMUFwdVRrSzJrUWNCdDktNEl6T2dLOUo0eDdETnZ1WXdXYzZzc2hWN2RwVXRoZ2VHRjhDVUZSajF2WVhTbE1LcEthUU14YzlqQ0tFWUM3NlZUTlJCaVhVLXUxNlFWWWhucGYyVEF2U0tTeC1MWENCX0I3dFBGOFR4STRMV2V2WkR4aDlSQzZnVQ?oc=5",
-      "featured": false
-    },
-    {
       "title": "What's new and coming soon to Lakeland - 6AM City",
       "city": "Lakeland",
       "category": "Development",
@@ -540,54 +516,6 @@
       "source": "6AM City",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0YxSUEzYnRvX01ILWhLYnVzRE9xVTJKWVhlOFpyeGVfaTliNkFLdmNNdkV2eDNXWDQyQzF3ZGNGTGgtdFg1eHdTQ0pCVzNjQXp4N29hNXJBYWVsQjNNakUyYURRU1VEN0Q2ZGdwWHV0alVfUTM3WWhpT1RWRkVIekNOR2s?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
-      "city": "Lakeland",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "May 09, 2026",
-      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
-      "source": "6AM City",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Lakeland Park Center brings new shops, 200+ jobs to Polk County - 83 Degrees Media",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Update",
-      "date": "Sep 25, 2025",
-      "summary": "Lakeland Park Center brings new shops, 200+ jobs to Polk County 83 Degrees Media",
-      "source": "83 Degrees Media",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5NmpuQ1FfVE1nRkNFSjJuaHkwbUp4b2J0dzg3TDNlLXl5TXI5djhPOE1na01heXIxdEswODk4eE0zRkdjSjQ0MjJhaGRUMHJCaGJ1Vg?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Foxtail Coffee Co. at Work on Davenport Opening - WhatNow",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Grand Opening",
-      "date": "Aug 28, 2025",
-      "summary": "Foxtail Coffee Co. at Work on Davenport Opening WhatNow",
-      "source": "WhatNow",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTFSNlA4ckxrS2Yxb2FOOXlnQUh3d19UeGllbnlfS3dITTdINUo5TUdLd1NJUUJZMzFvRGFHeWpvOG9OeklQdW1TQ0RNNmtDRFhSdk1jblBycllIQndoZlgxcEdRWG1EdVFYcnJzcENQclVnWXRBLXZMUnJFOC1QbTNGWklzMTVRaEt6UVNn?oc=5",
-      "featured": false
-    },
-    {
-      "title": "$170 million Davenport resort breaks ground - FOX 13 Tampa Bay",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Under Construction",
-      "date": "Nov 15, 2023",
-      "summary": "$170 million Davenport resort breaks ground FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFxSzBiZHZ6ZmFGQ2xPeEc5RUxTNWhhVVV4MG9oZFltdzM4eWxVeExFQjhLb1hrSktpSGpkWTV4YVBuLTdNOFFSb3k0WDE1bkNpM2xRSS1UY1BoOV9leWt0V3l1aHBrMkRHM19ObVJ4U3RCdmo0ZEVjalUtbWZtbXlUdTk4N1lxNC0xSDRheUM0aDlhOWpQWDMxcUVvUklEU3kzWFBGRdIBrAFBVV95cUxNSndvTlN0NzgyMl9FSnI2aEF1QU9Rb0l1NFo4TUZFN0JpMlllaHNfZzB2ZGVCcURrNkFjUTBFaEtJY2N2UlQ4ZTd0cF9FODVIOEtzLU9HWUt2WFdKZzJfUEkyaU5NLUQ0VTJIUk85THhKTTFDWktGTHMyd3RtVWM4aWd5eHVoNzZ0dWltZjAwRlg1VnJ0QTRjY2owa1RMU3ZPQTRnc1ZkT2U5Q0Fp?oc=5",
       "featured": false
     },
     {
@@ -615,27 +543,75 @@
       "featured": false
     },
     {
-      "title": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Feb 16, 2026",
-      "summary": "Downtown Lakeland's new burger shop Grievous Angel kicks off with soft opening Lakeland Ledger",
-      "source": "Lakeland Ledger",
+      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Coming Soon",
+      "date": "May 30, 2026",
+      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
+      "source": "Business Debut",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTduLUlHQWlZWk9zQ1ZOZzZoSXVUY2NuQVBXMC1SUjB2bEpHdWlkei1lcHlzYVJFNXUxTm55dG1pcV9JWERQYU80WWp0NHJlMzdHZDlLa3ktOUZJcW41LWdWMG1ZR2RuTjIzTi1PaFo1VkNjUFpsV1VkcFc5X082dGpuZFlSY1F5RnI5eFRKRmF6RmltYjh5UGIxdHRpeEtjOHpyWWFYajhtSTlEZDQ3cUNPYWkza1B4bHNlckFHNldDT2p1eUtKUU1OakpZeUp6dmJjd3Jqdl9qbVpT?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
       "featured": false
     },
     {
-      "title": "10 years of Legoland: How the theme park helped save the Polk County tourism industry - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Update",
-      "date": "Oct 11, 2021",
-      "summary": "10 years of Legoland: How the theme park helped save the Polk County tourism industry Lakeland Ledger",
-      "source": "Lakeland Ledger",
+      "title": "3 Coming Soon Polk County Restaurants - Business Debut",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Coming Soon",
+      "date": "Aug 24, 2026",
+      "summary": "3 Coming Soon Polk County Restaurants Business Debut",
+      "source": "Business Debut",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOENtR05YUXhvTTNvbWxVUVFOY0VhcnFGWGRWbHk3b1p1Q0ZWR2JNM2Y0N3lZanlJSVBUdVE1YlNndGFYeU9Jb1JCRXYtUHZjbnNTSHZKbWhzOU5SMmVrX0k5alhWV3VCbVFmZVN3MkJrUGpudVlKMjdxdFdTT0FSczZOUnRDRGYtaG5sNkxKTkdBVi1ZbC1vc2VRcC1xOWpTLWZSMFJXdUowYk5ZdjJ2a1FNTlVJZXJUb29UemtqNkdVU1htRTk3bFZPMTJXVi1GZzJOTmJBcVM3NVRSenpQZXBMUnZOZUJEOHN4Y2dxYUNpTXdaV0pyYjZR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03UnBTc2NRZzIzcVAzS1c0VXNOX18tbFpfaTZsU0psbmlaTnRVaUo3MmZjSGowd214Y2pBTEFmWnBPTFJkVUhqRzBXYmRNdVVPU2pDSzM0WHRUbm5YOUxXOE1RT2Q1bEZObDdjcGhid2lRRjBUWUxF?oc=5",
+      "featured": false
+    },
+    {
+      "title": "6 Coming Soon Polk County Restaurants [April 10, 2026] - Business Debut",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Coming Soon",
+      "date": "Apr 10, 2026",
+      "summary": "6 Coming Soon Polk County Restaurants [April 10, 2026] Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcG41OHhja0JUQXYyRDdHVExTd0ExTkVrUjB0WDI0a1Q1VTJEemxtNEtEcGlvT2o3ZlZDcjRITlhXZTJCazBQS3U0RU1qZ1lIQzJhY2hVLTVVYVRMam5OVmZzSnBGVjR5MDk2RHdzNFJDUXlRTEJUZlJsM1lvZTVVNnhLVktscVlPcVE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) - Business Debut",
+      "city": "Auburndale",
+      "category": "Restaurant",
+      "status": "Grand Opening",
+      "date": "Jul 15, 2026",
+      "summary": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXFrdVlZaHltUEpicTMyYnJHU0hiYWQ5UWtEVUx3MkVLdDZDTE1yWmRTX0Y2S28welE5ZHVmVWJrbDd4dzkwLWplZkUxVUMzVE42c0J4Nl9EWWZ3Q1hyY183TmxjT3FHOGFLX2RQM1ZNRDFWZjlLUXZwOEtrZi13ZF9kOTN4ZE1oWmlYRlhfQjQtc1RXVHZLa0VxRQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "5 Coming Soon Polk County Restaurants - Business Debut",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Coming Soon",
+      "date": "Nov 26, 2025",
+      "summary": "5 Coming Soon Polk County Restaurants Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KX1BOdno3MnhwNENJVlBfRlBRWUpKYnBrQ3loVUFWb3J0X0JxSE9pVnRUSEdEcllkTmMzZDJaeFU4bkE2dGxVc21LbURCOFcwWFhJUHM1NWJvTUpFWVBadFlza0RaVlpOTmpvR215Wmk4ZHFiMzBr?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Downtown Winter Haven Restaurant Relocating After 26 Years - Business Debut",
+      "city": "Winter Haven",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Feb 23, 2026",
+      "summary": "Downtown Winter Haven Restaurant Relocating After 26 Years Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjUxbVN6V3EybU11U1ZLX181LWR3Ykh1QUpaVE4wdnpvY3UzUU45UzE2WjZTaUNfdW5nWnM1aFowVmVPWFF2aWMyajFoVXhIYTZWZzhQQWFpMjlRbmRNaWplNDdtMUFaQXRMWmVfVXJpR29vSUx6X3hOVll4Sk1Rc3ZvdG5hRnFSZlVkcUNHcDVRYkk?oc=5",
       "featured": false
     },
     {
@@ -648,18 +624,6 @@
       "source": "The Quad-City Times",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZOVl5M0t6VEU5d0xCbVNva1N5bEhxSFNnMV9KT0lTcEV4bW84Zl94WWpiTUYtSmg2SUpKMXNGYWpDdGIwWDVtLTBEV2h2RkZ6ZkpZVTl2aGd1eHA4eUpHV2lpVG5iWU54cjJjRkUtZ1FUa2Vhc3dlWGQtSno?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Timber Ridge, first affordable housing development in Davenport, grand opening Wednesday - Muscatine Journal",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Grand Opening",
-      "date": "Oct 25, 2026",
-      "summary": "Timber Ridge, first affordable housing development in Davenport, grand opening Wednesday Muscatine Journal",
-      "source": "Muscatine Journal",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3lDUDN1WENyMENyYVpJN3R1elA2U203RUdEdENtYllVNlFjRGtHcDhrUHFzcnlYRHZ5QjZEX3VwLThBemZGNWt6U1VockZXXzhfaFYxclZJdTE0a3dieWxjZlFncGx2bUJFRmtudldBYXEybjVxSUU5M2dCdkY0V0lkVXVkaTFlR2Vfd0RfNWNBQXlMSVp3RWlkTHl4S2pvOUZ2dFAtYnk3SWY3QVk4?oc=5",
       "featured": false
     },
     {
@@ -807,6 +771,18 @@
       "featured": false
     },
     {
+      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 09, 2026",
+      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
+      "source": "Douglas Now",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
+      "featured": false
+    },
+    {
       "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
       "city": "Davenport",
       "category": "Development",
@@ -831,15 +807,15 @@
       "featured": false
     },
     {
-      "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
+      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
       "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Feb 09, 2026",
-      "summary": "Highway 221/SR 31 between Pearson and Lakeland is now open Douglas Now",
-      "source": "Douglas Now",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "May 09, 2026",
+      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
+      "source": "6AM City",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0pGTUExYmV4Snh5NXJ3bjZvZ1pLV0wxTldDcTV4MDBUUkgwb0NtU3BaeGltNUQwOTJBdTlCNmtqSUo0Z01JUko1b2lxcExPbzdTR2psTGNRZlBvd01MaXZmQmFxR1I2bnBWRzNqZVJWVThPd2Y0ZGlxQ0dyeDMwZWN0M1Vzb3d2cnc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
       "featured": false
     },
     {
@@ -900,6 +876,18 @@
       "source": "TransWorld SKATEboarding",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0tqaU9mcmllVWZ2MUJ4OXREVmppRXU2bjJ5aGhhQ1RkbE9hWEUzeHNMdHJhdXRkZ053d2xTckU1emUzdzBMcldLazdvak5OZzdnZmNMNHM3WHg2bmRvZHlkOXhCMEVVTHM3UnJwTzl0TWNpa2VzTTZaNU9rNTh2MlRsR256a0ZnaUZKQXJjZEdxdC1fSDNpLUIxYjU0YjJzTUFOdEVObmFlcEM2cmxmbE44em16dw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Bob's Discount Furniture celebrates grand opening in Davenport with donations - WQAD",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Feb 15, 2025",
+      "summary": "Bob's Discount Furniture celebrates grand opening in Davenport with donations WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVNESEt1RWtudnoxY1A0M1ZWbEVPendCZEhfYWlyS0RyOG96QWVuWHh4dVVJeGlPVWV6Q3VNT2pKNEVXTmdud0VlRHFwZFpuOS1idXMxNmNONVFWN1lQamxrMkFDWkFNSnNTT0FkVUhqV2w4N1p2SFdzMUZkOFJkUmdCRkxnLXdMa2FUNGVCbGJHamEyM1N4OHBNTm51d0k2SHpQbG9JN1Zqei1sak00dkNaOXA?oc=5",
       "featured": false
     },
     {
@@ -1080,6 +1068,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFI0V01PQjRWOS10M0dTSDZ3U1hEREkzZGprV1VaUTB1S3BMb0lwenJ3SUNuOGhfX2p5czNrWmhhaDU3NVAta2xLTDU0eEgzWEk0S3JPVFRzMWtHaEduX0s3UXhaMl9mNld4b1kzZjNBSkVXU0w5RjkyOWhEUlVua0ZRRGZyUm5hZlJmY25PV1RjRjczTUFWcm1uY2RiQ1EtQ1o0MklycEFqR1ZkTE1NZi1hZ0t2OHpLdktQU2dndDI4UmZtdVpCRFE2b0lNS0J6OGw5dGpWUXlJejVWMktkQ1UtNkU0Y0Y5UGsxcDBFazZyS3M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Bartow rejects massive 2,245-home Emilie development - Lakeland Ledger",
+      "city": "Bartow",
+      "category": "Development",
+      "status": "Update",
+      "date": "Mar 03, 2026",
+      "summary": "Bartow rejects massive 2,245-home Emilie development Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdlVSS25ka2ZlZXo1YlhwSloyR3NPOUlUZ1h3ck1XenVkZUx3ZHZWX0x3TWp6MU1GOWNwX09zazFfMFA1T1BDSUJRa3dYdkFuLUtYeXhfelAwSVNLUXlxakEzc3RGZmRuWVJjV1VpbnJ3S2RnWmJOM2d6eTUtaFNEYWJuWXV4V1cwU0ZxQjE2NjBsS1ZjMUdnMkpjQlBMV3pwVnFMMEZjUTh2Wjh6YnhuZDA2c0Zvd1FRejltTVN4OUpjR0luRzkwUEJ6ODh5cEJqcEFfZ2J1c1FjZmhlX0thLXFBYUlPNlMzd1lXRDMtZw?oc=5",
       "featured": false
     }
   ]
