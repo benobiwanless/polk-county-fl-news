@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-05 23:35 UTC",
+  "last_updated": "2026-11-06 03:39 UTC",
   "feed_mode": "live-expanded",
   "items": [
+    {
+      "title": "Data center planned for existing warehouse in Auburndale | Exclusive - Lakeland Ledger",
+      "city": "Auburndale",
+      "category": "Commercial",
+      "status": "Coming Soon",
+      "date": "Nov 05, 2026",
+      "summary": "Data center planned for existing warehouse in Auburndale | Exclusive Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaVJjbFVad3o1QmFSMUJUcFdUdUdUVXdQLUQzNTBpeERoVV9qeG9BOFI4bmRTNWVQaHZqOTBGVTRtLTVoT1d3YXJ4Vlp4UEdoOGdPWEsyTUVNNW9ZcFlrc2h2VzF3UGZ5eDA5bkZPZlBpSWJyWE1CMUJXdFF3aHJQQmRpNm1SUnJCdkJ6RVNhTDloOUlzbmNGa3BqZEkwR0VfY3o4MzJVZFZiRWtBYlVVS0hsRmhfeG1LZ1lIbEp4Qlc3a3dHQ3kzVWRYZ2lvYlNGeDJTU0lmVUd0YzVrS0Q5bmlQYk5HOENhdHRabjdn?oc=5",
+      "featured": false
+    },
     {
       "title": "Developer appeals to get Kathleen subdivision approved | Exclusive - Lakeland Ledger",
       "city": "Lakeland",
@@ -72,18 +84,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ2RjOWVsdHpPeHVhcHZzSWRaelhZWDJQX2IxUU5LaHRsLVVCWUZ2ejg1WmMyLXNqQW0xanoxU3FRamZhR0hIWWNweDdud0NodHVMZ0hpX3Nnc0daS20xQUxFN28zZXlTa0VYR1pTVFc1U3BsWVE5X2RoTnpkckdwSXdXc0l3QkF3VC1RLXladzRBQlMzN1BmUW55cDBueDVIWDdZYS1BSlB2cWsxUkxCQ1hycHlWM2dfSkhCRm03LW1FRlJTdy1ubW1oQWY5aHJmMk9oUFIxV29nMy1TVmVSMExDQ2pueUI2?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Data center planned for existing warehouse in Auburndale | Exclusive - Lakeland Ledger",
-      "city": "Auburndale",
-      "category": "Commercial",
-      "status": "Coming Soon",
-      "date": "Nov 05, 2026",
-      "summary": "Data center planned for existing warehouse in Auburndale | Exclusive Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaVJjbFVad3o1QmFSMUJUcFdUdUdUVXdQLUQzNTBpeERoVV9qeG9BOFI4bmRTNWVQaHZqOTBGVTRtLTVoT1d3YXJ4Vlp4UEdoOGdPWEsyTUVNNW9ZcFlrc2h2VzF3UGZ5eDA5bkZPZlBpSWJyWE1CMUJXdFF3aHJQQmRpNm1SUnJCdkJ6RVNhTDloOUlzbmNGa3BqZEkwR0VfY3o4MzJVZFZiRWtBYlVVS0hsRmhfeG1LZ1lIbEp4Qlc3a3dHQ3kzVWRYZ2lvYlNGeDJTU0lmVUd0YzVrS0Q5bmlQYk5HOENhdHRabjdn?oc=5",
       "featured": false
     },
     {
@@ -615,30 +615,6 @@
       "featured": false
     },
     {
-      "title": "New in Winter Haven: Paaji Indian Cuisine Opening Soon - Business Debut",
-      "city": "Winter Haven",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Sep 28, 2026",
-      "summary": "New in Winter Haven: Paaji Indian Cuisine Opening Soon Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSVBTLUxIVE5kQkk2WTM1amZyMWJ1OEZ6MS0wbU1ueFlXUURjNm03NmZUd0V4ZTB1UUl6X3V3dmNSaDJrWFRrZjNxLTZCZTZoQUhnVzN2NXAySEdiRWtYWFhOYlphbzVDb0puZlBDbFN0bG45cmJaLTBkazhqQ3pPeGlHRlBlZXJGOFRocA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Timber Ridge, first affordable housing development in Davenport, to open - Dispatch Argus",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Oct 29, 2026",
-      "summary": "Timber Ridge, first affordable housing development in Davenport, to open Dispatch Argus",
-      "source": "Dispatch Argus",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVM5Z3VEaUc0a0Y0Qi1ZNHQtTllTMnN6elcyLTdwaHgxQk81MkFJMnlZM2g0b2tXeEV0bUtINm9seGxDVUdPYkNrWVZpVDZYS0paSEd5bGpxSDc2aW9wODVmVEFXMzhsX0NsWU5LczU5SDZEeVpzajFteVdkSngwRHRoNDN6RzhWR3MteE9BTjdUVDlOZm9rSDE1RWc5bnRTb2VLMw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
@@ -915,6 +891,18 @@
       "featured": false
     },
     {
+      "title": "In Focus: Pequot Lakes Community Celebrates Splash Pad Grand Opening - Lakeland PBS",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "May 28, 2023",
+      "summary": "In Focus: Pequot Lakes Community Celebrates Splash Pad Grand Opening Lakeland PBS",
+      "source": "Lakeland PBS",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3V0cTE1bkpfbkpWeFNkTmdsSzFWYUlUc0tmNkdBM1YyWFltV18zS1ZtY3NlWjl2Z0FXTlFJOWl0Z21nNmZmSGZHa1E0alpWVGtTZ05oUTk5Rm9VOTl0Z3VIQW96X0Fjc2hRa0pieHpxaFhTbFFHNDhZRE5LWlhSQ3MyUXZYeWhfeS1JU1ZR?oc=5",
+      "featured": false
+    },
+    {
       "title": "National big-box store will anchor massive new shopping center under construction in Haines City - Lakeland Ledger",
       "city": "Haines City",
       "category": "Retail",
@@ -1056,6 +1044,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWNEZy1QbWlaazVwZmE2TjktdVN4QWNNTllxcllGN0lwZUtFZjl5S1Y2ay12MUxzN1FnLUFEdE1nMmZIb05TTEl2QTZmRWhNTDZQTEVCcndDLUd2NGhmaDBhVFlOc05VdjlUeXFIMkprX3dtNkQ5RTFSRVVld3JmZllLRkdNT2k4MERuQW55eEhORWZVUExYTkplRVdObWpWd1Bzdy1rVWRXNWNPalBQczJqUEFudmpxYTJYVEVwVHUyV2o2VjB1VE82eDgtUlFVaHdvbkI3WTNFQQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Infrastructure",
+      "status": "Coming Soon",
+      "date": "May 07, 2006",
+      "summary": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
       "featured": false
     },
     {
