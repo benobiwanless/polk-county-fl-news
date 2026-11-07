@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07 02:45 UTC",
+  "last_updated": "2026-11-07 09:24 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -627,18 +627,6 @@
       "featured": false
     },
     {
-      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
-      "city": "Lakeland",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Oct 28, 2026",
-      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
-      "source": "6AM City",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
-      "featured": false
-    },
-    {
       "title": "Publix opens new store in Winter Haven, Florida - Publix",
       "city": "Winter Haven",
       "category": "Retail",
@@ -879,18 +867,6 @@
       "featured": false
     },
     {
-      "title": "Bob’s Discount Furniture in Davenport set for soft open Monday, grand opening Feb. 14 - KWQC",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jan 31, 2025",
-      "summary": "Bob’s Discount Furniture in Davenport set for soft open Monday, grand opening Feb. 14 KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDB3dktFXzBBRl81eFduQlRocVptNS1ndlYydkc4VjhNSE1MeHAtOUpZaWdXNExGLWRRdUdKa056dWU5QTRHX25OTmtGa2RUUFhDX3dZaEpxbXBVNEdBbXpSN2c4QkJacjVpMFhxbmFQSERfOUNBOE1KZE4yWmladDE5WVhTeW56MmRPeVJwODVhT3FNWXE3dFpHeWlXemtyTDNwbGZheVc3cHM10gHAAUFVX3lxTE16eWdBZnFSTDVFMloxMWtxdjJLTlNyQ0ZlREVWVkh4UC1BWjd5SDRxdW5YQ1AxSUkyeW9hREFsVnBwc09pM0hLZllRYkwtc01NMjZIbjhnc2YwbEZLdWhrU0xIR0U5OUg4ZzR2S3BfM1VfT2V1NzJHRlVkMmpMdXdrTGhfcDc5bV9obllaSEpndC1TbXNIemxJSnhGbzgtMFNzMDNGQlFKX19raGZLd2JoaTV0SkdpUGhSZXFJZnN5TA?oc=5",
-      "featured": false
-    },
-    {
       "title": "In Focus: Pequot Lakes Community Celebrates Splash Pad Grand Opening - Lakeland PBS",
       "city": "Lakeland",
       "category": "Development",
@@ -900,6 +876,30 @@
       "source": "Lakeland PBS",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3V0cTE1bkpfbkpWeFNkTmdsSzFWYUlUc0tmNkdBM1YyWFltV18zS1ZtY3NlWjl2Z0FXTlFJOWl0Z21nNmZmSGZHa1E0alpWVGtTZ05oUTk5Rm9VOTl0Z3VIQW96X0Fjc2hRa0pieHpxaFhTbFFHNDhZRE5LWlhSQ3MyUXZYeWhfeS1JU1ZR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Natural Grocers Opens in Davenport, Iowa on April 19 With Grand Opening Celebration - Natural Grocers Investor Relations",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Apr 04, 2017",
+      "summary": "Natural Grocers Opens in Davenport, Iowa on April 19 With Grand Opening Celebration Natural Grocers Investor Relations",
+      "source": "Natural Grocers Investor Relations",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZk94N0FEbnZPcXVac1ZUQ1Q4aW5jcDM0TW5PUHRQcVR1ZW9JaUJfNkFublBvNGtPQTVfeEE3Y0JRLXFwUDhGdXVmZUROdUVOR1Q2YVJnR0dHRkh4TjFKeEJqN0tPNGlzZmkxQXZXZ0wyUzJqbzB1X2hfWHdTRlgxUjJNdEFkQUc2bDAzSE11T292cHoxOHc3VVNGX21iTF9vRS1VTEV2VEZDeWstTWlvR19TelJIc0dWbVVJZEp3Ym41MlFQTWIxUXln?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Bob’s Discount Furniture in Davenport set for soft open Monday, grand opening Feb. 14 - KWQC",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jan 31, 2025",
+      "summary": "Bob’s Discount Furniture in Davenport set for soft open Monday, grand opening Feb. 14 KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDB3dktFXzBBRl81eFduQlRocVptNS1ndlYydkc4VjhNSE1MeHAtOUpZaWdXNExGLWRRdUdKa056dWU5QTRHX25OTmtGa2RUUFhDX3dZaEpxbXBVNEdBbXpSN2c4QkJacjVpMFhxbmFQSERfOUNBOE1KZE4yWmladDE5WVhTeW56MmRPeVJwODVhT3FNWXE3dFpHeWlXemtyTDNwbGZheVc3cHM10gHAAUFVX3lxTE16eWdBZnFSTDVFMloxMWtxdjJLTlNyQ0ZlREVWVkh4UC1BWjd5SDRxdW5YQ1AxSUkyeW9hREFsVnBwc09pM0hLZllRYkwtc01NMjZIbjhnc2YwbEZLdWhrU0xIR0U5OUg4ZzR2S3BfM1VfT2V1NzJHRlVkMmpMdXdrTGhfcDc5bV9obllaSEpndC1TbXNIemxJSnhGbzgtMFNzMDNGQlFKX19raGZLd2JoaTV0SkdpUGhSZXFJZnN5TA?oc=5",
       "featured": false
     },
     {
