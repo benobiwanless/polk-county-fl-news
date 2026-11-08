@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08 09:16 UTC",
+  "last_updated": "2026-11-08 16:07 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -279,6 +279,18 @@
       "featured": false
     },
     {
+      "title": "The Davenport Hotel is an integral part of Spokane’s identity. A new MAC exhibition looks back on their shared history - inlander.com",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Oct 16, 2025",
+      "summary": "The Davenport Hotel is an integral part of Spokane’s identity. A new MAC exhibition looks back on their shared history inlander.com",
+      "source": "inlander.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMFJUSWpzamxGQk83azBUNi0zVnE5S1lWRkVMM2JMemIxaWNGZ0c2V0NlMmtOZ25tVl9Pd3A2allpQWR2TDgyVkdFendCbjZDUUZUeWFuZVQ3eUNta3NsQnBvT1pnSlkxOHFaY3kwUTlWQWJ4SDBidXVSR0pDMjRPc0JHZ0VKWUlTYzZ6SklMbkpHMmlsaVdoRVBrVmt2MHlEVVotRUNMMTBJNzdLbG4wYkd0WUpybnhFYmlqZ0pobTRSTk9lOXZmTVo1c2dEcUQxUjlsZ0NmQVl1VzIwemgtZzVpNXdWdjJJOXdpX3FLNDY4NUowNmFKUw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Town Halls Scheduled on Middle School Rezoning Plans - Polk County Public Schools",
       "city": "Polk County",
       "category": "Community",
@@ -387,18 +399,6 @@
       "featured": false
     },
     {
-      "title": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in - FOX 13 Tampa Bay",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Update",
-      "date": "Aug 28, 2025",
-      "summary": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in FOX 13 Tampa Bay",
-      "source": "FOX 13 Tampa Bay",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B?oc=5",
-      "featured": false
-    },
-    {
       "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
       "city": "Polk County",
       "category": "Community",
@@ -411,15 +411,15 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
+      "title": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in - FOX 13 Tampa Bay",
       "city": "Polk County",
       "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 05, 2025",
-      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
-      "source": "WFLA",
+      "status": "Update",
+      "date": "Aug 28, 2025",
+      "summary": "Zoning shakeup coming to Polk County high schools. Here’s how you can weigh in FOX 13 Tampa Bay",
+      "source": "FOX 13 Tampa Bay",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3hOa3k0M3ZtU1ZjbkRxNm9DSW1aWkpSR3hWZEttUlItOHZCaUF6MDdFd1J2ZlVNTFF2WHZpb1RDa0xhMmE0X3RMNDBlR3hzdXFxdVNXTnZsZzdKUmhOMFFjVGswWjlwRFFacjRCR2FlSXp1ZnR2UEhLTzAwQ3hzcS11QUNDcU5Tb1ZDZlpqSy1vUVBXSEZBa0VJN3NhTnFkTG1B?oc=5",
       "featured": false
     },
     {
@@ -432,6 +432,18 @@
       "source": "Tampa Bay 28",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 05, 2025",
+      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
+      "source": "WFLA",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
       "featured": false
     },
     {
@@ -683,7 +695,7 @@
       "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
       "source": "KWQC",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFRsZ0wtenl6QldPOHVMR053TnB5YTBmMEUzN0U1TUhTUXdrYUhlNThnZHQydFEzSGhUeHlyVFk4OW1aX0RDVklkSjlMSmR3TUc2TlpCS1JPZ191ZENTLTNTOE5YbE1SeGZFcENOblc2bmhHUG5JTURFaGNWSTB5NjktR2tKckZqSUVXODRYSTFhQ0I1aE80SGR4R2xFZ1l2WnhmYkMxVdIBuwFBVV95cUxPZ1g3MTVZdlZjTEhKcThqcDNJUjYyU0RBelluRmlVd2J4TXVIdTc2OWNhOWlkU3ROOWVLak55NFhoZ1F5TXc5ZE9QRlZqRFZ1Y0J0Y2x1UU1MMDNxRENuYWNLdS1zejM1VHB6dF84M0Q4TDcxVkdDYkhKb00wWWRyT0c4WnNaUGVVUTFfNGVROEFhLWtVV3Ewb1JaQ0pzUUJBTktDTU82U1BpcTZwcExvejBIb0lOSlhoNkNN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0ttSVMxaXIzTnZXVGJNNERET3F5cWpwRmlOOTVsQjlXdktCZGV4bDFGRURoNEZaMjY1ZUphVFk0NUxEaUpaeXdvVWF2RDNxNy1HT1FRc3Rzem4tcGRibmNHcklRTC1lWlpDZ1JiWkJzcW5CRFo5R3JHNU9Vc2VpUWRrS1Y0VXl3U0h0NHpGdkdOM2NVRmI2LWZ4b19oeTk1Q0t0UGpIcmVERWpBTVF3?oc=5",
       "featured": false
     },
     {
@@ -831,6 +843,18 @@
       "featured": false
     },
     {
+      "title": "Davenport’s first charter school now open - KWQC",
+      "city": "Davenport",
+      "category": "Community",
+      "status": "Grand Opening",
+      "date": "Aug 27, 2025",
+      "summary": "Davenport’s first charter school now open KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RQUVTNW10anc2c0dYM20ydUJfX25NREdsUHVtMmdUaUQydEI0TDZFMkJONGlTNlBELTdtakcyLTlDWUc3czdqSWlnems2S05iMkdBUTFnY2liYU1vdktKdTVNSDctcVdDOWJMMkRKM0dfTXQ5X1E5ZVlqRENWUdIBkgFBVV95cUxQenpRcnI2bFREc2JieVQtdEpiYWQxc0xqT2J5TTgydkRGUGRPTkk1VWJtMkIyZXV1TVFBTlp0YVhlVWhUWHhFUk5QNDNSb0tVcktGR1RHNE9YYTdBTDk0VGNEMGdGaE40TF9neEdFSzFWWW50SWVrQVNUT2pFM3BCamlhdF9xLVlyUXZ1U1Z4OUNBdw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Bob's Discount Furniture celebrates grand opening in Davenport with donations - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -876,18 +900,6 @@
       "source": "Lakeland PBS",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3V0cTE1bkpfbkpWeFNkTmdsSzFWYUlUc0tmNkdBM1YyWFltV18zS1ZtY3NlWjl2Z0FXTlFJOWl0Z21nNmZmSGZHa1E0alpWVGtTZ05oUTk5Rm9VOTl0Z3VIQW96X0Fjc2hRa0pieHpxaFhTbFFHNDhZRE5LWlhSQ3MyUXZYeWhfeS1JU1ZR?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Downtown Davenport’s The Last Picture House unveils rooftop with grand opening celebration - KWQC",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "May 03, 2024",
-      "summary": "Downtown Davenport’s The Last Picture House unveils rooftop with grand opening celebration KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVMxSElFclJ1RDVyYTVueElORkp1c29oTGF5N2x4Qmhnc1pGdmU3TlFDNVlOZUxxRWFDSUdWbXg4RUxlaVZUZzU2X2hZSGlDZVpGTnJTSkx3dVVFRFlMU3lnUEJObHJoTzZYRFlaVGZQdmpQVkVTbDJ1OTVCVHEtLXNfMVBlc1hWcnZNWFVVVm1kSEdpSDlsOUF5WmRMRV84bkhzaTZvV3FQLWwyZFZoZk5NbHFsZzRSU0HSAc4BQVVfeXFMTkUyQWoxWnNCM3VVdEtCSFZUWnB6OFZJSk54LWFjLWxqa3h1QkxBZFNDVzVTRDF1NWQ2b2p4UmJGckJaRlV1eU5TOUZfSU04dnk3UmpQcXJReEcyYWtnbWZzZTdNN0ZITlRHVWVyVVVOb0pUSnF6S3pGbFZoUVdzazQtNWZnMDcwQUUyMm1SZlE0Z040cTBjdzh2NDdiNEVTeElNZm1YY2VXMUp6Q3A4YmFTUFVTRlUyaUNKSkVfSVhNSVZ5SG5peGlscExKWGc?oc=5",
       "featured": false
     },
     {
@@ -1035,6 +1047,18 @@
       "featured": false
     },
     {
+      "title": "Polk County commissioners to consider 242-home subdivision in rural Kathleen - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 18, 2022",
+      "summary": "Polk County commissioners to consider 242-home subdivision in rural Kathleen Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRjZWbk5ob3ZIaVZmUDRRUmY3QjZ6VTVqTVJjWUUwLWFJSlZfQVI0SzZnZ0NuWUZpVU9VNnJDZTdTYmJRY2I3M1hUd2FTa3ZEMTQ4cU9ETUR4MjYzTzY4TGFITWt3aHRFRjdxUGtaNlVHcWdNYi1DMVhnNzRLTXNFU1RxMlhDZlEwMkJ3UFhsTlpGUmlreDVzaWxfLW9FVXFxSFJEOXBVQ0w2SnNSaHlBQkFXM1JBOExQREFPNzZOdUlmMFVuRGFtdEdoYUNpOUFuZE9CYlI1SVNMTHoxZFlpM0RUS3gxVUEzS2Q4?oc=5",
+      "featured": false
+    },
+    {
       "title": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 - Lakeland Ledger",
       "city": "Lakeland",
       "category": "Infrastructure",
@@ -1056,30 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Bartow rejects massive 2,245-home Emilie development - Lakeland Ledger",
-      "city": "Bartow",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 03, 2026",
-      "summary": "Bartow rejects massive 2,245-home Emilie development Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdlVSS25ka2ZlZXo1YlhwSloyR3NPOUlUZ1h3ck1XenVkZUx3ZHZWX0x3TWp6MU1GOWNwX09zazFfMFA1T1BDSUJRa3dYdkFuLUtYeXhfelAwSVNLUXlxakEzc3RGZmRuWVJjV1VpbnJ3S2RnWmJOM2d6eTUtaFNEYWJuWXV4V1cwU0ZxQjE2NjBsS1ZjMUdnMkpjQlBMV3pwVnFMMEZjUTh2Wjh6YnhuZDA2c0Zvd1FRejltTVN4OUpjR0luRzkwUEJ6ODh5cEJqcEFfZ2J1c1FjZmhlX0thLXFBYUlPNlMzd1lXRDMtZw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents - Lakeland Ledger",
-      "city": "Auburndale",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Feb 17, 2023",
-      "summary": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
       "featured": false
     }
   ]
