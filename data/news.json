@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09 12:06 UTC",
+  "last_updated": "2026-11-09 22:16 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -15,18 +15,6 @@
       "featured": false
     },
     {
-      "title": "Developer appeals to get Kathleen subdivision approved | Exclusive - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Approved",
-      "date": "Aug 14, 2026",
-      "summary": "Developer appeals to get Kathleen subdivision approved | Exclusive Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVy1TMUs5MkdSb2k4Si1LVmo4VkhNYUJEeElMSWU4Vy1TaVYzeHFCbXlrRm1KdU82Y0tVbHA3NXVnOWw0UkY4TkNweTUtLUlXNklBZEtXS0pKSGh0Q2MzYmFBdmVnSHBzT1RyQ2lzRHZTS3g0SzBULW9BNVZ6N2ZFYUlDRHhqbzR1aEMxelR1Y0I0YWEybXV4bW1wcTBXVTJPdm1UYjZGMlF6WkdwOURNUW1Mckdqa0t2Ym5CN1psVkFRUlA3ZjI1U0ZXUDRuRE90Q1RMU0xlMEFlTkxDVUY2V3Vvc0tXY19VSF9neWN4Rnl3RDlESlE?oc=5",
-      "featured": false
-    },
-    {
       "title": "Clash of Visions: Lakeland and Auburndale at Odds Over Proposed Warehouse Near Florida Poly - LkldNow",
       "city": "Auburndale",
       "category": "Commercial",
@@ -36,6 +24,18 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2dFQzhKNkNsNjd5Q3IybXdSVF9fd2w2dmVvZzRfMU9QRVlmX2hfNVcwVV9zTk5tUW05MmNhc25MSVdRaEl6NEl0VmJRa1JWR2tlMTUtaWZWMU1BMEtVN3FaM2NkZFdzOEY5QlpVQ2dpdGh3Q2wzZzJvbEV3VUdsZkl0TnpZTGROMVBQSERVLTlfR05zMU9MdV83SWJZUlVvY29kQ1g5T1k4WnZYTjlYaXJreV9idw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Developer appeals to get Kathleen subdivision approved | Exclusive - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Approved",
+      "date": "Aug 14, 2026",
+      "summary": "Developer appeals to get Kathleen subdivision approved | Exclusive Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVy1TMUs5MkdSb2k4Si1LVmo4VkhNYUJEeElMSWU4Vy1TaVYzeHFCbXlrRm1KdU82Y0tVbHA3NXVnOWw0UkY4TkNweTUtLUlXNklBZEtXS0pKSGh0Q2MzYmFBdmVnSHBzT1RyQ2lzRHZTS3g0SzBULW9BNVZ6N2ZFYUlDRHhqbzR1aEMxelR1Y0I0YWEybXV4bW1wcTBXVTJPdm1UYjZGMlF6WkdwOURNUW1Mckdqa0t2Ym5CN1psVkFRUlA3ZjI1U0ZXUDRuRE90Q1RMU0xlMEFlTkxDVUY2V3Vvc0tXY19VSF9neWN4Rnl3RDlESlE?oc=5",
       "featured": false
     },
     {
@@ -111,18 +111,6 @@
       "featured": false
     },
     {
-      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
-      "city": "Auburndale",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 27, 2026",
-      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
-      "source": "AdventHealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
-      "featured": false
-    },
-    {
       "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
       "city": "Davenport",
       "category": "Housing",
@@ -135,27 +123,15 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane - Hospitality Net",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "May 20, 2026",
-      "summary": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane Hospitality Net",
-      "source": "Hospitality Net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQk1MQXVub3hiaXd4TEVJTXhaZjZZUlEtNVRUaU9wbHBwRU9aNlVYRy1ldy1XLTFpdGRLaWprT3ZUZzRqSFktYXNSYTNZOEI0Z0pNbmNxSzExd3hfa2tkbndZU1MwVi1sS0ZFU2lJNGF3Q3F2TDhUeFhMaGxWNXhmWmdHR1pjN3V4dUo4Qm9MdVVnX1VlLWJVVmRjcVV5eVgzQktScEoxLTBzYklMMU5HYThqSVpQMUp6S2hPYTM0VkFfdE9faVdLd1ZnLWFXWU13bFhTTUxmcks3NGpySVdVZFFLbWJHVWlJbU91UzU4N2FaUzlMcjZndlRxTWdJejhPYWo5S21zUGdkaU5aR0djcFlpR18?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
-      "city": "Davenport",
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
+      "city": "Auburndale",
       "category": "Development",
       "status": "Update",
-      "date": "Jan 09, 2026",
-      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
-      "source": "VCU News",
+      "date": "Jul 27, 2026",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
+      "source": "AdventHealth",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
       "featured": false
     },
     {
@@ -183,39 +159,15 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - NonStop Local KHQ",
+      "title": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane - Hospitality Net",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Update",
-      "date": "Mar 21, 2026",
-      "summary": "Davenport Hotel hiring for over 100 positions across five Spokane locations NonStop Local KHQ",
-      "source": "NonStop Local KHQ",
+      "date": "May 20, 2026",
+      "summary": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane Hospitality Net",
+      "source": "Hospitality Net",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTg3RTFVWHFmLU9kUmNzdEc1SkxkUWZyOEdQUVdFRVhKdl9NY0VEMGpuWjhoOFNGOG5CeVpoU2JzMTZGal9VRzd1Q1hoRExuS0hmYk1PdHp2WVJIQXl3TjNleko0eElyU0ExZERPc0FtVTVhX3huZGxORWpVZnhVdUpnNkNVQ0ZqMGdrVHloRTAwWUItOFJxbDRzVFU4djVxbEhVMmVaNkpreTFUX0J1SEI4eU5sVXg5NEV6UXJhcVRhdHhfQUM2dko5TkJKSVJXeFRUMFhzX0pXYlFDUnc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 08, 2026",
-      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQk1MQXVub3hiaXd4TEVJTXhaZjZZUlEtNVRUaU9wbHBwRU9aNlVYRy1ldy1XLTFpdGRLaWprT3ZUZzRqSFktYXNSYTNZOEI0Z0pNbmNxSzExd3hfa2tkbndZU1MwVi1sS0ZFU2lJNGF3Q3F2TDhUeFhMaGxWNXhmWmdHR1pjN3V4dUo4Qm9MdVVnX1VlLWJVVmRjcVV5eVgzQktScEoxLTBzYklMMU5HYThqSVpQMUp6S2hPYTM0VkFfdE9faVdLd1ZnLWFXWU13bFhTTUxmcks3NGpySVdVZFFLbWJHVWlJbU91UzU4N2FaUzlMcjZndlRxTWdJejhPYWo5S21zUGdkaU5aR0djcFlpR18?oc=5",
       "featured": false
     },
     {
@@ -231,27 +183,27 @@
       "featured": false
     },
     {
-      "title": "Davenport University housing rated “top tier” by students - Davenport University",
+      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
       "city": "Davenport",
-      "category": "Housing",
+      "category": "Restaurant",
       "status": "Update",
-      "date": "Jan 06, 2026",
-      "summary": "Davenport University housing rated “top tier” by students Davenport University",
-      "source": "Davenport University",
+      "date": "Jun 20, 2026",
+      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
+      "source": "KWQC",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0lXZS1LTXYweWJpSldSNTUyaWl5Nk5EYk9uMndmMUUwc2ZuV1VSeHc2bFFxV0VvX3pYMTBySVZvQUtfY2YwUXJUUURlT0RMU29lU1lFMll4NHEwV2w1bU1ZMW9ONmtmX0ZyNmtDWnZmTEphZEhMZTVIbnpDbG1GTVJHOUZWTWVlV2EyNHh0cUFnbjdreWl2cDd3ZmF2X0t0blpQVzRQdFViQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
       "featured": false
     },
     {
-      "title": "Davenport Hotel launches new holiday tradition with inaugural tree-lighting celebration - The Spokesman-Review",
+      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
       "city": "Davenport",
-      "category": "Hotel",
+      "category": "Development",
       "status": "Update",
-      "date": "Nov 29, 2025",
-      "summary": "Davenport Hotel launches new holiday tradition with inaugural tree-lighting celebration The Spokesman-Review",
-      "source": "The Spokesman-Review",
+      "date": "Jan 09, 2026",
+      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
+      "source": "VCU News",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdS03QUpMWnBJMzFEdkZyOUhvU1VOb3JaMWtQdURmQUVoRzJjVU1pYS1GZ3hycU16SnRrTFZtZFk3UzV6OExneEV3VXl1cUdPSjd0U2x3WHpHdXliV29PSUdwdmhuYzRZZVJXY0hoTVFFUkxVcW9OZG1sUDBoUEMzYmJvTE5iYjluT1oyR29wZnI2TkhWcnlPUFpsbDl2dw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
       "featured": false
     },
     {
@@ -267,6 +219,42 @@
       "featured": false
     },
     {
+      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 08, 2026",
+      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport Hotel hiring for over 100 positions across five Spokane locations - NonStop Local KHQ",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Mar 21, 2026",
+      "summary": "Davenport Hotel hiring for over 100 positions across five Spokane locations NonStop Local KHQ",
+      "source": "NonStop Local KHQ",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTg3RTFVWHFmLU9kUmNzdEc1SkxkUWZyOEdQUVdFRVhKdl9NY0VEMGpuWjhoOFNGOG5CeVpoU2JzMTZGal9VRzd1Q1hoRExuS0hmYk1PdHp2WVJIQXl3TjNleko0eElyU0ExZERPc0FtVTVhX3huZGxORWpVZnhVdUpnNkNVQ0ZqMGdrVHloRTAwWUItOFJxbDRzVFU4djVxbEhVMmVaNkpreTFUX0J1SEI4eU5sVXg5NEV6UXJhcVRhdHhfQUM2dko5TkJKSVJXeFRUMFhzX0pXYlFDUnc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport University housing rated “top tier” by students - Davenport University",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jan 06, 2026",
+      "summary": "Davenport University housing rated “top tier” by students Davenport University",
+      "source": "Davenport University",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0lXZS1LTXYweWJpSldSNTUyaWl5Nk5EYk9uMndmMUUwc2ZuV1VSeHc2bFFxV0VvX3pYMTBySVZvQUtfY2YwUXJUUURlT0RMU29lU1lFMll4NHEwV2w1bU1ZMW9ONmtmX0ZyNmtDWnZmTEphZEhMZTVIbnpDbG1GTVJHOUZWTWVlV2EyNHh0cUFnbjdreWl2cDd3ZmF2X0t0blpQVzRQdFViQQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "The Davenport Hotel is an integral part of Spokane’s identity. A new MAC exhibition looks back on their shared history - inlander.com",
       "city": "Davenport",
       "category": "Hotel",
@@ -276,6 +264,42 @@
       "source": "inlander.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMFJUSWpzamxGQk83azBUNi0zVnE5S1lWRkVMM2JMemIxaWNGZ0c2V0NlMmtOZ25tVl9Pd3A2allpQWR2TDgyVkdFendCbjZDUUZUeWFuZVQ3eUNta3NsQnBvT1pnSlkxOHFaY3kwUTlWQWJ4SDBidXVSR0pDMjRPc0JHZ0VKWUlTYzZ6SklMbkpHMmlsaVdoRVBrVmt2MHlEVVotRUNMMTBJNzdLbG4wYkd0WUpybnhFYmlqZ0pobTRSTk9lOXZmTVo1c2dEcUQxUjlsZ0NmQVl1VzIwemgtZzVpNXdWdjJJOXdpX3FLNDY4NUowNmFKUw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport Hotel launches new holiday tradition with inaugural tree-lighting celebration - The Spokesman-Review",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Nov 29, 2025",
+      "summary": "Davenport Hotel launches new holiday tradition with inaugural tree-lighting celebration The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdS03QUpMWnBJMzFEdkZyOUhvU1VOb3JaMWtQdURmQUVoRzJjVU1pYS1GZ3hycU16SnRrTFZtZFk3UzV6OExneEV3VXl1cUdPSjd0U2x3WHpHdXliV29PSUdwdmhuYzRZZVJXY0hoTVFFUkxVcW9OZG1sUDBoUEMzYmJvTE5iYjluT1oyR29wZnI2TkhWcnlPUFpsbDl2dw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Meet The Louie; Davenport Hotels unveils new boutique hotel - KXLY.com",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Aug 25, 2025",
+      "summary": "Meet The Louie; Davenport Hotels unveils new boutique hotel KXLY.com",
+      "source": "KXLY.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHVGZzRMR09mZk5lMmN6ZXhqb3lIVGZ5clhUYjRQbjczN2s5TXZtOEM4bHNfeTMzTzJxcFNUbVR5U1JTN2RpTjVlaDB0VzRkdm1aeDluc0VjTGFlRENnWFJ0bzJMd0FyYmRqd0RKZXdET3V6eXRMYklacHkzbzhkZF9Hd0xBYnVMR2lWb1I4T2E3cmhFQnJVSG5nVXMxak5wQVNYbzRJRmlLdGstRkN6X0ttVzgzNEJ2VW94bkxkSktIS0Y4dGNFNEJDZXNxRHc?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Meet & Greet: Melissa Green, Vice President, Area Managing Director, Davenport Hotel Collection - Spokane Journal of Business",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Aug 29, 2024",
+      "summary": "Meet & Greet: Melissa Green, Vice President, Area Managing Director, Davenport Hotel Collection Spokane Journal of Business",
+      "source": "Spokane Journal of Business",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa2NFazRMdXpHYzZsV3MwREdqNnAtaWtzUTc2VG55MmpNR1RLZnN1RmdtbTI1aG9OWmRWcjRTVFBldENvNU5SaHgzcHpNWHA1ZmhfckdGd21JT0ZaTHZkVWZ6SFc5WFBXU1FOX0UxaTBFbTNrNTN3eTlBTTlyWkNSSWFscW1fMjBjTFpsZlp6RFZJaUlvc3R4RE9velRQdUxYcU0yaldLN3hTNmNxOFoyWjdZMTBxRUdpaUV1NnptbG1FbEQtZmtjbmFPTmNDSEhfZVVyY0FJS3cyOGJrd0YwaWJnNmlPQQ?oc=5",
       "featured": false
     },
     {
@@ -315,18 +339,6 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - TBBW",
-      "city": "Polk City",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp TBBW",
-      "source": "TBBW",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
-      "featured": false
-    },
-    {
       "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
       "city": "Polk County",
       "category": "Development",
@@ -336,6 +348,18 @@
       "source": "DrydenWire.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - TBBW",
+      "city": "Polk City",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp TBBW",
+      "source": "TBBW",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
     },
     {
@@ -759,6 +783,18 @@
       "featured": false
     },
     {
+      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
+      "city": "Lakeland",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Oct 28, 2026",
+      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
+      "source": "6AM City",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
+      "featured": false
+    },
+    {
       "title": "Highway 221/SR 31 between Pearson and Lakeland is now open - Douglas Now",
       "city": "Lakeland",
       "category": "Development",
@@ -828,18 +864,6 @@
       "source": "TransWorld SKATEboarding",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNTR0N0plMGtJR3BkMDNaSk42NS1BOXZuTklxREhOUzRvZ1RKSWRsMHF2Z2FvQm9JbWhfN3VKUmxZdkFRMWJ3N0ZKS3JBNFk0cDNqdkdZVUs0emhDS0J1NGhWUjNyZnNSd00waHBKN09xWmhZS0RCQ3gwNHRjZU9yWkI0eFRpcl9tc1p2ZzhjN2xkQXNCYnNfWFJIUThVT3dNeU15VEFXaWFRT0VJUUgxSlJCU3BpUFVFLU5jSERR?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport’s first charter school now open - KWQC",
-      "city": "Davenport",
-      "category": "Community",
-      "status": "Grand Opening",
-      "date": "Aug 27, 2025",
-      "summary": "Davenport’s first charter school now open KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RQUVTNW10anc2c0dYM20ydUJfX25NREdsUHVtMmdUaUQydEI0TDZFMkJONGlTNlBELTdtakcyLTlDWUc3czdqSWlnems2S05iMkdBUTFnY2liYU1vdktKdTVNSDctcVdDOWJMMkRKM0dfTXQ5X1E5ZVlqRENWUdIBkgFBVV95cUxQenpRcnI2bFREc2JieVQtdEpiYWQxc0xqT2J5TTgydkRGUGRPTkk1VWJtMkIyZXV1TVFBTlp0YVhlVWhUWHhFUk5QNDNSb0tVcktGR1RHNE9YYTdBTDk0VGNEMGdGaE40TF9neEdFSzFWWW50SWVrQVNUT2pFM3BCamlhdF9xLVlyUXZ1U1Z4OUNBdw?oc=5",
       "featured": false
     },
     {
@@ -1056,30 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 10, 2004",
-      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Bartow rejects massive 2,245-home Emilie development - Lakeland Ledger",
-      "city": "Bartow",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 03, 2026",
-      "summary": "Bartow rejects massive 2,245-home Emilie development Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdlVSS25ka2ZlZXo1YlhwSloyR3NPOUlUZ1h3ck1XenVkZUx3ZHZWX0x3TWp6MU1GOWNwX09zazFfMFA1T1BDSUJRa3dYdkFuLUtYeXhfelAwSVNLUXlxakEzc3RGZmRuWVJjV1VpbnJ3S2RnWmJOM2d6eTUtaFNEYWJuWXV4V1cwU0ZxQjE2NjBsS1ZjMUdnMkpjQlBMV3pwVnFMMEZjUTh2Wjh6YnhuZDA2c0Zvd1FRejltTVN4OUpjR0luRzkwUEJ6ODh5cEJqcEFfZ2J1c1FjZmhlX0thLXFBYUlPNlMzd1lXRDMtZw?oc=5",
       "featured": false
     }
   ]
