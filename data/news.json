@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11 21:38 UTC",
+  "last_updated": "2026-11-12 02:30 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -183,6 +183,18 @@
       "featured": false
     },
     {
+      "title": "Beloved Davenport Restaurant Lunardi’s to Close After 37 Years of Family Ownership - Voice of Muscatine",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 12, 2026",
+      "summary": "Beloved Davenport Restaurant Lunardi’s to Close After 37 Years of Family Ownership Voice of Muscatine",
+      "source": "Voice of Muscatine",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmpoWS1OSTNZMDE0aUw4MlUyS3pMcGRmVkd3QnQwbGd2UVlRQTJDVkg5bU9weGxXdmNJbHJHU3ZlLWxFUU1md0I0U1RwbGdLVURTSE5HcmlKa19nMVRoNEZQM04yYjJFT1Q4T2tqQ1dUQzJRUTUtQi1tVmpEak1Fa1U4RmtaYmRkODRlM3l4Ri10dFc3TEUxY29ZZ2xIa01IT2tnTW5VWGdxNWNUM3VmSkZvQlZ2SV9FMEdhQUVQUEE5ZnJfMVE?oc=5",
+      "featured": false
+    },
+    {
       "title": "New housing development aims to help homeless people in Davenport - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -192,18 +204,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
       "featured": false
     },
     {
@@ -219,15 +219,27 @@
       "featured": false
     },
     {
-      "title": "Beloved Davenport Restaurant Lunardi’s to Close After 37 Years of Family Ownership - Voice of Muscatine",
+      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
       "status": "Update",
-      "date": "Jun 12, 2026",
-      "summary": "Beloved Davenport Restaurant Lunardi’s to Close After 37 Years of Family Ownership Voice of Muscatine",
-      "source": "Voice of Muscatine",
+      "date": "Jun 20, 2026",
+      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
+      "source": "KWQC",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmpoWS1OSTNZMDE0aUw4MlUyS3pMcGRmVkd3QnQwbGd2UVlRQTJDVkg5bU9weGxXdmNJbHJHU3ZlLWxFUU1md0I0U1RwbGdLVURTSE5HcmlKa19nMVRoNEZQM04yYjJFT1Q4T2tqQ1dUQzJRUTUtQi1tVmpEak1Fa1U4RmtaYmRkODRlM3l4Ri10dFc3TEUxY29ZZ2xIa01IT2tnTW5VWGdxNWNUM3VmSkZvQlZ2SV9FMEdhQUVQUEE5ZnJfMVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport University housing rated “top tier” by students - Davenport University",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jan 06, 2026",
+      "summary": "Davenport University housing rated “top tier” by students Davenport University",
+      "source": "Davenport University",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0lXZS1LTXYweWJpSldSNTUyaWl5Nk5EYk9uMndmMUUwc2ZuV1VSeHc2bFFxV0VvX3pYMTBySVZvQUtfY2YwUXJUUURlT0RMU29lU1lFMll4NHEwV2w1bU1ZMW9ONmtmX0ZyNmtDWnZmTEphZEhMZTVIbnpDbG1GTVJHOUZWTWVlV2EyNHh0cUFnbjdreWl2cDd3ZmF2X0t0blpQVzRQdFViQQ?oc=5",
       "featured": false
     },
     {
@@ -243,15 +255,27 @@
       "featured": false
     },
     {
-      "title": "Davenport University housing rated “top tier” by students - Davenport University",
+      "title": "Davenport Hotel launches new holiday tradition with inaugural tree-lighting celebration - The Spokesman-Review",
       "city": "Davenport",
-      "category": "Housing",
+      "category": "Hotel",
       "status": "Update",
-      "date": "Jan 06, 2026",
-      "summary": "Davenport University housing rated “top tier” by students Davenport University",
-      "source": "Davenport University",
+      "date": "Nov 29, 2025",
+      "summary": "Davenport Hotel launches new holiday tradition with inaugural tree-lighting celebration The Spokesman-Review",
+      "source": "The Spokesman-Review",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0lXZS1LTXYweWJpSldSNTUyaWl5Nk5EYk9uMndmMUUwc2ZuV1VSeHc2bFFxV0VvX3pYMTBySVZvQUtfY2YwUXJUUURlT0RMU29lU1lFMll4NHEwV2w1bU1ZMW9ONmtmX0ZyNmtDWnZmTEphZEhMZTVIbnpDbG1GTVJHOUZWTWVlV2EyNHh0cUFnbjdreWl2cDd3ZmF2X0t0blpQVzRQdFViQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdS03QUpMWnBJMzFEdkZyOUhvU1VOb3JaMWtQdURmQUVoRzJjVU1pYS1GZ3hycU16SnRrTFZtZFk3UzV6OExneEV3VXl1cUdPSjd0U2x3WHpHdXliV29PSUdwdmhuYzRZZVJXY0hoTVFFUkxVcW9OZG1sUDBoUEMzYmJvTE5iYjluT1oyR29wZnI2TkhWcnlPUFpsbDl2dw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Move to Electronic Permit Application System - City of Davenport",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Approved",
+      "date": "Apr 25, 2024",
+      "summary": "Move to Electronic Permit Application System City of Davenport",
+      "source": "City of Davenport",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDlMdGFXUDd0QVVnS3lBa3RmUE5rWmlVVUxOdmRfSkZZNTg1bGZveGtHSnBPR3ZVZ1AtczZIZGxZOGc5Z1N2QkMwakc1WEZMX05EMUhYdm1rYzJOa1IzLS04YmtOLW44bEtWV1RuTk9SSzV3QUtNWHlJa0NiekpQdlFkRTZlSlRnZHlZalFRb3VBVXRSZkIzLXgtNENubzQ3MTV2TkVzWGVJWHJQbzhV?oc=5",
       "featured": false
     },
     {
@@ -303,18 +327,6 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - TBBW",
-      "city": "Polk City",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp TBBW",
-      "source": "TBBW",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
-      "featured": false
-    },
-    {
       "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
       "city": "Polk County",
       "category": "Development",
@@ -324,6 +336,18 @@
       "source": "DrydenWire.com",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - TBBW",
+      "city": "Polk City",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp TBBW",
+      "source": "TBBW",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
     },
     {
@@ -399,15 +423,15 @@
       "featured": false
     },
     {
-      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
+      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Aug 04, 2025",
-      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
-      "source": "Tampa Bay 28",
+      "date": "Aug 05, 2025",
+      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
+      "source": "WFLA",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
       "featured": false
     },
     {
@@ -435,15 +459,15 @@
       "featured": false
     },
     {
-      "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
+      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
       "city": "Polk County",
       "category": "Community",
       "status": "Coming Soon",
-      "date": "Aug 05, 2025",
-      "summary": "Polk County Public Schools considering high school rezoning due to population changes WFLA",
-      "source": "WFLA",
+      "date": "Aug 04, 2025",
+      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
+      "source": "Tampa Bay 28",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
       "featured": false
     },
     {
@@ -456,6 +480,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU9sSEVaWU96TWpnbXNHZUc4bDRaMWxBMGVhR0dFMld0dklQU3hiaXF4NzJTYVR4a2JwdE5SV0x5SHBCYUR4NktldlJYWVM4Q2Eyb01WUnk4a2tNWE5nclJSY1NnNHI0Y1ZFUWNxaDM5WkUyQ2hiYUZQelBRU1RlZUxxLWhJbi1UYW1xeHdmQ1UzVHR2alVuaGdPbGt6TVBld0R2ZEUteFMyZTliWGVFN1N5dFFOX1VPSndyc1pkWTExWjBJ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Supervisors approve rezoning request for The Family Leader's campus - KCCI",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Coming Soon",
+      "date": "Feb 07, 2023",
+      "summary": "Polk County Supervisors approve rezoning request for The Family Leader's campus KCCI",
+      "source": "KCCI",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDlZa28zMzllajROazN0YXpBQWNDOXc4dWQ4c1V2QjBZVkpJMFZXb3NzU1RsU2d1ajl2ZXoxQVBBWnk4cGtOaWdHT2JHUmZVNXRmUlNSVUJjTGg0MU5HODJ4VzgwdlNSb3JRaWhITndMRnNlNmhvWFFLYlBrRXFtTHl0VnJMRUhnUS1rX0dTM3RieDdkd0ZNQkR1N1NaTERSbFNFbi1HY3ZaQ28?oc=5",
       "featured": false
     },
     {
@@ -555,6 +591,18 @@
       "featured": false
     },
     {
+      "title": "New in Winter Haven: Paaji Indian Cuisine Opening Soon - Business Debut",
+      "city": "Winter Haven",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Sep 28, 2026",
+      "summary": "New in Winter Haven: Paaji Indian Cuisine Opening Soon Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSVBTLUxIVE5kQkk2WTM1amZyMWJ1OEZ6MS0wbU1ueFlXUURjNm03NmZUd0V4ZTB1UUl6X3V3dmNSaDJrWFRrZjNxLTZCZTZoQUhnVzN2NXAySEdiRWtYWFhOYlphbzVDb0puZlBDbFN0bG45cmJaLTBkazhqQ3pPeGlHRlBlZXJGOFRocA?oc=5",
+      "featured": false
+    },
+    {
       "title": "Timber Ridge, first affordable housing development in Davenport, to open - Dispatch Argus",
       "city": "Davenport",
       "category": "Housing",
@@ -567,15 +615,15 @@
       "featured": false
     },
     {
-      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
+      "title": "Photos: Davenport's Timber Ridge grand opening - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
-      "date": "Jul 20, 2026",
-      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting The Quad-City Times",
+      "date": "Oct 28, 2026",
+      "summary": "Photos: Davenport's Timber Ridge grand opening The Quad-City Times",
       "source": "The Quad-City Times",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenZIX0tBUDhFVmczYmM1NkgyVl9GTVVNUEFOU05FTjVEcEh1YVV5YWZSaHNudkZZaFFaTk9qNDA3NW5BMmgwU21CaTExZi1nRDJ6WUItUUo3aHVndml5SlgzR0ZrNGFTZllreklqOWtIQlU3YTQ4TGtNeU5jTGlPVEZhSXk4T1NFV3JPNWdMdkRiR2poZml0Z3Z2RGJTNGttb2plWmJHNkY?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZOVl5M0t6VEU5d0xCbVNva1N5bEhxSFNnMV9KT0lTcEV4bW84Zl94WWpiTUYtSmg2SUpKMXNGYWpDdGIwWDVtLTBEV2h2RkZ6ZkpZVTl2aGd1eHA4eUpHV2lpVG5iWU54cjJjRkUtZ1FUa2Vhc3dlWGQtSno?oc=5",
       "featured": false
     },
     {
@@ -647,7 +695,19 @@
       "summary": "KidStrong Davenport hosts grand opening with free mini classes Saturday KWQC",
       "source": "KWQC",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0ttSVMxaXIzTnZXVGJNNERET3F5cWpwRmlOOTVsQjlXdktCZGV4bDFGRURoNEZaMjY1ZUphVFk0NUxEaUpaeXdvVWF2RDNxNy1HT1FRc3Rzem4tcGRibmNHcklRTC1lWlpDZ1JiWkJzcW5CRFo5R3JHNU9Vc2VpUWRrS1Y0VXl3U0h0NHpGdkdOM2NVRmI2LWZ4b19oeTk1Q0t0UGpIcmVERWpBTVF3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFRsZ0wtenl6QldPOHVMR053TnB5YTBmMEUzN0U1TUhTUXdrYUhlNThnZHQydFEzSGhUeHlyVFk4OW1aX0RDVklkSjlMSmR3TUc2TlpCS1JPZ191ZENTLTNTOE5YbE1SeGZFcENOblc2bmhHUG5JTURFaGNWSTB5NjktR2tKckZqSUVXODRYSTFhQ0I1aE80SGR4R2xFZ1l2WnhmYkMxVdIBuwFBVV95cUxPZ1g3MTVZdlZjTEhKcThqcDNJUjYyU0RBelluRmlVd2J4TXVIdTc2OWNhOWlkU3ROOWVLak55NFhoZ1F5TXc5ZE9QRlZqRFZ1Y0J0Y2x1UU1MMDNxRENuYWNLdS1zejM1VHB6dF84M0Q4TDcxVkdDYkhKb00wWWRyT0c4WnNaUGVVUTFfNGVROEFhLWtVV3Ewb1JaQ0pzUUJBTktDTU82U1BpcTZwcExvejBIb0lOSlhoNkNN?oc=5",
+      "featured": false
+    },
+    {
+      "title": "What's Brewing? | Greyhound Lounge now open in Davenport - WQAD",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 09, 2026",
+      "summary": "What's Brewing? | Greyhound Lounge now open in Davenport WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEdHOFlVcm1oS1BwbmtZZndQLU5HYjRkWWF3VXpLOW5ITWtEdGNoMlZkQ2tIVVBfVmhLc0luWHJPa29TWWVUMDh2cnVoalJpT0FSaTNtS3ZQcy1LeUcwYm5HMDd4cGI2bm52NUYxaXFLRWR0NWpzazVkNFFaZjBEWUN5cExfQTRFeUFYZ2ItMm5rRnk0OXdfb09WVVR2VThSNGp5Z0h2TnliRE5JTlBTTnFJOHRsLVVhd29SWDdnMEQ2ZkdlWExwQ2N6b1kxcnpuam9F?oc=5",
       "featured": false
     },
     {
@@ -711,27 +771,15 @@
       "featured": false
     },
     {
-      "title": "Photos: Davenport's Timber Ridge grand opening - The Quad-City Times",
+      "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
-      "date": "Oct 28, 2026",
-      "summary": "Photos: Davenport's Timber Ridge grand opening The Quad-City Times",
+      "date": "Jul 20, 2026",
+      "summary": "Bubba's 33 sets Davenport grand opening, ribbon-cutting The Quad-City Times",
       "source": "The Quad-City Times",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZOVl5M0t6VEU5d0xCbVNva1N5bEhxSFNnMV9KT0lTcEV4bW84Zl94WWpiTUYtSmg2SUpKMXNGYWpDdGIwWDVtLTBEV2h2RkZ6ZkpZVTl2aGd1eHA4eUpHV2lpVG5iWU54cjJjRkUtZ1FUa2Vhc3dlWGQtSno?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - WQAD",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jan 13, 2026",
-      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckNUMF85VF8xYU5ybjk2a1hRTUJjRFNUSTQ0blRaV19nbjR6RWFSWldOb1VoWVZRUDNOZFJlUTBxYWdiclRiclFaaDhINWg2c011Q2tCalY3eDlUbXZNZVdsOVN5SUZIRjcwSHFSemtBeXp5eFZUUzZrTW5KcGFrOVdfOTkzYXZBWW9LSGhJSXl4Y1VaNnUzV1N5Z0lVMWlpM29nZGExNTFUTWVXTjE1OEdVVDUxalpMSF93S3Y0VVJKZllWRG1vOGlKUEllMEs5WU5qSF9SSXBPM1luYXJLdGVfaHJCZ0hz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenZIX0tBUDhFVmczYmM1NkgyVl9GTVVNUEFOU05FTjVEcEh1YVV5YWZSaHNudkZZaFFaTk9qNDA3NW5BMmgwU21CaTExZi1nRDJ6WUItUUo3aHVndml5SlgzR0ZrNGFTZllreklqOWtIQlU3YTQ4TGtNeU5jTGlPVEZhSXk4T1NFV3JPNWdMdkRiR2poZml0Z3Z2RGJTNGttb2plWmJHNkY?oc=5",
       "featured": false
     },
     {
@@ -744,6 +792,18 @@
       "source": "6AM City",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakxhSG84d2JIc3lkWXVxWElCQ1ZGUUpmTm9uU28tM1dDWkZyN3NGMGFHVHNlTWhoT0RyV1hwcEc2MFpZdlFnQUhJRnYyc19CZW81dkcyV1BDRU1ZbWUtaThmYWlTdmNFV1N4TFBRZ1FsTmRDZ3JweGNQYnlmVHpXRG9oN0JsTm4tQy10M0NvMlFQU3hU?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - WQAD",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jan 13, 2026",
+      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckNUMF85VF8xYU5ybjk2a1hRTUJjRFNUSTQ0blRaV19nbjR6RWFSWldOb1VoWVZRUDNOZFJlUTBxYWdiclRiclFaaDhINWg2c011Q2tCalY3eDlUbXZNZVdsOVN5SUZIRjcwSHFSemtBeXp5eFZUUzZrTW5KcGFrOVdfOTkzYXZBWW9LSGhJSXl4Y1VaNnUzV1N5Z0lVMWlpM29nZGExNTFUTWVXTjE1OEdVVDUxalpMSF93S3Y0VVJKZllWRG1vOGlKUEllMEs5WU5qSF9SSXBPM1luYXJLdGVfaHJCZ0hz?oc=5",
       "featured": false
     },
     {
@@ -840,18 +900,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDB3dktFXzBBRl81eFduQlRocVptNS1ndlYydkc4VjhNSE1MeHAtOUpZaWdXNExGLWRRdUdKa056dWU5QTRHX25OTmtGa2RUUFhDX3dZaEpxbXBVNEdBbXpSN2c4QkJacjVpMFhxbmFQSERfOUNBOE1KZE4yWmladDE5WVhTeW56MmRPeVJwODVhT3FNWXE3dFpHeWlXemtyTDNwbGZheVc3cHM10gHAAUFVX3lxTE16eWdBZnFSTDVFMloxMWtxdjJLTlNyQ0ZlREVWVkh4UC1BWjd5SDRxdW5YQ1AxSUkyeW9hREFsVnBwc09pM0hLZllRYkwtc01NMjZIbjhnc2YwbEZLdWhrU0xIR0U5OUg4ZzR2S3BfM1VfT2V1NzJHRlVkMmpMdXdrTGhfcDc5bV9obllaSEpndC1TbXNIemxJSnhGbzgtMFNzMDNGQlFKX19raGZLd2JoaTV0SkdpUGhSZXFJZnN5TA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "In Focus: Pequot Lakes Community Celebrates Splash Pad Grand Opening - Lakeland PBS",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "May 28, 2023",
-      "summary": "In Focus: Pequot Lakes Community Celebrates Splash Pad Grand Opening Lakeland PBS",
-      "source": "Lakeland PBS",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3V0cTE1bkpfbkpWeFNkTmdsSzFWYUlUc0tmNkdBM1YyWFltV18zS1ZtY3NlWjl2Z0FXTlFJOWl0Z21nNmZmSGZHa1E0alpWVGtTZ05oUTk5Rm9VOTl0Z3VIQW96X0Fjc2hRa0pieHpxaFhTbFFHNDhZRE5LWlhSQ3MyUXZYeWhfeS1JU1ZR?oc=5",
       "featured": false
     },
     {
@@ -1032,54 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Bartow rejects massive 2,245-home Emilie development - Lakeland Ledger",
-      "city": "Bartow",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 03, 2026",
-      "summary": "Bartow rejects massive 2,245-home Emilie development Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdlVSS25ka2ZlZXo1YlhwSloyR3NPOUlUZ1h3ck1XenVkZUx3ZHZWX0x3TWp6MU1GOWNwX09zazFfMFA1T1BDSUJRa3dYdkFuLUtYeXhfelAwSVNLUXlxakEzc3RGZmRuWVJjV1VpbnJ3S2RnWmJOM2d6eTUtaFNEYWJuWXV4V1cwU0ZxQjE2NjBsS1ZjMUdnMkpjQlBMV3pwVnFMMEZjUTh2Wjh6YnhuZDA2c0Zvd1FRejltTVN4OUpjR0luRzkwUEJ6ODh5cEJqcEFfZ2J1c1FjZmhlX0thLXFBYUlPNlMzd1lXRDMtZw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents - Lakeland Ledger",
-      "city": "Auburndale",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Feb 17, 2023",
-      "summary": "As new Publix is set to open in Auburndale, it hasn't been smooth sailing for residents Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3lXOVpFZ3hWQVNZTmRaTzNWSUxWSzRJZnVEaU54YlpvT0taZHM4ZGtVeFpBandTSlZwNnNvWWRQeTgyNEctRzZOUXBocTV5M1NnTGZzakhYcFlOZEU0dFJIX1pxNUZzeVFLUWNMYUg2dFBDazhUR2h3aEdYQWFXaWFhc3FibGpMT0hrY1N1clczQ1pXVEJJeDVzVUNBeXhEUWRFR0tGLV9pYzZxRVRLc25CUzhmZTZ5TFJrYm1yb2N1RWRkdVE?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Expanding in Wahneta: Plaza Mexico Plans Expansion Project - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Sep 24, 2014",
-      "summary": "Expanding in Wahneta: Plaza Mexico Plans Expansion Project Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVkwZElLN3p6VlZXYnl4cUVqQWNpUmZiOHdFcUUwY0RkdUtCZGZFZmw5YXZXd3B4SEpCZzEzUGNOWE9mb2dUbS1UYzVJdzZDVzJJTUJBVE1IeUF1ZndyQXFsSmF4QlpBdEVfM1I3SzVmWWkwNVVEWDBZMmlTVDBFb3EzOUNXS18wZGgzUjhsME9NTDdpY1czOEI1b29wZXU2bVl2QkF6UDRMTzdSb19GMGpHNzRTbDVwdmc?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Publix navigates patchwork of county, city liquor store codes for new Havendale Boulevard site - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Jan 27, 2023",
-      "summary": "Publix navigates patchwork of county, city liquor store codes for new Havendale Boulevard site Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFI0V01PQjRWOS10M0dTSDZ3U1hEREkzZGprV1VaUTB1S3BMb0lwenJ3SUNuOGhfX2p5czNrWmhhaDU3NVAta2xLTDU0eEgzWEk0S3JPVFRzMWtHaEduX0s3UXhaMl9mNld4b1kzZjNBSkVXU0w5RjkyOWhEUlVua0ZRRGZyUm5hZlJmY25PV1RjRjczTUFWcm1uY2RiQ1EtQ1o0MklycEFqR1ZkTE1NZi1hZ0t2OHpLdktQU2dndDI4UmZtdVpCRFE2b0lNS0J6OGw5dGpWUXlJejVWMktkQ1UtNkU0Y0Y5UGsxcDBFazZyS3M?oc=5",
       "featured": false
     }
   ]
