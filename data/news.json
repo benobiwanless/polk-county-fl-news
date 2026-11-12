@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-12 10:16 UTC",
+  "last_updated": "2026-11-12 18:28 UTC",
   "feed_mode": "live-expanded",
   "items": [
+    {
+      "title": "Polk County farm among 3 permanently protected from future development - WFLA",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Update",
+      "date": "Nov 12, 2026",
+      "summary": "Polk County farm among 3 permanently protected from future development WFLA",
+      "source": "WFLA",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXNKNS1nZ1N2T19BRmtsNmczQUdycU53anpxNlJVa0NRbUV0N0RaejZINjYyTGxLLUx1QmdsdHVhYklGWlRJUERweVdNVGJBU29uanRHVWJWM2FrUWVNZmY5VF9zNDVDMzFXMW1mZ3czYVdLbmZwaUZ0YW1XbGc0Q2RhX2Y4RDBRUldidHZ0VHNzNEhwVE1ReW9aNzNEcEJyZmo4OG1fMjhFdkY2dFHSAbMBQVVfeXFMTmltNlBmVjljUDJnTlVpbXAxZWFKc0dnQ3ZpYVE1TUJkX1RNTXhWUF94eWEyQVl3elp4SElzaHZYWG1ydFVrSnllX2hTTTd2b2stVnl0aldUcGRjRE44cVEyZ1ZIOS11NmdSMHAyTllibVl4TmNLRUxOQXVZcUJRYnFhREY5YnFmdnV6bVJ4WGl0VnBDdHRlLWM1b0YzQUFtWTFnUDkzT2JGUk4yOWt0UE1BQkE?oc=5",
+      "featured": false
+    },
     {
       "title": "Data center planned for existing warehouse in Auburndale | Exclusive - Lakeland Ledger",
       "city": "Auburndale",
@@ -87,30 +99,6 @@
       "featured": false
     },
     {
-      "title": "Major data center planned for Polk County: What to know - WFLA",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Coming Soon",
-      "date": "Nov 09, 2026",
-      "summary": "Major data center planned for Polk County: What to know WFLA",
-      "source": "WFLA",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYmZudEpYejBpMWVFWS1YTl9SMHNIa1BZMmR1cklCSEJ0MFQ3V1RRYUJ2UEVFcXFwSWdub3cyV0VyVU9vZFlvX0Y3bUc3VS1tbUNPV0xxMlZabGpDM3dDSU9CRk1GaW5yNHJaNTVzckI0b3JiVS1xX1RnaU9ZbzNDWV9Uc3V3Z0ZfWVJEeE16dUdEaFBKRmFyU9IBngFBVV95cUxPZ3ZMRnNaTXMzNklEMUZJQXo1d0F6OXJVRFhjcGhiX2pWQmZiQk81Y1VlWGRMRWFweWJyeTNLQ21PYWQ2MXktTDI0VU05YXFYbFR2VUJmQWR2RnZuZnFVamR5VGJvLTl3dTBjYnNoblJhQ2xacjJ4dTdheHo1RzByZTlmMWtOMmR2bUllYUpLbUE5WE5QdVhyM0xhYVpxQQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Downtown Davenport restaurant to close after 16 years - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Oct 20, 2026",
-      "summary": "Downtown Davenport restaurant to close after 16 years KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0dRNmc2TjBfd28xSnoxUzlHdktlU1RrUGt0alRRYXgxQm9RWUh1Vm5xVnkzcmhzYnAzeUJ1ZkZDLW52QUxnRm5kdnFVRVplRVlJUTg0TTFBLWdDR3pqMXVVX3lHdXdCN0QydjcyMTBmN2V1bk9KN1F1aDdfcndDVUs2LXRJSUlpUkpv?oc=5",
-      "featured": false
-    },
-    {
       "title": "Davenport restaurant and spiritualist group partner on unique Halloween event - WVIK, Quad Cities NPR",
       "city": "Davenport",
       "category": "Restaurant",
@@ -135,18 +123,6 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel's Peacock Lounge closes Oct. 26 for renovations - NonStop Local KHQ",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "Oct 26, 2026",
-      "summary": "Davenport Hotel's Peacock Lounge closes Oct. 26 for renovations NonStop Local KHQ",
-      "source": "NonStop Local KHQ",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXdaUm9GdEFKc2YwVU1HRTF4YW56NVFhOThGRmFxVlRJcGlvQ2hWNGxsTnlDZEl0ZzlmNkF4TkhxeU9ORl81cUd0SW9QTkpOZkxoaDA3QklLblJidHFrbnBXUDl0d2YzdHBObmpMYjd6QTJPaTVmWHQzYUprS2JKakY1S2RHbFN3QjFieElnR2FtYm85LUh0SGJXRDk4el9VMm9YbFZYNmw2aWZEZ2FWRUg3b0twZEZHWDB6SnR5Vlk3aHZURG0xOVo2dERNck1oT3c?oc=5",
-      "featured": false
-    },
-    {
       "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
       "city": "Auburndale",
       "category": "Development",
@@ -156,6 +132,18 @@
       "source": "AdventHealth",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Downtown Davenport restaurant to close after 16 years - KWQC",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Oct 20, 2026",
+      "summary": "Downtown Davenport restaurant to close after 16 years KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0dRNmc2TjBfd28xSnoxUzlHdktlU1RrUGt0alRRYXgxQm9RWUh1Vm5xVnkzcmhzYnAzeUJ1ZkZDLW52QUxnRm5kdnFVRVplRVlJUTg0TTFBLWdDR3pqMXVVX3lHdXdCN0QydjcyMTBmN2V1bk9KN1F1aDdfcndDVUs2LXRJSUlpUkpv?oc=5",
       "featured": false
     },
     {
@@ -171,6 +159,18 @@
       "featured": false
     },
     {
+      "title": "Davenport Hotel's Peacock Lounge closes Oct. 26 for renovations - NonStop Local KHQ",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Oct 26, 2026",
+      "summary": "Davenport Hotel's Peacock Lounge closes Oct. 26 for renovations NonStop Local KHQ",
+      "source": "NonStop Local KHQ",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXdaUm9GdEFKc2YwVU1HRTF4YW56NVFhOThGRmFxVlRJcGlvQ2hWNGxsTnlDZEl0ZzlmNkF4TkhxeU9ORl81cUd0SW9QTkpOZkxoaDA3QklLblJidHFrbnBXUDl0d2YzdHBObmpMYjd6QTJPaTVmWHQzYUprS2JKakY1S2RHbFN3QjFieElnR2FtYm85LUh0SGJXRDk4el9VMm9YbFZYNmw2aWZEZ2FWRUg3b0twZEZHWDB6SnR5Vlk3aHZURG0xOVo2dERNck1oT3c?oc=5",
+      "featured": false
+    },
+    {
       "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
       "city": "Davenport",
       "category": "Development",
@@ -180,6 +180,18 @@
       "source": "VCU News",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport restaurant at risk of closing without community support - WQAD",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "Davenport restaurant at risk of closing without community support WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblJ0UVcyaE4xQXVjdUhzUVZzdzVHbUFKN3lwQUVVdE9Rd2UyeDQ4RlVYUnM5SkoxWXp0VDNBYmcxV3QwQXozT2FyemdodGhhRGYwZ0lVdlJSSlFpMWFPUHNrak5NNkQ5aXNHWHFnTklJTkRPYjhGXzVIczMxLUhIVFgtWklRNXB2YlpxWHUzczZmOHF5ZnotTm5wTlozTUtUYkRVWnJsVV85NllTakpwQkpoaG5OWlpoblNVWGR3NUUyT1RzYXgwaUVILUhxOEdSMnBNUDN5dE5la25ibjI4czln?oc=5",
       "featured": false
     },
     {
@@ -195,6 +207,18 @@
       "featured": false
     },
     {
+      "title": "Davenport University housing rated “top tier” by students - Davenport University",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jan 06, 2026",
+      "summary": "Davenport University housing rated “top tier” by students Davenport University",
+      "source": "Davenport University",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0lXZS1LTXYweWJpSldSNTUyaWl5Nk5EYk9uMndmMUUwc2ZuV1VSeHc2bFFxV0VvX3pYMTBySVZvQUtfY2YwUXJUUURlT0RMU29lU1lFMll4NHEwV2w1bU1ZMW9ONmtmX0ZyNmtDWnZmTEphZEhMZTVIbnpDbG1GTVJHOUZWTWVlV2EyNHh0cUFnbjdreWl2cDd3ZmF2X0t0blpQVzRQdFViQQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "New housing development aims to help homeless people in Davenport - KWQC",
       "city": "Davenport",
       "category": "Housing",
@@ -207,18 +231,6 @@
       "featured": false
     },
     {
-      "title": "Bubba’s 33 restaurant hiring 200 workers in Davenport - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 08, 2026",
-      "summary": "Bubba’s 33 restaurant hiring 200 workers in Davenport KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY09jTm40b3VTSUJ4OFpzR2dtcFIwbEl1YzRwOThuQ2lweHFzTHdGMWREdnhaX1k3V0pmY2s1ak8tOTZWWjR5a19WRnVtMGxzNVFWellWd1V1ZkU5aU5kcTFsVkpXYzRPcHlySnp3TG5YOHZwUWNpN096UE85UDFfTmdHUkRheWhWaWfSAZ4BQVVfeXFMUHBQYjVBelZIUUtjOTVPS3pjRU9FTzdiTGJjUFhXRlVpc1FUS3AwQm90NDRpNEEzVDBBWDR5MzBjQ3VhQUVZY1c2ZEhaaVhJT1Rid2V1em9fUEZ2OTI4cE5yZzBtcVg0T19XWC02X2FoLTB1X1hGRm5hU3kxd2pvbGpyZnhhQWJ6aEw2NktaN2pwVmNFbTZzdlNyWXMzRWc?oc=5",
-      "featured": false
-    },
-    {
       "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -228,18 +240,6 @@
       "source": "KWQC",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport University housing rated “top tier” by students - Davenport University",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jan 06, 2026",
-      "summary": "Davenport University housing rated “top tier” by students Davenport University",
-      "source": "Davenport University",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0lXZS1LTXYweWJpSldSNTUyaWl5Nk5EYk9uMndmMUUwc2ZuV1VSeHc2bFFxV0VvX3pYMTBySVZvQUtfY2YwUXJUUURlT0RMU29lU1lFMll4NHEwV2w1bU1ZMW9ONmtmX0ZyNmtDWnZmTEphZEhMZTVIbnpDbG1GTVJHOUZWTWVlV2EyNHh0cUFnbjdreWl2cDd3ZmF2X0t0blpQVzRQdFViQQ?oc=5",
       "featured": false
     },
     {
@@ -276,6 +276,30 @@
       "source": "City of Davenport",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDlMdGFXUDd0QVVnS3lBa3RmUE5rWmlVVUxOdmRfSkZZNTg1bGZveGtHSnBPR3ZVZ1AtczZIZGxZOGc5Z1N2QkMwakc1WEZMX05EMUhYdm1rYzJOa1IzLS04YmtOLW44bEtWV1RuTk9SSzV3QUtNWHlJa0NiekpQdlFkRTZlSlRnZHlZalFRb3VBVXRSZkIzLXgtNENubzQ3MTV2TkVzWGVJWHJQbzhV?oc=5",
+      "featured": false
+    },
+    {
+      "title": "The Louie, A Davenport Hotel - USA TODAY 10BEST",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Nov 24, 2025",
+      "summary": "The Louie, A Davenport Hotel USA TODAY 10BEST",
+      "source": "USA TODAY 10BEST",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTV2NUktR1phak1SZk5DOGJfR2U1XzVuT3VSYUhzWnNIanZjRzJXV2U4bThTY2h6NEx1VW1ENURjUTRhWlcxM3djcWJnaER1cmMxUkxpUXIwdXRJUlBjaTJuTmRTVThjcUh0Y1JHQkRXNS1ncHVUSUJVVjVTeF9nQVNibUo?oc=5",
+      "featured": false
+    },
+    {
+      "title": "The Davenport Hotel: delivering excellence in energy performance and energy efficient design - Sustainable Energy Authority Of Ireland | SEAI",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Jul 08, 2026",
+      "summary": "The Davenport Hotel: delivering excellence in energy performance and energy efficient design Sustainable Energy Authority Of Ireland | SEAI",
+      "source": "Sustainable Energy Authority Of Ireland | SEAI",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYTBvcGtFS0NMeE14ZFFHS1hhRU1uNmM4eXJTWnZBNEdoazJzRXNVNzdFaHlWbG1ZYXpaNzJINzdEUmR0bEdGcllPamJNblNvOVpIUlVjLVdaUk92NU1IcUZjZ0czVF9hVlYtMlRDeDE5SzBnY29DNXpJajVQaFA2OE5HQmZkSW5yUWJUMG8xMFJVcjgyRWd5NTNxZGpCWC11bmN6U1doY1dkNDJXWk43QnU3ellnamRO?oc=5",
       "featured": false
     },
     {
@@ -519,6 +543,18 @@
       "featured": false
     },
     {
+      "title": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) - Business Debut",
+      "city": "Auburndale",
+      "category": "Restaurant",
+      "status": "Grand Opening",
+      "date": "Jul 15, 2026",
+      "summary": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXFrdVlZaHltUEpicTMyYnJHU0hiYWQ5UWtEVUx3MkVLdDZDTE1yWmRTX0Y2S28welE5ZHVmVWJrbDd4dzkwLWplZkUxVUMzVE42c0J4Nl9EWWZ3Q1hyY183TmxjT3FHOGFLX2RQM1ZNRDFWZjlLUXZwOEtrZi13ZF9kOTN4ZE1oWmlYRlhfQjQtc1RXVHZLa0VxRQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "5 Coming Soon Polk County Restaurants - Business Debut",
       "city": "Polk County",
       "category": "Restaurant",
@@ -555,6 +591,18 @@
       "featured": false
     },
     {
+      "title": "Downtown Winter Haven Restaurant Relocating After 26 Years - Business Debut",
+      "city": "Winter Haven",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Feb 23, 2026",
+      "summary": "Downtown Winter Haven Restaurant Relocating After 26 Years Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjUxbVN6V3EybU11U1ZLX181LWR3Ykh1QUpaVE4wdnpvY3UzUU45UzE2WjZTaUNfdW5nWnM1aFowVmVPWFF2aWMyajFoVXhIYTZWZzhQQWFpMjlRbmRNaWplNDdtMUFaQXRMWmVfVXJpR29vSUx6X3hOVll4Sk1Rc3ZvdG5hRnFSZlVkcUNHcDVRYkk?oc=5",
+      "featured": false
+    },
+    {
       "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
       "city": "Polk County",
       "category": "Restaurant",
@@ -564,18 +612,6 @@
       "source": "Business Debut",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
-      "featured": false
-    },
-    {
-      "title": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) - Business Debut",
-      "city": "Auburndale",
-      "category": "Restaurant",
-      "status": "Grand Opening",
-      "date": "Jul 15, 2026",
-      "summary": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXFrdVlZaHltUEpicTMyYnJHU0hiYWQ5UWtEVUx3MkVLdDZDTE1yWmRTX0Y2S28welE5ZHVmVWJrbDd4dzkwLWplZkUxVUMzVE42c0J4Nl9EWWZ3Q1hyY183TmxjT3FHOGFLX2RQM1ZNRDFWZjlLUXZwOEtrZi13ZF9kOTN4ZE1oWmlYRlhfQjQtc1RXVHZLa0VxRQ?oc=5",
       "featured": false
     },
     {
@@ -903,18 +939,6 @@
       "featured": false
     },
     {
-      "title": "New Publix opening soon amid a plethora of East Polk housing developments - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Grand Opening",
-      "date": "Feb 27, 2025",
-      "summary": "New Publix opening soon amid a plethora of East Polk housing developments Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDR1Nlpoc3gtQm03R0FvTkZTdVQzeHgyVVhkREphYl9idTg3Q0tKdkMwbmxXMjA3Z0lveEp2OU1KV2FRbXRZZmQ4TnlGdHZzZ0ZKbUY1dTBzZV9TSmY5b1hiN0ltLVlKaDB2TVpCSlJEb2todnM2dnp6ZUpvd0hsVFZmMC03VXpCRE41RUx4dVV1TWNBVUNCTDFnTUpvdzF3QVI1RjVMaUs5bDMzXzZDODhjMDJlNXdrdnNuaU1ubXZ4ODJOUl9JVlpKby1SVWlxS0Rz?oc=5",
-      "featured": false
-    },
-    {
       "title": "National big-box store will anchor massive new shopping center under construction in Haines City - Lakeland Ledger",
       "city": "Haines City",
       "category": "Retail",
@@ -960,6 +984,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVlxbGRCVm9WNDVsSUwtU280QjYzWHlmR2Jid3JLNVVudHUxSHdLMThKVG55SjAxdE9BdXpObGFwMXQ2RFk1d0s5UU5pSVI1eW9PRHFubmdkRDh4YmlYbjFIVkFpM0wzRUhVdUFSVDNwaVE4djRpcHNacTRWTFRjRkRrQjhXR2tIRjZ4WlcxWk5rWFNTd0Y2ZENZc0lUWi1falI4ME9yX3R0THFkZWhRa25R?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New Publix opening soon amid a plethora of East Polk housing developments - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Grand Opening",
+      "date": "Feb 27, 2025",
+      "summary": "New Publix opening soon amid a plethora of East Polk housing developments Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDR1Nlpoc3gtQm03R0FvTkZTdVQzeHgyVVhkREphYl9idTg3Q0tKdkMwbmxXMjA3Z0lveEp2OU1KV2FRbXRZZmQ4TnlGdHZzZ0ZKbUY1dTBzZV9TSmY5b1hiN0ltLVlKaDB2TVpCSlJEb2todnM2dnp6ZUpvd0hsVFZmMC03VXpCRE41RUx4dVV1TWNBVUNCTDFnTUpvdzF3QVI1RjVMaUs5bDMzXzZDODhjMDJlNXdrdnNuaU1ubXZ4ODJOUl9JVlpKby1SVWlxS0Rz?oc=5",
       "featured": false
     },
     {
@@ -1044,42 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWNEZy1QbWlaazVwZmE2TjktdVN4QWNNTllxcllGN0lwZUtFZjl5S1Y2ay12MUxzN1FnLUFEdE1nMmZIb05TTEl2QTZmRWhNTDZQTEVCcndDLUd2NGhmaDBhVFlOc05VdjlUeXFIMkprX3dtNkQ5RTFSRVVld3JmZllLRkdNT2k4MERuQW55eEhORWZVUExYTkplRVdObWpWd1Bzdy1rVWRXNWNPalBQczJqUEFudmpxYTJYVEVwVHUyV2o2VjB1VE82eDgtUlFVaHdvbkI3WTNFQQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 10, 2004",
-      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County commissioners to consider 242-home subdivision in rural Kathleen - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 18, 2022",
-      "summary": "Polk County commissioners to consider 242-home subdivision in rural Kathleen Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRjZWbk5ob3ZIaVZmUDRRUmY3QjZ6VTVqTVJjWUUwLWFJSlZfQVI0SzZnZ0NuWUZpVU9VNnJDZTdTYmJRY2I3M1hUd2FTa3ZEMTQ4cU9ETUR4MjYzTzY4TGFITWt3aHRFRjdxUGtaNlVHcWdNYi1DMVhnNzRLTXNFU1RxMlhDZlEwMkJ3UFhsTlpGUmlreDVzaWxfLW9FVXFxSFJEOXBVQ0w2SnNSaHlBQkFXM1JBOExQREFPNzZOdUlmMFVuRGFtdEdoYUNpOUFuZE9CYlI1SVNMTHoxZFlpM0RUS3gxVUEzS2Q4?oc=5",
-      "featured": false
-    },
-    {
-      "title": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Infrastructure",
-      "status": "Coming Soon",
-      "date": "May 07, 2006",
-      "summary": "BridgeWater, a Luxury Golf Course Development Being Built off S.R. 33 in Lakeland, Is About a Fifth the Size Planned for in 1992 Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1ZBU0VXMUY0Y0JUOGNicThrNC1Gb09SQms4MlRfVE13MzJMZTZKZlozX1ktTG5VUnMzTkVfSHUwdEEzQ1RIOUdkamRIYU9SZlVnaVZFN2VXYVNVX01leVFDU096LUN1TDJmSW9DVkR0aVhZYUUxMTUxRXUwcnFHbVdiTVcteHpZbnNKeWRhaERCSERnX29zZnRNUTFzNVpYaTU5MEFGOEh4NjFnU3M3N2dZMDl2cTlQanc?oc=5",
       "featured": false
     }
   ]
