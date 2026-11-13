@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13 03:36 UTC",
+  "last_updated": "2026-11-13 11:31 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -111,6 +111,18 @@
       "featured": false
     },
     {
+      "title": "Davenport Hotel's Peacock Lounge closes Oct. 26 for renovations - NonStop Local KHQ",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Oct 26, 2026",
+      "summary": "Davenport Hotel's Peacock Lounge closes Oct. 26 for renovations NonStop Local KHQ",
+      "source": "NonStop Local KHQ",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXdaUm9GdEFKc2YwVU1HRTF4YW56NVFhOThGRmFxVlRJcGlvQ2hWNGxsTnlDZEl0ZzlmNkF4TkhxeU9ORl81cUd0SW9QTkpOZkxoaDA3QklLblJidHFrbnBXUDl0d2YzdHBObmpMYjd6QTJPaTVmWHQzYUprS2JKakY1S2RHbFN3QjFieElnR2FtYm85LUh0SGJXRDk4el9VMm9YbFZYNmw2aWZEZ2FWRUg3b0twZEZHWDB6SnR5Vlk3aHZURG0xOVo2dERNck1oT3c?oc=5",
+      "featured": false
+    },
+    {
       "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
       "city": "Davenport",
       "category": "Housing",
@@ -120,18 +132,6 @@
       "source": "John Deere",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NSTJ5WGFDMGNHS3FyRU0yVy1hVmRjSVg4Z1JOWjlUcHB0dzgza1Zlb1lhQmtZZzkyamNTMGFNcnVSSElSNWpUSTdjM3k5Ukl6bTluS1hhbHVpa2w3YkhwYmVteG0yLTRSeW9KOEV1eENIRHFSbWlFajc1bXU?oc=5",
-      "featured": false
-    },
-    {
-      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
-      "city": "Auburndale",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 27, 2026",
-      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
-      "source": "AdventHealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
       "featured": false
     },
     {
@@ -147,39 +147,15 @@
       "featured": false
     },
     {
-      "title": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane - Hospitality Net",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "May 20, 2026",
-      "summary": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane Hospitality Net",
-      "source": "Hospitality Net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQk1MQXVub3hiaXd4TEVJTXhaZjZZUlEtNVRUaU9wbHBwRU9aNlVYRy1ldy1XLTFpdGRLaWprT3ZUZzRqSFktYXNSYTNZOEI0Z0pNbmNxSzExd3hfa2tkbndZU1MwVi1sS0ZFU2lJNGF3Q3F2TDhUeFhMaGxWNXhmWmdHR1pjN3V4dUo4Qm9MdVVnX1VlLWJVVmRjcVV5eVgzQktScEoxLTBzYklMMU5HYThqSVpQMUp6S2hPYTM0VkFfdE9faVdLd1ZnLWFXWU13bFhTTUxmcks3NGpySVdVZFFLbWJHVWlJbU91UzU4N2FaUzlMcjZndlRxTWdJejhPYWo5S21zUGdkaU5aR0djcFlpR18?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
-      "city": "Davenport",
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
+      "city": "Auburndale",
       "category": "Development",
       "status": "Update",
-      "date": "Jan 09, 2026",
-      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
-      "source": "VCU News",
+      "date": "Jul 27, 2026",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
+      "source": "AdventHealth",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport Hotel's Peacock Lounge closes Oct. 26 for renovations - NonStop Local KHQ",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "Oct 26, 2026",
-      "summary": "Davenport Hotel's Peacock Lounge closes Oct. 26 for renovations NonStop Local KHQ",
-      "source": "NonStop Local KHQ",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXdaUm9GdEFKc2YwVU1HRTF4YW56NVFhOThGRmFxVlRJcGlvQ2hWNGxsTnlDZEl0ZzlmNkF4TkhxeU9ORl81cUd0SW9QTkpOZkxoaDA3QklLblJidHFrbnBXUDl0d2YzdHBObmpMYjd6QTJPaTVmWHQzYUprS2JKakY1S2RHbFN3QjFieElnR2FtYm85LUh0SGJXRDk4el9VMm9YbFZYNmw2aWZEZ2FWRUg3b0twZEZHWDB6SnR5Vlk3aHZURG0xOVo2dERNck1oT3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
       "featured": false
     },
     {
@@ -207,75 +183,15 @@
       "featured": false
     },
     {
-      "title": "Davenport University housing rated “top tier” by students - Davenport University",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jan 06, 2026",
-      "summary": "Davenport University housing rated “top tier” by students Davenport University",
-      "source": "Davenport University",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0lXZS1LTXYweWJpSldSNTUyaWl5Nk5EYk9uMndmMUUwc2ZuV1VSeHc2bFFxV0VvX3pYMTBySVZvQUtfY2YwUXJUUURlT0RMU29lU1lFMll4NHEwV2w1bU1ZMW9ONmtmX0ZyNmtDWnZmTEphZEhMZTVIbnpDbG1GTVJHOUZWTWVlV2EyNHh0cUFnbjdreWl2cDd3ZmF2X0t0blpQVzRQdFViQQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Move to Electronic Permit Application System - City of Davenport",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Approved",
-      "date": "Apr 25, 2024",
-      "summary": "Move to Electronic Permit Application System City of Davenport",
-      "source": "City of Davenport",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDlMdGFXUDd0QVVnS3lBa3RmUE5rWmlVVUxOdmRfSkZZNTg1bGZveGtHSnBPR3ZVZ1AtczZIZGxZOGc5Z1N2QkMwakc1WEZMX05EMUhYdm1rYzJOa1IzLS04YmtOLW44bEtWV1RuTk9SSzV3QUtNWHlJa0NiekpQdlFkRTZlSlRnZHlZalFRb3VBVXRSZkIzLXgtNENubzQ3MTV2TkVzWGVJWHJQbzhV?oc=5",
-      "featured": false
-    },
-    {
-      "title": "New housing development aims to help homeless people in Davenport - KWQC",
-      "city": "Davenport",
-      "category": "Housing",
-      "status": "Update",
-      "date": "Jul 15, 2026",
-      "summary": "New housing development aims to help homeless people in Davenport KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport Hotel launches new holiday tradition with inaugural tree-lighting celebration - The Spokesman-Review",
+      "title": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane - Hospitality Net",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Update",
-      "date": "Nov 29, 2025",
-      "summary": "Davenport Hotel launches new holiday tradition with inaugural tree-lighting celebration The Spokesman-Review",
-      "source": "The Spokesman-Review",
+      "date": "May 20, 2026",
+      "summary": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane Hospitality Net",
+      "source": "Hospitality Net",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdS03QUpMWnBJMzFEdkZyOUhvU1VOb3JaMWtQdURmQUVoRzJjVU1pYS1GZ3hycU16SnRrTFZtZFk3UzV6OExneEV3VXl1cUdPSjd0U2x3WHpHdXliV29PSUdwdmhuYzRZZVJXY0hoTVFFUkxVcW9OZG1sUDBoUEMzYmJvTE5iYjluT1oyR29wZnI2TkhWcnlPUFpsbDl2dw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 20, 2026",
-      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "The Louie, A Davenport Hotel - USA TODAY 10BEST",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "Nov 24, 2025",
-      "summary": "The Louie, A Davenport Hotel USA TODAY 10BEST",
-      "source": "USA TODAY 10BEST",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTV2NUktR1phak1SZk5DOGJfR2U1XzVuT3VSYUhzWnNIanZjRzJXV2U4bThTY2h6NEx1VW1ENURjUTRhWlcxM3djcWJnaER1cmMxUkxpUXIwdXRJUlBjaTJuTmRTVThjcUh0Y1JHQkRXNS1ncHVUSUJVVjVTeF9nQVNibUo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQk1MQXVub3hiaXd4TEVJTXhaZjZZUlEtNVRUaU9wbHBwRU9aNlVYRy1ldy1XLTFpdGRLaWprT3ZUZzRqSFktYXNSYTNZOEI0Z0pNbmNxSzExd3hfa2tkbndZU1MwVi1sS0ZFU2lJNGF3Q3F2TDhUeFhMaGxWNXhmWmdHR1pjN3V4dUo4Qm9MdVVnX1VlLWJVVmRjcVV5eVgzQktScEoxLTBzYklMMU5HYThqSVpQMUp6S2hPYTM0VkFfdE9faVdLd1ZnLWFXWU13bFhTTUxmcks3NGpySVdVZFFLbWJHVWlJbU91UzU4N2FaUzlMcjZndlRxTWdJejhPYWo5S21zUGdkaU5aR0djcFlpR18?oc=5",
       "featured": false
     },
     {
@@ -291,6 +207,66 @@
       "featured": false
     },
     {
+      "title": "New housing development aims to help homeless people in Davenport - KWQC",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jul 15, 2026",
+      "summary": "New housing development aims to help homeless people in Davenport KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJmeGJ2anJicXhoTmlZSFlfNEFqc2p2c1lWQVJPVGRLWm1LVnE1YmJIUDkwT1NtVGM1SFQtR3ExQUdFTXF0WFUzUE1ibmNsWVBqMTJMOTNoSzdJZGV6UGtRNTdaTjFySHZ4OGh4WHhxZTdYQWp6elhoYUl5aUQ4bElfVVB3U0tiOWJ3VnVZNE4zV3ZxNC000gGrAUFVX3lxTE1Fd2FpY0VYb0g4V1BWZGk2dUt0T0M5ejA0RjRfdjBXM2IyYVQ5V29UTFJqaHQ2NE1NT2xNYXNHNEF6NHZwVnBkV1dzN1NpNlZGTkdVYjBzZ09CajQzZWhzdFBIbGxFbVFZc3hWajlrS05rUHktZkJCcmhIaWp6QklBOExSNHhVUXBESW5INkhzZ3NBZFNmVkhmTXIzZURLUG9DcmRPQ2FGUW8xaw?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State - VCU News",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 09, 2026",
+      "summary": "Jay Davenport, VCU vice president for development and alumni relations since 2017, to take same post at Penn State VCU News",
+      "source": "VCU News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdCT0FPd1lyN0JKTThoRVBnZTNlZUlFaXItckt5NEJ3Tnhma195UGc5YnJFaGo4ODBGLVZuWi02YV9melVYN0Q1Y1VmRlc4SFF0ZmVraUs1UnM1RUV1MGROWUs2U0MxVzlEdWx4TE9vdWtteFpkelV2VUo0ZUpaSjVTQVJadE1kcjRwOHJlSHcxYzVuQzJDRDdqVkFrVzQwNFc2NW4yaktReFQ1N0RGMkhmNlBYNVRLdzRpZHhndWI3d2M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Move to Electronic Permit Application System - City of Davenport",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Approved",
+      "date": "Apr 25, 2024",
+      "summary": "Move to Electronic Permit Application System City of Davenport",
+      "source": "City of Davenport",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDlMdGFXUDd0QVVnS3lBa3RmUE5rWmlVVUxOdmRfSkZZNTg1bGZveGtHSnBPR3ZVZ1AtczZIZGxZOGc5Z1N2QkMwakc1WEZMX05EMUhYdm1rYzJOa1IzLS04YmtOLW44bEtWV1RuTk9SSzV3QUtNWHlJa0NiekpQdlFkRTZlSlRnZHlZalFRb3VBVXRSZkIzLXgtNENubzQ3MTV2TkVzWGVJWHJQbzhV?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport University housing rated “top tier” by students - Davenport University",
+      "city": "Davenport",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Jan 06, 2026",
+      "summary": "Davenport University housing rated “top tier” by students Davenport University",
+      "source": "Davenport University",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0lXZS1LTXYweWJpSldSNTUyaWl5Nk5EYk9uMndmMUUwc2ZuV1VSeHc2bFFxV0VvX3pYMTBySVZvQUtfY2YwUXJUUURlT0RMU29lU1lFMll4NHEwV2w1bU1ZMW9ONmtmX0ZyNmtDWnZmTEphZEhMZTVIbnpDbG1GTVJHOUZWTWVlV2EyNHh0cUFnbjdreWl2cDd3ZmF2X0t0blpQVzRQdFViQQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
+      "city": "Davenport",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Jun 20, 2026",
+      "summary": "The Phoenix, Downtown Davenport restaurant, calls on community for support KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajFOUjRXMVpGT285dGFzWGVwRnhhb3NtQnFSMTB0b1Y0TG9VRmhIYThvYjY3d0ppWUEweVVUWEEzZ2RCcTJMQjR6Z3JsdWU5bG03X2gtTWs0THllQm9DcnlUTjFXY0F2b2xUeTR6U0JUNEdkVVhpLWx3bUJXRUxmajFPVmNIZUQ4NWtlTVVyUUsxdGQyNnc0TXV30gGuAUFVX3lxTE9zTzh5dTZXNWtDUktxVlo4dERZWkNNN1NxZ0poNFZVcjgtbXhFS3VuWnp6aVV6QmRacXpmNHZaa3c5TjZjNmVnbHVXMjZMZE5mbzlKY0RSUVJoMDAzZEFJNHFQREYzOExhSHRZMkh6N19UN1AwRTdGd0pBcEJfT1F0VFNwUUJtUVpCTHZoN0YzTHgxelNHYVpFRHBWeS1VT090eExveDgydW9YZmw3UQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "The Davenport Hotel is an integral part of Spokane’s identity. A new MAC exhibition looks back on their shared history - inlander.com",
       "city": "Davenport",
       "category": "Hotel",
@@ -303,6 +279,18 @@
       "featured": false
     },
     {
+      "title": "Davenport Hotel launches new holiday tradition with inaugural tree-lighting celebration - The Spokesman-Review",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Nov 29, 2025",
+      "summary": "Davenport Hotel launches new holiday tradition with inaugural tree-lighting celebration The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdS03QUpMWnBJMzFEdkZyOUhvU1VOb3JaMWtQdURmQUVoRzJjVU1pYS1GZ3hycU16SnRrTFZtZFk3UzV6OExneEV3VXl1cUdPSjd0U2x3WHpHdXliV29PSUdwdmhuYzRZZVJXY0hoTVFFUkxVcW9OZG1sUDBoUEMzYmJvTE5iYjluT1oyR29wZnI2TkhWcnlPUFpsbDl2dw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Meet & Greet: Melissa Green, Vice President, Area Managing Director, Davenport Hotel Collection - Spokane Journal of Business",
       "city": "Davenport",
       "category": "Hotel",
@@ -312,6 +300,18 @@
       "source": "Spokane Journal of Business",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa2NFazRMdXpHYzZsV3MwREdqNnAtaWtzUTc2VG55MmpNR1RLZnN1RmdtbTI1aG9OWmRWcjRTVFBldENvNU5SaHgzcHpNWHA1ZmhfckdGd21JT0ZaTHZkVWZ6SFc5WFBXU1FOX0UxaTBFbTNrNTN3eTlBTTlyWkNSSWFscW1fMjBjTFpsZlp6RFZJaUlvc3R4RE9velRQdUxYcU0yaldLN3hTNmNxOFoyWjdZMTBxRUdpaUV1NnptbG1FbEQtZmtjbmFPTmNDSEhfZVVyY0FJS3cyOGJrd0YwaWJnNmlPQQ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Meet The Louie; Davenport Hotels unveils new boutique hotel - KXLY.com",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Aug 25, 2025",
+      "summary": "Meet The Louie; Davenport Hotels unveils new boutique hotel KXLY.com",
+      "source": "KXLY.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHVGZzRMR09mZk5lMmN6ZXhqb3lIVGZ5clhUYjRQbjczN2s5TXZtOEM4bHNfeTMzTzJxcFNUbVR5U1JTN2RpTjVlaDB0VzRkdm1aeDluc0VjTGFlRENnWFJ0bzJMd0FyYmRqd0RKZXdET3V6eXRMYklacHkzbzhkZF9Hd0xBYnVMR2lWb1I4T2E3cmhFQnJVSG5nVXMxak5wQVNYbzRJRmlLdGstRkN6X0ttVzgzNEJ2VW94bkxkSktIS0Y4dGNFNEJDZXNxRHc?oc=5",
       "featured": false
     },
     {
@@ -363,15 +363,15 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - TBBW",
-      "city": "Polk City",
+      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
+      "city": "Polk County",
       "category": "Development",
       "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp TBBW",
-      "source": "TBBW",
+      "date": "Jul 14, 2026",
+      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
+      "source": "Coosa Valley News",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
       "featured": false
     },
     {
@@ -387,15 +387,15 @@
       "featured": false
     },
     {
-      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
-      "city": "Polk County",
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - TBBW",
+      "city": "Polk City",
       "category": "Development",
       "status": "Update",
-      "date": "Jul 14, 2026",
-      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
-      "source": "Coosa Valley News",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp TBBW",
+      "source": "TBBW",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
       "featured": false
     },
     {
@@ -423,6 +423,18 @@
       "featured": false
     },
     {
+      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 04, 2025",
+      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "PCPS Preparing for High School Rezoning - Polk County Public Schools",
       "city": "Polk County",
       "category": "Community",
@@ -447,18 +459,6 @@
       "featured": false
     },
     {
-      "title": "Polk planning board rejects zoning change for HCA hospital in South Lakeland. What's next? - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Approved",
-      "date": "Oct 05, 2022",
-      "summary": "Polk planning board rejects zoning change for HCA hospital in South Lakeland. What's next? Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU9sSEVaWU96TWpnbXNHZUc4bDRaMWxBMGVhR0dFMld0dklQU3hiaXF4NzJTYVR4a2JwdE5SV0x5SHBCYUR4NktldlJYWVM4Q2Eyb01WUnk4a2tNWE5nclJSY1NnNHI0Y1ZFUWNxaDM5WkUyQ2hiYUZQelBRU1RlZUxxLWhJbi1UYW1xeHdmQ1UzVHR2alVuaGdPbGt6TVBld0R2ZEUteFMyZTliWGVFN1N5dFFOX1VPSndyc1pkWTExWjBJ?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
       "city": "Polk County",
       "category": "Community",
@@ -468,6 +468,18 @@
       "source": "WFLA",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFB4Zzh2eldnTVlFcDlpeWdnR3RJSVZVcDNQZXBuY2h2UkMyVVFGZjVMT1RBOFpGcFhJVWlQZ05OM0ZZeDl1UnNkR29IcWpJVUxEVHNkOTBWY2d1UzRoN3h3b0tXcHNGM3FaWG1kbWVJT0VrdS11ZU1Kd0lmWlhKWlRYZE8tWE9qWW9ET1ZiWm1wQnhLSUoxN2xwMjItRXprWlpVdV84WHFNbWp5LXBYczBMUFFVelBoM01WSmh2WDN0UdIBxwFBVV95cUxNTF9meGZJUVFjRkZCcENRcFJyYjJVU054T1M2MEY0N3dZaWJnYk8zRElTWHMwM0Zqc3YxYlV5QVA2S0dGWVJZWnBpaVNrV3BmS1JuanpCeEJscXRDdnczTTJ0YURROE1VbmtSUjZ4eUlhVXIwR3JVV0d0WjNJUnVHOXF6azR0UUhHd3hzc091TGdaQ1c5ZktidTNxak1pTUsteExHOVZmbEtmZ3ZkT2stUDNfN3YwTUt6RTRVczVRNnV4LXJlYndZ?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Some Polk County parents express worry as high school rezoning plans take shape - Tampa Bay 28",
+      "city": "Polk County",
+      "category": "Community",
+      "status": "Coming Soon",
+      "date": "Aug 28, 2025",
+      "summary": "Some Polk County parents express worry as high school rezoning plans take shape Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkxyODNuSm5Ja3pXQW9kOVFOU1NHZnBjUVpQeGZsNzItTTM1bnBWTFVVWXphZUNUUWtzbUFqVjBqeUZIUFMyclg1azVvczJUTS1UaVN6S3FpMU1vTVhGMVJoZXdQNVJBeFBGY2dhdDcwN1JyZ1NKVUc0c2J6QjdkaG9WVGU3Z0I0dGlYemN5aU53MjVfSF9oa3NqT0lIYUFOOVBtbXRac0pVc1NpQlJvbnZwQzhBMTdqendrTzhIZU4?oc=5",
       "featured": false
     },
     {
@@ -495,27 +507,15 @@
       "featured": false
     },
     {
-      "title": "Polk County Schools is looking at high school rezoning options - Tampa Bay 28",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 04, 2025",
-      "summary": "Polk County Schools is looking at high school rezoning options Tampa Bay 28",
-      "source": "Tampa Bay 28",
+      "title": "Polk planning board rejects zoning change for HCA hospital in South Lakeland. What's next? - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Development",
+      "status": "Approved",
+      "date": "Oct 05, 2022",
+      "summary": "Polk planning board rejects zoning change for HCA hospital in South Lakeland. What's next? Lakeland Ledger",
+      "source": "Lakeland Ledger",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9Za05yX19aVFZWR3ItQ2xHM3ZRRHhLZ1kyQ0V4ZjI0a0VxVXExcEFCMVg3aWNzMmNTSzAtV0tTSDUwUmI3M3pPODVScVdpbkxETFJlMVZCbGUwRWxSLU5Qa1lNRktYZE1hY2FUekY3QnFRQW1rd0ZRNVc4X3BPdUVyVm5zaDdBbHdQc1Vrd2VTUWs4d3B2TWd3dG5IOHJud1MzR3Zuel95QQ?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Some Polk County parents express worry as high school rezoning plans take shape - Tampa Bay 28",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Coming Soon",
-      "date": "Aug 28, 2025",
-      "summary": "Some Polk County parents express worry as high school rezoning plans take shape Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkxyODNuSm5Ja3pXQW9kOVFOU1NHZnBjUVpQeGZsNzItTTM1bnBWTFVVWXphZUNUUWtzbUFqVjBqeUZIUFMyclg1azVvczJUTS1UaVN6S3FpMU1vTVhGMVJoZXdQNVJBeFBGY2dhdDcwN1JyZ1NKVUc0c2J6QjdkaG9WVGU3Z0I0dGlYemN5aU53MjVfSF9oa3NqT0lIYUFOOVBtbXRac0pVc1NpQlJvbnZwQzhBMTdqendrTzhIZU4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU9sSEVaWU96TWpnbXNHZUc4bDRaMWxBMGVhR0dFMld0dklQU3hiaXF4NzJTYVR4a2JwdE5SV0x5SHBCYUR4NktldlJYWVM4Q2Eyb01WUnk4a2tNWE5nclJSY1NnNHI0Y1ZFUWNxaDM5WkUyQ2hiYUZQelBRU1RlZUxxLWhJbi1UYW1xeHdmQ1UzVHR2alVuaGdPbGt6TVBld0R2ZEUteFMyZTliWGVFN1N5dFFOX1VPSndyc1pkWTExWjBJ?oc=5",
       "featured": false
     },
     {
@@ -567,18 +567,6 @@
       "featured": false
     },
     {
-      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
-      "city": "Polk County",
-      "category": "Restaurant",
-      "status": "Coming Soon",
-      "date": "May 30, 2026",
-      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
-      "source": "Business Debut",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
-      "featured": false
-    },
-    {
       "title": "2 New Restaurants Opening in Downtown Auburndale (owner intervews) - Business Debut",
       "city": "Auburndale",
       "category": "Restaurant",
@@ -624,6 +612,18 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWs0eGhoOHF2YlpFWTFaSW5JaVNfWFM3OU5CNzlNNV9qTDBFVnJ5Q25SUHRoWS0zLTRwMkViSmI2YWJsYWtNWEl0M2w2SklxeDNQS0tHc3R2NnloSi1jcjdJaGdZTmhsNFlKM2VsQXhoODJHWk9YWkxFQ0JhZzRSSGwtenUzUnY2Y01lVWREeWIzdmNzdXg3YmdTTGR3Rm1pcEJ3OGN6QTZsNTlCalkzVHZURVFMejlPVHZpTkVpc0Nnb0ZPRWhv?oc=5",
+      "featured": false
+    },
+    {
+      "title": "A Look at 3 Restaurants Coming Soon in Polk County - Business Debut",
+      "city": "Polk County",
+      "category": "Restaurant",
+      "status": "Coming Soon",
+      "date": "May 30, 2026",
+      "summary": "A Look at 3 Restaurants Coming Soon in Polk County Business Debut",
+      "source": "Business Debut",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJsVzZWUHFtczVhYUVxUl9oYWVOclJDc1JSLThkVlRPYnVGWWlqd29rMVV4YS1sTTNvU3VGS3YtYm1wNGJuU0JZMTFESFBlZ0c2NlR6YkJzRzFjMDZ1Nlp0b1pQUlZnclRMNGE2LWRlSjlnVG8zU1hSdENxUDNnRnoxOG05UmR1?oc=5",
       "featured": false
     },
     {
@@ -771,18 +771,6 @@
       "featured": false
     },
     {
-      "title": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay - WFTV",
-      "city": "Davenport",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Jun 21, 2026",
-      "summary": "CAVA opens new Davenport restaurant, raises funds for Feeding Tampa Bay WFTV",
-      "source": "WFTV",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnE2OFFQQWcyNEJyVlJBWS15anRhRUFfUTNRdGRzclVQXzRPRXRRVW8xdkZjQjVpQlludkJWZ2RsQ3JZWm9Ob2ZBTHNRVXZsTzVWMHlZUFR0M1ZiWS1zMUlhLVo2Ym9fWlFJSGJSMVpqZHkydG9wV1M4Z2VzOUF2V3UyN1ljOGRVRUxsRjFLRVFOcENDQkFjU2x0TndTVnduM3pxWkZtVmZpSW55dWE2UW5xM2dqdjFrY3d0V08yVlVvWG520gHYAUFVX3lxTE1qOWI5VXoyd2phRmEtOTI2WDJqcFpUdF9BeG40TGNxN1RMSWNJMy0tNk1zNFFVRDloZEZRbGZsSTBySi1YdWJrSFVkWi11R3kzbWJibjJFTUlCZFJWckNWOFd3SkJETWdvMy16Y1oyQ0hHeXpZbUV3LVhhclNYaXNfcVU4b2ozSUR4RUlOa3hYank0eHlFcHE3Yjg1M3JpNFh5MGVNMUo2V29sYjRyaFhNQ1kwVlktYTZINjZvenpEWDlHZXlxSTRrM011cUgyZlJHY1c1NHdiUw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Davenport sheriff's office substation to hold grand opening - KSBW",
       "city": "Davenport",
       "category": "Commercial",
@@ -867,18 +855,6 @@
       "featured": false
     },
     {
-      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - WQAD",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Jan 13, 2026",
-      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport WQAD",
-      "source": "WQAD",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckNUMF85VF8xYU5ybjk2a1hRTUJjRFNUSTQ0blRaV19nbjR6RWFSWldOb1VoWVZRUDNOZFJlUTBxYWdiclRiclFaaDhINWg2c011Q2tCalY3eDlUbXZNZVdsOVN5SUZIRjcwSHFSemtBeXp5eFZUUzZrTW5KcGFrOVdfOTkzYXZBWW9LSGhJSXl4Y1VaNnUzV1N5Z0lVMWlpM29nZGExNTFUTWVXTjE1OEdVVDUxalpMSF93S3Y0VVJKZllWRG1vOGlKUEllMEs5WU5qSF9SSXBPM1luYXJLdGVfaHJCZ0hz?oc=5",
-      "featured": false
-    },
-    {
       "title": "Coming Soon to Downtown Lakeland: ‘Market on Kentucky’ - LkldNow",
       "city": "Lakeland",
       "category": "Development",
@@ -888,6 +864,18 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbE5VU2lqZTZTVEdpZnU4ZGVDN0NZcEVtcWZ4OUlPQzNFMjFiVV94cEpQUV9tNHpiRjRoLS13V1F2SUwwLW8xRUhtVXJxWmx1bVlzSk9qVWx4MTFkNG9IYWZBbWhLaXc4Nkk0YnU3SDhSYnVQd3htV0NyZnI1LW15RnZB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Chocolate Manor celebrates grand opening under new family ownership in Davenport - WQAD",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jan 13, 2026",
+      "summary": "Chocolate Manor celebrates grand opening under new family ownership in Davenport WQAD",
+      "source": "WQAD",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckNUMF85VF8xYU5ybjk2a1hRTUJjRFNUSTQ0blRaV19nbjR6RWFSWldOb1VoWVZRUDNOZFJlUTBxYWdiclRiclFaaDhINWg2c011Q2tCalY3eDlUbXZNZVdsOVN5SUZIRjcwSHFSemtBeXp5eFZUUzZrTW5KcGFrOVdfOTkzYXZBWW9LSGhJSXl4Y1VaNnUzV1N5Z0lVMWlpM29nZGExNTFUTWVXTjE1OEdVVDUxalpMSF93S3Y0VVJKZllWRG1vOGlKUEllMEs5WU5qSF9SSXBPM1luYXJLdGVfaHJCZ0hz?oc=5",
       "featured": false
     },
     {
@@ -903,18 +891,6 @@
       "featured": false
     },
     {
-      "title": "Davenport’s first charter school now open - KWQC",
-      "city": "Davenport",
-      "category": "Community",
-      "status": "Grand Opening",
-      "date": "Aug 27, 2025",
-      "summary": "Davenport’s first charter school now open KWQC",
-      "source": "KWQC",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RQUVTNW10anc2c0dYM20ydUJfX25NREdsUHVtMmdUaUQydEI0TDZFMkJONGlTNlBELTdtakcyLTlDWUc3czdqSWlnems2S05iMkdBUTFnY2liYU1vdktKdTVNSDctcVdDOWJMMkRKM0dfTXQ5X1E5ZVlqRENWUdIBkgFBVV95cUxQenpRcnI2bFREc2JieVQtdEpiYWQxc0xqT2J5TTgydkRGUGRPTkk1VWJtMkIyZXV1TVFBTlp0YVhlVWhUWHhFUk5QNDNSb0tVcktGR1RHNE9YYTdBTDk0VGNEMGdGaE40TF9neEdFSzFWWW50SWVrQVNUT2pFM3BCamlhdF9xLVlyUXZ1U1Z4OUNBdw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Congressman Soto to host Grand Opening of his Winter Haven Office - Congressman Darren Soto (.gov)",
       "city": "Winter Haven",
       "category": "Commercial",
@@ -927,6 +903,18 @@
       "featured": false
     },
     {
+      "title": "Davenport’s first charter school now open - KWQC",
+      "city": "Davenport",
+      "category": "Community",
+      "status": "Grand Opening",
+      "date": "Aug 27, 2025",
+      "summary": "Davenport’s first charter school now open KWQC",
+      "source": "KWQC",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RQUVTNW10anc2c0dYM20ydUJfX25NREdsUHVtMmdUaUQydEI0TDZFMkJONGlTNlBELTdtakcyLTlDWUc3czdqSWlnems2S05iMkdBUTFnY2liYU1vdktKdTVNSDctcVdDOWJMMkRKM0dfTXQ5X1E5ZVlqRENWUdIBkgFBVV95cUxQenpRcnI2bFREc2JieVQtdEpiYWQxc0xqT2J5TTgydkRGUGRPTkk1VWJtMkIyZXV1TVFBTlp0YVhlVWhUWHhFUk5QNDNSb0tVcktGR1RHNE9YYTdBTDk0VGNEMGdGaE40TF9neEdFSzFWWW50SWVrQVNUT2pFM3BCamlhdF9xLVlyUXZ1U1Z4OUNBdw?oc=5",
+      "featured": false
+    },
+    {
       "title": "Bob's Discount Furniture celebrates grand opening in Davenport with donations - WQAD",
       "city": "Davenport",
       "category": "Development",
@@ -936,6 +924,18 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVNESEt1RWtudnoxY1A0M1ZWbEVPendCZEhfYWlyS0RyOG96QWVuWHh4dVVJeGlPVWV6Q3VNT2pKNEVXTmdud0VlRHFwZFpuOS1idXMxNmNONVFWN1lQamxrMkFDWkFNSnNTT0FkVUhqV2w4N1p2SFdzMUZkOFJkUmdCRkxnLXdMa2FUNGVCbGJHamEyM1N4OHBNTm51d0k2SHpQbG9JN1Zqei1sak00dkNaOXA?oc=5",
+      "featured": false
+    },
+    {
+      "title": "PHOTOS: Lakeland's Bonnet Springs Park grand opening this weekend - Tampa Bay 28",
+      "city": "Lakeland",
+      "category": "Community",
+      "status": "Grand Opening",
+      "date": "Aug 24, 2025",
+      "summary": "PHOTOS: Lakeland's Bonnet Springs Park grand opening this weekend Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNk1LUE40UTNjdWg2MndCcE5SMXFYR2lvYXFsYXlRQkh3dU1IT1JpcFc4Nl8xTU9Wb1lnMFZ5RE5Cd2g5OXVNWl9QNTN1OHZlTUlnTWluT3BzVGlaZEkzUnZ2YkkzZzJVa3h0bVU1V2l0V283XzlQYWwtQ0owVExlQmM1UWNBcHluNTl2dnlQMktEb2dLT2tmYS1mbXRtUEZ3dkxVYjRiU1pRVGs?oc=5",
       "featured": false
     },
     {
