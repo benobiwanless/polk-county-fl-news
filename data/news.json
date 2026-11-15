@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15 07:48 UTC",
+  "last_updated": "2026-11-15 15:05 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -819,6 +819,18 @@
       "featured": false
     },
     {
+      "title": "Dave & Buster’s announces Davenport grand opening - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Dec 17, 2025",
+      "summary": "Dave & Buster’s announces Davenport grand opening OurQuadCities",
+      "source": "OurQuadCities",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdBZnBEcWdiSXJBby1GRzYxZ0lxN1pMRFRhOGNITFNVSG1EY3A3TUdIVzdxeTg4MzF1aE1NNUd5bG9vMjYtRGp6Nm42Nmp5SjE3eHB3eWVXZmpINzhiaWRxSEcyeVRCVzZneDJ4LWdfZkFtTzdvSm5uYnlQTll3M2R0VFpQRW96aUhrS2NjYlh0SFFZVDZXeNIBngFBVV95cUxPV2F6OGJfRWxFc0VyaWViQkY4TDRyTFI3eVlMbFp5czdPVUVfNjJQTEEtcl9EbzA5VElHYTF4Y2V4cW5GLUE3UUpkUVZjdm9TWW1ZNWFKd1h1WmQ4MU1fMU1jTDlyUW9kcW5UX1VGb1puSF9VZFBFc2V4bWdrM01mME91dHFDVlNmclNaTFdzV0MxY1hvb0FnVmZHQkV5UQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "New Lakeland Animal Hospital Now Open - Lakeland Currents",
       "city": "Lakeland",
       "category": "Development",
@@ -828,18 +840,6 @@
       "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RR1J3TEFVUWN1TUw1U2paRUFiZzVsWVR3cHBvbHZxVUFOZXhUVWxESk1sNmdmNUdVbm1UTkdQWDhEOTdfT0tsTFFFeGFYWkRLTmZ0aWthenNwQlpuenVsZDlzU0tBWHF6RXZlT0dsWXUzWHhlT1E?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Coming Soon: Main Street Landing - City of Davenport",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Coming Soon",
-      "date": "Mar 04, 2025",
-      "summary": "Coming Soon: Main Street Landing City of Davenport",
-      "source": "City of Davenport",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44V1NaTjRjNkxlanc1dWpKWUtqYTNzRXRYREVHNzRyckJEQUl0d0pWa3BueUZ6WDZjRmhOWG5kZkhUblg0bGhldWlPNjltT3plYVVOVWt6a2ZiM19xb2VTVWlWemJOU2ktMHRSM25kWDByd1RHaDVva3RCSFNWejA?oc=5",
       "featured": false
     },
     {
@@ -855,6 +855,18 @@
       "featured": false
     },
     {
+      "title": "Coming Soon: Main Street Landing - City of Davenport",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Coming Soon",
+      "date": "Mar 04, 2025",
+      "summary": "Coming Soon: Main Street Landing City of Davenport",
+      "source": "City of Davenport",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44V1NaTjRjNkxlanc1dWpKWUtqYTNzRXRYREVHNzRyckJEQUl0d0pWa3BueUZ6WDZjRmhOWG5kZkhUblg0bGhldWlPNjltT3plYVVOVWt6a2ZiM19xb2VTVWlWemJOU2ktMHRSM25kWDByd1RHaDVva3RCSFNWejA?oc=5",
+      "featured": false
+    },
+    {
       "title": "Coming Soon to Downtown Lakeland: ‘Market on Kentucky’ - LkldNow",
       "city": "Lakeland",
       "category": "Development",
@@ -867,15 +879,15 @@
       "featured": false
     },
     {
-      "title": "Congressman Soto to host Grand Opening of his Winter Haven Office - Congressman Darren Soto (.gov)",
-      "city": "Winter Haven",
-      "category": "Commercial",
+      "title": "Pella Windows & Doors, Davenport, holds grand opening - OurQuadCities",
+      "city": "Davenport",
+      "category": "Development",
       "status": "Grand Opening",
-      "date": "Jun 16, 2017",
-      "summary": "Congressman Soto to host Grand Opening of his Winter Haven Office Congressman Darren Soto (.gov)",
-      "source": "Congressman Darren Soto (.gov)",
+      "date": "Oct 19, 2024",
+      "summary": "Pella Windows & Doors, Davenport, holds grand opening OurQuadCities",
+      "source": "OurQuadCities",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnY4aWNDc1NxQ3drWDBrbDNZYS1mcnFxUkpjM2ttWmx6Y0JjakU1c19iMFdqU0dqVm9LbmxrekllMUtWQUNpazBrSG11eERHUi1KbFFhbWVhRTZVWk16SHFlT3JVYktPaFM1NWN6cUdUa2R5REhxajNSRDZHUHp1c2F3X0haTDNaSzktbVFNUmRDQWppTlRrMGNNNXJsR05XdWVoaQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmdfMVcyaW5GUlFBQ2JKWi1ONGpYSlU5TU5KMmhJbU45b21mUi1rWUc0UHFCcWZXRHpJREN0b0NTWUtFVWxrTUxETUo3OFlqbTZTcGphRWNOdnNFSVh1OUtTbTBwM0hzTjV0dmZ3aUlpRXE4QUQxR080TmtRcFJDQlRCQ3JRc0RTalpMam96SG9YdkNXV1lwSzljYmnSAaIBQVVfeXFMTnVLWV9sU1RNRy1IUU9oN19ubmt5VTRhT1A4Tmo1UGY3MFRxcU84amFOT09JVHB2eGdqRGdFSzFqVVdXel8teEw0dnpXZG1tWmZLN0RjUk05TkdNWnRtTFRaU2puNWJSTWdxZjM3NE9Na194YTlidXJ5YzJISlIzV0pRMmFpYm4xakZKZ0NLQ3Vzd3prYk5wR19ncmJfQUQ2QmtB?oc=5",
       "featured": false
     },
     {
@@ -888,18 +900,6 @@
       "source": "WQAD",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVNESEt1RWtudnoxY1A0M1ZWbEVPendCZEhfYWlyS0RyOG96QWVuWHh4dVVJeGlPVWV6Q3VNT2pKNEVXTmdud0VlRHFwZFpuOS1idXMxNmNONVFWN1lQamxrMkFDWkFNSnNTT0FkVUhqV2w4N1p2SFdzMUZkOFJkUmdCRkxnLXdMa2FUNGVCbGJHamEyM1N4OHBNTm51d0k2SHpQbG9JN1Zqei1sak00dkNaOXA?oc=5",
-      "featured": false
-    },
-    {
-      "title": "PHOTOS: Lakeland's Bonnet Springs Park grand opening this weekend - Tampa Bay 28",
-      "city": "Lakeland",
-      "category": "Community",
-      "status": "Grand Opening",
-      "date": "Aug 24, 2025",
-      "summary": "PHOTOS: Lakeland's Bonnet Springs Park grand opening this weekend Tampa Bay 28",
-      "source": "Tampa Bay 28",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNk1LUE40UTNjdWg2MndCcE5SMXFYR2lvYXFsYXlRQkh3dU1IT1JpcFc4Nl8xTU9Wb1lnMFZ5RE5Cd2g5OXVNWl9QNTN1OHZlTUlnTWluT3BzVGlaZEkzUnZ2YkkzZzJVa3h0bVU1V2l0V283XzlQYWwtQ0owVExlQmM1UWNBcHluNTl2dnlQMktEb2dLT2tmYS1mbXRtUEZ3dkxVYjRiU1pRVGs?oc=5",
       "featured": false
     },
     {
