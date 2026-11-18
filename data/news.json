@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18 05:03 UTC",
+  "last_updated": "2026-11-18 13:54 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -99,18 +99,6 @@
       "featured": false
     },
     {
-      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
-      "city": "Auburndale",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 27, 2026",
-      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
-      "source": "AdventHealth",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
-      "featured": false
-    },
-    {
       "title": "John Deere Foundation Commits $1 Million to Housing in Davenport - John Deere",
       "city": "Davenport",
       "category": "Housing",
@@ -123,6 +111,18 @@
       "featured": false
     },
     {
+      "title": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale - AdventHealth",
+      "city": "Auburndale",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 27, 2026",
+      "summary": "AdventHealth marks major construction milestone to bring emergency care closer to Auburndale AdventHealth",
+      "source": "AdventHealth",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEZCNDltVWs5Um5WaWtSckpaaEwwN1RucGJ6VXVoMU9LVGRMSzNsaGc4YXh1NHZSQWNKeHBnRTNxWEdxVF9jWVJxTGtVTjhRTDdNbmlsYUJOVE9IdXhyT0lfSDdsZTY0c2VLNzlFelNuaUdxMk93TnJFSHR1WlFiaXJObW4wSmhCa0Jua3RlZ3lIVThSVHFuaUd0M1RGejIzU212Qzl0ZXZobDA?oc=5",
+      "featured": false
+    },
+    {
       "title": "Davenport restaurant and spiritualist group partner on unique Halloween event - WVIK, Quad Cities NPR",
       "city": "Davenport",
       "category": "Restaurant",
@@ -132,18 +132,6 @@
       "source": "WVIK, Quad Cities NPR",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTdjal9tTjNOQ2l0QXZROGFCbjUyMURVQ0Vac3RkNW5xNTh2SDJYUXIyZWFhTEFJSFVBQjItOW85T3BXTUxtd1lEN0FKS0xVUkFWMFprQUZVcDdHNjFDcklhLW1KX3Jzb0tRb3pHQVRtSzF5U3piLXdqRDd2Nmo4YmVUbEZ1ckVjVnhKTlM0YXpIczVKc1gwSENubGE2NGM3WWQ2WEVLR3g3ang5Y2MyUXhRQUltaGN2Q0I1c3ZrekRudEt5?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane - Hospitality Net",
-      "city": "Davenport",
-      "category": "Hotel",
-      "status": "Update",
-      "date": "May 20, 2026",
-      "summary": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane Hospitality Net",
-      "source": "Hospitality Net",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQk1MQXVub3hiaXd4TEVJTXhaZjZZUlEtNVRUaU9wbHBwRU9aNlVYRy1ldy1XLTFpdGRLaWprT3ZUZzRqSFktYXNSYTNZOEI0Z0pNbmNxSzExd3hfa2tkbndZU1MwVi1sS0ZFU2lJNGF3Q3F2TDhUeFhMaGxWNXhmWmdHR1pjN3V4dUo4Qm9MdVVnX1VlLWJVVmRjcVV5eVgzQktScEoxLTBzYklMMU5HYThqSVpQMUp6S2hPYTM0VkFfdE9faVdLd1ZnLWFXWU13bFhTTUxmcks3NGpySVdVZFFLbWJHVWlJbU91UzU4N2FaUzlMcjZndlRxTWdJejhPYWo5S21zUGdkaU5aR0djcFlpR18?oc=5",
       "featured": false
     },
     {
@@ -168,6 +156,18 @@
       "source": "NonStop Local KHQ",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXdaUm9GdEFKc2YwVU1HRTF4YW56NVFhOThGRmFxVlRJcGlvQ2hWNGxsTnlDZEl0ZzlmNkF4TkhxeU9ORl81cUd0SW9QTkpOZkxoaDA3QklLblJidHFrbnBXUDl0d2YzdHBObmpMYjd6QTJPaTVmWHQzYUprS2JKakY1S2RHbFN3QjFieElnR2FtYm85LUh0SGJXRDk4el9VMm9YbFZYNmw2aWZEZ2FWRUg3b0twZEZHWDB6SnR5Vlk3aHZURG0xOVo2dERNck1oT3c?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane - Hospitality Net",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "May 20, 2026",
+      "summary": "Davenport Hotel Unveils Latest Milestone in Multi-Year Renovation, Establishing New Legacy for the Historic Hotel and Downtown Spokane Hospitality Net",
+      "source": "Hospitality Net",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQk1MQXVub3hiaXd4TEVJTXhaZjZZUlEtNVRUaU9wbHBwRU9aNlVYRy1ldy1XLTFpdGRLaWprT3ZUZzRqSFktYXNSYTNZOEI0Z0pNbmNxSzExd3hfa2tkbndZU1MwVi1sS0ZFU2lJNGF3Q3F2TDhUeFhMaGxWNXhmWmdHR1pjN3V4dUo4Qm9MdVVnX1VlLWJVVmRjcVV5eVgzQktScEoxLTBzYklMMU5HYThqSVpQMUp6S2hPYTM0VkFfdE9faVdLd1ZnLWFXWU13bFhTTUxmcks3NGpySVdVZFFLbWJHVWlJbU91UzU4N2FaUzlMcjZndlRxTWdJejhPYWo5S21zUGdkaU5aR0djcFlpR18?oc=5",
       "featured": false
     },
     {
@@ -267,6 +267,18 @@
       "featured": false
     },
     {
+      "title": "2025 Christmas Tree Elegance begins at Davenport Hotel, River Park Square next week - KREM",
+      "city": "Davenport",
+      "category": "Hotel",
+      "status": "Update",
+      "date": "Dec 02, 2025",
+      "summary": "2025 Christmas Tree Elegance begins at Davenport Hotel, River Park Square next week KREM",
+      "source": "KREM",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1RndGlzZi1WQkF1blowZ2piWlBQamRpTHUwR3V2Y1AzYlNlR3Q3VTJ2UmFiWXFKNmxwMVFQaHNiVUlWQjZkN3dTaWFGSkNGbHdTb0Q0MFRfVEZ0VmZ6d1FubUc4UF9rSHVtOUhVVllkd1d6eUg2ZXRTRUtKTjRfUHNseEU4LXl1MjhZMzRrZ2paSGVHQVhudlJYdWxXcVgwZUtBdGczWkVBcVZlc28wUXJvSzdvUzdrcElRc1lmRU5kd2RQQ2VTR2p1VlBHN04zekhTbV8yX2FZeDg?oc=5",
+      "featured": false
+    },
+    {
       "title": "The Davenport Hotel: delivering excellence in energy performance and energy efficient design - Sustainable Energy Authority Of Ireland | SEAI",
       "city": "Davenport",
       "category": "Hotel",
@@ -315,6 +327,18 @@
       "featured": false
     },
     {
+      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jul 14, 2026",
+      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
+      "source": "Coosa Valley News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
+      "featured": false
+    },
+    {
       "title": "Polk County Public Schools Approves High School Rezoning - LkldNow",
       "city": "Polk County",
       "category": "Community",
@@ -351,42 +375,6 @@
       "featured": false
     },
     {
-      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - TBBW",
-      "city": "Polk City",
-      "category": "Development",
-      "status": "Update",
-      "date": "May 19, 2026",
-      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp TBBW",
-      "source": "TBBW",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jan 27, 2026",
-      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
-      "source": "DrydenWire.com",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases - Coosa Valley News",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Update",
-      "date": "Jul 14, 2026",
-      "summary": "Polk County Commission Approves Multiple Zoning Requests, Variances, and Public Safety Purchases Coosa Valley News",
-      "source": "Coosa Valley News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUYwc0hOQmxvWkRXZVlnSnI0TmY1MUdwUC1DYWlTdU5tLUZ3NFJyN2EzWWNNUzFRbHFJUUNqWk1NZUdTMzZsSV9qUXFiMDc0Z1ZHcGxia1FJVmIwMnZZT3o4UURpOWxqaE9ubVBPdThvV29WVGdyZmowbFEtWUNUZEFfMTEzZ1FkWmFIQ0pfTVNzaG9vZzQyb1RhSXVzeGpvY3lkN1RGSl9Qa0NfZFVRZXVQRUlhRDhOLU9SdDZYelc0V3hLSzJWUVJmMA?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Public Schools begin planning for new high school rezoning - wtsp.com",
       "city": "Polk County",
       "category": "Community",
@@ -408,6 +396,30 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWx2ZHNGVFI3eWxGMC1iaDFiUDR1VmNjdXNBU2tIQTBaNDBrU2pDa1g1cmpOZklMSDNSb2RnSGdWTS1Lc19HcktNWjVTNFl0QW8taHBNRTFac2dWOUlmaEY2MlZhSUFQbWRHa2hEalU3bE1fMko2S0lDcTBveVhLUkgyV3pULTVMdVhoMHBVRTB3VE9lVFRWV3RGUUpwQmoxQ2tLNVFKRThieG1yV2R6MW5ZYTViYkVTay1OYzktTkRGUDNFS21GekI1c3oyQjVmQkpta2hNcWdOeXRJcEE?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Development eyed for 52 acres near Polk City’s Green Swamp - TBBW",
+      "city": "Polk City",
+      "category": "Development",
+      "status": "Update",
+      "date": "May 19, 2026",
+      "summary": "Development eyed for 52 acres near Polk City’s Green Swamp TBBW",
+      "source": "TBBW",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5icmc0TVBTMVFNUDN2QjJ2UTByemFQWWdvbkNVYV9laGRlX1piNVl6Umhxcmo2aGxPN3hISk5IdDBoek9JMmlrazF1QjJwUDBpNnhaYlR0MUN5ckFKZ3ZmNENDbG80UzZ6NlFnZkV6V1VCOUk?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes - DrydenWire.com",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Update",
+      "date": "Jan 27, 2026",
+      "summary": "Adam Jarchow Accuses Polk County Of Misleading Officials On Zoning Changes DrydenWire.com",
+      "source": "DrydenWire.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1B4UE8zbW9wZUV4cFl6dzNyXzBjYlc3LS14cW81WHhzaVVHRVR3eDVsWGw5b1VRUjRJWk9BQmxhUEo4ZElnMm04NHRrU1d6MzVXRG04NkdJNFFqYmIwMjZsMlJ6VjVqLVZrc0dVRGN4Rk5OMFdHZUM1R1hpQzRhQVVDb1VYLVp2QTFmVTdTa3VXWlEwWUc5X0c4UGkzNHptZ0xJRklR?oc=5",
       "featured": false
     },
     {
@@ -447,18 +459,6 @@
       "featured": false
     },
     {
-      "title": "Polk County Commissioners Fill District 1 Seat, Approve Rezoning - Coosa Valley News",
-      "city": "Polk County",
-      "category": "Development",
-      "status": "Coming Soon",
-      "date": "Dec 03, 2025",
-      "summary": "Polk County Commissioners Fill District 1 Seat, Approve Rezoning Coosa Valley News",
-      "source": "Coosa Valley News",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHRnei03U21DNzZkcDFFMkJwYm12cEZNSWpTY1VZRXFRWll5enhIY2hxZk4tckE2UEw1SjlHRUJseGlpbXQzcVQ4ckNQZEdYdVZ6U2lpZktkb1E2eUR3SWtqb1JVVEgzOG1jNklqRXN1OVd2UGo2bDNVU1dFQzc3R2FlSTFLQWNCbDNNZ1JpVWZxTnpWUG1JeGM3bXJtYmFwSEE?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Public Schools considering high school rezoning due to population changes - WFLA",
       "city": "Polk County",
       "category": "Community",
@@ -480,6 +480,18 @@
       "source": "Polk County Public Schools",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJxZEJNZm5qVlhfVVFuMGNERzlnTW1QRmJGcjhySDZCbmUtUHBLUks1eEFUVTFUZ0RjOVFPbmxZd29ManZaNjN6aGlWOGtUTzl0ZGpMWldFVUlCeHhBcFl1WVMtak15TFBtUEVEdnBBSnkxNEF4dHdSNG53TEpEdmo0djZqZ0VG?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Polk County Commissioners Fill District 1 Seat, Approve Rezoning - Coosa Valley News",
+      "city": "Polk County",
+      "category": "Development",
+      "status": "Coming Soon",
+      "date": "Dec 03, 2025",
+      "summary": "Polk County Commissioners Fill District 1 Seat, Approve Rezoning Coosa Valley News",
+      "source": "Coosa Valley News",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHRnei03U21DNzZkcDFFMkJwYm12cEZNSWpTY1VZRXFRWll5enhIY2hxZk4tckE2UEw1SjlHRUJseGlpbXQzcVQ4ckNQZEdYdVZ6U2lpZktkb1E2eUR3SWtqb1JVVEgzOG1jNklqRXN1OVd2UGo2bDNVU1dFQzc3R2FlSTFLQWNCbDNNZ1JpVWZxTnpWUG1JeGM3bXJtYmFwSEE?oc=5",
       "featured": false
     },
     {
@@ -651,18 +663,6 @@
       "featured": false
     },
     {
-      "title": "AquaShine Express Opens Second Winter Haven Location Monday, Offering Free Car Washes Through December - The Manila Times",
-      "city": "Winter Haven",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Nov 16, 2026",
-      "summary": "AquaShine Express Opens Second Winter Haven Location Monday, Offering Free Car Washes Through December The Manila Times",
-      "source": "The Manila Times",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPa1EyeUtQQXF1ZlM2ZzA5TW1HMmZQbFVUVFp6UWRvSXZUMFdRYjUwQTRhbHptLUx6ektIWU5lS3c2bTZnbERIZlRuRW1FZWRKUmVMdzVKVERaM210Nkxxb2locDZyWDlFcjBWQVZsUUlxQTRra3RXdFhIMUtVZllRLS1KM1J1eTlDbGlhZGJaSUhSem1OcGduWVVESjBTYV9iRXVLUnF6XzFWcjk3a09QcWJkdjJILU9vTE8zMzZRZi03WjExX0FkS3N5ODFmWUp1eE1WeTlKTlJfRTBKYmRKMHIzLWxKWkFMd3Z4NER4Mnl0TXhjekdTaXBYQVMyVTNibTZldDJn0gGLAkFVX3lxTE1jQXpNZjJGWFZUOEw1OTRnZ3RodU9TVDJQXy1NLU5kMHBCZjdmc1JVcy1YWGwxOUdQNTZVNUxreHREVVRpVVNBVmJJY1dxQUFtLW1KV0pjRUdaOENWSHBtWF9OMDlQbHdSTGV6R1BoYVBRMzRxZzBQNHp5MXlpckZfOXdHb2oxd3VLSjhabTBrSi1LLXNjZDBza1BEclJQX1I0Q3RZZ0gyV0pwT3dnbU9LbXZpZWRROHpPSnJWMm02Z0pXOWQ4em1Wd1RSSUZxelZGUlFmTURxLWU1ZHdEZ3dKNjBKQ1RDOWZwYkdxM0NUcERuaHNrNDJPLUtZLXVrTmRZeFJlaC1yRmF2aw?oc=5",
-      "featured": false
-    },
-    {
       "title": "Bubba's 33 sets Davenport grand opening, ribbon-cutting - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
@@ -723,6 +723,18 @@
       "featured": false
     },
     {
+      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
+      "city": "Lakeland",
+      "category": "Restaurant",
+      "status": "Update",
+      "date": "Oct 28, 2026",
+      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
+      "source": "6AM City",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmJYUXFfNktiM0xmUEhQdU1NN1VGVlpFdmJTd05XT2lmNVFhUXZueTlWNjRCbXpsc3VrTXFSSmU0SUtROTBWQVJMeGp6THd3QUE5M0NpbnIza0FxSlFkcjVRODZRVGtycF9BNDVQVFM4aE5LcFhLR2EzN0RtazFmcHJwcFltSm43TzAwbjRqQQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "KidStrong Davenport hosts grand opening with free mini classes Saturday - KWQC",
       "city": "Davenport",
       "category": "Development",
@@ -744,6 +756,18 @@
       "source": "Lakeland Currents",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NxdjVMZ0F6bFBDdHlOb0ExWEhxaUU1bTRyVXlTa01HMFZJOW1zZUdrWGRwamV6Tm9McUxHUmx3YzZpbHZYQjdHVmR5WFdCQTBGWmdwTGI0aThLWkVhTGFDYXpMLU5YY0laYTJfS202ZGZuVHZ2YTlFUnUyV18taTltam5KVWJEY3RzVWlPTG5VZ3M?oc=5",
+      "featured": false
+    },
+    {
+      "title": "New Bix Museum Location to Hold Grand Opening Friday in Davenport - QuadCities.com",
+      "city": "Davenport",
+      "category": "Development",
+      "status": "Grand Opening",
+      "date": "Jul 22, 2026",
+      "summary": "New Bix Museum Location to Hold Grand Opening Friday in Davenport QuadCities.com",
+      "source": "QuadCities.com",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3kxcWk3MWZRZ0hXbkEtaFoxZjVGemttemFkb20xS1Vna1lOVFNiQzdBMkZodmVpVENmZk1yTWNEYVZYNjVqOVN4RGs1djZ0c2JTdlFKUmkxM3pKd09nTEVBeWhEVUNtcF9La2dMcThMWVFTVWNhcEh4TkZ1RWdhSDRrS0NrNjdmbmFjaWN5aW12bm02NHNUOGtjVDF5YzdSbEtPMXpJbFExeGRXMmlvaVZFbVZQZ0xQaEJEbVFB?oc=5",
       "featured": false
     },
     {
@@ -807,27 +831,15 @@
       "featured": false
     },
     {
-      "title": "Photos: Davenport's Timber Ridge grand opening - The Quad-City Times",
+      "title": "NEEKO boutique to celebrate grand opening with sip and shop Friday in Davenport - The Quad-City Times",
       "city": "Davenport",
       "category": "Development",
       "status": "Grand Opening",
-      "date": "Oct 28, 2026",
-      "summary": "Photos: Davenport's Timber Ridge grand opening The Quad-City Times",
+      "date": "Sep 02, 2026",
+      "summary": "NEEKO boutique to celebrate grand opening with sip and shop Friday in Davenport The Quad-City Times",
       "source": "The Quad-City Times",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZOVl5M0t6VEU5d0xCbVNva1N5bEhxSFNnMV9KT0lTcEV4bW84Zl94WWpiTUYtSmg2SUpKMXNGYWpDdGIwWDVtLTBEV2h2RkZ6ZkpZVTl2aGd1eHA4eUpHV2lpVG5iWU54cjJjRkUtZ1FUa2Vhc3dlWGQtSno?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Restaurant Roundup: Meet your new favorite Lakeland restaurants - 6AM City",
-      "city": "Lakeland",
-      "category": "Restaurant",
-      "status": "Update",
-      "date": "Oct 28, 2026",
-      "summary": "Restaurant Roundup: Meet your new favorite Lakeland restaurants 6AM City",
-      "source": "6AM City",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmJYUXFfNktiM0xmUEhQdU1NN1VGVlpFdmJTd05XT2lmNVFhUXZueTlWNjRCbXpsc3VrTXFSSmU0SUtROTBWQVJMeGp6THd3QUE5M0NpbnIza0FxSlFkcjVRODZRVGtycF9BNDVQVFM4aE5LcFhLR2EzN0RtazFmcHJwcFltSm43TzAwbjRqQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTBHcEl6NFFTSF9RTVpISm8wdktYSGtGS0Q2YVIwdENaY2tzZG1FcGhnaWNpSmVtc3RJMWNTRXVhUGpxUC1CS1B3bmM2dHR4eXhBWjV0T1ZOcW1fUGE2S3VfV3gxRHplY00yVzBYeFBOR0pUSHZZMVZscmhsSGV4ODRGRThUdEZfWm1XYm5GUFV6cUU?oc=5",
       "featured": false
     },
     {
@@ -867,18 +879,6 @@
       "featured": false
     },
     {
-      "title": "NEEKO boutique to celebrate grand opening with sip and shop Friday in Davenport - The Quad-City Times",
-      "city": "Davenport",
-      "category": "Development",
-      "status": "Grand Opening",
-      "date": "Sep 02, 2026",
-      "summary": "NEEKO boutique to celebrate grand opening with sip and shop Friday in Davenport The Quad-City Times",
-      "source": "The Quad-City Times",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTBHcEl6NFFTSF9RTVpISm8wdktYSGtGS0Q2YVIwdENaY2tzZG1FcGhnaWNpSmVtc3RJMWNTRXVhUGpxUC1CS1B3bmM2dHR4eXhBWjV0T1ZOcW1fUGE2S3VfV3gxRHplY00yVzBYeFBOR0pUSHZZMVZscmhsSGV4ODRGRThUdEZfWm1XYm5GUFV6cUU?oc=5",
-      "featured": false
-    },
-    {
       "title": "Coming Soon: Main Street Landing - City of Davenport",
       "city": "Davenport",
       "category": "Development",
@@ -912,6 +912,18 @@
       "source": "LkldNow",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbE5VU2lqZTZTVEdpZnU4ZGVDN0NZcEVtcWZ4OUlPQzNFMjFiVV94cEpQUV9tNHpiRjRoLS13V1F2SUwwLW8xRUhtVXJxWmx1bVlzSk9qVWx4MTFkNG9IYWZBbWhLaXc4Nkk0YnU3SDhSYnVQd3htV0NyZnI1LW15RnZB?oc=5",
+      "featured": false
+    },
+    {
+      "title": "Congressman Soto to host Grand Opening of his Winter Haven Office - Congressman Darren Soto (.gov)",
+      "city": "Winter Haven",
+      "category": "Commercial",
+      "status": "Grand Opening",
+      "date": "Jun 16, 2017",
+      "summary": "Congressman Soto to host Grand Opening of his Winter Haven Office Congressman Darren Soto (.gov)",
+      "source": "Congressman Darren Soto (.gov)",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnY4aWNDc1NxQ3drWDBrbDNZYS1mcnFxUkpjM2ttWmx6Y0JjakU1c19iMFdqU0dqVm9LbmxrekllMUtWQUNpazBrSG11eERHUi1KbFFhbWVhRTZVWk16SHFlT3JVYktPaFM1NWN6cUdUa2R5REhxajNSRDZHUHp1c2F3X0haTDNaSzktbVFNUmRDQWppTlRrMGNNNXJsR05XdWVoaQ?oc=5",
       "featured": false
     },
     {
@@ -1068,18 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVlxbGRCVm9WNDVsSUwtU280QjYzWHlmR2Jid3JLNVVudHUxSHdLMThKVG55SjAxdE9BdXpObGFwMXQ2RFk1d0s5UU5pSVI1eW9PRHFubmdkRDh4YmlYbjFIVkFpM0wzRUhVdUFSVDNwaVE4djRpcHNacTRWTFRjRkRrQjhXR2tIRjZ4WlcxWk5rWFNTd0Y2ZENZc0lUWi1falI4ME9yX3R0THFkZWhRa25R?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Berry Town Center to Be Filled Soon; Expansion to Begin - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Development",
-      "status": "Update",
-      "date": "Mar 10, 2004",
-      "summary": "Berry Town Center to Be Filled Soon; Expansion to Begin Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
       "featured": false
     }
   ]
