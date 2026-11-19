@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19 02:48 UTC",
+  "last_updated": "2026-11-19 10:53 UTC",
   "feed_mode": "live-expanded",
   "items": [
     {
@@ -231,6 +231,18 @@
       "featured": false
     },
     {
+      "title": "New $10 million grant aims to protect Lake Wales Ridge from development - Tampa Bay 28",
+      "city": "Lake Wales",
+      "category": "Development",
+      "status": "Update",
+      "date": "Nov 10, 2026",
+      "summary": "New $10 million grant aims to protect Lake Wales Ridge from development Tampa Bay 28",
+      "source": "Tampa Bay 28",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT0FxcDQycTBSQ01wUlhCck93UWFFdUhjVkstTVIwM1YyVVhjazVJMzNXQXY5V3RSTGFuQWtMamZfY0ZNRThBdXdlV3VYYUk3Ulg5bDZLUkVPUFh0eFREX25QMHZwU2FIOFVwOEp4dHJhRHFLSEs2dG12cEZZVm14WUh4WS1qN3R6QTNoYjFSUlVINUVSb2swLUZtYmRYbFVWYlRLMk9hSl9rb3oxSkdXWmZuVHp4WXM3cTRuczJUck94RzBWRmZrUm1WbEFWLVU?oc=5",
+      "featured": false
+    },
+    {
       "title": "The Phoenix, Downtown Davenport restaurant, calls on community for support - KWQC",
       "city": "Davenport",
       "category": "Restaurant",
@@ -315,15 +327,15 @@
       "featured": false
     },
     {
-      "title": "The Louie, A Davenport Hotel - USA TODAY 10BEST",
+      "title": "The Davenport Hotel is an integral part of Spokane’s identity. A new MAC exhibition looks back on their shared history - inlander.com",
       "city": "Davenport",
       "category": "Hotel",
       "status": "Update",
-      "date": "Nov 24, 2025",
-      "summary": "The Louie, A Davenport Hotel USA TODAY 10BEST",
-      "source": "USA TODAY 10BEST",
+      "date": "Oct 16, 2025",
+      "summary": "The Davenport Hotel is an integral part of Spokane’s identity. A new MAC exhibition looks back on their shared history inlander.com",
+      "source": "inlander.com",
       "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTV2NUktR1phak1SZk5DOGJfR2U1XzVuT3VSYUhzWnNIanZjRzJXV2U4bThTY2h6NEx1VW1ENURjUTRhWlcxM3djcWJnaER1cmMxUkxpUXIwdXRJUlBjaTJuTmRTVThjcUh0Y1JHQkRXNS1ncHVUSUJVVjVTeF9nQVNibUo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMFJUSWpzamxGQk83azBUNi0zVnE5S1lWRkVMM2JMemIxaWNGZ0c2V0NlMmtOZ25tVl9Pd3A2allpQWR2TDgyVkdFendCbjZDUUZUeWFuZVQ3eUNta3NsQnBvT1pnSlkxOHFaY3kwUTlWQWJ4SDBidXVSR0pDMjRPc0JHZ0VKWUlTYzZ6SklMbkpHMmlsaVdoRVBrVmt2MHlEVVotRUNMMTBJNzdLbG4wYkd0WUpybnhFYmlqZ0pobTRSTk9lOXZmTVo1c2dEcUQxUjlsZ0NmQVl1VzIwemgtZzVpNXdWdjJJOXdpX3FLNDY4NUowNmFKUw?oc=5",
       "featured": false
     },
     {
@@ -519,18 +531,6 @@
       "featured": false
     },
     {
-      "title": "LISTEN: Polk County recreation loan wins conditional state approval for YMCA - Substack",
-      "city": "Polk County",
-      "category": "Community",
-      "status": "Update",
-      "date": "Nov 16, 2026",
-      "summary": "LISTEN: Polk County recreation loan wins conditional state approval for YMCA Substack",
-      "source": "Substack",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tRzVYSmFVcExEcHZCd3VDQUUyQzQyY2toMENaem0xYVAzcmludUplUnRLNFU5MnBFMHFJNHRJUjF1WEJmbmNIektHQjRMcm1paEduQmJyRENqLWkzVGM1RmJ5bDg?oc=5",
-      "featured": false
-    },
-    {
       "title": "Polk County Supervisors approve rezoning request for The Family Leader's campus - KCCI",
       "city": "Polk County",
       "category": "Development",
@@ -543,11 +543,23 @@
       "featured": false
     },
     {
+      "title": "ImperiaLakes Golf Course rezoned, eligible to be developed into nearly 200 homes - Lakeland Ledger",
+      "city": "Lakeland",
+      "category": "Housing",
+      "status": "Update",
+      "date": "Oct 05, 2021",
+      "summary": "ImperiaLakes Golf Course rezoned, eligible to be developed into nearly 200 homes Lakeland Ledger",
+      "source": "Lakeland Ledger",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMmdFYkdHQlhiQm5WR2dBMTlTUUVZc3pUUnl3Umg0ZmxZa1Z2S3NEd3ZBOWNJQlhHSDljSmtzdHk1Vm44dnRvVWJyRERZQ2FxMUFwdVRrSzJrUWNCdDktNEl6T2dLOUo0eDdETnZ1WXdXYzZzc2hWN2RwVXRoZ2VHRjhDVUZSajF2WVhTbE1LcEthUU14YzlqQ0tFWUM3NlZUTlJCaVhVLXUxNlFWWWhucGYyVEF2U0tTeC1MWENCX0I3dFBGOFR4STRMV2V2WkR4aDlSQzZnVQ?oc=5",
+      "featured": false
+    },
+    {
       "title": "What's new and coming soon to Lakeland - 6AM City",
       "city": "Lakeland",
       "category": "Development",
       "status": "Coming Soon",
-      "date": "Nov 18, 2026",
+      "date": "Nov 19, 2026",
       "summary": "What's new and coming soon to Lakeland 6AM City",
       "source": "6AM City",
       "image": "",
@@ -1068,18 +1080,6 @@
       "source": "Lakeland Ledger",
       "image": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUlNbjI0THd1Tl9BYUFqNGRsYkswbEY5cUhzTGo4TTQwb3JTMFJ1aTl3bHRmUnhJNHY2aU1RQzhWQmF0QVdSdWFrVW5PZDRkV2g4TjJ2UkwzZll3aGg5TGlMWXhoZmYwc1lqbWtSeWNON0lSYTIzVFFMY0dBUmRaRk5ZUjl2THI0dE9DNzBUTGZ0WGxZODRjQVh6LWlFaXFEbnQxM1liLVIwSnRkbmIxQTM2WTBqdw?oc=5",
-      "featured": false
-    },
-    {
-      "title": "Publix navigates patchwork of county, city liquor store codes for new Havendale Boulevard site - Lakeland Ledger",
-      "city": "Lakeland",
-      "category": "Retail",
-      "status": "Update",
-      "date": "Jan 27, 2023",
-      "summary": "Publix navigates patchwork of county, city liquor store codes for new Havendale Boulevard site Lakeland Ledger",
-      "source": "Lakeland Ledger",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOFI0V01PQjRWOS10M0dTSDZ3U1hEREkzZGprV1VaUTB1S3BMb0lwenJ3SUNuOGhfX2p5czNrWmhhaDU3NVAta2xLTDU0eEgzWEk0S3JPVFRzMWtHaEduX0s3UXhaMl9mNld4b1kzZjNBSkVXU0w5RjkyOWhEUlVua0ZRRGZyUm5hZlJmY25PV1RjRjczTUFWcm1uY2RiQ1EtQ1o0MklycEFqR1ZkTE1NZi1hZ0t2OHpLdktQU2dndDI4UmZtdVpCRFE2b0lNS0J6OGw5dGpWUXlJejVWMktkQ1UtNkU0Y0Y5UGsxcDBFazZyS3M?oc=5",
       "featured": false
     }
   ]
